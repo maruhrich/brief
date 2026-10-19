@@ -49,11 +49,12 @@ GNEWS_EDITIONS = {
     "zh-TW": ("zh-TW", "TW", "TW:zh-Hant"),
     "id": ("id", "ID", "ID:id"),
 }
-REGIONS = ["Asie du Nord-Est", "Asie du Sud-Est", "Asie du Sud", "Océanie", "Europe", "Russie-Ukraine",
-           "Moyen-Orient", "Afrique", "Amériques", "Monde"]
+REGIONS = ["North-East Asia", "South-East Asia", "South Asia", "Oceania", "Europe", "Russia-Ukraine",
+           "Middle East", "Africa", "Americas", "Global"]
 JOURS = ["lundi", "mardi", "mercredi", "jeudi", "vendredi", "samedi", "dimanche"]
-MOIS = ["janvier", "février", "mars", "avril", "mai", "juin", "juillet", "août",
-        "septembre", "octobre", "novembre", "décembre"]
+DAYS = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
+MONTHS = ["January", "February", "March", "April", "May", "June", "July", "August",
+          "September", "October", "November", "December"]
 
 
 def log(msg: str) -> None:
@@ -72,8 +73,8 @@ def load_env() -> None:
                 os.environ.setdefault(key.strip(), value.strip().strip('"').strip("'"))
 
 
-def date_fr(d: datetime) -> str:
-    return f"{JOURS[d.weekday()]} {d.day} {MOIS[d.month - 1]} {d.year}"
+def date_label(d: datetime) -> str:
+    return f"{DAYS[d.weekday()]} {d.day} {MONTHS[d.month - 1]} {d.year}"
 
 
 # ── Collecte ─────────────────────────────────────────────────
@@ -94,15 +95,23 @@ def gnews_url(query: str, lang: str) -> str:
     return f"https://news.google.com/rss/search?q={q}&hl={hl}&gl={gl}&ceid={ceid}"
 
 
+def allowed_host(href: str, allowed: tuple) -> bool:
+    host = (urllib.parse.urlparse(href or "").hostname or "").lower()
+    if host.startswith("www."):
+        host = host[4:]
+    return any(host == d or host.endswith("." + d) for d in allowed)
+
+
 def list_feeds(cfg: dict) -> list[dict]:
     feeds = [{"nom": s["nom"], "url": s["url"], "rubrique": s.get("rubrique"),
               "max": cfg["max_par_flux"], "google": False}
              for s in cfg.get("sources", [])]
+    allowed = tuple(d.lower() for d in cfg.get("google_news_medias") or [])
     for r in cfg.get("recherches", []):
         lang = r.get("langue", "en")
         feeds.append({"nom": f"Google News ({lang}) : {r['q']}", "url": gnews_url(r["q"], lang),
                       "rubrique": r.get("rubrique"), "max": cfg["max_par_recherche"],
-                      "google": True, "langue": lang})
+                      "google": True, "langue": lang, "allowed": allowed})
     return feeds
 
 
@@ -115,7 +124,11 @@ def fetch_feed(feed: dict, since: datetime) -> tuple[dict, list[dict], str | Non
         return feed, [], str(exc)[:120]
 
     articles = []
-    for entry in parsed.entries[: feed["max"]]:
+    for entry in parsed.entries:
+        if len(articles) >= feed["max"]:
+            break
+        if feed["google"] and feed["allowed"] and not allowed_host((entry.get("source") or {}).get("href"), feed["allowed"]):
+            continue  # média hors de la liste google_news_medias
         title = clean_text(entry.get("title", ""), 300)
         link = entry.get("link", "")
         if not title or not link.startswith("http"):
@@ -131,6 +144,8 @@ def fetch_feed(feed: dict, since: datetime) -> tuple[dict, list[dict], str | Non
             source = (entry.get("source") or {}).get("title") or "Google News"
             if title.endswith(f" - {source}"):
                 title = title[: -len(source) - 3]
+            # « ABC News - Breaking News, Latest… » → « ABC News »
+            source = re.split(r"\s[-|–—:]\s", source)[0].strip(" |") or source
             summary = ""
         if summary and title_key(summary).startswith(title_key(title)[:40]):
             summary = ""
@@ -241,16 +256,17 @@ def item_schema(rubrique_ids: list[str]) -> dict:
     return {
         "type": "object",
         "properties": {
-            "emoji": {"type": "string", "description": "Un seul emoji qui illustre le sujet"},
-            "titre": {"type": "string", "description": "Titre court en français"},
-            "resume": {"type": "string", "description": "2 phrases courtes et factuelles en français (40 mots maximum)"},
-            "pourquoi": {"type": "string", "description": "1 phrase courte (20 mots maximum) sur l'enjeu pour la lectrice, ou vide"},
-            "pays": {"type": "array", "items": {"type": "string"}, "description": "Pays concernés, en français"},
+            "emoji": {"type": "string", "description": "A single emoji illustrating the story"},
+            "titre": {"type": "string", "description": "Short headline"},
+            "resume": {"type": "string", "description": "2 short factual sentences (40 words max)"},
+            "pourquoi": {"type": "string", "description": "1 short sentence (20 words max) on why it matters to the reader, or empty"},
+            "pays": {"type": "array", "items": {"type": "string"}, "description": "Countries involved"},
             "region": {"type": "string", "enum": REGIONS},
             "rubrique": {"type": "string", "enum": rubrique_ids},
-            "refs": {"type": "array", "items": {"type": "integer"}, "description": "Numéros des articles sources"},
+            "refs": {"type": "array", "items": {"type": "integer"}, "description": "Numbers of the source articles"},
+            "suite_de": {"type": "string", "description": "P… number of the previously published story this follows up, or empty"},
         },
-        "required": ["emoji", "titre", "resume", "pourquoi", "pays", "region", "rubrique", "refs"],
+        "required": ["emoji", "titre", "resume", "pourquoi", "pays", "region", "rubrique", "refs", "suite_de"],
     }
 
 
@@ -260,7 +276,7 @@ def brief_schema(cfg: dict) -> dict:
     return {
         "type": "object",
         "properties": {
-            "accroche": {"type": "string", "description": "1 à 2 phrases qui résument la matinée"},
+            "accroche": {"type": "string", "description": "1 to 2 sentences summing up the morning"},
             "essentiel": {"type": "array", "items": item},
             "rubriques": {"type": "object", "properties": {i: {"type": "array", "items": item} for i in ids},
                           "required": ids},
@@ -269,7 +285,7 @@ def brief_schema(cfg: dict) -> dict:
                 "items": {
                     "type": "object",
                     "properties": {
-                        "quand": {"type": "string", "description": "Date ou échéance, ex. « 24 oct. » ou « cette semaine »"},
+                        "quand": {"type": "string", "description": "Date or timing, e.g. \"24 Oct\" or \"this week\""},
                         "quoi": {"type": "string"},
                         "refs": {"type": "array", "items": {"type": "integer"}},
                     },
@@ -281,28 +297,47 @@ def brief_schema(cfg: dict) -> dict:
     }
 
 
-def build_prompt(cfg: dict, articles: list[dict], today: datetime) -> tuple[str, str]:
-    rubriques = "\n".join(f"- {r['id']} ({r['titre']}, 0 à {r.get('max', 4)} sujets) : {r['consigne'].strip()}"
+def recent_items(date_str: str, days: int) -> list[dict]:
+    """Sujets des derniers briefs IA (hors aujourd'hui), du plus récent au plus ancien."""
+    out = []
+    for f in sorted(ARCHIVE.glob("*.json"), reverse=True):
+        if days <= 0:
+            break
+        if f.stem >= date_str:
+            continue
+        days -= 1
+        b = json.loads(f.read_text())
+        if b.get("mode") != "ia":
+            continue
+        for it in b.get("essentiel", []) + [i for r in b.get("rubriques", []) for i in r["items"]]:
+            out.append({**it, "date": b["date"], "id": it.get("id") or f"{b['date']}|{it['titre']}"})
+    return out
+
+
+def build_prompt(cfg: dict, articles: list[dict], today: datetime,
+                 previous: list[dict]) -> tuple[str, str]:
+    rubriques = "\n".join(f"- {r['id']} ({r['titre']}, 0 to {r.get('max', 4)} stories): {r['consigne'].strip()}"
                           for r in cfg["rubriques"])
-    system = f"""Tu es analyste de veille stratégique. Chaque matin tu rédiges une revue de presse en {cfg['langue']}, lisible en 10 minutes maximum : sois concis.
+    system = f"""You are a strategic intelligence analyst. Every morning you write a news brief in {cfg['langue']} that can be read in 10 minutes at most: be concise.
 
-Lectrice : {cfg['profil'].strip()}
+Reader: {cfg['profil'].strip()}
 
-Règles :
-- Utilise UNIQUEMENT les articles fournis. N'invente aucun fait, chiffre ou date.
-- Chaque sujet cite dans "refs" les numéros des articles utilisés. Regroupe en un seul sujet les articles qui parlent du même événement.
-- Traduis tout en {cfg['langue']} (les articles peuvent être en anglais, japonais, coréen, chinois, indonésien…).
-- Ton factuel et neutre. Si une info vient d'une seule partie (ex. un gouvernement), précise-le (« selon Pékin… »).
-- Écarte : faits divers, sport, people, publicité, sources douteuses, sujets locaux sans portée stratégique.
-- "essentiel" : les 3 à 5 événements les plus importants du jour, tous thèmes confondus, avec leur rubrique. Ne les répète pas dans les rubriques.
-- Chaque rubrique respecte son nombre maximum de sujets, du plus au moins important. Une rubrique peut rester vide. Un sujet n'apparaît qu'une fois.
-- "emoji" : un seul emoji sobre qui illustre le sujet (ex. 🚀 missile, 🛡️ défense aérienne, 🛩️ aviation, 🚢 marine, 🛰️ satellite, 📝 contrat, 💰 budget, 🗳️ élection, 💻 cyber, 🤝 diplomatie, ⚠️ tension, 🇸🇬 Singapour).
-- "region" : la région principale concernée.
-- "resume" : 2 phrases courtes, 40 mots maximum. Va droit aux faits.
-- "pourquoi" : une phrase concrète (20 mots maximum) sur l'enjeu pour la lectrice (sécurité régionale, défense aérienne, marché, Singapour…), seulement pour environ un sujet sur trois, les plus importants. Sinon laisse vide.
-- "a_surveiller" : 0 à 5 échéances à venir mentionnées dans les articles (votes, sommets, exercices, décisions…).
+Rules:
+- Use ONLY the articles provided. Never invent a fact, figure or date.
+- Each story lists in "refs" the numbers of the articles used. Merge articles about the same event into a single story.
+- Write everything in {cfg['langue']} (articles may be in English, French, Japanese, Korean, Chinese, Indonesian…).
+- Factual, neutral tone. If information comes from a single party (e.g. a government), say so ("according to Beijing…").
+- Leave out: crime stories, sport, celebrities, advertising, dubious sources, local stories with no strategic significance.
+- "essentiel": the 3 to 5 most important events of the day, all topics combined, with their section. Do not repeat them in the sections.
+- In the sections, keep only what matters: about {cfg.get('sujets_par_jour', 15)} stories in total (excluding "essentiel"), never exceeding each section's maximum, most important first. A section may stay empty. Each story appears only once.
+- The reader may already have read the stories published in recent days (list P…). Do not republish them unless there is a new development. If there is one, write the story focusing on what is new and put the previous story's number in "suite_de" (e.g. "P12"). Otherwise "suite_de" is empty.
+- "emoji": one sober emoji illustrating the story (e.g. 🚀 missile, 🛡️ air defence, 🛩️ aviation, 🚢 navy, 🛰️ satellite, 📝 contract, 💰 budget, 🗳️ election, 🤝 diplomacy, ⚠️ tension, 🇸🇬 Singapore).
+- "region": the main region concerned.
+- "resume": 2 short sentences, 40 words max. Straight to the facts.
+- "pourquoi": one concrete sentence (20 words max) on what is at stake for the reader (regional security, air defence, market, Singapore…), only for roughly one story in three, the most important ones. Otherwise leave empty.
+- "a_surveiller": 0 to 5 upcoming milestones mentioned in the articles (votes, summits, exercises, decisions…).
 
-Rubriques :
+Sections:
 {rubriques}"""
 
     lines = []
@@ -312,9 +347,13 @@ Rubriques :
         if a["resume"]:
             line += f"\n    {a['resume']}"
         lines.append(line)
-    user = (f"Nous sommes le {date_fr(today)} (heure de Singapour). "
-            f"Voici {len(articles)} articles publiés ces {cfg['heures']} dernières heures. "
-            f"Rédige le brief du jour au format JSON demandé.\n\n" + "\n".join(lines))
+    user = (f"Today is {date_label(today)} (Singapore time). "
+            f"Here are {len(articles)} articles published in the last {cfg['heures']} hours. "
+            f"Write today's brief in the requested JSON format.\n\n" + "\n".join(lines))
+    if previous:
+        prev = "\n".join(f"[P{n}] ({p['date']}) {p['titre']} — {p.get('resume', '')[:140]}"
+                         for n, p in enumerate(previous, 1))
+        user += "\n\nStories already published in recent days:\n" + prev
     return system, user
 
 
@@ -331,14 +370,18 @@ def links_for(refs, by_id: dict) -> list[dict]:
     return links[:4]
 
 
-def finalize_items(items, by_id: dict, cfg: dict, rubrique: str | None = None) -> list[dict]:
+def finalize_items(items, by_id: dict, cfg: dict, rubrique: str | None = None,
+                   previous: dict | None = None) -> list[dict]:
     ids = {r["id"] for r in cfg["rubriques"]}
     out = []
     for it in items or []:
         links = links_for(it.get("refs"), by_id)
         if not links or not it.get("titre"):
             continue  # pas de source vérifiable → on écarte
+        prev = (previous or {}).get((it.get("suite_de") or "").strip().upper())
         out.append({
+            "suite": bool(prev),
+            "remplace": prev["id"] if prev else None,
             "emoji": (it.get("emoji") or "").strip()[:8],
             "titre": it["titre"].strip(),
             "resume": (it.get("resume") or "").strip(),
@@ -351,19 +394,20 @@ def finalize_items(items, by_id: dict, cfg: dict, rubrique: str | None = None) -
     return out
 
 
-def ai_brief(cfg: dict, articles: list[dict], today: datetime, api_key: str) -> dict:
-    system, user = build_prompt(cfg, articles, today)
-    log(f"Appel Gemini ({len(articles)} articles, ~{len(user) // 4000}k tokens)…")
+def ai_brief(cfg: dict, articles: list[dict], today: datetime, api_key: str, previous: list[dict]) -> dict:
+    system, user = build_prompt(cfg, articles, today, previous)
+    log(f"Appel Gemini ({len(articles)} articles, {len(previous)} sujets déjà publiés, ~{len(user) // 4000}k tokens)…")
     raw, model = call_gemini(cfg, system, user, brief_schema(cfg), api_key)
     by_id = {a["id"]: a for a in articles}
+    prev = {f"P{n}": p for n, p in enumerate(previous, 1)}
     sections = raw.get("rubriques") or {}
     return {
         "mode": "ia",
         "modele": model,
         "accroche": (raw.get("accroche") or "").strip(),
-        "essentiel": finalize_items(raw.get("essentiel"), by_id, cfg)[:5],
+        "essentiel": finalize_items(raw.get("essentiel"), by_id, cfg, None, prev)[:5],
         "rubriques": [{"id": r["id"], "titre": r["titre"],
-                       "items": finalize_items(sections.get(r["id"]), by_id, cfg, r["id"])[: r.get("max", 4)]}
+                       "items": finalize_items(sections.get(r["id"]), by_id, cfg, r["id"], prev)[: r.get("max", 4)]}
                       for r in cfg["rubriques"]],
         "a_surveiller": [{"quand": w.get("quand", ""), "quoi": w.get("quoi", ""),
                           "liens": links_for(w.get("refs"), by_id)}
@@ -375,7 +419,8 @@ def ai_brief(cfg: dict, articles: list[dict], today: datetime, api_key: str) -> 
 
 def weekly_due(cfg: dict, now: datetime) -> bool:
     day = str(cfg.get("synthese_hebdo", "non")).lower()
-    return day in JOURS and now.weekday() == JOURS.index(day)
+    days = JOURS if day in JOURS else [d.lower() for d in DAYS]
+    return day in days and now.weekday() == days.index(day)
 
 
 def weekly_brief(cfg: dict, date_str: str, api_key: str) -> dict | None:
@@ -399,27 +444,27 @@ def weekly_brief(cfg: dict, date_str: str, api_key: str) -> dict | None:
             rub = titles.get(it.get("rubrique"), "")
             lines.append(f"[{n}] ({b['date']}, {rub}) {it['titre']} : {it.get('resume', '')}")
 
-    system = f"""Tu es analyste de veille stratégique. Tu rédiges en {cfg['langue']} la synthèse de la semaine écoulée
-à partir des briefs quotidiens fournis.
+    system = f"""You are a strategic intelligence analyst. Write, in {cfg['langue']}, the summary of the past week
+based on the daily briefs provided.
 
-Lectrice : {cfg['profil'].strip()}
+Reader: {cfg['profil'].strip()}
 
-Règles :
-- Utilise UNIQUEMENT les sujets fournis. N'invente rien.
-- "tendances" : 5 à 7 tendances de fond de la semaine (pas une simple liste d'événements) : ce qui a changé, ce qui s'accélère, les signaux faibles. Chacune cite les numéros des sujets utilisés dans "refs".
-- "a_suivre" : 3 à 5 points à suivre la semaine qui vient.
-- Ton factuel, phrases courtes."""
-    user = "Sujets des derniers briefs :\n\n" + "\n".join(lines)
+Rules:
+- Use ONLY the stories provided. Invent nothing.
+- "tendances": 5 to 7 underlying trends of the week (not just a list of events): what changed, what is accelerating, weak signals. Each lists the numbers of the stories used in "refs".
+- "a_suivre": 3 to 5 things to watch in the coming week.
+- Factual tone, short sentences."""
+    user = "Stories from the latest briefs:\n\n" + "\n".join(lines)
     schema = {
         "type": "object",
         "properties": {
-            "accroche": {"type": "string", "description": "La semaine en 2 phrases"},
+            "accroche": {"type": "string", "description": "The week in 2 sentences"},
             "tendances": {"type": "array", "items": {
                 "type": "object",
                 "properties": {
                     "emoji": {"type": "string"},
                     "titre": {"type": "string"},
-                    "resume": {"type": "string", "description": "2 à 4 phrases"},
+                    "resume": {"type": "string", "description": "2 to 4 sentences"},
                     "refs": {"type": "array", "items": {"type": "integer"}},
                 },
                 "required": ["emoji", "titre", "resume", "refs"],
@@ -460,12 +505,17 @@ Règles :
 
 # ── Version brute (sans IA) ──────────────────────────────────
 
+def default_rubrique(cfg: dict) -> str:
+    ids = [r["id"] for r in cfg["rubriques"]]
+    return "monde" if "monde" in ids else ids[-1]
+
+
 def classify(article: dict, cfg: dict) -> str:
     text = f" {article['titre']} {article['resume']} ".lower()
     for r in cfg["rubriques"]:
         if any(k.lower() in text for k in r.get("mots_cles") or []):
             return r["id"]
-    return article.get("rubrique") or cfg["rubriques"][-1]["id"]
+    return article.get("rubrique") or default_rubrique(cfg)
 
 
 def raw_brief(cfg: dict, articles: list[dict], reason: str) -> dict:
@@ -495,13 +545,19 @@ def write_outputs(brief: dict, date_str: str, cfg: dict) -> None:
     (DATA / "latest.json").write_text(payload)
 
     cutoff = (datetime.strptime(date_str, "%Y-%m-%d") - timedelta(days=KEEP_DAYS)).strftime("%Y-%m-%d")
-    dates, hebdo, rows = [], [], []
+    last_rub = default_rubrique(cfg)
+    dates, hebdo, rows, pile = [], [], [], []
     for f in sorted(ARCHIVE.glob("*.json"), reverse=True):
         if f.stem < cutoff:
             f.unlink()
             continue
         b = json.loads(f.read_text())
         dates.append(b["date"])
+        # Pile « À lire » : tous les sujets IA des derniers jours (l'app retire ceux déjà lus)
+        if len(dates) <= cfg.get("pile_jours", 7) and b.get("mode") == "ia":
+            for it in b.get("essentiel", []) + [i for r in b.get("rubriques", []) for i in r["items"]]:
+                pile.append({**it, "date": b["date"], "id": it.get("id") or f"{b['date']}|{it['titre']}",
+                             "rubrique": it.get("rubrique") or last_rub})
         if b.get("hebdo"):
             hebdo.append(b["date"])
         # Index de recherche : une ligne compacte par sujet
@@ -514,6 +570,7 @@ def write_outputs(brief: dict, date_str: str, cfg: dict) -> None:
              "rubriques": [{"id": r["id"], "titre": r["titre"]} for r in cfg["rubriques"]]}
     (DATA / "index.json").write_text(json.dumps(index, ensure_ascii=False, indent=1))
     (DATA / "search.json").write_text(json.dumps(rows, ensure_ascii=False, separators=(",", ":")))
+    (DATA / "pile.json").write_text(json.dumps(pile, ensure_ascii=False, separators=(",", ":")))
 
 
 def set_output(**values) -> None:
@@ -543,7 +600,7 @@ def main() -> int:
         log(f"Le brief du {date_str} existe déjà, rien à faire.")
         return 0
 
-    log(f"Collecte des sources ({date_fr(now)})…")
+    log(f"Collecte des sources ({date_label(now)})…")
     articles, ok_feeds = collect(cfg, verbose=args.sources)
     log(f"{len(articles)} articles uniques depuis {ok_feeds} sources.")
     if args.sources:
@@ -555,10 +612,11 @@ def main() -> int:
     api_key = os.environ.get("GEMINI_API_KEY", "")
     use_ai = api_key and not args.no_ai
     if not use_ai:
-        brief = raw_brief(cfg, articles, "Mode sans IA" if args.no_ai else "Clé GEMINI_API_KEY absente")
+        brief = raw_brief(cfg, articles, "No-AI mode" if args.no_ai else "GEMINI_API_KEY missing")
     else:
         try:
-            brief = ai_brief(cfg, articles, now, api_key)
+            previous = recent_items(date_str, cfg.get("memoire_jours", 3))
+            brief = ai_brief(cfg, articles, now, api_key, previous)
         except Exception as exc:
             log(f"⚠ {exc}")
             brief = raw_brief(cfg, articles, str(exc)[:300])
@@ -570,9 +628,12 @@ def main() -> int:
         except Exception as exc:  # la synthèse ne doit jamais bloquer le brief du jour
             log(f"⚠ Synthèse hebdo : {exc}")
 
+    for it in brief["essentiel"] + [i for r in brief["rubriques"] for i in r["items"]]:
+        it["id"] = f"{date_str}|{it['titre']}"  # identifiant stable (lu / favori)
+
     brief = {
         "date": date_str,
-        "date_fr": date_fr(now),
+        "date_label": date_label(now),
         "genere_le": now.isoformat(timespec="seconds"),
         **brief,
         "hebdo": hebdo,

@@ -34,14 +34,17 @@ def wait_until(hhmm: str) -> None:
 
 
 def message(brief: dict) -> dict:
-    jour = brief["date_fr"].rsplit(" ", 1)[0]
+    jour = (brief.get("date_label") or brief["date_fr"]).rsplit(" ", 1)[0]
     titres = [f"{it.get('emoji', '')} {it['titre']}".strip() for it in brief.get("essentiel", [])[:3]]
     if not titres:
         titres = [it["titre"] for r in brief.get("rubriques", []) for it in r["items"][:1]][:3]
     body = "\n".join(titres)
+    nouveaux = sum(len(r["items"]) for r in brief.get("rubriques", []))
+    if nouveaux:
+        body += f"\n📚 +{nouveaux} new stories in your reading list"
     if brief.get("hebdo"):
-        body = "📊 Synthèse de la semaine incluse\n" + body
-    return {"title": f"Brief du {jour}", "body": body[:350], "url": "./"}
+        body = "📊 Weekly summary included\n" + body
+    return {"title": f"Brief · {jour}", "body": body[:350], "url": "./"}
 
 
 def main() -> int:

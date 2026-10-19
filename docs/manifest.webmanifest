@@ -1,8 +1,8 @@
 {
-  "name": "Brief Défense & Géopolitique",
+  "name": "Defence & Geopolitics Brief",
   "short_name": "Brief",
-  "description": "Brief quotidien défense et géopolitique, Asie-Pacifique et défense aérienne",
-  "lang": "fr",
+  "description": "Daily defence and geopolitics brief: Asia-Pacific and air defence",
+  "lang": "en",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",

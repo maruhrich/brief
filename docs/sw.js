@@ -1,6 +1,6 @@
 // Garde l'app et le dernier brief en cache pour pouvoir les lire hors connexion.
 // Toujours la version en ligne d'abord : le cache ne sert que sans réseau.
-const VERSION = 'brief-v2';
+const VERSION = 'brief-v3';
 const SHELL = ['./', 'index.html', 'style.css', 'app.js', 'manifest.webmanifest',
   'icons/icon-192.png', 'icons/apple-touch-icon.png'];
 
@@ -37,8 +37,8 @@ self.addEventListener('push', (event) => {
   try { data = event.data ? event.data.json() : {}; } catch (e) { data = { body: event.data ? event.data.text() : '' }; }
   const badge = self.navigator.setAppBadge ? self.navigator.setAppBadge(1).catch(() => {}) : null;
   event.waitUntil(Promise.all([
-    self.registration.showNotification(data.title || 'Brief du jour', {
-      body: data.body || 'Ton brief défense & géopolitique est prêt.',
+    self.registration.showNotification(data.title || 'Today’s brief', {
+      body: data.body || 'Your defence & geopolitics brief is ready.',
       icon: 'icons/icon-192.png',
       tag: 'brief',
       data: { url: data.url || './' },
