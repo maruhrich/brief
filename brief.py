@@ -74,7 +74,7 @@ def load_env() -> None:
 
 
 def date_label(d: datetime) -> str:
-    return f"{DAYS[d.weekday()]} {d.day} {MONTHS[d.month - 1]} {d.year}"
+    return f"{DAYS[d.weekday()]}, {MONTHS[d.month - 1]} {d.day}, {d.year}"
 
 
 # ── Collecte ─────────────────────────────────────────────────
@@ -284,7 +284,7 @@ def brief_schema(cfg: dict) -> dict:
                 "items": {
                     "type": "object",
                     "properties": {
-                        "quand": {"type": "string", "description": "Date or timing, e.g. \"24 Oct\" or \"this week\""},
+                        "quand": {"type": "string", "description": "Date or timing, e.g. \"October 24\" or \"this week\""},
                         "quoi": {"type": "string"},
                         "refs": {"type": "array", "items": {"type": "integer"}},
                     },
@@ -326,6 +326,7 @@ Rules:
 - Each story lists in "refs" the numbers of the articles used. Merge articles about the same event into a single story.
 - Write everything in {cfg['langue']} (articles may be in English, French, Japanese, Korean, Chinese, Indonesian…).
 - Factual, neutral tone. If information comes from a single party (e.g. a government), say so ("according to Beijing…").
+- Write dates as "October 19" (month then day), never as 2026-10-19.
 - Leave out: crime stories, sport, celebrities, advertising, dubious sources, local stories with no strategic significance.
 - "essentiel": the 3 to 5 most important events of the day, all topics combined, with their section. Do not repeat them in the sections.
 - In the sections, keep only what matters: about {cfg.get('sujets_par_jour', 15)} stories in total (excluding "essentiel"), never exceeding each section's maximum, most important first. A section may stay empty. Each story appears only once.

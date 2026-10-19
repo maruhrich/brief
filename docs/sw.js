@@ -1,6 +1,6 @@
 // Garde l'app et le dernier brief en cache pour pouvoir les lire hors connexion.
 // Toujours la version en ligne d'abord : le cache ne sert que sans réseau.
-const VERSION = 'brief-v3';
+const VERSION = 'brief-v4';
 const SHELL = ['./', 'index.html', 'style.css', 'app.js', 'manifest.webmanifest',
   'icons/icon-192.png', 'icons/apple-touch-icon.png'];
 

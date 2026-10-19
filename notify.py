@@ -34,7 +34,7 @@ def wait_until(hhmm: str) -> None:
 
 
 def message(brief: dict) -> dict:
-    jour = (brief.get("date_label") or brief["date_fr"]).rsplit(" ", 1)[0]
+    jour = (brief.get("date_label") or brief["date_fr"]).rsplit(" ", 1)[0].rstrip(",")
     titres = [f"{it.get('emoji', '')} {it['titre']}".strip() for it in brief.get("essentiel", [])[:3]]
     if not titres:
         titres = [it["titre"] for r in brief.get("rubriques", []) for it in r["items"][:1]][:3]

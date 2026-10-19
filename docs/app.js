@@ -50,7 +50,6 @@ const rubOrder = () => (state.index.rubriques.length ? state.index.rubriques
   : (state.current?.rubriques || []).map((r) => ({ id: r.id, titre: r.titre })));
 const rubTitle = (id) => (rubOrder().find((r) => r.id === id) || {}).titre || '';
 const itemId = (it, date) => it.id || `${date}|${it.titre}`;
-const dateLabel = (b) => b.date_label || b.date_fr || b.date;
 
 function todaySG() {
   return new Intl.DateTimeFormat('en-CA', { timeZone: TZ, year: 'numeric', month: '2-digit', day: '2-digit' }).format(new Date());
@@ -58,7 +57,18 @@ function todaySG() {
 
 function shortDate(iso) {
   const d = new Date(iso + 'T12:00:00Z');
-  return new Intl.DateTimeFormat('en-GB', { weekday: 'short', day: 'numeric', month: 'short', timeZone: 'UTC' }).format(d);
+  return new Intl.DateTimeFormat('en-US', { weekday: 'short', day: 'numeric', month: 'short', timeZone: 'UTC' }).format(d);
+}
+
+// « 2026-10-19 » → « Monday, October 19 »
+function fullDate(iso) {
+  const d = new Date(iso + 'T12:00:00Z');
+  return new Intl.DateTimeFormat('en-US', { weekday: 'long', month: 'long', day: 'numeric', timeZone: 'UTC' }).format(d);
+}
+
+// « 2026-10-19 » → « October 19 »
+function longDate(iso) {
+  return new Intl.DateTimeFormat('en-US', { month: 'long', day: 'numeric', timeZone: 'UTC' }).format(new Date(iso + 'T12:00:00Z'));
 }
 
 function dayLabel(date, ref) {
@@ -399,9 +409,9 @@ function renderHebdo(b) {
 function renderBanner(b) {
   const msgs = [];
   if (state.viewingLatest && b.date < todaySG()) {
-    msgs.push(`Today’s brief isn’t out yet (it arrives before ${BRIEF_HOUR}). Showing ${dateLabel(b)}.`);
+    msgs.push(`Today’s brief isn’t out yet (it arrives before ${BRIEF_HOUR}). Showing ${fullDate(b.date)}.`);
   } else if (!state.viewingLatest) {
-    msgs.push(`Archive: ${dateLabel(b)} (full brief of that day).`);
+    msgs.push(`Archive: ${fullDate(b.date)} (full brief of that day).`);
   }
   if (b.mode === 'brut') msgs.push('AI summary unavailable that day: raw headlines by section.');
   if (!navigator.onLine) msgs.push('Offline: showing the last saved brief.');
@@ -425,8 +435,8 @@ function renderArchive() {
 
 function render(b) {
   state.current = b;
-  $('#title').textContent = dateLabel(b).replace(/ \d{4}$/, '');
-  $('#updated').textContent = `Updated at ${b.genere_le.slice(11, 16)}`;
+  $('#title').textContent = fullDate(b.date);
+  $('#updated').textContent = `Update ${b.genere_le.slice(11, 13)}h${b.genere_le.slice(14, 16)}`;
   $('#accroche').textContent = b.accroche || '';
   renderBanner(b);
   renderHebdo(b);
@@ -619,7 +629,7 @@ function renderAsk() {
 
 function storyContext(it, date) {
   return [
-    `Story from the reader's brief (${date}): ${it.titre}`,
+    `Story from the reader's brief (${longDate(date)}): ${it.titre}`,
     it.resume && `Summary: ${it.resume}`,
     (it.pays || []).length && `Countries: ${it.pays.join(', ')}`,
     (it.liens || []).length && `Source articles:\n${it.liens.map((l) => `- ${l.source}: ${l.url}`).join('\n')}`,
@@ -629,6 +639,7 @@ function storyContext(it, date) {
 async function callGemini(contents) {
   const system = `You are a defence and geopolitics analyst. The reader is ${AI_READER}. She is asking about a story from her morning news brief.
 Answer in British English, clearly and concisely (under 150 words unless she asks for more), with short paragraphs or bullet points.
+Write dates as "October 19" (month then day), never as 2026-10-19.
 Be factual and neutral, separate facts from analysis, and say when you are not sure. You can read the source articles; beyond them, rely on your own knowledge (only if it matters, mention briefly that it may not cover the very latest events).`;
   let lastError = 'No answer';
   for (const model of AI_MODELS) {
@@ -776,6 +787,9 @@ function pileFromBrief(b) {
     .map((it) => ({ ...it, date: b.date, id: itemId(it, b.date), rubrique: it.rubrique || 'monde' }));
 }
 
+const RELOAD_AFTER_MS = 3 * 3600e3;
+const startedAt = Date.now();
+
 async function load(date) {
   const btn = $('#refresh');
   btn.classList.add('loading');
@@ -822,6 +836,7 @@ $('#q').addEventListener('input', (e) => {
 document.addEventListener('visibilitychange', () => {
   if (document.visibilityState !== 'visible') return;
   if (navigator.clearAppBadge) navigator.clearAppBadge().catch(() => {});
+  if (Date.now() - startedAt > RELOAD_AFTER_MS && navigator.onLine) { location.reload(); return; }
   if (state.viewingLatest && state.current && state.current.date !== todaySG()) load();
 });
 
