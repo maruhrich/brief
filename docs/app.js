@@ -301,7 +301,6 @@ function renderSections(groups, opts) {
     box.append(h('details', { class: 'rubrique', id: `r-${r.id}`, open: true, style: rubColor(r.id) },
       h('summary', null,
         h('span', { class: 'dot' }), h('h2', null, r.titre),
-        h('span', { class: 'count' }, items.length),
         opts.pile && unreadIds.length > 0 && h('button', {
           class: 'mark-all small', type: 'button',
           onclick: (e) => { e.preventDefault(); e.stopPropagation(); markAll(unreadIds); },

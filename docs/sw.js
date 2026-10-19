@@ -1,7 +1,7 @@
 // Garde l'app et le dernier brief en cache pour pouvoir les lire hors connexion.
 // Toujours la version en ligne d'abord : le cache ne sert que sans réseau.
-const VERSION = 'brief-v4';
-const SHELL = ['./', 'index.html', 'style.css', 'app.js', 'manifest.webmanifest',
+const VERSION = 'brief-v5';
+const SHELL = ['./', 'index.html', 'style.css?v=5', 'app.js?v=5', 'manifest.webmanifest',
   'icons/icon-192.png', 'icons/apple-touch-icon.png'];
 
 self.addEventListener('install', (event) => {
@@ -18,9 +18,10 @@ self.addEventListener('activate', (event) => {
 self.addEventListener('fetch', (event) => {
   const url = new URL(event.request.url);
   if (event.request.method !== 'GET' || url.origin !== location.origin) return;
-  const key = url.pathname;  // ignore les paramètres d'URL pour le cache
+  const key = url.pathname + url.search;
   event.respondWith(
-    fetch(event.request)
+    // « no-cache » : toujours vérifier auprès du serveur (GitHub garde sinon les fichiers 10 min)
+    fetch(url.href, { cache: 'no-cache', credentials: 'same-origin' })
       .then((res) => {
         if (res.ok) {
           const copy = res.clone();
