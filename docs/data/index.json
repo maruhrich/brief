@@ -5,56 +5,52 @@
  "hebdo": [],
  "rubriques": [
   {
-   "id": "defense_aerienne",
-   "titre": "Défense aérienne & antimissile"
+   "id": "monde",
+   "titre": "World"
   },
   {
    "id": "asie",
-   "titre": "Asie-Pacifique"
+   "titre": "Asia-Pacific"
   },
   {
    "id": "singapour",
-   "titre": "Singapour & ASEAN"
-  },
-  {
-   "id": "industrie",
-   "titre": "Industrie & contrats"
-  },
-  {
-   "id": "espace",
-   "titre": "Espace & satellites"
-  },
-  {
-   "id": "tech",
-   "titre": "Technologies émergentes"
-  },
-  {
-   "id": "cyber",
-   "titre": "Cyber & guerre électronique"
-  },
-  {
-   "id": "europe",
-   "titre": "Europe de la défense"
-  },
-  {
-   "id": "ukraine",
-   "titre": "Ukraine / Russie"
-  },
-  {
-   "id": "moyen_orient",
-   "titre": "Moyen-Orient"
-  },
-  {
-   "id": "economie",
-   "titre": "Économie & sanctions"
+   "titre": "Singapore & ASEAN"
   },
   {
    "id": "elections",
-   "titre": "Élections & politique"
+   "titre": "Elections & Politics"
   },
   {
-   "id": "monde",
-   "titre": "Monde"
+   "id": "defense_aerienne",
+   "titre": "Air & Missile Defence"
+  },
+  {
+   "id": "europe",
+   "titre": "European Defence"
+  },
+  {
+   "id": "industrie",
+   "titre": "Industry & Contracts"
+  },
+  {
+   "id": "ukraine",
+   "titre": "Ukraine / Russia"
+  },
+  {
+   "id": "moyen_orient",
+   "titre": "Middle East"
+  },
+  {
+   "id": "espace",
+   "titre": "Space & Satellites"
+  },
+  {
+   "id": "tech",
+   "titre": "Emerging Tech"
+  },
+  {
+   "id": "economie",
+   "titre": "Economy & Sanctions"
   }
  ]
 }
