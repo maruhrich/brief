@@ -318,7 +318,11 @@ function renderLatest() {
     h('h2', null, 'To read', h('span', { class: 'pile-count' }, unread.length ? `${unread.length} unread` : '')));
 
   const groups = {};
-  for (const p of filtered) (groups[p.rubrique] = groups[p.rubrique] || []).push({ it: p, date: p.date });
+  const known = new Set(rubOrder().map((r) => r.id));
+  for (const p of filtered) {
+    const rub = known.has(p.rubrique) ? p.rubrique : (known.has('monde') ? 'monde' : rubOrder()[0]?.id);
+    (groups[rub] = groups[rub] || []).push({ it: p, date: p.date });
+  }
   const shown = renderSections(groups, { pile: true });
   if (!shown) {
     $('#rubriques').append(state.filter.rub || state.filter.place

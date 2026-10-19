@@ -504,6 +504,10 @@ Rules:
 
 # ── Version brute (sans IA) ──────────────────────────────────
 
+# Anciennes rubriques fusionnées : leurs sujets restent visibles dans la pile
+RUBRIQUE_ALIASES = {"singapour": "asie", "cyber": "tech"}
+
+
 def default_rubrique(cfg: dict) -> str:
     ids = [r["id"] for r in cfg["rubriques"]]
     return "monde" if "monde" in ids else ids[-1]
@@ -545,6 +549,12 @@ def write_outputs(brief: dict, date_str: str, cfg: dict) -> None:
 
     cutoff = (datetime.strptime(date_str, "%Y-%m-%d") - timedelta(days=KEEP_DAYS)).strftime("%Y-%m-%d")
     last_rub = default_rubrique(cfg)
+    ids = {r["id"] for r in cfg["rubriques"]}
+
+    def current_rub(rub: str) -> str:
+        rub = RUBRIQUE_ALIASES.get(rub, rub)
+        return rub if rub in ids else last_rub
+
     dates, hebdo, rows, pile = [], [], [], []
     for f in sorted(ARCHIVE.glob("*.json"), reverse=True):
         if f.stem < cutoff:
@@ -556,7 +566,7 @@ def write_outputs(brief: dict, date_str: str, cfg: dict) -> None:
         if len(dates) <= cfg.get("pile_jours", 7) and b.get("mode") == "ia":
             for it in b.get("essentiel", []) + [i for r in b.get("rubriques", []) for i in r["items"]]:
                 pile.append({**it, "date": b["date"], "id": it.get("id") or f"{b['date']}|{it['titre']}",
-                             "rubrique": it.get("rubrique") or last_rub})
+                             "rubrique": current_rub(it.get("rubrique") or "")})
         if b.get("hebdo"):
             hebdo.append(b["date"])
         # Index de recherche : une ligne compacte par sujet

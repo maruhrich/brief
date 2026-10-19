@@ -36,22 +36,15 @@ rubriques:
     titre: World
     max: 2
     consigne: >
-      Other major international news not covered by another section: domestic politics in Europe and the US, Africa, Latin America, global diplomacy.
+      Major international news not covered by another section: the Americas, Africa, global diplomacy, international organisations.
     mots_cles: []
 
   - id: asie
-    titre: Asia-Pacific
-    max: 4
+    titre: APAC
+    max: 6
     consigne: >
-      Security and geopolitics in Asia-Pacific (excluding South-East Asia): China, Taiwan, East and South China Seas, the Koreas, Japan, India, Pakistan, Australia, the Pacific.
-    mots_cles: [china, taiwan, korea, japan, india, pakistan, australia, south china sea, pla, chine, taïwan, corée, japon, inde, australie]
-
-  - id: singapour
-    titre: Singapore & ASEAN
-    max: 3
-    consigne: >
-      Singapore (SAF, RSAF, MINDEF, politics, economy, foreign relations) and South-East Asia: Malaysia, Indonesia, the Philippines, Vietnam, Thailand, Myanmar, ASEAN.
-    mots_cles: [singapore, singapour, mindef, rsaf, asean, malaysia, indonesia, philippines, vietnam, thailand, myanmar, cambodia, malaisie, indonésie, thaïlande]
+      Everything Asia-Pacific: security, geopolitics, politics and economy of China, Taiwan, the Koreas, Japan, Singapore (SAF, RSAF, MINDEF), South-East Asia and ASEAN (Indonesia, Malaysia, the Philippines, Vietnam, Thailand, Myanmar), India, Pakistan, Australia and the Pacific. Singapore news is a priority.
+    mots_cles: [singapore, singapour, mindef, rsaf, asean, malaysia, indonesia, philippines, vietnam, thailand, myanmar, cambodia, malaisie, indonésie, thaïlande, china, taiwan, korea, japan, india, pakistan, australia, south china sea, pla, chine, taïwan, corée, japon, inde, australie]
 
   - id: elections
     titre: Elections & Politics
@@ -67,15 +60,8 @@ rubriques:
       Air and missile defence (IAMD, surface-to-air, GBAD), radars, C2, counter-drone (C-UAS), combat aviation, missile and drone strikes and their interception, worldwide.
     mots_cles: [air defense, air defence, missile defense, interceptor, iamd, gbad, patriot, thaad, samp/t, c-uas, counter-drone, antimissile, défense aérienne, sol-air, 防空, 방공]
 
-  - id: europe
-    titre: European Defence
-    max: 2
-    consigne: >
-      ONLY European defence and security: NATO, European armed forces, budgets and programmes (SAMP/T, ESSI, FCAS, GCAP…), French defence policy. European domestic politics (protests, riots, governments) goes to "monde".
-    mots_cles: [nato, otan, european defence, defense européenne, bundeswehr, ministère des armées, essi]
-
   - id: industrie
-    titre: Industry & Contracts
+    titre: Defence Industry & Contracts
     max: 3
     consigne: >
       Defence contracts and programmes, defence budgets, exports, defence company news (Airbus, Thales, MBDA, Lockheed Martin, RTX, Hanwha, Rafael, Saab, KAI…), Asia first.
@@ -94,6 +80,13 @@ rubriques:
     consigne: >
       Iran, Israel, Gaza, Lebanon, Syria, the Gulf, Yemen / Houthis, Red Sea.
     mots_cles: [iran, israel, israël, gaza, lebanon, liban, syria, syrie, houthi, yemen, yémen, saudi, red sea]
+
+  - id: europe
+    titre: Europe
+    max: 3
+    consigne: >
+      Europe: defence and security (NATO, European armed forces, budgets and programmes such as SAMP/T, ESSI, FCAS, GCAP, French defence policy) and major European political news.
+    mots_cles: [nato, otan, european defence, defense européenne, bundeswehr, ministère des armées, essi]
 
   - id: espace
     titre: Space & Satellites
@@ -141,9 +134,8 @@ sources:
   - { nom: RFI Asie-Pacifique,    url: "https://www.rfi.fr/fr/asie-pacifique/rss", rubrique: asie }
   - { nom: France 24 Asie,        url: "https://www.france24.com/fr/asie-pacifique/rss", rubrique: asie }
   - { nom: BBC Asia,              url: "https://feeds.bbci.co.uk/news/world/asia/rss.xml", rubrique: asie }
-  # Singapour
-  - { nom: CNA Singapour,         url: "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=10416", rubrique: singapour }
-  - { nom: Straits Times Singapour, url: "https://www.straitstimes.com/news/singapore/rss.xml", rubrique: singapour }
+  - { nom: CNA Singapour,         url: "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=10416", rubrique: asie }
+  - { nom: Straits Times Singapour, url: "https://www.straitstimes.com/news/singapore/rss.xml", rubrique: asie }
   # Moyen-Orient
   - { nom: Al-Monitor,            url: "https://www.al-monitor.com/rss", rubrique: moyen_orient }
   # Monde
@@ -322,8 +314,8 @@ recherches:
   - { q: '"counter-drone" OR "counter-UAS" OR "C-UAS" OR "drone interception"', langue: en, rubrique: defense_aerienne }
   - { q: '"surface-to-air missile" OR "ballistic missile" OR "hypersonic missile"', langue: en, rubrique: defense_aerienne }
   - { q: '"Taiwan Strait" OR "South China Sea" OR "North Korea" military', langue: en, rubrique: asie }
-  - { q: 'RSAF OR MINDEF OR "Singapore Armed Forces"', langue: en, rubrique: singapour }
-  - { q: 'ASEAN OR (Philippines OR Indonesia OR Malaysia OR Vietnam) military', langue: en, rubrique: singapour }
+  - { q: 'RSAF OR MINDEF OR "Singapore Armed Forces"', langue: en, rubrique: asie }
+  - { q: 'ASEAN OR (Philippines OR Indonesia OR Malaysia OR Vietnam) military', langue: en, rubrique: asie }
   - { q: 'defence contract (Indonesia OR Philippines OR Malaysia OR Thailand OR Vietnam OR India OR Japan OR "South Korea" OR Australia OR Singapore)', langue: en, rubrique: industrie }
   - { q: '"Airbus Defence and Space"', langue: en, rubrique: industrie }
   - { q: 'site:breakingdefense.com', langue: en, rubrique: industrie }
@@ -341,4 +333,4 @@ recherches:
   - { q: '防空 OR ミサイル防衛 OR 自衛隊', langue: ja, rubrique: asie }
   - { q: '방공 OR 미사일 방어 OR 북한 미사일', langue: ko, rubrique: asie }
   - { q: '防空 OR 共機 OR 國防部', langue: zh-TW, rubrique: asie }
-  - { q: '"pertahanan udara" OR "TNI AU" OR Kemhan', langue: id, rubrique: singapour }
+  - { q: '"pertahanan udara" OR "TNI AU" OR Kemhan', langue: id, rubrique: asie }
