@@ -264,6 +264,7 @@ function setHeaderHeight() {
 
 function highlightChip(id) {
   const bar = $('#chips');
+  bar.classList.toggle('has-current', !state.filter.rub && id != null);
   for (const c of bar.querySelectorAll('.chip')) {
     const on = !state.filter.rub && id != null && c.dataset.rub === id;
     if (on && !c.classList.contains('current')) {
@@ -275,7 +276,7 @@ function highlightChip(id) {
 
 // Rubrique en cours = la dernière dont le titre est passé sous la barre collée en haut
 function updateCurrentSection() {
-  const line = $('.top').offsetHeight + $('#chips').offsetHeight + 12;
+  const line = $('.top').offsetHeight + $('#chips').offsetHeight + 60; // titre arrivé juste sous la barre
   let current = null;
   for (const sec of document.querySelectorAll('#rubriques .rubrique')) {
     if (sec.getBoundingClientRect().top - line <= 0) current = sec;

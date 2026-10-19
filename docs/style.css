@@ -585,5 +585,18 @@ body.sheet-open { overflow: hidden; }
   -webkit-backdrop-filter: saturate(160%) blur(14px);
   backdrop-filter: saturate(160%) blur(14px);
 }
-.chip.current { border-color: var(--c, var(--accent)); box-shadow: inset 0 0 0 1px var(--c, var(--accent)); font-weight: 600; }
+/* Barre discrète : texte gris, la rubrique en cours en noir finement soulignée */
+#chips { gap: 20px; padding: 4px 16px 0; border-bottom: 1px solid var(--line); }
+#chips .chip {
+  padding: 8px 0 7px;
+  border: 0;
+  border-radius: 0;
+  background: none;
+  color: var(--muted);
+  font-size: 14px;
+  box-shadow: none;
+}
+#chips .chip .dot, #chips .chip b { display: none; }
+#chips .chip.active, #chips .chip.current { color: var(--text); font-weight: 600; box-shadow: inset 0 -2px 0 var(--text); }
+#chips.has-current .chip.active:not(.current) { color: var(--muted); font-weight: 400; box-shadow: none; }
 .rubrique { scroll-margin-top: calc(var(--header-h, 64px) + 60px); }
