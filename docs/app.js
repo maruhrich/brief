@@ -6,7 +6,8 @@ const REGIONS = ['North-East Asia', 'South-East Asia', 'South Asia', 'Oceania', 
   'Middle East', 'Africa', 'Americas', 'Global'];
 const READ_KEEP_DAYS = 45;
 // « Ask AI » : appel direct à Gemini depuis le téléphone, avec la clé gardée sur l'appareil
-const AI_MODELS = ['gemini-flash-latest', 'gemini-3.6-flash', 'gemini-3.5-flash-lite'];
+// Flash-Lite d'abord : ~2 s par réponse au lieu de ~14 s avec Flash
+const AI_MODELS = ['gemini-flash-lite-latest', 'gemini-3.5-flash-lite', 'gemini-flash-latest'];
 const AI_READER = 'a European defence industry professional based in Singapore, specialised in air defence';
 const AI_SUGGESTIONS = ['Give me the background', 'What does it mean for air defence?', 'What could happen next?', 'Who are the key players?'];
 
