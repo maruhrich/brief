@@ -199,7 +199,6 @@ function itemBody(it, date, opts = {}) {
     labels.length && h('p', { class: 'item-label', style: rubColor(it.rubrique) }, labels),
     h('h3', null, it.emoji && h('span', { class: 'emoji', 'aria-hidden': 'true' }, it.emoji), it.titre),
     it.resume && h('p', { class: 'resume' }, it.resume),
-    it.pourquoi && h('p', { class: 'why' }, h('span', { class: 'why-label' }, 'Why it matters'), it.pourquoi),
     h('div', { class: 'item-foot' },
       h('div', { class: 'foot-info' }, (it.pays || []).map((p) => h('span', { class: 'tag' }, p)), sources(it.liens, id)),
       h('div', { class: 'foot-actions' }, check, fav, iconBtn(ICON_ASK, 'Ask AI about this story', () => openAsk(it, date), 'ask'))),
@@ -622,7 +621,6 @@ function storyContext(it, date) {
   return [
     `Story from the reader's brief (${date}): ${it.titre}`,
     it.resume && `Summary: ${it.resume}`,
-    it.pourquoi && `Why it matters: ${it.pourquoi}`,
     (it.pays || []).length && `Countries: ${it.pays.join(', ')}`,
     (it.liens || []).length && `Source articles:\n${it.liens.map((l) => `- ${l.source}: ${l.url}`).join('\n')}`,
   ].filter(Boolean).join('\n');

@@ -6,7 +6,6 @@ Web-app installée sur l'écran d'accueil de l'iPhone. Chaque matin, avant 7h45 
 2. **Gemini** (offre gratuite de Google) trie, traduit et résume **en anglais** :
    - *Today's essentials*,
    - environ 15 nouveaux sujets répartis dans 12 rubriques, ajoutés à la pile *To read*,
-   - *Why it matters*,
    - *Coming up*,
    - le lundi, le *Weekly summary*.
 

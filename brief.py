@@ -259,14 +259,13 @@ def item_schema(rubrique_ids: list[str]) -> dict:
             "emoji": {"type": "string", "description": "A single emoji illustrating the story"},
             "titre": {"type": "string", "description": "Short headline"},
             "resume": {"type": "string", "description": "2 short factual sentences (40 words max)"},
-            "pourquoi": {"type": "string", "description": "1 short sentence (20 words max) on why it matters to the reader, or empty"},
             "pays": {"type": "array", "items": {"type": "string"}, "description": "Countries involved"},
             "region": {"type": "string", "enum": REGIONS},
             "rubrique": {"type": "string", "enum": rubrique_ids},
             "refs": {"type": "array", "items": {"type": "integer"}, "description": "Numbers of the source articles"},
             "suite_de": {"type": "string", "description": "P… number of the previously published story this follows up, or empty"},
         },
-        "required": ["emoji", "titre", "resume", "pourquoi", "pays", "region", "rubrique", "refs", "suite_de"],
+        "required": ["emoji", "titre", "resume", "pays", "region", "rubrique", "refs", "suite_de"],
     }
 
 
@@ -334,7 +333,6 @@ Rules:
 - "emoji": one sober emoji illustrating the story (e.g. 🚀 missile, 🛡️ air defence, 🛩️ aviation, 🚢 navy, 🛰️ satellite, 📝 contract, 💰 budget, 🗳️ election, 🤝 diplomacy, ⚠️ tension, 🇸🇬 Singapore).
 - "region": the main region concerned.
 - "resume": 2 short sentences, 40 words max. Straight to the facts.
-- "pourquoi": one concrete sentence (20 words max) on what is at stake for the reader (regional security, air defence, market, Singapore…), only for roughly one story in three, the most important ones. Otherwise leave empty.
 - "a_surveiller": 0 to 5 upcoming milestones mentioned in the articles (votes, summits, exercises, decisions…).
 
 Sections:
