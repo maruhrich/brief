@@ -1,0 +1,60 @@
+{
+ "dates": [
+  "2026-10-19"
+ ],
+ "hebdo": [],
+ "rubriques": [
+  {
+   "id": "defense_aerienne",
+   "titre": "Défense aérienne & antimissile"
+  },
+  {
+   "id": "asie",
+   "titre": "Asie-Pacifique"
+  },
+  {
+   "id": "singapour",
+   "titre": "Singapour & ASEAN"
+  },
+  {
+   "id": "industrie",
+   "titre": "Industrie & contrats"
+  },
+  {
+   "id": "espace",
+   "titre": "Espace & satellites"
+  },
+  {
+   "id": "tech",
+   "titre": "Technologies émergentes"
+  },
+  {
+   "id": "cyber",
+   "titre": "Cyber & guerre électronique"
+  },
+  {
+   "id": "europe",
+   "titre": "Europe de la défense"
+  },
+  {
+   "id": "ukraine",
+   "titre": "Ukraine / Russie"
+  },
+  {
+   "id": "moyen_orient",
+   "titre": "Moyen-Orient"
+  },
+  {
+   "id": "economie",
+   "titre": "Économie & sanctions"
+  },
+  {
+   "id": "elections",
+   "titre": "Élections & politique"
+  },
+  {
+   "id": "monde",
+   "titre": "Monde"
+  }
+ ]
+}

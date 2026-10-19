@@ -1,0 +1,1192 @@
+{
+ "date": "2026-10-19",
+ "date_fr": "lundi 19 octobre 2026",
+ "genere_le": "2026-10-19T20:25:24+08:00",
+ "mode": "ia",
+ "modele": "gemini-flash-latest",
+ "accroche": "La matinée est marquée par une salve de frappes balistiques russes contre l'Ukraine révélant des failles d'alerte précoce, et par l'ouverture de l'exercice américano-japonais Keen Sword aux abords de Taïwan. À Singapour, l'exécutif durcit les sanctions contre dix industriels liés aux feux de forêt en Indonésie.",
+ "essentiel": [
+  {
+   "emoji": "🚀",
+   "titre": "Frappes russes sur Kyiv et couacs d'alerte précoce alliée",
+   "resume": "La Russie a mené des frappes balistiques massives contre Kyiv et les infrastructures énergétiques de onze régions. Kyiv a déploré l'absence d'alerte américaine lors de la première vague, sur fond de retards de livraison de missiles Patriot.",
+   "pourquoi": "L'attrition des stocks de Patriot et les délais de détection soulignent la vulnérabilité des architectures IAMD saturées.",
+   "pays": [
+    "Ukraine",
+    "Russie",
+    "États-Unis"
+   ],
+   "region": "Russie-Ukraine",
+   "rubrique": "ukraine",
+   "liens": [
+    {
+     "source": "Euromaidan Press",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOd2NwekZZcjFwaEthQUd3dVI2U1hUSHZyalV3SVhrSkx2RlUtOUE2cHhyanMyQzRiMkZFQkRfcnlTR1Jjc1pGY0puc2o5dWxLN0VoTktqU0JaRWFYeFdHUGFhSjZHclNsR3lkX2lVS25ZYVRtdno3dFNrSGZrLUt2Q09STjhaQkpUX3BnWHhNbTBZZE5Bams1LU9DOEFGRkM4QnJUM0ZSLWVoSkZhQmtjSHJIMEJpZXd6R1pJdkRWZnNIbnMwWVpVRVBOMmpIbjBvWHdmNWN3?oc=5",
+     "titre": "Kyiv gets no warning of the first of two Russian ballistic waves, hours after Zelenskyy said US alerts were back"
+    },
+    {
+     "source": "UNITED24 Media",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNc3ZmQ015T0hGc3FORXIxeFlBQ2k3M2dkT1dsNzFteWxKbVNpendFRk02dHktS21yMmhvWGU1TU14eUUzRG5qOFRycTItQ1pPcUE2eEN3OFJpUkMtaWNua2RmNXhaZmwtYXpfUWNKVWpVcmhtelo3VlpfNDNNOHgwLXdmdGdTRkNXd19YU3lIRW9BUjBsS29PMHhRUUdCbmxjWEtHTWwta1lrZVZZSWkxZWk5LWV0aldTcTRReFp6WnExN00?oc=5",
+     "titre": "Russia Launches 16 Ballistic Missiles at Kyiv Without Advance Allied Warning, FT Reports"
+    },
+    {
+     "source": "Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQa3Y0UW5oYjNvX0VVWlpXcTZlSmxOUjlSVzd0aGRMZE5MVG1uSm0zbmluMEdtbGViUHcyem1xUk5Na1J0YkFKYVdIeWVscHJjTmppenlPR0d2NlBxeWU4VmlRUGp6bG40RlRVclVQcktVdkNiZEdfZU5RbGNvRGl2YjdkUks?oc=5",
+     "titre": "Ukraine receives partial intelligence on Russian ballistic missile strikes"
+    },
+    {
+     "source": "The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeTdmYm1KSUNkMm9QcS10VF81SWJBNDRBSnc3X1RWaFJsNnVjQXBMbnZFTE9uS1lrdVJmRGxya2JpR3A0RkkwZUd0VFgwVkNOTnhia1dDcEFiMW12cW9xLUt5U1d6ald0b1NKWUVOSHhxdzVlT1ZKc2tLSllLMnlYZlozbHdvckpWY3o2NjJ4M3lYdk1idG1RZ1FZa0dDMnBpZll6anBaMkNCcnNBcENYZTZzMTBiNDhp?oc=5",
+     "titre": "US gave us no warning of Russian strikes on Kyiv power plants, Zelenskyy says"
+    }
+   ]
+  },
+  {
+   "emoji": "🛡️",
+   "titre": "Lancement de l'exercice bilatéral Keen Sword près de Taïwan",
+   "resume": "Les forces japonaises et américaines ont entamé leur plus grand exercice militaire conjoint avec le déploiement de missiles antinavires Type 25. Des unités sol-air et antinavires ont été positionnées sur les îles de Yonaguni et Ishigaki.",
+   "pourquoi": "Déploiement opérationnel clé pour la défense antimissile et l'interdiction de zone dans la première chaîne d'îles.",
+   "pays": [
+    "Japon",
+    "États-Unis"
+   ],
+   "region": "Asie du Nord-Est",
+   "rubrique": "asie",
+   "liens": [
+    {
+     "source": "華視新聞網",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1BS2EyVzZIUkFHTWlWQUNXVGhwdHVoMEl5VDFMRjF4cmZiN3ZXaVFCaTdMR1c3QlNsOGhhcHR4STZXQng1TjNDcFI3ZlhkYWQzUFBoYXJ3MnVrc1lrZTJCYWVJd0hSbE41cnFCbXktSWZsQzk4ektabw?oc=5",
+     "titre": "美日「利劍」軍演登場美反艦.防空飛彈登與那國島- 國際"
+    },
+    {
+     "source": "日テレNEWS NNN",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOazJJeGNqaFFhRzZqOXFaOWdBZ1JfMlg3T25rVzJpbHJoVml2dXVobGF4X01YT2tmOFo0MWYyLVZhQ05FYU1BRU5FYy0tNGRhdVktZ3Z2VDVXTlBiSW5iOWlNM3V3d0FiXy1RWDB5b3BSUkRWNDlRQ1M5aVJ4c2FPbXpSbzk2Rk0?oc=5",
+     "titre": "25式地対艦誘導弾も参加へ「自衛隊と米軍の大規模演習キーン・ソード」大野原演習場など県内で開始《長崎》"
+    },
+    {
+     "source": "山陽新聞",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1mOE54MlJuY3ZnLV9NN3p4dktaOVB5ZzNtVEg4bVVUQjZ4YzJNV29UYlJPd19MSUdWR1d0LXRVeEROeUt3VnZXbkVJUnA5MkNEWUI4NkNkVXpFN1hZQkp3R0FndGthdUw2NkdzenNjOFJya0U?oc=5",
+     "titre": "大規模演習、石垣で開始式 自衛隊と米軍、２９日まで"
+    },
+    {
+     "source": "Straits Times Asie",
+     "url": "https://www.straitstimes.com/asia/east-asia/japan-deploys-long-range-missiles-for-joint-us-military-drill",
+     "titre": "Japan deploys long-range missiles for joint US military drill"
+    }
+   ]
+  },
+  {
+   "emoji": "🇸🇬",
+   "titre": "Feux transfrontaliers : Singapour actionne ses leviers légaux",
+   "resume": "Alors que deux millions d'hectares ont brûlé en Indonésie, Singapour a émis des avis légaux contre dix entreprises incriminées. Le ministre K. Shanmugam a assuré que la cité-État utilisera tous les leviers juridiques et économiques disponibles.",
+   "pourquoi": "Risque direct de perturbation économique et environnementale majeure pour les activités et opérations à Singapour.",
+   "pays": [
+    "Singapour",
+    "Indonésie"
+   ],
+   "region": "Asie du Sud-Est",
+   "rubrique": "singapour",
+   "liens": [
+    {
+     "source": "Straits Times Asie",
+     "url": "https://www.straitstimes.com/asia/se-asia/indonesia-probes-98-cases-involving-firms-linked-to-fires-discusses-assistance-with-singapore",
+     "titre": "Indonesia probes 98 cases involving firms linked to fires; discusses assistance with Singapore"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/indonesia-battles-worst-forest-fires-and-toxic-haze-in-11-years?traffic_source=rss",
+     "titre": "Indonesia battles worst forest fires and toxic haze in 11 years"
+    },
+    {
+     "source": "CNA Singapour",
+     "url": "https://www.channelnewsasia.com/singapore/haze-indonesia-official-oxygen-comments-disappointing-shanmugam-6471166",
+     "titre": "Shanmugam calls Indonesian official's 'oxygen' remarks disappointing, welcomes Prabowo's actions on haze"
+    },
+    {
+     "source": "Straits Times Singapour",
+     "url": "https://www.straitstimes.com/singapore/spore-to-use-every-legal-and-regulatory-lever-against-companies-linked-to-haze-shanmugam",
+     "titre": "S’pore to use ‘every legal and regulatory lever’ against companies linked to haze: Shanmugam"
+    }
+   ]
+  },
+  {
+   "emoji": "🎯",
+   "titre": "L'Australie lance son appel d'offres de défense sol-air moyenne portée",
+   "resume": "Le ministère australien de la Défense a formellement lancé un appel d'offres pour équiper l'armée de terre d'un système sol-air moyenne portée. Canberra cherche à combler d'urgence un déficit capacitaire critique dans sa bulle de protection aérienne.",
+   "pourquoi": "Opportunité majeure pour les industriels occidentaux de défense sol-air sur le marché de l'Indo-Pacifique.",
+   "pays": [
+    "Australie"
+   ],
+   "region": "Océanie",
+   "rubrique": "defense_aerienne",
+   "liens": [
+    {
+     "source": "Defense News",
+     "url": "https://www.defensenews.com/global/asia-pacific/2026/10/19/australia-gets-the-ball-rolling-on-medium-range-air-defense/",
+     "titre": "Australia gets the ball rolling on medium-range air defense"
+    },
+    {
+     "source": "Aviation Week",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQUJsYy05c0x2bGxTWVlGZ3MwSU9iOHpheDJ5ZC03bklNWEh1TTB2OE5ObVd4YTNZRS1zeUhnOWhNTG5tWnNOV0ZUdmd6SHBVTEZwOEdhWDVRRERCdDlPeGtDTWJMSkRPdUFXTFhKVURrWERtUlN5U2c1TEVKQkZ1eWJsUnlHemwyNkFXcXhvYUNpOElVMTFiVm1NazVnd3pOSWY5Q1lGUnU4X3FWNVFV?oc=5",
+     "titre": "Australia Seeks Ground-Based Medium-Range Air Defense"
+    }
+   ]
+  }
+ ],
+ "rubriques": [
+  {
+   "id": "defense_aerienne",
+   "titre": "Défense aérienne & antimissile",
+   "items": [
+    {
+     "emoji": "🛡️",
+     "titre": "Airbus intègre les défenses sol-air allemande et suédoise dans l'OTAN",
+     "resume": "Airbus a interconnecté les systèmes de défense antiaérienne de l'Allemagne et de la Suède sous un commandement unifié de l'OTAN. Cette intégration renforce la coordination opérationnelle et la veille IAMD sur le flanc est européen.",
+     "pourquoi": "Avancée significative d'intégration C2 multinationale pour l'interopérabilité des systèmes sol-air en Europe.",
+     "pays": [
+      "Allemagne",
+      "Suède"
+     ],
+     "region": "Europe",
+     "rubrique": "defense_aerienne",
+     "liens": [
+      {
+       "source": "The Defense Post",
+       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNU2xrdkY0U1FWMnlSY1lEV3BmVWNOOUxTcThoOWpWZDhGSFUtRGlyNDBGcjdLSmFnZGZQTmhnck80VHh5dkJxMzlpSkRob3o2bWpGbmRUMXhLYXFHR2p6UnVEeDlQRXlSd1ZZUWN1MkE4U3JpNmNibnQ1VHZpX1oyZnVxWmFoZG810gGIAUFVX3lxTE1TbGt2RjRTUVYyeVJjWURXcGZVY045TFNxOGg5alZkOEZIVS1EaXI0MEZyN0tKYWdkZlBOaGdyTzRUeHl2QnEzOWlKRGhvejZtakZuZFQxeEthcUdHanpSdUR4OVBFeVJ3VllRY3UyQThTcmk2Y2JudDVUdmlfWjJmdXFaYWhkbzU?oc=5",
+       "titre": "Airbus Links German, Swedish Air Defenses Through NATO Shield"
+      },
+      {
+       "source": "Asia Pacific Defence Reporter",
+       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObHZVX2h1MmFDTmNwNUlsUDZRUWMyeG9pZ1RxbHNyVncwem5OclA4cXFIRncwdjYzd1VpcF8tSjV3LVpMZV9VX2dyVUNzZENJMnFuMndPSTZ5UGFUS2xod3cwRnhjM0UwTzJnS1dPT3dhd3AtV2RnLVNIUE9tNGlmR042ak1CLVJBZnh2dHBJM3FwMEVXdlMyUXRTOTZreUFrZE1YOXBTWXAwbzN2V0xNZXViUWdLd19RNTE3aEtfcU8?oc=5",
+       "titre": "Airbus connects German and Swedish air defence forces into unified NATO shield"
+      }
+     ]
+    },
+    {
+     "emoji": "🚀",
+     "titre": "Lockheed Martin développe les variantes PAC-3 ACE et Edge",
+     "resume": "Face aux menaces hypersoniques et manœuvrantes, Lockheed Martin fait évoluer le Patriot avec le missile PAC-3 Edge. Le constructeur prépare également la variante PAC-3 ACE afin de réduire substantiellement les coûts unitaires d'interception.",
+     "pourquoi": "",
+     "pays": [
+      "États-Unis"
+     ],
+     "region": "Amériques",
+     "rubrique": "defense_aerienne",
+     "liens": [
+      {
+       "source": "Defence Industry Europe",
+       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZllUZlVlVGhZeFVkbUpnUmhobDg0RnVWdHFQQWFLWG54dGFBYUtHZHRPdGc1NXl6UEJoaDc2V1JTTjVLdVZIZC0xT1NpamNudzU2UV8zRTkyVFBwbWZqSko3TGc2Q3A0NXd5S3ZMZEhtUmJFWXVYa3M3TjktUF81TENEQU1aTFdHdWV4eUxjaUNFNDVQUDZxMTl2czBBZXRYaGl0QXNzbHZudjJNSlpEbWxzTHc5WFlyMHhkV3liTUl0dVQ1eVRQTmZHYjBhXzlkWTVSTVoyRm1OYkpIRUV4N3hIZzF1ODg?oc=5",
+       "titre": "Lockheed Martin says PAC-3 ACE will target lower costs while PAC-3 Edge is designed to intercept hypersonic missile threats"
+      },
+      {
+       "source": "EurAsian Times",
+       "url": "https://www.eurasiantimes.com/patriot-lockheed-martin-pac-3-edge/",
+       "titre": "New U.S. Missile Aims To Outmaneuver Russia’s Maneuvering Missiles: Here’s Patriot’s Evolution to PAC-3 Edge"
+      }
+     ]
+    },
+    {
+     "emoji": "🛩️",
+     "titre": "Interceptions de drones suspects en Roumanie et Lituanie",
+     "resume": "Des F-16 roumains ont abattu deux drones au-dessus des eaux territoriales en mer Noire lors d'une alerte aérienne. En Lituanie, la chasse alliée a décollé d'urgence après l'explosion d'un engin non identifié dans son espace national.",
+     "pourquoi": "",
+     "pays": [
+      "Roumanie",
+      "Lituanie"
+     ],
+     "region": "Europe",
+     "rubrique": "defense_aerienne",
+     "liens": [
+      {
+       "source": "Stars and Stripes",
+       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUGtYek5EbmMzOUFYNXhacEFDbmtmMFNoMXd4Wjc4S1hubnJSLWxzcmpuRnp1X29laGpfMDh6cXJTSHE0TlQ4YlFqVGJVdXhrcjVhcWc5V2ZyNG1MQXNVbXlwTkY1cXFzRXp5cGUtaXlmTURrMFhocjNhTlpyd1dWbmkxcmVnNXFCUml3cmZ0aTd5OUdjRDk4?oc=5",
+       "titre": "Romania shoots down attack drones as NATO prepares for high-level Black Sea talks"
+      },
+      {
+       "source": "Kyiv Independent",
+       "url": "https://kyivindependent.com/nato-jets-scramble-as-drone-explodes-in-lithuanian-airspace/",
+       "titre": "NATO jets scramble as drone explodes in Lithuanian airspace"
+      },
+      {
+       "source": "South China Morning Post",
+       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSHlCTTZuR0JlWGE0OGRaNHhVSFpFT3p1TVZ1dVJOdF9JcGQzYXRWRWpuNVVGdzI2bktXdmZwbEVEQm4zM2xMT1hFMEZvR0JBWGc0UFc3eTVMSUFLcW1aTmpRNmVKUXZXelFDcldsZkJwejBsY3ZseThxdXduMl9JclBOUjllTWl5ZDUxM0h4TUgyZzAwakJJRGIxcnZZTFBCakE1a1JCRV94a0cxLWJiVUtleTktakVwTXhzNTkweEHSAcABQVVfeXFMTUhCSXJNUVhIcl9kMDdfOWRWQU00cTd4RUhIY29PaTRXbnNmZnJRa2t1R2FVWGQ5cm9uNVlELXktb0VNMkp2ODhLVXdqc09WQ0xtSDhtTHNMT2xJTTg0MldHMlVFUW9aVW53Vk9NMllXR3J1S3VGSmM1LWhwY1NZcFkzYkpkbG5JWE1WTUtjWjhNWkdEY05uQkNaMmdzN2dRcXA0eHZTdDNjVVY5Wm5tek5teVVHOUl3X1BGTkNadEN2?oc=5",
+       "titre": "Lithuanians take shelter, Nato jets scramble as suspected drone explodes"
+      },
+      {
+       "source": "Reuters",
+       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTWdfVTBONW9jTm9ldm94TWotRVpYMXhVaVktUTl4RDZUN1ByWWh4d3JiMTlwTHNpNG93LW5Jc3RCZ1lod2FfMktBZE9QYThCdWRBOHF3OVNrT2hOa3hlOWpVc1Zsb1JjLVphWFd3TUF6YTJDMDNObWFEb2JHbmpsYVN6YVZReWppS2NsZTlzakNyMEJlcVNmcWtMVmp1X2lqZTcwSDM4dThEb1FfX1BxNWJYU0YxWHc?oc=5",
+       "titre": "Romanian F-16 fighter jets shoot down two drones over Romanian territorial waters"
+      }
+     ]
+    },
+    {
+     "emoji": "🚀",
+     "titre": "Anduril dévoile la gamme Steelfin et vise l'Europe",
+     "resume": "Anduril a présenté sa famille de missiles intercepteurs Steelfin destinée à la défense aérienne multicouche face aux saturations de drones. L'entreprise américaine envisage d'établir une ligne de production en Europe pour soutenir les alliés.",
+     "pourquoi": "",
+     "pays": [
+      "États-Unis"
+     ],
+     "region": "Amériques",
+     "rubrique": "defense_aerienne",
+     "liens": [
+      {
+       "source": "ELE Times",
+       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQXlLMkpJYVBEeldrSzc2RWs1M1ZQUFFLd2FEMVQtdjdhU3N3ampYeUtzM0x0TVZWdFRfbmNUWDBubGhLb29VYnU0d2lqMnU1TENFX0NUaU5VbjFHaTBMSXhhM3k3UDZRQTNzSS1HSUVhN0FTbVpMM3Bnd2FaTHdWd2JOUlRzeGRBUHJxRU9tNERMQlZYcWtvMHNYRGZlZkVy?oc=5",
+       "titre": "Anduril Unveils Steelfin Interceptor Missile Family for Layered Air Defence"
+      },
+      {
+       "source": "TechNews 科技新報",
+       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPM251WDJTSmpXTEkxamRoMWd6dHZ2UVdKcXRQQnlYMXVMR0k4Vy1fVjY0RjR0Q1RlWE5iOG16ZktjOWhWZC03dnMyYk15THVhRURuWVJWUm51RVd0N1Qza2xUMXZ6S3lQVFBlVExMQ2RSQ0szQ0JiRDVrSk9OM01Gdg?oc=5",
+       "titre": "補足防空彈藥缺口，Anduril 計畫在歐洲生產 Steelfin 攔截飛彈"
+      },
+      {
+       "source": "Defense News",
+       "url": "https://www.defensenews.com/industry/techwatch/2026/10/18/us-arms-firm-anduril-could-make-interceptors-in-europe-executive-says/",
+       "titre": "US arms firm Anduril could make interceptors in Europe, executive says"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "asie",
+   "titre": "Asie-Pacifique",
+   "items": [
+    {
+     "emoji": "⚠️",
+     "titre": "Pyongyang menace de déployer des armes d'attaque à la frontière",
+     "resume": "Kim Yo-jong a qualifié la situation à la frontière sud de très instable et critiqué les manœuvres de Séoul. Elle a annoncé que la Corée du Nord envisageait de redéployer des armements tactiques et de relancer sa propagande sonore.",
+     "pourquoi": "Risque d'escalade le long de la ligne de démarcation coréenne mobilisant les défenses antimissiles alliées.",
+     "pays": [
+      "Corée du Nord",
+      "Corée du Sud"
+     ],
+     "region": "Asie du Nord-Est",
+     "rubrique": "asie",
+     "liens": [
+      {
+       "source": "Türkiye Today",
+       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVXkyTXdzSndVM0pHeG0ybkRSbDhnb1hLTWFUbkRXV1c0N1o2NTRXaGM4Yjdfel80cEpGeVREcHRFcFhRcjBaYmctd21jbnR2RUdwZE5lb0QtV09MbmpEQzhrX0xUbUR3dXVuYWZuSkRVYmQ5TE56WnYxLVJDcVF3V1hycHpfNUJKdnAwVXpuTjFWNUxrZXNBQUM4UWdPUkFJbTJrbmprVFNPSjFJQm1KUXE4aXY?oc=5",
+       "titre": "North Korea warns of 'grave situation,' eyes more strike weapons at border"
+      },
+      {
+       "source": "Firstpost",
+       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQMVdjVHV4M0RpSjdfdXl2OFFieEMxUXoyV3psZjZfa1lzdE1tZWV2MHVTVXNJTThPbVFwSFVBelRjdDU0ZWhLdjRfaS10c3hVM04xVGVmSG9NWTBiWFVWTE9QT3FlQVR2Qm1lYzg0a3I1OC1EeWVkVzlEQTgxWEJCZ3lJcUNHNVRNR1FpWUt2YTI4eEdaZ0tVeUxXcFFfU1JYdG9iMzVnU0ZkTUpodlU3Zk5USVBCLWtSb0xvT0d1TTA2VzRZUVlSc2QtdHlfR0h6V2FjWnh4NEp5RkN6Wkt0Z2pHcEtGdVk0eS1NMDdR0gHzAUFVX3lxTE5EYzdScjZGY2ZlbzVVUVJMRDV6V1VaNk9FM2tTQ19HbGluVWdfRWlsMzhwVVBxVmg0S3VJZ01nWWp2T2FrT3Q3SS1fU3MtN1JTVFJwN2ZpVHBTTDJoRWd1aUxDYVpKNjh5ZlZJRGQ2Y2JfTFc3X1dnM3RDT0tNcTNqckJMYkZiSElGaFU0a2hUSjJjM09DNWZLcWt1SjU2RzNXV3NzVl8tX2NuTkxzT25Ec1RhYnlZMXVSRVZrcUtncHhaLXlmeExCWUJueGpoMmRlanlIWlBLQzZWNTNINzgweWFQUXk3SUV2cDIxUmNieEI4bw?oc=5",
+       "titre": "‘Warmongers of ROK threatening our safety’: North Korea weighs more weapons, loudspeaker broadcasts targeti..."
+      },
+      {
+       "source": "SBS 뉴스",
+       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8xcGJwa3hoZXhhLWplOXJHQlF6NUtrQmxqektsYWF5WTRnY2M3ZXFYbGExSjNteGpLVEc5dFhfQ3psVjdWWUU3TlYzdGpZRkZpcVg5Uk84TGk4blVJTkFBN3NUX2xOX1RHZlY2bFFn0gFmQVVfeXFMUFpyc3VtLXNfbXZla3JmeFhOWllqeENvQmR6VFlteFhMMDdCQ19RU3Q4U1paRHFlNDlfQVQwZW9SYnBtWXY5bm1yR1hjX1laUnVEejdBYVdOYllxLVhMLWZTX2UtX21n?oc=5",
+       "titre": "North Korea's Kim Yo-jong: Southern Border Situation \"Grim\"... Resuming Loudspeakers Under Review"
+      },
+      {
+       "source": "The Economic Times",
+       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPS3AwdS1wQ2tNVXlNRzVOWm01RDg3WU1VOGxVYkJjUXBKVHBtRHZMMEJielQzUWI4NG1FU0tqMDFJSUx4bk9Da3RnQk5aOUJCTm42c0ZfMUJROXJXVVFWRHd6VndiVzFPbHpaSy1WYV8yVjVleVp0VzV3a1ZnalhIUWowbWxLNWVTRUtkMzJOdUJlTWswVC0xajViUk5BblFlNUlrSkpzZjlzU0JKb1F1SmFRalpnZjRsTHp5ZUJ1YVZjZHp4Y3AtdU16XzFYTWdQSVhCOVpDRHJnVFp2UFhpMDJSUHBVRFV2R0lWUzlrcVBrelZQbHJoMm1R0gH_AUFVX3lxTE1KX3gxMmVucEZmLWl2TXI2SUEtT3E0OVQzR1ozaHZmcGJMUjlXNW9oRDJkaTdPQUtIS3YzTVA4bU1IS0pWRGdKX040RU1mUnJnXzNwU0M2Y2JYTFd0OGljYVkzYjUtY1dCOXdBTFVxYnl6blBpbUlCRGtDQm1ScURSOGZWdldUUnJQMmdVVEpiSmNMYmpCX0NPcGphWXd1ZlU3VXBZWkxIS1ZESE1KdlZ5bnpZaVl2SThONXdZS1lXTnJhWkVsV3RkYlJWQXJyZXZ0MGplMWtrUnFkVnBXYXRTdmdOQzVxc29TelhQbUtsNWwxNmNwZ0ZPQmVTdEYtMA?oc=5",
+       "titre": "North Korea threatens to restart propaganda broadcasts and deploy more weapons at border with South"
+      }
+     ]
+    },
+    {
+     "emoji": "🚢",
+     "titre": "Manille convoque l'ambassadeur de Chine après des menaces",
+     "resume": "Le gouvernement philippin a convoqué le représentant de Pékin suite à des déclarations affirmant que la Chine l'emporterait facilement en cas d'affrontement. Taïwan a parallèlement repoussé seize navires chinois impliqués dans du harcèlement maritime.",
+     "pourquoi": "",
+     "pays": [
+      "Philippines",
+      "Chine",
+      "Taïwan"
+     ],
+     "region": "Asie du Sud-Est",
+     "rubrique": "asie",
+     "liens": [
+      {
+       "source": "Straits Times Asie",
+       "url": "https://www.straitstimes.com/asia/se-asia/philippines-summons-chinese-ambassador-over-threat",
+       "titre": "Philippines summons Chinese ambassador over ‘threat’"
+      },
+      {
+       "source": "CNA Asie",
+       "url": "https://www.channelnewsasia.com/asia/philippines-summons-chinese-ambassador-threat-6471136",
+       "titre": "Philippines summons China's envoy over remarks conveying 'threat'"
+      },
+      {
+       "source": "The Diplomat",
+       "url": "https://thediplomat.com/2026/10/after-war-of-words-china-says-relations-with-philippines-at-critical-juncture/",
+       "titre": "After War of Words, China Says Relations With Philippines at ‘Critical Juncture’"
+      },
+      {
+       "source": "Taipei Times",
+       "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/19/2003866217",
+       "titre": "Taiwan says drives away 16 Chinese ships involved in ‘maritime harassment’"
+      }
+     ]
+    },
+    {
+     "emoji": "🤝",
+     "titre": "Tokyo et Manille accélèrent leur coopération de défense",
+     "resume": "Le Japon et les Philippines ont réaffirmé leur volonté d'approfondir leurs partenariats militaires et industriels face aux tensions régionales. Tokyo explore notamment des opportunités d'exportation d'équipements de missiles au profit des forces armées philippines.",
+     "pourquoi": "",
+     "pays": [
+      "Japon",
+      "Philippines"
+     ],
+     "region": "Asie du Sud-Est",
+     "rubrique": "asie",
+     "liens": [
+      {
+       "source": "thephilbiznews",
+       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObzhIdFNYT01jTF9obVg1OVAyMzN1YlJQZjVlWmg4aGxJYVgxdlM0ZXNZYTF3MEs2Z2pldVZ3blAydnVlUDR2OVNrU2pKZ1lLbDAtQ1ZtdWU5REVHQnFvM3JSdGY4RVlIanJiYTJIU1ZvLUFYU0JDVGFWZkpyN05laDl5T0lEUW5VNGctakU3SWUxYWI1?oc=5",
+       "titre": "Japan, PH deepen defense ties amid regional tensions"
+      },
+      {
+       "source": "Yahoo!ニュース",
+       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OSk1iSFdZVnlFUzdTRS1aTG05S0owS0c5SUxwaWEwcUdnN1d3dHhFMkJBejFIcjRndmdOZGc0YjYyQldBLVF0a2F3Y19Bdkc5bjNNVlZlRXBhTHJkYnF4ZFIzeDRaVkNLSTNKS3cxdk82Mm5Pb3BmdmV4RGtqcmc?oc=5",
+       "titre": "【ミリタリーブリーフィング】自衛隊行事でも「ミサイルセールス」…フィリピンへの武器輸出に動く日本の思惑（2）"
+      },
+      {
+       "source": "Daily Tribune",
+       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVmVfNzkxQXQzRlB2NUtnemwtM3JSQUdqZWZwdFhBVUdkd1dvWGN0aUVUbEp1bTFVWFdFWU9PVUd6RjBxdkhreEJtU0IyeUkyaTFTY2VtVTg5TWc4M3N0ck9PTmE2WjBVU1ZhamlYQllCM29sY21ra0swb08wdFUzaVVGLTNvSGpELU9Udlo3eTJobG5DaUFpdkNjTmNuQQ?oc=5",
+       "titre": "Japan and Philippines Strengthen Defense Cooperation Amid Regional Challenges"
+      },
+      {
+       "source": "중앙일보",
+       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1zUDFyeGFhenBPbFVfVmNJVWRHVUxHUHJkUU96Qnl1bnVnNlQxMW80R25MMnpyVDBuY3NnMTBaYy1hZzhrMGg3aWszQ3NXeG5xaXdYaHVn?oc=5",
+       "titre": "자위대 행사서도 ‘미사일 세일즈’…필리핀 무기수출 나선 日 속내 [밀리터리 브리핑]"
+      }
+     ]
+    },
+    {
+     "emoji": "🚢",
+     "titre": "L'Australie arme ses drones sous-marins Ghost Shark de mines et drones",
+     "resume": "Canberra a validé l'emport de charges militaires sur le grand drone sous-marin autonome Ghost Shark. L'appareil pourra déployer jusqu'à douze mines marines ainsi que des drones aériens en soutien de la flotte conventionnelle.",
+     "pourquoi": "",
+     "pays": [
+      "Australie"
+     ],
+     "region": "Océanie",
+     "rubrique": "asie",
+     "liens": [
+      {
+       "source": "Ahram Online",
+       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5CWUhpQW5uUHh0dlBDS29yeUdpS091THdwek9WcjlyYjdLaG0wc2Nwc0UzZTVBN3hEUUdXYlRibVJaWE1zMF9iSmNtR1V2SVBTRXZrQ0M3cXM?oc=5",
+       "titre": "Infograph: Australia's 'Ghost Shark' submarines to carry armed aerial drones and sea mines - International - World"
+      },
+      {
+       "source": "UA.NEWS",
+       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYnAtZjZodWVhTDVvdWdyR0ZzbXozeVpBLVhFeXJoRGFRWGFTU3piMUtCMTNXYUZOWDB4WjBYbUZLeFppM2JCVi00aHpITVRjTFN3QXFBYS1FSzRkem5DZFU3N01keXdwMF8zdEhlY1Nja21qczRJdmdEV3ItekF0b2JwUEFiSWk2bU54aFpVV0t6TWNBTDhTSWlCaFljVWpmSTZsem9NWTY?oc=5",
+       "titre": "Australia approves equipping Ghost Shark with mines and drones — Channel NewsAsia"
+      },
+      {
+       "source": "CNA Monde",
+       "url": "https://www.channelnewsasia.com/world/australia-ghost-shark-submarine-drone-6471046",
+       "titre": "Australia's new 'Ghost Shark' submarines to carry aerial drones, sea mines"
+      },
+      {
+       "source": "Straits Times Asie",
+       "url": "https://www.straitstimes.com/asia/australianz/australia-says-unmanned-submarine-to-carry-mines-aerial-drones",
+       "titre": "Australia says unmanned submarine to carry mines, aerial drones"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "singapour",
+   "titre": "Singapour & ASEAN",
+   "items": [
+    {
+     "emoji": "🤝",
+     "titre": "La Malaisie offre son appui aérien contre les feux en Indonésie",
+     "resume": "Le vice-Premier ministre malaisien Ahmad Zahid a annoncé la mise en alerte d'aéronefs et de personnels pour intervenir dès l'accord de Jakarta. Le Premier ministre Anwar Ibrahim doit aborder la crise lors d'échanges bilatéraux prochains.",
+     "pourquoi": "",
+     "pays": [
+      "Malaisie",
+      "Indonésie"
+     ],
+     "region": "Asie du Sud-Est",
+     "rubrique": "singapour",
+     "liens": [
+      {
+       "source": "Straits Times Asie",
+       "url": "https://www.straitstimes.com/asia/se-asia/malaysia-offers-aircraft-personnel-to-fight-fires-awaiting-indonesias-approval-says-dpm-zahid",
+       "titre": "Malaysia offers aircraft, personnel to fight fires as it awaits Indonesia’s approval, says DPM Zahid"
+      }
+     ]
+    },
+    {
+     "emoji": "💻",
+     "titre": "Singapour propose 3 000 stages en technologies face à l'essor de l'IA",
+     "resume": "Singapour va financer 3 000 stages d'un an pour les étudiants des filières numériques supérieures afin de préserver l'emploi junior face à l'automatisation. Le programme vise à garantir l'acquisition de compétences avancées sur le marché local.",
+     "pourquoi": "",
+     "pays": [
+      "Singapour"
+     ],
+     "region": "Asie du Sud-Est",
+     "rubrique": "singapour",
+     "liens": [
+      {
+       "source": "CNA Singapour",
+       "url": "https://www.channelnewsasia.com/singapore/tech-ai-internships-jobs-ite-polytechnic-university-students-6471296",
+       "titre": "3,000 year-long internships to be offered to tertiary students as AI reshapes entry-level jobs"
+      },
+      {
+       "source": "Straits Times Singapour",
+       "url": "https://www.straitstimes.com/singapore/year-long-internships-offered-to-3000-tertiary-students-to-counter-ai-threat-to-entry-level-jobs",
+       "titre": "Year-long internships to be offered to 3,000 tertiary students to counter AI threat to entry-level jobs"
+      }
+     ]
+    },
+    {
+     "emoji": "🛩️",
+     "titre": "Brunei prépare la réception de ses premiers hélicoptères Airbus H145M",
+     "resume": "Les forces aériennes de Brunei finalisent les préparatifs pour l'accueil de leur premier lot d'hélicoptères légers Airbus H145M. L'appareil apportera un soutien accru aux missions de formation, de surveillance et d'appui opérationnel.",
+     "pourquoi": "",
+     "pays": [
+      "Brunei"
+     ],
+     "region": "Asie du Sud-Est",
+     "rubrique": "singapour",
+     "liens": [
+      {
+       "source": "Janes",
+       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSXcyLWtfSDNOMFoyZERrdjkyb0FPLVc1NkpaV0FxNFd4QUpLSUQ2VTVlS1VBTTlROXUyUnkzN2NEcGRYdDZnS2FBZlFpc2NhcFRpRmw0WXRNRUhzUGlILW90ME94RjFHNDlFZXJqdTZnRGlHODFqMnF4Yko4d0lzbXhJTlpac2lHVzNMUnFOQ2tRdTRaOGhMUkxpUERaMEYxXzJ3VUM0Q1habVJjT0o0VVB6bVJyZw?oc=5",
+       "titre": "Brunei prepares for first H145M deliveries"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "industrie",
+   "titre": "Industrie & contrats",
+   "items": [
+    {
+     "emoji": "📝",
+     "titre": "Raytheon remporte 729 M$ pour des systèmes anti-drones LIDS",
+     "resume": "L'armée américaine a attribué un contrat de 729 millions de dollars à Raytheon pour la fourniture du système anti-drones LIDS. La commande comprend des livraisons destinées aux forces américaines, au Qatar et à la Jordanie.",
+     "pourquoi": "Consolidation du marché C-UAS américain et confirmation de la demande soutenue des pays du Golfe.",
+     "pays": [
+      "États-Unis",
+      "Qatar",
+      "Jordanie"
+     ],
+     "region": "Amériques",
+     "rubrique": "industrie",
+     "liens": [
+      {
+       "source": "Calibre Defence",
+       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOb3VRRElQNlR6dnlkek1pUmQ5bmFMalk3QThfa09rWGI5V3NpMk1qSklYNlZIM3BzeXFQNl9GTU9wOC10ZGFzMk1oLXN3Sy05QnRmM1hRTVY5MUlSMDlSb0dBRTFSNnJmbTRhVVNGVXlhNkRrd1RTM3NaYm53bFlqMkRjeENRVnkwVUVhOHgtOA?oc=5",
+       "titre": "Raytheon wins $729m LIDS order for US, Qatar and Jordan"
+      }
+     ]
+    },
+    {
+     "emoji": "🚢",
+     "titre": "Le Danemark commande des missiles navals antinavires NSM à Kongsberg",
+     "resume": "Copenhague a conclu un accord de gouvernement à gouvernement avec la Norvège pour l'acquisition de missiles antinavires Naval Strike Missile. Ces armements équiperont les frégates danoises pour moderniser leur capacité de frappe navale.",
+     "pourquoi": "",
+     "pays": [
+      "Danemark",
+      "Norvège"
+     ],
+     "region": "Europe",
+     "rubrique": "industrie",
+     "liens": [
+      {
+       "source": "Naval News",
+       "url": "https://www.navalnews.com/naval-news/2026/10/denmark-procures-additional-naval-strike-missiles-from-kongsberg/",
+       "titre": "Denmark Procures Additional Naval Strike Missiles from Kongsberg"
+      }
+     ]
+    },
+    {
+     "emoji": "🚢",
+     "titre": "Rheinmetall et MSC reprennent le chantier naval de Mangalia",
+     "resume": "L'industriel de défense Rheinmetall s'est associé à MSC pour acquérir le chantier roumain de Mangalia pour 138 millions d'euros. Le site sera transformé en hub naval militaire et civil pour soutenir la mer Noire.",
+     "pourquoi": "",
+     "pays": [
+      "Allemagne",
+      "Roumanie"
+     ],
+     "region": "Europe",
+     "rubrique": "industrie",
+     "liens": [
+      {
+       "source": "Naval News",
+       "url": "https://www.navalnews.com/naval-news/2026/10/rheinmetall-to-take-over-the-mangalia-shipyard-in-romania/",
+       "titre": "Rheinmetall to take over the Mangalia shipyard in Romania"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "espace",
+   "titre": "Espace & satellites",
+   "items": [
+    {
+     "emoji": "🛰️",
+     "titre": "Un satellite militaire russe s'approche dangereusement d'ICEYE-X36",
+     "resume": "Un satellite espion russe a réduit sa distance à moins de cinq kilomètres du satellite radar commercial ICEYE-X36 en orbite basse. L'appareil ciblé fournit des flux d'imagerie radar indispensables à la conduite des opérations militaires ukrainiennes.",
+     "pourquoi": "Menace directe contre les capteurs spatiaux commerciaux soutenant la veille stratégique et le ciblage des alliés.",
+     "pays": [
+      "Russie",
+      "États-Unis",
+      "Ukraine"
+     ],
+     "region": "Russie-Ukraine",
+     "rubrique": "espace",
+     "liens": [
+      {
+       "source": "Tom's Hardware",
+       "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQRkNCaC1sS3B6NnZZYm1DbVpndDF4T2FVamlNOXBKWlRzSy03QTFyT05seFdzMHRoY01pYTFEZ2hJOUVWQjZsUno1bW9jZnpmeE9DWVQwSGd4a0hpV09jaU12MFVjMWNHNzI0UVRQNGRXam9vQmNfQ3E2X0NHYzhGMkRYVHlSVTh3TDd5OE02czJNUDYyRVRUeVdMdXY5cGI4TjM0UjN3LWVKTG1MNmVrV01DSkk5Qm5Za2JpUDV3Xy1ZSXFsOGVVaTY0bm11R2I4UUVyUTlaa1Y3ZUgwbVR3SUxyM01wVFZyTzltWWhXLTY1aEhDMzVsZi1oaldBbC1zZ0p1Z0ZjRHRoQW1HejJwdktWSEdwUXJfM3FNREJZYnRfVFhUM2dRQ3F3ZlZvaUpiSFZjYnRtX2pQeE9TNlByVHQydDQ?oc=5",
+       "titre": "Russian military satellite closes from 200 miles to 3 miles of US radar satellite aiding Ukraine — astronomer says it may be the first unapproved rendezvous in low Earth orbit"
+      },
+      {
+       "source": "AeroTime",
+       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPd19LbzNqaWJ4bEMwOGh0aVRfcWRZY0xFcHB2eHcyUW9HWmJQU1hCeHRseDhGX0RBOHIxRUlKRUUyd1VEeERDMzc4Zm1BQ1RoS1hINzJDSTlra0lJblY1bHFHd3NrbnFrdy1NWnNBY3Q5LUR2d19ya2d4X05uaFZ0MHNBMUdzRnRwMF9ZMmszMEl6R1UyTF9vYtIBmAFBVV95cUxPd19LbzNqaWJ4bEMwOGh0aVRfcWRZY0xFcHB2eHcyUW9HWmJQU1hCeHRseDhGX0RBOHIxRUlKRUUyd1VEeERDMzc4Zm1BQ1RoS1hINzJDSTlra0lJblY1bHFHd3NrbnFrdy1NWnNBY3Q5LUR2d19ya2d4X05uaFZ0MHNBMUdzRnRwMF9ZMmszMEl6R1UyTF9vYg?oc=5",
+       "titre": "ICEYE-X36 radar satellite had close approach with Russian military satellite"
+      },
+      {
+       "source": "TVP World",
+       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVzctZDVraUFqR0FSb09rRng4RVZNMFBSaVE4bDZDWXFzQk9nUkVTTFhQZm5iOTYydFRQZ214YnlLZjVzTTVBWjNsZ3YyYlVxTUFOeTltWjBUc3ZteGdRMElBblpQNWs0ZG11d3FwZjJLbVJHNDNTX0tBN09meVN6eF82SQ?oc=5",
+       "titre": "Russian satellite stalks spacecraft supplying imagery to Ukraine"
+      },
+      {
+       "source": "The SOFX Report",
+       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOU9fY2xweHpaZGhUMlJkNXFIZkl3eVRLUU4xTmJUWWUwMW5GR25OU3RVRG52cUtYREE3ZDZKMFRmcWpEdFh5dktFbURCLWpuVEFCVG9vZ3FEb09NaGNNb3d4SFRYeWE3NW9hQlNZNDRpWExzZmEycXV5Nl8tVmF5TFVDS3NwZ0ZpRFpkZzBXdk1SeXhaazB2bl9mZk5oeWZuQkJjZlZYUTVWMTBGWExwc2taVQ?oc=5",
+       "titre": "Russian Military Satellite Comes Within Three Miles of Ukraine-Linked ICEYE Radar Satellite"
+      }
+     ]
+    },
+    {
+     "emoji": "🛰️",
+     "titre": "L'Inde commande le satellite militaire GSAT-7C",
+     "resume": "Le ministère indien de la Défense a signé un contrat pour le satellite de communication militaire dédié GSAT-7C et de nouvelles torpilles. Ce système renforcera les transmissions sécurisées interarmées sur l'ensemble de l'océan Indien.",
+     "pourquoi": "",
+     "pays": [
+      "Inde"
+     ],
+     "region": "Asie du Sud",
+     "rubrique": "espace",
+     "liens": [
+      {
+       "source": "News On AIR",
+       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdllHM3lrVVNNZ3VKQTJpbFE1UmlCeGQ3M3pMVWZhV2Zua2ViRlB1Y0ZRNUFTY1RndV9vS29fZzdycHpzY1FHbGRjRkVwdkVRTjdnTmdabXVSVjlvOXVSdi1pV1c1VEItMjBuNzFMWXViYkNzNzRKU21kLUlpYkpxMGVkWVNmMWY3REJLQTl2am1aVTBhN1ZrMVR2b2lDT3dnbHFj?oc=5",
+       "titre": "MoD inks contract for GSAT-7C and Torpedoes to enhance defence capabilities"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tech",
+   "titre": "Technologies émergentes",
+   "items": [
+    {
+     "emoji": "🚀",
+     "titre": "Le Pakistan revendique un test hypersonique pour le missile Fatah-2",
+     "resume": "Les autorités pakistanaises ont annoncé le tir réussi du missile à longue portée Fatah-2 doté de capacités hypersoniques présumées. L'arme est présentée par Islamabad comme capable de manœuvrer pour contourner les réseaux multicouches antimissiles.",
+     "pourquoi": "",
+     "pays": [
+      "Pakistan",
+      "Inde"
+     ],
+     "region": "Asie du Sud",
+     "rubrique": "tech",
+     "liens": [
+      {
+       "source": "| Associated Press Of Pakistan",
+       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcmFCQjFiUllZOTlLbm9yemhwbWtrckhSQzhYRk5wUDBqdEx3dTNXXzkwMVVwUFFxWlEyYzdSbFhraG83dVJzbVhxc0h1MHFyX1laYnBrR0NCYXVoZFNqSU1tdFJudlBEQnA2bTdGejBDdWxLcFdSWVFkWDRLMUdHTVk4Z0ZYSWxyU0lwWUtsdjVOd0tZYzVPbXpfaXBNNGpaTV9rcHJWMmRkVVNYWmNKQzAtVmJ6Yk93ZzZVMVdoQVdOX1UtbElWcEVR?oc=5",
+       "titre": "Naqvi congratulates nation on successful Fatah-2 extended-range hypersonic ballistic missile test"
+      },
+      {
+       "source": "Defence.in",
+       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPX2pDNmNTOFFMNjYybFdOeEZJVVJ6VmVIMHB2ejJ3em1qVk9nMHR3X3VNTGNjTUtleWNZMEtNeXluMXI2VFg3TjhEa2dUZ01IZzFFeGxDVDJXek4xZjFQalhOY3FnTXR3SDNkMy1Kc3BabjZtMkZRS0x1SEdoNll2ellYd3NjNlIxNGU2NG1PNlRHd0tVZFJlY3g2M0plMlRDSkVOalhDMkV5QzRwWmNWblNCQ2RGbGZpTl9JY2lWZkZnYnYteHh1TmJPR3ZSUjA3aU01ZnVoaDJDRThHWURDSzIxNkY3VU5IUi1JdE0ybS1GR0k?oc=5",
+       "titre": "Pakistan Claims Hypersonic Capability with Extended-Range Fatah-II Test: Can It Challenge India's Evolving Multi-Tier Air Defence?"
+      }
+     ]
+    },
+    {
+     "emoji": "🚢",
+     "titre": "Apparition d'un second navire-mère chinois de drones sous-marins",
+     "resume": "Des images satellites prises à Canton révèlent la construction d'un second navire dédié au lancement et à la récupération de drones sous-marins lourds. Bien que plus compact que le premier prototype, il confirme l'industrialisation navale autonome chinoise.",
+     "pourquoi": "",
+     "pays": [
+      "Chine"
+     ],
+     "region": "Asie du Nord-Est",
+     "rubrique": "tech",
+     "liens": [
+      {
+       "source": "The War Zone",
+       "url": "https://www.twz.com/sea/second-chinese-submarine-drone-mothership-emerges",
+       "titre": "Second Chinese Submarine Drone Mothership Emerges"
+      },
+      {
+       "source": "Naval News",
+       "url": "https://www.navalnews.com/naval-news/2026/10/second-possible-chinese-uuv-mothership-appears-in-guangzhou/",
+       "titre": "Second Possible Chinese UUV Mothership Appears In Guangzhou"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cyber",
+   "titre": "Cyber & guerre électronique",
+   "items": [
+    {
+     "emoji": "💻",
+     "titre": "Deux opposants serbes visés par un logiciel espion étatique",
+     "resume": "Le laboratoire canadien Citizen Lab a révélé que deux figures de l'opposition politique en Serbie ont été ciblées par des cyberattaques de logiciels espions avancés. Les attaques ont infiltré leurs appareils mobiles personnels pour surveiller leurs communications.",
+     "pourquoi": "",
+     "pays": [
+      "Serbie"
+     ],
+     "region": "Europe",
+     "rubrique": "cyber",
+     "liens": [
+      {
+       "source": "Al-Monitor",
+       "url": "https://www.al-monitor.com/originals/2026/10/two-serbian-opposition-figures-targeted-spyware-research-group-says",
+       "titre": "Two Serbian opposition figures targeted with spyware, research group says"
+      }
+     ]
+    },
+    {
+     "emoji": "💻",
+     "titre": "Vol massif de données confidentielles chez l'hébergeur FirstVDS",
+     "resume": "Des pirates informatiques ont dérobé des identifiants et données de clients chez le grand hébergeur russe FirstVDS après exploitation d'une vulnérabilité serveur. L'intrusion affecte des milliers d'infrastructures administrées sur le réseau russe.",
+     "pourquoi": "",
+     "pays": [
+      "Russie"
+     ],
+     "region": "Russie-Ukraine",
+     "rubrique": "cyber",
+     "liens": [
+      {
+       "source": "The Record",
+       "url": "https://therecord.media/russia-cyberattack-firstvds-cloud",
+       "titre": "Hackers steal customer data from major Russian hosting provider FirstVDS"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "europe",
+   "titre": "Europe de la défense",
+   "items": [
+    {
+     "emoji": "🛡️",
+     "titre": "La Bulgarie négocie un renfort sol-air auprès de l'OTAN",
+     "resume": "Sofia mène des discussions formelles avec ses partenaires de l'OTAN pour obtenir des capacités accrues de surveillance et de défense aérienne. Les autorités bulgares s'inquiètent de la multiplication des frappes et survols de drones en mer Noire.",
+     "pourquoi": "",
+     "pays": [
+      "Bulgarie"
+     ],
+     "region": "Europe",
+     "rubrique": "europe",
+     "liens": [
+      {
+       "source": "БНР Новини",
+       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZUhlb25JdkpKa3NFbmlsU3NhVnNTTjhJMmlaZDVOUEpHemdjRjRuTVpLVFdTNGo4UkgyQ3lCQ3AxOW1TdVFHUzRnOTB4b3ZMaTRoLUlKdld5STB4UjV4eTVOY2Q5aXpyb0FfN2ZuVzYyVVVKbU0xaFN5UDVVWDdxMTRsLXowWjhFd3BDMEhCN1BrYmpja3lwUmtpV2xQS2M0dkE5VWxZTkxVU1dVTnluVA?oc=5",
+       "titre": "Bulgaria in talks with NATO allies to strengthen air surveillance and defence"
+      },
+      {
+       "source": "Le Courrier des Balkans",
+       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdll0anJoTmhaUW9OVkoyUmFOa3A1RWdBOGR2RXpOejlEMlFkYWozN21rcElObWZSM3BsTkRwSFFQeTNCa2xLdzJ6ODAxQmFGNFV5WlU1TmJrdEVHNmdDMWFFTmpWUkNqZVlHXzBKR2VUYWZfcUw2ak1oa1NIZngxRHAxMl85VkpUSjMxbG9USjVWWkhRb2ZyT0M4ajBLYjdoRnVRcDFMMl9qdll1SjdnakR1SWlzYy1jZUE?oc=5",
+       "titre": "La Bulgarie demande l’aide de l’Otan après les attaques de drones en mer Noire"
+      }
+     ]
+    },
+    {
+     "emoji": "🛡️",
+     "titre": "La Suède planifie des déploiements terrestres et Patriot dans l'OTAN",
+     "resume": "Stockholm a annoncé le déploiement de troupes en Finlande et en Lettonie dès 2027 au profit du flanc nord-est de l'Alliance. Les forces suédoises poursuivront en parallèle leurs opérations de batteries Patriot déployées en Pologne.",
+     "pourquoi": "",
+     "pays": [
+      "Suède",
+      "Pologne",
+      "Finlande",
+      "Lettonie"
+     ],
+     "region": "Europe",
+     "rubrique": "europe",
+     "liens": [
+      {
+       "source": "Defence Industry Europe",
+       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNU2h6SWpNVjUwcDk0TExTUW95amxoS0VqWEJ2RXFkdXhGV1g5dWxoSGpnVVVaaDY0dWdmSzgtV0NFSzV3X2pkQ0Q3XzlEMG9xdk9lNzh1QU9uYnpaQmhPOGVPZWVjS0U2cjcxS0FzUk5uN3hVVU5ZRTFkdlJpVmpfb0gxZXZQUlgtNjFsUUhMVFFLLUNzc3l0OFBQY3c4OFE2TXpodVF6NHFsWmtSU25ZZWlXOU5Ib0ZJMDQtc1ZWT3Y1N2pYNEFpRW9IMlBJbGk1MEZoZw?oc=5",
+       "titre": "Sweden plans NATO ground deployments in Finland and Latvia and continued Patriot operations in Poland in 2027"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ukraine",
+   "titre": "Ukraine / Russie",
+   "items": [
+    {
+     "emoji": "🛩️",
+     "titre": "Frappe de drones ukrainienne contre une raffinerie à Saint-Pétersbourg",
+     "resume": "Une attaque de drones à longue portée menée par Kyiv a incendié une raffinerie majeure à Saint-Pétersbourg, déjouant les défenses locales. Des centres de données et installations industrielles stratégiques russes ont également subi des frappes répétées.",
+     "pourquoi": "",
+     "pays": [
+      "Ukraine",
+      "Russie"
+     ],
+     "region": "Russie-Ukraine",
+     "rubrique": "ukraine",
+     "liens": [
+      {
+       "source": "The New Voice of Ukraine",
+       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOa2VMNDNhX1dUMWNmaTlxMGkxZEx2U0lJdnVTbWZ5UzdVT29XRVB6bkFJZC1OUHNFWnRuQ0xEZjc2cGtoREwwRVdScHEwZFF1amJrU0lzVG5SdFIxZjhKaldGZWZBLXRHY085WF9vMnRXaUNYUDFJYVV2TkZ4Z2JybHFaQko5eGpObTVLaVF3elJLRWwtTEZrUUl2S21mU2JqbHVDdzZMQ0JrZ19mU2JB0gGrAUFVX3lxTE9SS241czgyVTV4V0U2NXNpdlVUZWNfU1VCTXJSdjdpV2RoYXlUMUVEVEZmUVk0a0dleFJaVEF2dWNNWUg0b1NIR19rOGFMckFwR0Uyc2VuQWMxWExKWVZZSkU3a2hnTVVjempDbmNiV3ZjX2RlZnI4dXVHSktqVnViQjJzeEthbjNVRm5QR0wwSnJIZ1ByZk5idGdhZVViVFNEZktwTW13c1ZEYw?oc=5",
+       "titre": "Ukraine's biggest strike on St. Petersburg exposes Russian air defense flaws — ISW"
+      },
+      {
+       "source": "Asia Times",
+       "url": "https://asiatimes.com/2026/10/data-centers-in-the-line-of-fire-of-ukraine-war/",
+       "titre": "Data centers in the line of fire of Ukraine war"
+      },
+      {
+       "source": "CNA Monde",
+       "url": "https://www.channelnewsasia.com/world/ukraine-russia-saint-petersburg-strike-6469746",
+       "titre": "Ukraine sets Saint Petersburg refinery ablaze in large-scale drone attack"
+      },
+      {
+       "source": "EurAsian Times",
+       "url": "https://www.eurasiantimes.com/iran-hit-amazon-russia-struck-kyivs-data-centers-ukraine-hit-yandex/",
+       "titre": "Iran Hit Amazon. Russia Struck Kyiv’s Data Centers. Ukraine Hit Yandex. Can Such Attacks Trigger Article 51?"
+      }
+     ]
+    },
+    {
+     "emoji": "🤝",
+     "titre": "Échanges tendus entre Zelensky et les émissaires américains",
+     "resume": "Volodymyr Zelensky s'est entretenu avec les émissaires de paix de Donald Trump alors que Washington accentue la pression pour négocier. Kyiv a fermement rejeté l'idée d'un sommet tripartite États-Unis-Chine-Russie qui exclurait l'Ukraine.",
+     "pourquoi": "",
+     "pays": [
+      "Ukraine",
+      "États-Unis",
+      "Russie",
+      "Chine"
+     ],
+     "region": "Russie-Ukraine",
+     "rubrique": "ukraine",
+     "liens": [
+      {
+       "source": "Kyiv Independent",
+       "url": "https://kyivindependent.com/us-russia-china-summit-would-only-encourage-putin-to-continue-this-war-ukraine-says/",
+       "titre": "US-Russia-China summit would only 'encourage Putin to continue this war,' Ukraine says"
+      },
+      {
+       "source": "Japan Times",
+       "url": "https://www.japantimes.co.jp/news/2026/10/19/asia-pacific/politics/trump-xi-putin-summit-ukraine-taiwan-japan/",
+       "titre": "Possibility of Putin-Trump-Xi summit on Ukraine raises eyebrows in Asia"
+      },
+      {
+       "source": "CNA Monde",
+       "url": "https://www.channelnewsasia.com/world/ukraine-zelenskyy-us-envoys-trump-spat-6469886",
+       "titre": "Zelenskyy speaks to US envoys amid Trump spat"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "moyen_orient",
+   "titre": "Moyen-Orient",
+   "items": [
+    {
+     "emoji": "⚠️",
+     "titre": "Frappe meurtrière des Houthis au Yémen et offre d'aide égyptienne",
+     "resume": "Une attaque houthie contre un camp militaire des forces loyalistes à Chabwa a fait au moins 18 morts dans le sud du Yémen. Devant l'escalade régionale et les menaces sur les villes saoudiennes, l'Égypte s'est déclarée prête à soutenir Riyad.",
+     "pourquoi": "",
+     "pays": [
+      "Yémen",
+      "Arabie saoudite",
+      "Égypte"
+     ],
+     "region": "Moyen-Orient",
+     "rubrique": "moyen_orient",
+     "liens": [
+      {
+       "source": "The Washington Post",
+       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZGtCbG5ac2hIVjEwVDRyMDdrVi1jYkZOWS12X3hGd0p3aThvRkw4a1NvQjEyQlAweG5DdVlWdmlnbHFRTGNheHIzUkVmUzd0UVJfX1J5QnZOdHdwWHNTbm1VeW1SVWZQdTJzVzJBcEtzMWhGSjNRTU90WmxSME05bXg0bGZUOEFpVk93NnhTZXFOdzdVTzNVU3YwTmwzS3o5Q0d4ajlvMkhnRjZrUGc5Q0VaNV9rQ1FkNGRabWZlb3JJdw?oc=5",
+       "titre": "Houthi rebels strike a government military camp in southern Yemen, killing at least 20 fighters"
+      },
+      {
+       "source": "Reuters",
+       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSXFqMTJmVlRrSjR1NmNocW1VRWFpV1pSMjlNZDh1YXBsS2gyRkE0c19uRXJCQXN4Nklqajh6Tk4yeHhlRWRpWG81WXJMRVJmWXREaXZ2UkJfT3FNOFJndW9PNHBTZFRvVGJnbmFkeU10ZDlWdWY2N0kzVkFDVTh5NG0zZlZiM0N3bWthZmF2LUJjUXlEd29WOVRLZFdodFA0YlcwRl9fX0ptQ2dyN2I5RjVfRWJxRW1vYmF6VURGWQ?oc=5",
+       "titre": "At least 18 killed in Houthi attack on Yemeni government military camp in Shabwa, sources say"
+      },
+      {
+       "source": "The National",
+       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQaDBNcE5sZEMwNzJ0R3NKSWpCN2x5Q09NTW9PdDNnMWp3anh6SFBpVE11YUJOdk9jS29tWmhCeS01SkZDR1JJRkZUSTkwMzFkYTM2dFhzTEJrWGpaQkxlWXBwQWFqclpWSEtzaG5KWWQxUnQ2U1llODl0ckpSeVpaS18weGp5anNBRzNpZ2YtdHBYOWM0SzJ6QmZNTnRtXzA1YlByOFNFdm84TmEtMjEwZHE4VzlONFhLeHNIbmtXVmZoOW1nM2JFT2tmUGJBTl9ZbzQ5LXEtN1BqVW52alI0?oc=5",
+       "titre": "At least 18 reported dead in Houthi attack on Yemeni military camp"
+      },
+      {
+       "source": "The Hindu",
+       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNeUd3X2Y4RmtPQWtkZ3dnMUZYQUlnazNTX0pzTDZxNlhUMTg4MGR0M3AwaUlGMGZNYTdvNUZtUTZYQkdXcUJLNTJ4M0dCcWZpdE9yS0lHNTFVQ0RmV2VwVDd6S3V5RWsxaHQ2dkhwZVpOaXBrcTdhZVV1VnlZQjR0QU1CZ0ZRY0hVcUtKZk91VEZiQVN0R3Fyb3VjM3p6RkVOUUxwNW41aGZDSU9ISzlFNEpaZTJiclpMdHJwclUzQ2M4LU10Y0NBYVczS19LZDRFVHQ4cXVfTkhCMm03dDlUaHZxY1M4bkFxX2lRMNIB8wFBVV95cUxONVVfMkZBR01kLW1KQ3lwNWk2cTBHLVlXQzFMQ2NYUEZCLXlnRTRteVdSckZGdUVzWl93dWxaOFphT3FWQkpkckZKYUtWeTUxRW0wTkFFUVZvckdYbG82MEM5Mk8tU0ExZzlOcmpYVC1pdE9WZXllX1h4Q2FWV0JjOXVGS0ZWTy1wOXVVMjNkSjNVR3E3dEszSGdRZndldHM3UUdoaTM2UmQyWmZ1NkhWZVJaZHhDNnRmOHEzTlh3V2lpaUhwMlExRjh6TVBWbGwxaG9ZbEdIWGJmM09rRDVQQV95VUZ5NWZTNTlVY1FDVFFDWEU?oc=5",
+       "titre": "Houthi rebels strike government military camp in southern Yemen, killing at least 20 fighters"
+      }
+     ]
+    },
+    {
+     "emoji": "⚠️",
+     "titre": "Le PAM contraint de suspendre l'aide alimentaire à 500 000 Gazaouis",
+     "resume": "En raison d'un manque critique de financements étatiques, le Programme alimentaire mondial met fin à l'assistance de 500 000 personnes à Gaza. L'agence onusienne prévient que ses rations résiduelles ne couvriront plus que 1,1 million d'habitants.",
+     "pourquoi": "",
+     "pays": [
+      "Israël"
+     ],
+     "region": "Moyen-Orient",
+     "rubrique": "moyen_orient",
+     "liens": [
+      {
+       "source": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/10/19/wfp-cuts-aid-to-500000-palestinians-in-gaza-amid-funding-shortages?traffic_source=rss",
+       "titre": "WFP cuts aid to ‌500,000 Palestinians in Gaza amid funding shortages"
+      },
+      {
+       "source": "Le Monde International",
+       "url": "https://www.lemonde.fr/international/article/2026/10/19/a-gaza-le-manque-de-moyens-du-programme-alimentaire-mondial-entraine-une-reduction-drastique-de-l-aide-humanitaire_6797512_3210.html",
+       "titre": "A Gaza, le manque de moyens du Programme alimentaire mondial entraîne une réduction drastique de l’aide humanitaire"
+      },
+      {
+       "source": "Al-Monitor",
+       "url": "https://www.al-monitor.com/originals/2026/10/un-agency-slashes-gaza-food-aid-over-funding-warns-needs-persist",
+       "titre": "UN agency slashes Gaza food aid over funding, warns needs persist"
+      },
+      {
+       "source": "BBC World",
+       "url": "https://www.bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&at_campaign=rss",
+       "titre": "Funding shortages force World Food Programme to cut aid to Gaza"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "economie",
+   "titre": "Économie & sanctions",
+   "items": [
+    {
+     "emoji": "💰",
+     "titre": "Pékin durcit ses contrôles à l'exportation sur les tunneliers et le solaire",
+     "resume": "Le ministère chinois du Commerce imposera dès le 18 novembre de sévères contrôles à l'export sur les tunneliers et dragues pour des raisons de sécurité nationale. Des restrictions complémentaires sont également prévues sur les technologies de fabrication photovoltaïque.",
+     "pourquoi": "",
+     "pays": [
+      "Chine",
+      "Inde",
+      "États-Unis"
+     ],
+     "region": "Asie du Nord-Est",
+     "rubrique": "economie",
+     "liens": [
+      {
+       "source": "The Hindu",
+       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQa3pjN3pMYlhxc0h0WTVaeVRERzdoRmRWekx2dzB2bVhySmtwaHRfaTV5Sm5nSkIyT0dXOUNQY0RXeWZIektvd1QzbFlObG05Q0ZhZ2RNTnNtOWNfbUQ2dFNKOUk5eldIWG1XRFhPX0dtUUN3Z2txTWd5bVJNbzlXRlV1NFhiSlFxd0RZMDBtZFdXWlByaktRYmpidEFUWkFjTC1YdWNVUzVVZUVfYW9tZnVJbmlpaGNUYURPem5jeDRhYVlzbDJ6SmZrQkJ4ekk5bnZCRkhkOF9uRzVBdlhpaXUxNEFydGpxZURVQmZSTnhrd9IB-AFBVV95cUxQYi0ydG40czM1c09nOUZWVmFKcnZnY2IxRVl2Z3FUNzZ5eUx3ZUJjZHZsUnZOSnk5SVFnT3NkdTNDUHllYnR3OUZULUJIN2tLUDdHc283MVB1Xy00Y3V3bFgzLTZWMFo4UlpQcFVGZUxFLWlqTVk0VVJzYUt4bmgwUHhvVUZHeG5uNGRHS1N2YTBDRXBLNWFYYXc3eVkzVEVEaFJ6OVZjQ0tNMzVvc3ZVTzUyc1ZmRHR4SG1VQUpRTy1EZUpEWnp6ME0tSWp2TTVJSWVPTDFTZzF1QVhLRV9CdWRuTjBJQXR6S1lSMGZjTDcwZ1VSTU42RQ?oc=5",
+       "titre": "China imposes export controls on tunnel-boring machines sought by India, citing ‘national security’"
+      },
+      {
+       "source": "MLex",
+       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcjZmOEhya2hDTkIyaXpvQUxvcWlxRW1GLU8zZDNiMnhlN21pRWhhX3IzVFFNckJ4dXFKa1J2T18tUW9aNjhtN2ItbVFOTFU0TFl4WHFianU2S29PV0N3VFBEMzNFZFRzVTNwX3NURUZmMnZoYk1ESGpMRF9iWTQ2TXI3UXdpNFZ2QWpnUmUzWjFDakZuSjE1UWttdmZkOS14cVFuTTc2WnQ0YldvX3VhUDJQLXF5WnNTV2xSakZ2VVRDWmPSAVpBVV95cUxPR1BCRTFEUkI1TW9ncmlIZnRERnd5cndrbHpoVHc3cWZKa1BlcVZ2SzQ3VkM4SG1zUWpxVm1GcnEtVGlVZlliWmpKcFFJaEV5OE9yODBoOHFTcFE?oc=5",
+       "titre": "China imposes export controls on tunnel-boring machines targeting disputed regions"
+      },
+      {
+       "source": "Global Times",
+       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5XQXdla3NySzNLT0lMSEVkRHl6Zm5US0RtUmI0eEdHb3pQXzlGcXJtT1NSZHdJcUxWaDhvbHZ5MUpuVlMydWZyZ3pkS0hFcFk3WEJkR0xzUEc1OGdVTmRKNEF3?oc=5",
+       "titre": "China to impose export controls on tunnel boring machines from Nov 18"
+      },
+      {
+       "source": "Reuters",
+       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRTcxQnBKc2lsa0hUanFoVWY4NXlSS09QaFhELWpwWTlOYzAyRWdPMVEzcXhtbDc4UEduRk44VlhhYUkzRWswazNObUl6a2VodGxUaFF5Tkc4anhmbHVEMXBvd2JLaDRRMkpSUUpxdHRXMWRrQW1qNWh0dlFkWDhMbDhoQjFvTDBBcGtQWG5STWRzVUtBNW1MTEdyaHZCSVdaMjFIMjdBa3h5NHhjZDQxc0R5d3Vja0lVZjNzR2h4TThxME9pQkE?oc=5",
+       "titre": "China commerce ministry announces export controls for tunnel boring machines"
+      }
+     ]
+    },
+    {
+     "emoji": "💰",
+     "titre": "La croissance chinoise remonte à 4,5 % au troisième trimestre",
+     "resume": "Le PIB de la Chine a progressé de 4,5 % au troisième trimestre, soutenu principalement par un rebond des exportations d'équipements et d'électronique. La demande intérieure et le marché immobilier restent toutefois en net retrait.",
+     "pourquoi": "",
+     "pays": [
+      "Chine"
+     ],
+     "region": "Asie du Nord-Est",
+     "rubrique": "economie",
+     "liens": [
+      {
+       "source": "Al Jazeera",
+       "url": "https://www.aljazeera.com/economy/2026/10/19/chinas-economy-grows-4-5-percent-in-q3-beating-forecasts?traffic_source=rss",
+       "titre": "China’s economy grows 4.5 percent in Q3, beating forecasts"
+      },
+      {
+       "source": "Japan Times",
+       "url": "https://www.japantimes.co.jp/business/2026/10/19/china-economy-growth-rebound/",
+       "titre": "China’s growth rebound tops forecasts to close in on annual goal"
+      },
+      {
+       "source": "Reuters",
+       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPelFIVGVwcy1oY2RvRVlaQTl5REpEc1hfS0ZUb1lTeWN0M2tBbTctTWo4NzVXeWthQVNab2p1eUFYQ2xtejBoc1ktQlZFQXh1U3hOSWdNdlBzTzNvcThPMFVyNnIzSTgyQ3lXbW8taGQtTV92Vl9uUGZOWjc1cGp6NTJBTDNpcWpEUnRCMjhXcVRYNkVXSFNwaHF3UGFGU0NqZTZWZzJXc0FyX3BnUkxhVWVSNzI?oc=5",
+       "titre": "China's economic growth picks up as exports boom, consumers balk"
+      },
+      {
+       "source": "CNA Asie",
+       "url": "https://www.channelnewsasia.com/business/china-gdp-growth-data-september-2026-6470736",
+       "titre": "China's economy picks up pace in Q3 as exports power uneven recovery"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "elections",
+   "titre": "Élections & politique",
+   "items": [
+    {
+     "emoji": "🗳️",
+     "titre": "Débat tendu au Brésil à une semaine du second tour présidentiel",
+     "resume": "Lula et Flavio Bolsonaro ont échangé de vives attaques lors de l'ultime débat télévisé avant le scrutin présidentiel du 25 octobre. La campagne est marquée par un resserrement des intentions de vote et une profusion de désinformation générée par IA.",
+     "pourquoi": "",
+     "pays": [
+      "Brésil"
+     ],
+     "region": "Amériques",
+     "rubrique": "elections",
+     "liens": [
+      {
+       "source": "BBC World",
+       "url": "https://www.bbc.co.uk/news/articles/ck98zlzyqle3o?at_medium=RSS&at_campaign=rss",
+       "titre": "Personal attacks fire up debate before Brazil's run-off vote"
+      },
+      {
+       "source": "Reuters",
+       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdFVwLXM5N3lyN0xRc2hnNnFXU0VCZ1lub3RVT3ZBVTRuMlZxMUtaS0V2aFJ4NWhZNll1TWNkbTJUU1FtRWtVUjZNVzE4aWJHN0RJSHFVNm52Z09FTXVyZ3p2MlNoaXJ0X3ByZDhMUGRNemV4dGNMRDhOMzdKZWtDaXpKa2JRUVpHSFJaam9hYVkxQm5FbEpGLUN1NVdTNlQ2eEszdENTZEhVak5QRWU0VUtjTkJQZw?oc=5",
+       "titre": "Bolsonaro's lead over Lula narrows ahead of Brazil runoff, polls show"
+      },
+      {
+       "source": "University of Exeter News",
+       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1XejRNVjk3U0dEWFB2TEF1bFhiRm1VNUFVcHF3ZDRLSWdEZ0t6al9RdnNhZTlwT2RHYV9ySm53cUJXekhjNzEtVDNLbXMtS2ZjeWFSZ0dqZnZOaXNmQUV2V3ZGeUE0U01KbDNQVHpCVERSY25FRzRTaw?oc=5",
+       "titre": "Brazil presidential election"
+      },
+      {
+       "source": "Le Monde International",
+       "url": "https://www.lemonde.fr/international/article/2026/10/19/election-presidentielle-au-bresil-lors-d-un-debat-d-entre-deux-tours-lula-peine-a-defendre-son-bilan-flavio-bolsonaro-esquive-les-questions_6797510_3210.html",
+       "titre": "Election présidentielle au Brésil : lors d’un débat d’entre-deux-tours, Lula peine à défendre son bilan, Flavio Bolsonaro esquive les questions"
+      }
+     ]
+    },
+    {
+     "emoji": "🗳️",
+     "titre": "Trump apporte son soutien à Netanyahu avant le vote du 27 octobre",
+     "resume": "Donald Trump a officiellement appuyé Benjamin Netanyahu en vue des élections législatives israéliennes particulièrement serrées prévues le 27 octobre. Les partis politiques intensifient l'utilisation de vidéos truquées par IA pour disqualifier leurs rivaux.",
+     "pourquoi": "",
+     "pays": [
+      "Israël",
+      "États-Unis"
+     ],
+     "region": "Moyen-Orient",
+     "rubrique": "elections",
+     "liens": [
+      {
+       "source": "www.israelhayom.com",
+       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQanBCV3pLX2dKYkZDMXFjR1JfTFdTckJubGo0QjBzS2gzWjZxLXN3NVBmbWxtOEY2cGFOY3ZKaTNGcVBSZXBNU2lvTmY1WDFHQ292c3QyaGY3RFYxdEtWNjB1TGozb2lMWGtMVVZKNWd1aXRFOTc0aEF3NG1oOUxqZmhCcXRqU3RGbzJkQ3U0UjVPMHh2TVR0aDQwd01DaVJscDZNeg?oc=5",
+       "titre": "Ahead of elections, IDF chief orders military-wide leave freeze"
+      },
+      {
+       "source": "Al-Monitor",
+       "url": "https://www.al-monitor.com/originals/2026/10/arab-voter-turnout-could-make-or-break-netanyahu-israeli-election",
+       "titre": "Arab voter turnout could make or break Netanyahu in Israeli election"
+      },
+      {
+       "source": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/10/19/the-kingmakers-that-could-determine-israels-election?traffic_source=rss",
+       "titre": "The kingmakers who could determine Israel’s election"
+      },
+      {
+       "source": "Myanmar International TV",
+       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOR1ptcEs3TXpDdmV2V2RZUmUxaWdQZXg1cWU4RTZZbmFWUGk5aXBIb2RLTk0zMFJVNjJIVFBCUUo3M3pWeDllUUdjZjhQUURENkI0QXRteVRQOWxjbURpSUZiVDBNR0p5NFhMNXVyMFN2d0FJMkw5WkJLWGRiVHBjcktDdkJMR1F0VXZLU09MQmVhQXJJRGc?oc=5",
+       "titre": "Trump endorses Netanyahu for re-election as Israeli Prime Minister"
+      }
+     ]
+    },
+    {
+     "emoji": "🗳️",
+     "titre": "Yokohama élit un nouveau maire après un scandale d'abus",
+     "resume": "Les résidents de Yokohama ont élu Harasawa à la tête de la municipalité, rejetant l'ancien édile impliqué dans un scandale de harcèlement moral. Cette élection reflète une sévérité accrue des électeurs japonais quant à l'éthique de leurs dirigeants.",
+     "pourquoi": "",
+     "pays": [
+      "Japon"
+     ],
+     "region": "Asie du Nord-Est",
+     "rubrique": "elections",
+     "liens": [
+      {
+       "source": "Japan Today",
+       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcXoyN09LTU14MGNwZEJXbUVySjhydndEZ3gxSVpXRG1wZWFDZFZtX01kR2lnNzJ0ODg2V0dHRzRRdFV6cUNOMVMyOHZRNk5KVTRKWlBUYUt6b3pUc0M5SjFSVEhlSWhOU2xEbThTNUh5bHpKY1gwYzA3cWc4Vy1NQ2ZaMEFMV1dKZW9uSTBhN1VmSXU5N1ppZHltdlRhcjQ1SUt6SnJCaTRoeGxB?oc=5",
+       "titre": "Harasawa wins Yokohama election, defeating ex-mayor accused of abuse"
+      },
+      {
+       "source": "Japan Times",
+       "url": "https://www.japantimes.co.jp/news/2026/10/19/japan/politics/power-harassment-local-chief-election/",
+       "titre": "Why harassment scandals continue engulfing Japan’s local leaders"
+      },
+      {
+       "source": "NHKニュース",
+       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9nVGVVVFg2MkNTbWVoc3dkNU1BNmJkX0pyMnQyTFFQaXJMNi1OQlpOUk53enU1M3lMaVplaXFHNkdtVGZVcjBVRVhRMUhnSnBsMDkwU1JfZG8wajZjTkZlVGxOVQ?oc=5",
+       "titre": "Newcomer beats ex-mayor in Yokohama mayoral election | NHK WORLD-JAPAN News"
+      },
+      {
+       "source": "nippon.com",
+       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFNWtOM1czQ1M5dDVfQVRFeGwtTE1ReXNublFjSjdERGxhV2lTXzBzRzV2RFlocVVnSWtqZWh1WDZiNWxJYmRWRzFzXzYtTWxsNHBFZDNXRkNvdnVf?oc=5",
+       "titre": "Harasawa Wins Yokohama Mayoral Election"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "monde",
+   "titre": "Monde",
+   "items": [
+    {
+     "emoji": "⚠️",
+     "titre": "Tensions en France après de violentes émeutes urbaines",
+     "resume": "Le gouvernement français envisage des couvre-feux localisés après des manifestations contre la vie chère ayant conduit à plus de 1 800 arrestations. Emmanuel Macron a rejeté l'offre de démission du ministre de l'Intérieur tout en exigeant une révision tactique.",
+     "pourquoi": "",
+     "pays": [
+      "France"
+     ],
+     "region": "Europe",
+     "rubrique": "monde",
+     "liens": [
+      {
+       "source": "Al-Monitor",
+       "url": "https://www.al-monitor.com/originals/2026/10/macron-opens-gulf-tour-after-violent-protests-france",
+       "titre": "Macron opens Gulf tour after violent protests in France"
+      },
+      {
+       "source": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/10/19/frances-macron-declines-ministers-resignation-after-violent-protests?traffic_source=rss",
+       "titre": "France’s Macron declines minister’s resignation after violent protests"
+      },
+      {
+       "source": "BBC World",
+       "url": "https://www.bbc.co.uk/news/articles/crwyd02yz22vo?at_medium=RSS&at_campaign=rss",
+       "titre": "Katya Adler: France's government under pressure after weekend of widespread violence"
+      },
+      {
+       "source": "CNA Monde",
+       "url": "https://www.channelnewsasia.com/world/france-protest-macron-failures-decline-interior-minister-resign-6471036",
+       "titre": "Macron notes 'failures' after France unrest; declines interior minister's offer to resign"
+      }
+     ]
+    },
+    {
+     "emoji": "⚠️",
+     "titre": "Incendie meurtrier sur une base militaire en Alberta",
+     "resume": "Un feu de végétation fulgurant attisé par des vents extrêmes a traversé une base des forces canadiennes, causant la mort de quatre soldats et blessant grièvement 19 militaires. Le Premier ministre Mark Carney a salué le deuil national.",
+     "pourquoi": "",
+     "pays": [
+      "Canada"
+     ],
+     "region": "Amériques",
+     "rubrique": "monde",
+     "liens": [
+      {
+       "source": "BBC World",
+       "url": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss",
+       "titre": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'"
+      },
+      {
+       "source": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/10/19/how-a-grass-fire-at-a-canadian-military-base-killed-four-soldiers?traffic_source=rss",
+       "titre": "How a grass fire at a Canadian military base killed four soldiers"
+      },
+      {
+       "source": "Le Monde International",
+       "url": "https://www.lemonde.fr/international/video/2026/10/19/canada-la-nation-est-en-deuil-apres-un-incendie-sur-une-base-militaire-en-alberta-declare-mark-carney_6797496_3210.html",
+       "titre": "Canada : « la nation est en deuil » après un incendie sur une base militaire en Alberta, déclare Mark Carney"
+      },
+      {
+       "source": "CNA Monde",
+       "url": "https://www.channelnewsasia.com/world/strong-winds-fuelled-grass-fire-canadian-military-base-killed-four-6469826",
+       "titre": "Strong winds fuelled grass fire at Canadian military base that killed four"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "a_surveiller": [
+  {
+   "quand": "25 oct.",
+   "quoi": "Second tour de l'élection présidentielle au Brésil entre Lula et Flavio Bolsonaro",
+   "liens": [
+    {
+     "source": "Le Monde International",
+     "url": "https://www.lemonde.fr/international/article/2026/10/19/election-presidentielle-au-bresil-lors-d-un-debat-d-entre-deux-tours-lula-peine-a-defendre-son-bilan-flavio-bolsonaro-esquive-les-questions_6797510_3210.html",
+     "titre": "Election présidentielle au Brésil : lors d’un débat d’entre-deux-tours, Lula peine à défendre son bilan, Flavio Bolsonaro esquive les questions"
+    }
+   ]
+  },
+  {
+   "quand": "27 oct.",
+   "quoi": "Élections législatives en Israël",
+   "liens": [
+    {
+     "source": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/19/the-kingmakers-that-could-determine-israels-election?traffic_source=rss",
+     "titre": "The kingmakers who could determine Israel’s election"
+    },
+    {
+     "source": "Al-Monitor",
+     "url": "https://www.al-monitor.com/originals/2026/10/trump-backs-ally-netanyahu-ahead-israels-tight-election",
+     "titre": "Trump backs ally Netanyahu ahead of Israel's tight election"
+    },
+    {
+     "source": "Le Monde International",
+     "url": "https://www.lemonde.fr/international/article/2026/10/18/elections-legislatives-en-israel-les-candidats-inondent-la-campagne-de-deepfakes-generes-par-l-ia_6797124_3210.html",
+     "titre": "Elections législatives en Israël : les candidats inondent la campagne de deepfakes générés par l’IA"
+    }
+   ]
+  },
+  {
+   "quand": "29 oct.",
+   "quoi": "Fin de l'exercice militaire conjoint nippo-américain Keen Sword",
+   "liens": [
+    {
+     "source": "山陽新聞",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1mOE54MlJuY3ZnLV9NN3p4dktaOVB5ZzNtVEg4bVVUQjZ4YzJNV29UYlJPd19MSUdWR1d0LXRVeEROeUt3VnZXbkVJUnA5MkNEWUI4NkNkVXpFN1hZQkp3R0FndGthdUw2NkdzenNjOFJya0U?oc=5",
+     "titre": "大規模演習、石垣で開始式 自衛隊と米軍、２９日まで"
+    },
+    {
+     "source": "Straits Times Asie",
+     "url": "https://www.straitstimes.com/asia/east-asia/japan-deploys-long-range-missiles-for-joint-us-military-drill",
+     "titre": "Japan deploys long-range missiles for joint US military drill"
+    }
+   ]
+  },
+  {
+   "quand": "18 nov.",
+   "quoi": "Entrée en vigueur des contrôles renforcés à l'exportation de la Chine sur les tunneliers et dragues",
+   "liens": [
+    {
+     "source": "Global Times",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5XQXdla3NySzNLT0lMSEVkRHl6Zm5US0RtUmI0eEdHb3pQXzlGcXJtT1NSZHdJcUxWaDhvbHZ5MUpuVlMydWZyZ3pkS0hFcFk3WEJkR0xzUEc1OGdVTmRKNEF3?oc=5",
+     "titre": "China to impose export controls on tunnel boring machines from Nov 18"
+    }
+   ]
+  }
+ ],
+ "hebdo": null,
+ "stats": {
+  "articles": 556,
+  "sources": 58
+ }
+}
