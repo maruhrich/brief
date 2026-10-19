@@ -275,7 +275,8 @@ def brief_schema(cfg: dict) -> dict:
     return {
         "type": "object",
         "properties": {
-            "accroche": {"type": "string", "description": "1 to 2 sentences summing up the morning"},
+            "accroche": {"type": "array", "items": {"type": "string"},
+                         "description": "Exactly 3 short bullet points summing up the morning (12 words max each)"},
             "essentiel": {"type": "array", "items": item},
             "rubriques": {"type": "object", "properties": {i: {"type": "array", "items": item} for i in ids},
                           "required": ids},
@@ -328,6 +329,7 @@ Rules:
 - Factual, neutral tone. If information comes from a single party (e.g. a government), say so ("according to Beijing…").
 - Write dates as "October 19" (month then day), never as 2026-10-19.
 - Leave out: crime stories, sport, celebrities, advertising, dubious sources, local stories with no strategic significance.
+- "accroche": exactly 3 short bullet points giving the key takeaways of the morning, 12 words max each, no full stop.
 - "essentiel": the 3 to 5 most important events of the day, all topics combined, with their section. Do not repeat them in the sections.
 - In the sections, keep only what matters: about {cfg.get('sujets_par_jour', 15)} stories in total (excluding "essentiel"), never exceeding each section's maximum, most important first. A section may stay empty. Each story appears only once.
 - The reader may already have read the stories published in recent days (list P…). Do not republish them unless there is a new development. If there is one, write the story focusing on what is new and put the previous story's number in "suite_de" (e.g. "P12"). Otherwise "suite_de" is empty.
@@ -393,6 +395,11 @@ def finalize_items(items, by_id: dict, cfg: dict, rubrique: str | None = None,
     return out
 
 
+def bullets(value) -> list[str]:
+    items = value if isinstance(value, list) else [value or ""]
+    return [str(s).strip().lstrip("•-– ").rstrip(".") for s in items if str(s).strip()][:3]
+
+
 def ai_brief(cfg: dict, articles: list[dict], today: datetime, api_key: str, previous: list[dict]) -> dict:
     system, user = build_prompt(cfg, articles, today, previous)
     log(f"Appel Gemini ({len(articles)} articles, {len(previous)} sujets déjà publiés, ~{len(user) // 4000}k tokens)…")
@@ -403,7 +410,7 @@ def ai_brief(cfg: dict, articles: list[dict], today: datetime, api_key: str, pre
     return {
         "mode": "ia",
         "modele": model,
-        "accroche": (raw.get("accroche") or "").strip(),
+        "accroche": bullets(raw.get("accroche")),
         "essentiel": finalize_items(raw.get("essentiel"), by_id, cfg, None, prev)[:5],
         "rubriques": [{"id": r["id"], "titre": r["titre"],
                        "items": finalize_items(sections.get(r["id"]), by_id, cfg, r["id"], prev)[: r.get("max", 4)]}
@@ -529,7 +536,7 @@ def raw_brief(cfg: dict, articles: list[dict], reason: str) -> dict:
         "mode": "brut",
         "modele": None,
         "erreur": reason,
-        "accroche": "",  # l'app affiche déjà un bandeau « Résumé IA indisponible »
+        "accroche": [],  # l'app affiche déjà un bandeau « Résumé IA indisponible »
         "essentiel": [],
         "rubriques": [{"id": r["id"], "titre": r["titre"], "items": [
             {"emoji": "", "titre": a["titre"], "resume": a["resume"], "pourquoi": "", "pays": [], "region": "",

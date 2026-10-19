@@ -10,11 +10,7 @@
   },
   {
    "id": "asie",
-   "titre": "Asia-Pacific"
-  },
-  {
-   "id": "singapour",
-   "titre": "Singapore & ASEAN"
+   "titre": "APAC"
   },
   {
    "id": "elections",
@@ -25,12 +21,8 @@
    "titre": "Air & Missile Defence"
   },
   {
-   "id": "europe",
-   "titre": "European Defence"
-  },
-  {
    "id": "industrie",
-   "titre": "Industry & Contracts"
+   "titre": "Defence Industry & Contracts"
   },
   {
    "id": "ukraine",
@@ -39,6 +31,10 @@
   {
    "id": "moyen_orient",
    "titre": "Middle East"
+  },
+  {
+   "id": "europe",
+   "titre": "Europe"
   },
   {
    "id": "espace",

@@ -4,7 +4,11 @@
  "genere_le": "2026-10-19T21:03:44+08:00",
  "mode": "ia",
  "modele": "gemini-flash-latest",
- "accroche": "Australia has initiated a formal tender for Army medium-range air defence, while the US and Japan launch their largest-ever Keen Sword exercise amid renewed Russian ballistic strikes on Ukraine.",
+ "accroche": [
+  "Australia launches tender for Army medium-range air defence",
+  "US and Japan start their largest-ever Keen Sword exercise",
+  "Renewed Russian ballistic missile strikes on Ukraine"
+ ],
  "essentiel": [
   {
    "suite": false,
@@ -119,7 +123,7 @@
     "Indonesia"
    ],
    "region": "South-East Asia",
-   "rubrique": "singapour",
+   "rubrique": "asie",
    "liens": [
     {
      "source": "Straits Times Asie",
@@ -190,7 +194,7 @@
   },
   {
    "id": "asie",
-   "titre": "Asia-Pacific",
+   "titre": "APAC",
    "items": [
     {
      "suite": false,
@@ -253,13 +257,7 @@
       }
      ],
      "id": "2026-10-19|Second Chinese uncrewed submarine mothership spotted in Guangzhou"
-    }
-   ]
-  },
-  {
-   "id": "singapour",
-   "titre": "Singapore & ASEAN",
-   "items": [
+    },
     {
      "suite": false,
      "remplace": null,
@@ -272,7 +270,7 @@
       "Sweden"
      ],
      "region": "South-East Asia",
-     "rubrique": "singapour",
+     "rubrique": "asie",
      "liens": [
       {
        "source": "Straits Times Singapour",
@@ -429,38 +427,8 @@
    ]
   },
   {
-   "id": "europe",
-   "titre": "European Defence",
-   "items": [
-    {
-     "suite": false,
-     "remplace": null,
-     "emoji": "🛡️",
-     "titre": "Sweden outlines 2027 NATO ground and Patriot air defence deployments",
-     "resume": "Stockholm has detailed planned 2027 military deployments, committing ground forces to NATO forward presences in Finland and Latvia. Sweden also confirmed it will continue operating Patriot surface-to-air missile batteries in Poland.",
-     "pourquoi": "",
-     "pays": [
-      "Sweden",
-      "Finland",
-      "Latvia",
-      "Poland"
-     ],
-     "region": "Europe",
-     "rubrique": "europe",
-     "liens": [
-      {
-       "source": "Defence Industry Europe",
-       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNU2h6SWpNVjUwcDk0TExTUW95amxoS0VqWEJ2RXFkdXhGV1g5dWxoSGpnVVVaaDY0dWdmSzgtV0NFSzV3X2pkQ0Q3XzlEMG9xdk9lNzh1QU9uYnpaQmhPOGVPZWVjS0U2cjcxS0FzUk5uN3hVVU5ZRTFkdlJpVmpfb0gxZXZQUlgtNjFsUUhMVFFLLUNzc3l0OFBQY3c4OFE2TXpodVF6NHFsWmtSU25ZZWlXOU5Ib0ZJMDQtc1ZWT3Y1N2pYNEFpRW9IMlBJbGk1MEZoZw?oc=5",
-       "titre": "Sweden plans NATO ground deployments in Finland and Latvia and continued Patriot operations in Poland in 2027"
-      }
-     ],
-     "id": "2026-10-19|Sweden outlines 2027 NATO ground and Patriot air defence deployments"
-    }
-   ]
-  },
-  {
    "id": "industrie",
-   "titre": "Industry & Contracts",
+   "titre": "Defence Industry & Contracts",
    "items": [
     {
      "suite": false,
@@ -577,6 +545,36 @@
       }
      ],
      "id": "2026-10-19|Houthi missile strike kills 18 in Yemen as Egypt signals support for Riyadh"
+    }
+   ]
+  },
+  {
+   "id": "europe",
+   "titre": "Europe",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🛡️",
+     "titre": "Sweden outlines 2027 NATO ground and Patriot air defence deployments",
+     "resume": "Stockholm has detailed planned 2027 military deployments, committing ground forces to NATO forward presences in Finland and Latvia. Sweden also confirmed it will continue operating Patriot surface-to-air missile batteries in Poland.",
+     "pourquoi": "",
+     "pays": [
+      "Sweden",
+      "Finland",
+      "Latvia",
+      "Poland"
+     ],
+     "region": "Europe",
+     "rubrique": "europe",
+     "liens": [
+      {
+       "source": "Defence Industry Europe",
+       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNU2h6SWpNVjUwcDk0TExTUW95amxoS0VqWEJ2RXFkdXhGV1g5dWxoSGpnVVVaaDY0dWdmSzgtV0NFSzV3X2pkQ0Q3XzlEMG9xdk9lNzh1QU9uYnpaQmhPOGVPZWVjS0U2cjcxS0FzUk5uN3hVVU5ZRTFkdlJpVmpfb0gxZXZQUlgtNjFsUUhMVFFLLUNzc3l0OFBQY3c4OFE2TXpodVF6NHFsWmtSU25ZZWlXOU5Ib0ZJMDQtc1ZWT3Y1N2pYNEFpRW9IMlBJbGk1MEZoZw?oc=5",
+       "titre": "Sweden plans NATO ground deployments in Finland and Latvia and continued Patriot operations in Poland in 2027"
+      }
+     ],
+     "id": "2026-10-19|Sweden outlines 2027 NATO ground and Patriot air defence deployments"
     }
    ]
   },

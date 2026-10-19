@@ -221,9 +221,9 @@ function renderFilters(list) {
   const counts = {};
   for (const it of list) counts[it.rubrique] = (counts[it.rubrique] || 0) + 1;
   $('#chips').replaceChildren(
-    h('button', { class: `chip ${state.filter.rub ? '' : 'active'}`, type: 'button', onclick: () => setFilter({ rub: '' }) }, 'All'),
+    h('button', { class: `chip ${state.filter.rub ? '' : 'active'}`, type: 'button', 'data-rub': '', onclick: () => setFilter({ rub: '' }) }, 'All'),
     ...rubOrder().filter((r) => counts[r.id]).map((r) => h('button', {
-      class: `chip ${state.filter.rub === r.id ? 'active' : ''}`, type: 'button', style: rubColor(r.id),
+      class: `chip ${state.filter.rub === r.id ? 'active' : ''}`, type: 'button', style: rubColor(r.id), 'data-rub': r.id,
       onclick: () => setFilter({ rub: state.filter.rub === r.id ? '' : r.id }),
     }, h('span', { class: 'dot' }), r.titre, h('b', null, counts[r.id]))));
 
@@ -242,15 +242,54 @@ function renderFilters(list) {
       [...pays.keys()].sort((a, c) => a.localeCompare(c, 'en')).map((p) =>
         h('option', { value: `p:${p}`, selected: state.filter.place === `p:${p}` }, `${p} (${pays.get(p)})`))));
   const active = state.filter.rub || state.filter.place;
-  $('#filters').hidden = !list.length && !active;
-  $('#place').hidden = !regions.size && !pays.size && !state.filter.place;
+  $('#chips').hidden = !list.length && !active;
+  $('#place').hidden = (!regions.size && !pays.size && !state.filter.place) || $('#chips').hidden;
   $('#place').classList.toggle('active', !!state.filter.place);
 }
 
 function setFilter(patch) {
   Object.assign(state.filter, patch);
   renderBriefContent();
+  // Si on a changé de rubrique depuis la barre collée en haut, on revient au début de la liste
+  const anchor = $('#pile-head').hidden ? $('#place') : $('#pile-head');
+  const y = anchor.getBoundingClientRect().top + window.scrollY - $('.top').offsetHeight - 8;
+  if (window.scrollY > y) window.scrollTo({ top: y });
 }
+
+// ── Barre des rubriques collée en haut : met en avant la rubrique en cours de lecture ──
+
+function setHeaderHeight() {
+  document.documentElement.style.setProperty('--header-h', `${$('.top').offsetHeight}px`);
+}
+
+function highlightChip(id) {
+  const bar = $('#chips');
+  for (const c of bar.querySelectorAll('.chip')) {
+    const on = !state.filter.rub && id != null && c.dataset.rub === id;
+    if (on && !c.classList.contains('current')) {
+      bar.scrollLeft = c.offsetLeft - (bar.clientWidth - c.clientWidth) / 2;
+    }
+    c.classList.toggle('current', on);
+  }
+}
+
+// Rubrique en cours = la dernière dont le titre est passé sous la barre collée en haut
+function updateCurrentSection() {
+  const line = $('.top').offsetHeight + $('#chips').offsetHeight + 12;
+  let current = null;
+  for (const sec of document.querySelectorAll('#rubriques .rubrique')) {
+    if (sec.getBoundingClientRect().top - line <= 0) current = sec;
+    else break;
+  }
+  highlightChip(current ? current.id.slice(2) : null);
+}
+
+let scrollTick = false;
+window.addEventListener('scroll', () => {
+  if (scrollTick) return;
+  scrollTick = true;
+  requestAnimationFrame(() => { scrollTick = false; updateCurrentSection(); });
+}, { passive: true });
 
 // ── Sections ─────────────────────────────────────
 
@@ -359,6 +398,7 @@ function renderBriefContent() {
   if (!state.current) return;
   if (state.viewingLatest) renderLatest();
   else renderDay();
+  updateCurrentSection();
 }
 
 function renderHebdo(b) {
@@ -411,7 +451,10 @@ function renderArchive() {
 function render(b) {
   state.current = b;
   $('#title').textContent = fullDate(b.date);
-  $('#accroche').textContent = b.accroche || '';
+  setHeaderHeight();
+  // Accroche : 3 puces (les anciens briefs ont une phrase simple)
+  const hook = Array.isArray(b.accroche) ? b.accroche : (b.accroche ? [b.accroche] : []);
+  $('#accroche').replaceChildren(...(hook.length ? [h('ul', null, hook.map((t) => h('li', null, t)))] : []));
   renderBanner(b);
   renderHebdo(b);
   renderBriefContent();
@@ -792,6 +835,7 @@ async function load(date) {
   if (navigator.clearAppBadge) navigator.clearAppBadge().catch(() => {});
 }
 
+window.addEventListener('resize', setHeaderHeight);
 $('#refresh').addEventListener('click', () => load());
 $('#btn-search').addEventListener('click', () => show(state.view === 'search' ? 'brief' : 'search'));
 $('#btn-favs').addEventListener('click', () => show(state.view === 'favs' ? 'brief' : 'favs'));
