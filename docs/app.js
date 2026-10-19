@@ -122,14 +122,6 @@ function setRead(ids, read) {
   store('lus', state.lus);
 }
 
-function markAll(ids) {
-  if (!ids.length) return;
-  setRead(ids, true);
-  renderBriefContent();
-  toast(`${plural(ids.length, 'story', 'stories')} marked as read`,
-    'Undo', () => { setRead(ids, false); renderBriefContent(); });
-}
-
 function onCheck(id, btn) {
   const el = btn.closest('[data-id]');
   const read = !isRead(id);
@@ -144,17 +136,6 @@ function onCheck(id, btn) {
     toast('Marked as read', 'Undo', () => { setRead([id], false); renderBriefContent(); });
   } else {
     renderBriefContent();
-  }
-}
-
-// Ouvrir la source compte comme une lecture (sans faire disparaître le sujet tout de suite)
-function onSourceClick(id, el) {
-  if (isRead(id)) return;
-  setRead([id], true);
-  const box = el.closest('[data-id]');
-  if (box) {
-    box.classList.add('is-read');
-    box.querySelector('.act.check')?.classList.add('on');
   }
 }
 
@@ -187,10 +168,9 @@ function iconBtn(svg, label, onclick, extraClass) {
   return b;
 }
 
-function sources(links, id) {
+function sources(links) {
   return (links || []).map((l) => h('a', {
     class: 'src', href: safeUrl(l.url), target: '_blank', rel: 'noopener', title: l.titre || '',
-    onclick: id ? (e) => onSourceClick(id, e.currentTarget) : null,
   }, `${l.source} ↗`));
 }
 
@@ -210,7 +190,7 @@ function itemBody(it, date, opts = {}) {
     h('h3', null, it.emoji && h('span', { class: 'emoji', 'aria-hidden': 'true' }, it.emoji), it.titre),
     it.resume && h('p', { class: 'resume' }, it.resume),
     h('div', { class: 'item-foot' },
-      h('div', { class: 'foot-info' }, (it.pays || []).map((p) => h('span', { class: 'tag' }, p)), sources(it.liens, id)),
+      h('div', { class: 'foot-info' }, (it.pays || []).map((p) => h('span', { class: 'tag' }, p)), sources(it.liens)),
       h('div', { class: 'foot-actions' }, check, fav, iconBtn(ICON_ASK, 'Ask AI about this story', () => openAsk(it, date), 'ask'))),
   ];
 }
@@ -297,14 +277,9 @@ function renderSections(groups, opts) {
     const items = groups[r.id] || [];
     if (!items.length) continue;
     shown += items.length;
-    const unreadIds = items.map((x) => itemId(x.it, x.date)).filter((id) => !isRead(id));
     box.append(h('details', { class: 'rubrique', id: `r-${r.id}`, open: true, style: rubColor(r.id) },
       h('summary', null,
         h('span', { class: 'dot' }), h('h2', null, r.titre),
-        opts.pile && unreadIds.length > 0 && h('button', {
-          class: 'mark-all small', type: 'button',
-          onclick: (e) => { e.preventDefault(); e.stopPropagation(); markAll(unreadIds); },
-        }, '✓ All read'),
         h('span', { class: 'chev', 'aria-hidden': 'true' }, '▾')),
       items.map(({ it, date }) => itemEl(it, date, {
         pile: opts.pile, day: opts.pile ? dayLabel(date, state.current.date) : null,
@@ -339,11 +314,7 @@ function renderLatest() {
   const head = $('#pile-head');
   head.hidden = false;
   head.replaceChildren(
-    h('h2', null, 'To read', h('span', { class: 'pile-count' }, unread.length ? `${unread.length} unread` : '')),
-    filtered.some((p) => !isRead(p.id)) && h('button', {
-      class: 'mark-all', type: 'button',
-      onclick: () => markAll(filtered.filter((p) => !isRead(p.id)).map((p) => p.id)),
-    }, '✓ Mark all read'));
+    h('h2', null, 'To read', h('span', { class: 'pile-count' }, unread.length ? `${unread.length} unread` : '')));
 
   const groups = {};
   for (const p of filtered) (groups[p.rubrique] = groups[p.rubrique] || []).push({ it: p, date: p.date });
