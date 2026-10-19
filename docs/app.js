@@ -411,7 +411,6 @@ function renderArchive() {
 function render(b) {
   state.current = b;
   $('#title').textContent = fullDate(b.date);
-  $('#updated').textContent = `Update ${b.genere_le.slice(11, 13)}h${b.genere_le.slice(14, 16)}`;
   $('#accroche').textContent = b.accroche || '';
   renderBanner(b);
   renderHebdo(b);
@@ -783,7 +782,6 @@ async function load(date) {
     if (state.view !== 'brief') show('brief');
     else window.scrollTo({ top: 0 });
   } catch (err) {
-    $('#updated').textContent = 'Couldn’t load the brief.';
     $('#banner').textContent = navigator.onLine
       ? 'No brief published yet. The first one will arrive at the next automatic run.'
       : 'No connection and no saved brief.';

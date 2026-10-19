@@ -1,7 +1,7 @@
 // Garde l'app et le dernier brief en cache pour pouvoir les lire hors connexion.
 // Toujours la version en ligne d'abord : le cache ne sert que sans réseau.
-const VERSION = 'brief-v8';
-const SHELL = ['./', 'index.html', 'style.css?v=8', 'app.js?v=8', 'manifest.webmanifest',
+const VERSION = 'brief-v9';
+const SHELL = ['./', 'index.html', 'style.css?v=9', 'app.js?v=9', 'manifest.webmanifest',
   'icons/icon-192.png', 'icons/apple-touch-icon.png'];
 
 self.addEventListener('install', (event) => {
