@@ -191,7 +191,7 @@ function itemBody(it, date, opts = {}) {
     h('h3', null, it.emoji && h('span', { class: 'emoji', 'aria-hidden': 'true' }, it.emoji), it.titre),
     it.resume && h('p', { class: 'resume' }, it.resume),
     h('div', { class: 'item-foot' },
-      h('div', { class: 'foot-info' }, (it.pays || []).map((p) => h('span', { class: 'tag' }, p)), sources(it.liens)),
+      h('div', { class: 'foot-info' }, sources(it.liens)),
       h('div', { class: 'foot-actions' }, check, fav, iconBtn(ICON_ASK, 'Ask AI about this story', () => openAsk(it, date), 'ask'))),
   ];
 }
