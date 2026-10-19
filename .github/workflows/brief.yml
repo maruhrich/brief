@@ -1,0 +1,75 @@
+name: Brief quotidien
+
+on:
+  schedule:
+    - cron: "50 22 * * *"   # 06h50 à Singapour (UTC+8)
+    - cron: "25 23 * * *"   # 07h25 : rattrapage si le premier lancement a sauté
+  workflow_dispatch:        # bouton « Run workflow » pour lancer à la main
+  push:
+    branches: [main]
+    paths: ["docs/**", "!docs/data/**"]   # republie l'app quand on modifie son code
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: brief
+  cancel-in-progress: false
+
+jobs:
+  brief:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-python@v7
+        if: github.event_name != 'push'
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Installer les dépendances
+        if: github.event_name != 'push'
+        run: pip install -r requirements.txt
+
+      - name: Générer le brief
+        id: brief
+        if: github.event_name != 'push'
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python brief.py ${{ github.event_name == 'schedule' && '--skip-if-done' || '' }}
+
+      - name: Archiver le brief dans le dépôt
+        if: steps.brief.outputs.generated == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/data
+          git commit -m "Brief du ${{ steps.brief.outputs.date }}"
+          git pull --rebase
+          git push
+
+      - uses: actions/configure-pages@v6
+        if: steps.brief.outputs.generated == 'true' || github.event_name == 'push'
+
+      - uses: actions/upload-pages-artifact@v5
+        if: steps.brief.outputs.generated == 'true' || github.event_name == 'push'
+        with:
+          path: docs
+
+      - id: deploy
+        uses: actions/deploy-pages@v5
+        if: steps.brief.outputs.generated == 'true' || github.event_name == 'push'
+
+      - name: Notification sur le téléphone (7h45)
+        if: steps.brief.outputs.generated == 'true'
+        env:
+          PUSH_SUBSCRIPTION: ${{ secrets.PUSH_SUBSCRIPTION }}
+          VAPID_PRIVATE_KEY: ${{ secrets.VAPID_PRIVATE_KEY }}
+          VAPID_SUB: https://${{ github.repository_owner }}.github.io
+        run: python notify.py ${{ github.event_name == 'schedule' && '--at 07:45' || '' }}

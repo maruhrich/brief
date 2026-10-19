@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="robots" content="noindex, nofollow">
+  <title>Brief Défense</title>
+  <meta name="description" content="Brief quotidien défense et géopolitique, Asie-Pacifique et défense aérienne">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" type="image/png" href="icons/icon-192.png">
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="Brief">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="theme-color" content="#f4f4f1" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#0c0f14" media="(prefers-color-scheme: dark)">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="top">
+    <div class="wrap top-inner">
+      <div class="top-row">
+        <button id="back" class="icon-btn" type="button" aria-label="Retour au brief" hidden>
+          <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M15 5l-7 7 7 7" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        </button>
+        <p class="kicker">Défense &amp; géopolitique</p>
+        <div class="top-actions">
+        <button id="btn-search" class="icon-btn" type="button" aria-label="Rechercher">
+          <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><circle cx="11" cy="11" r="6.5" fill="none" stroke="currentColor" stroke-width="2"/><path d="M16 16l4.5 4.5" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+        </button>
+        <button id="btn-favs" class="icon-btn" type="button" aria-label="Favoris">
+          <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M12 3.5l2.6 5.3 5.9.9-4.3 4.1 1 5.8L12 16.8l-5.2 2.8 1-5.8-4.3-4.1 5.9-.9z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg>
+          <span id="fav-count" class="badge" hidden></span>
+        </button>
+        <button id="refresh" class="icon-btn" type="button" aria-label="Actualiser">
+          <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M20 12a8 8 0 1 1-2.34-5.66M20 4v4h-4" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        </button>
+        </div>
+      </div>
+      <h1 id="title">Brief du jour</h1>
+      <p class="updated" id="updated">Chargement…</p>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <div id="view-brief">
+      <div id="banner" class="banner" hidden></div>
+      <div id="hebdo" hidden></div>
+      <p id="accroche" class="accroche"></p>
+      <div id="filters" class="filters" hidden>
+        <nav id="chips" class="chips" aria-label="Rubriques"></nav>
+        <select id="place" class="place" aria-label="Filtrer par région ou pays"></select>
+      </div>
+      <section id="essentiel" class="essentiel" hidden></section>
+      <div id="rubriques"></div>
+      <section id="watch" class="watch" hidden></section>
+      <section class="panel archive">
+        <label for="archive-select">Briefs précédents</label>
+        <select id="archive-select"></select>
+      </section>
+      <button id="hebdo-link" class="link-btn" type="button" hidden></button>
+      <section class="panel notif">
+        <h2>Notifications</h2>
+        <p id="notif-status">Chargement…</p>
+        <textarea id="notif-code" rows="4" readonly hidden></textarea>
+        <button id="notif-btn" class="primary-btn" type="button" hidden></button>
+      </section>
+      <footer id="meta" class="meta"></footer>
+    </div>
+
+    <div id="view-search" hidden>
+      <input id="q" class="search-input" type="search" placeholder="Patriot, Taïwan, Thales…" autocomplete="off" enterkeyhint="search">
+      <div id="search-results"></div>
+    </div>
+
+    <div id="view-favs" hidden>
+      <h2 class="view-title">Favoris</h2>
+      <div id="favs-list"></div>
+    </div>
+  </main>
+
+  <div id="toast" class="toast" role="status" hidden></div>
+
+  <div id="install-tip" class="install-tip" hidden>
+    <p>Pour l'ajouter à l'écran d'accueil : bouton <strong>Partager</strong> puis <strong>« Sur l'écran d'accueil »</strong>.</p>
+    <button type="button" id="install-close" aria-label="Fermer">✕</button>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

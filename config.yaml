@@ -1,0 +1,213 @@
+# ─────────────────────────────────────────────────────────────
+#  Réglages du brief quotidien
+#  Modifie ce fichier pour changer les sujets, les sources, l'heure…
+# ─────────────────────────────────────────────────────────────
+
+# Pour qui le brief est écrit (l'IA adapte le tri et le « pourquoi c'est important »)
+profil: >
+  Professionnelle de l'industrie de défense européenne basée à Singapour,
+  spécialisée en défense aérienne (IAMD, défense sol-air, C2, radars, lutte anti-drones).
+  Veut être bien informée sur la géopolitique et la défense en Asie-Pacifique,
+  ainsi que sur les grands événements mondiaux (élections, conflits, diplomatie).
+
+langue: français
+fuseau: Asia/Singapore
+heures: 24              # on garde les articles publiés dans les dernières X heures
+max_par_flux: 25        # nombre max d'articles lus par flux RSS
+max_par_recherche: 15   # nombre max d'articles lus par recherche Google News
+max_articles_ia: 650    # plafond total envoyé à l'IA
+# Médias ignorés (souvent remontés par Google News, peu fiables ou hors sujet)
+sources_exclues: [Facebook, YouTube, Instagram, TikTok, X, World Socialist Web Site, Vietnam.vn, Sputnik, RT]
+synthese_hebdo: lundi   # jour de la synthèse de la semaine (ou « non »)
+
+# Modèle IA (Google Gemini, offre gratuite). Les suivants servent de secours.
+modeles:
+  - gemini-flash-latest
+  - gemini-3.6-flash
+  - gemini-3.5-flash-lite
+
+# ── Rubriques du brief (dans l'ordre d'affichage) ───────────
+# max       : nombre maximum de sujets dans la rubrique
+# consigne  : ce que l'IA doit y mettre
+# mots_cles : utilisés seulement si l'IA est indisponible (classement simple)
+rubriques:
+  - id: defense_aerienne
+    titre: Défense aérienne & antimissile
+    max: 4
+    consigne: >
+      Défense aérienne et antimissile (IAMD, sol-air, GBAD), radars, C2, lutte anti-drones (C-UAS),
+      aviation de combat, frappes de missiles ou de drones et leur interception, partout dans le monde.
+    mots_cles: [air defense, air defence, missile defense, interceptor, iamd, gbad, patriot, thaad, samp/t,
+                c-uas, counter-drone, antimissile, défense aérienne, sol-air, 防空, 방공]
+
+  - id: asie
+    titre: Asie-Pacifique
+    max: 4
+    consigne: >
+      Sécurité et géopolitique en Asie-Pacifique (hors Asie du Sud-Est) : Chine, Taïwan, mer de Chine,
+      Corées, Japon, Inde, Pakistan, Australie, Pacifique.
+    mots_cles: [china, taiwan, korea, japan, india, pakistan, australia, south china sea, pla, chine, taïwan,
+                corée, japon, inde, australie]
+
+  - id: singapour
+    titre: Singapour & ASEAN
+    max: 3
+    consigne: >
+      Singapour (SAF, RSAF, MINDEF, politique, économie, relations extérieures) et Asie du Sud-Est :
+      Malaisie, Indonésie, Philippines, Vietnam, Thaïlande, Myanmar, ASEAN.
+    mots_cles: [singapore, singapour, mindef, rsaf, asean, malaysia, indonesia, philippines, vietnam, thailand,
+                myanmar, cambodia, malaisie, indonésie, thaïlande]
+
+  - id: industrie
+    titre: Industrie & contrats
+    max: 3
+    consigne: >
+      Contrats et programmes d'armement, budgets de défense, exportations, actualité des industriels
+      (Airbus, Thales, MBDA, Lockheed Martin, RTX, Hanwha, Rafael, Saab, KAI…), en priorité en Asie.
+    mots_cles: [contract, contrat, procurement, acquisition, tender, budget, airbus, thales, mbda, lockheed,
+                raytheon, rtx, hanwha, rafael, boeing, saab, defence industry, industrie]
+
+  - id: espace
+    titre: Espace & satellites
+    max: 2
+    consigne: >
+      Spatial militaire et dual : satellites d'observation et de télécommunication, alerte avancée,
+      lancements, programmes spatiaux nationaux, menaces antisatellites.
+    mots_cles: [satellite, space force, launch, orbit, spatial, espace, rocket, fusée]
+
+  - id: tech
+    titre: Technologies émergentes
+    max: 2
+    consigne: >
+      Technologies militaires de rupture : hypersonique, IA militaire, essaims de drones, armes à énergie
+      dirigée (lasers, micro-ondes), quantique, autonomie.
+    mots_cles: [hypersonic, hypersonique, laser, directed energy, drone swarm, essaim, artificial intelligence,
+                quantum, quantique, autonomous]
+
+  - id: cyber
+    titre: Cyber & guerre électronique
+    max: 2
+    consigne: >
+      Cyberattaques étatiques, espionnage numérique, guerre électronique, brouillage GPS / GNSS.
+    mots_cles: [cyber, hacker, ransomware, electronic warfare, jamming, brouillage, spoofing]
+
+  - id: europe
+    titre: Europe de la défense
+    max: 2
+    consigne: >
+      UNIQUEMENT la défense et la sécurité européennes : OTAN, armées européennes, budgets et programmes
+      (SAMP/T, ESSI, SCAF/FCAS, GCAP…), politique de défense française. La politique intérieure européenne
+      (manifestations, émeutes, gouvernements) va dans « monde ».
+    mots_cles: [nato, otan, european defence, defense européenne, bundeswehr, ministère des armées, essi]
+
+  - id: ukraine
+    titre: Ukraine / Russie
+    max: 2
+    consigne: >
+      Guerre en Ukraine et Russie : front, frappes de missiles et de drones, défense aérienne ukrainienne,
+      négociations, sanctions liées.
+    mots_cles: [ukraine, russia, russie, kyiv, kiev, moscow, moscou, kremlin, zelensky, putin, poutine]
+
+  - id: moyen_orient
+    titre: Moyen-Orient
+    max: 2
+    consigne: >
+      Iran, Israël, Gaza, Liban, Syrie, Golfe, Yémen / Houthis, mer Rouge.
+    mots_cles: [iran, israel, israël, gaza, lebanon, liban, syria, syrie, houthi, yemen, yémen, saudi, red sea]
+
+  - id: economie
+    titre: Économie & sanctions
+    max: 2
+    consigne: >
+      Contrôles à l'export, sanctions, guerre commerciale, chaînes d'approvisionnement stratégiques
+      (semi-conducteurs, terres rares, énergie).
+    mots_cles: [sanction, export control, tariff, droits de douane, semiconductor, semi-conducteur, rare earth,
+                terres rares, supply chain]
+
+  - id: elections
+    titre: Élections & politique
+    max: 3
+    consigne: >
+      Élections, changements de gouvernement et crises politiques majeures dans le monde (Asie en priorité),
+      avec dates et résultats quand ils sont connus.
+    mots_cles: [election, élection, vote, ballot, referendum, référendum, législatives, présidentielle,
+                prime minister, premier ministre, parliament, 선거, 選挙]
+
+  - id: monde
+    titre: Monde
+    max: 2
+    consigne: >
+      Autres actualités internationales majeures qui n'entrent dans aucune autre rubrique : politique
+      intérieure européenne et américaine, Afrique, Amérique latine, diplomatie mondiale.
+    mots_cles: []
+
+# ── Flux RSS ────────────────────────────────────────────────
+# rubrique : rubrique par défaut si l'IA est indisponible
+sources:
+  # Défense
+  - { nom: Defense News,          url: "https://www.defensenews.com/arc/outboundfeeds/rss/?outputType=xml", rubrique: industrie }
+  - { nom: C4ISRNet,              url: "https://www.c4isrnet.com/arc/outboundfeeds/rss/?outputType=xml", rubrique: tech }
+  - { nom: The War Zone,          url: "https://www.twz.com/feed", rubrique: defense_aerienne }
+  - { nom: Naval News,            url: "https://www.navalnews.com/feed/", rubrique: industrie }
+  - { nom: Asian Military Review, url: "https://www.asianmilitaryreview.com/feed/", rubrique: industrie }
+  - { nom: EurAsian Times,        url: "https://www.eurasiantimes.com/feed/", rubrique: defense_aerienne }
+  - { nom: War on the Rocks,      url: "https://warontherocks.com/feed/", rubrique: monde }
+  - { nom: Opex360,               url: "https://www.opex360.com/feed/", rubrique: europe }
+  - { nom: FOB,                   url: "https://www.forcesoperations.com/feed/", rubrique: industrie }
+  - { nom: SpaceNews,             url: "https://spacenews.com/feed/", rubrique: espace }
+  - { nom: The Record,            url: "https://therecord.media/feed", rubrique: cyber }
+  # Asie-Pacifique
+  - { nom: The Diplomat,          url: "https://thediplomat.com/feed/", rubrique: asie }
+  - { nom: CNA Asie,              url: "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=6511", rubrique: asie }
+  - { nom: Straits Times Asie,    url: "https://www.straitstimes.com/news/asia/rss.xml", rubrique: asie }
+  - { nom: Japan Times,           url: "https://www.japantimes.co.jp/feed/", rubrique: asie }
+  - { nom: Yonhap (Corée du Nord), url: "https://en.yna.co.kr/RSS/nk.xml", rubrique: asie }
+  - { nom: Taipei Times,          url: "https://www.taipeitimes.com/xml/index.rss", rubrique: asie }
+  - { nom: Asia Times,            url: "https://asiatimes.com/feed/", rubrique: asie }
+  - { nom: CSIS AMTI,             url: "https://amti.csis.org/feed/", rubrique: asie }
+  - { nom: Lowy Interpreter,      url: "https://www.lowyinstitute.org/the-interpreter/rss.xml", rubrique: asie }
+  - { nom: ASPI Strategist,       url: "https://www.aspistrategist.org.au/feed/", rubrique: asie }
+  - { nom: RFI Asie-Pacifique,    url: "https://www.rfi.fr/fr/asie-pacifique/rss", rubrique: asie }
+  - { nom: France 24 Asie,        url: "https://www.france24.com/fr/asie-pacifique/rss", rubrique: asie }
+  - { nom: BBC Asia,              url: "https://feeds.bbci.co.uk/news/world/asia/rss.xml", rubrique: asie }
+  # Singapour
+  - { nom: CNA Singapour,         url: "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=10416", rubrique: singapour }
+  - { nom: Straits Times Singapour, url: "https://www.straitstimes.com/news/singapore/rss.xml", rubrique: singapour }
+  # Ukraine / Moyen-Orient
+  - { nom: Kyiv Independent,      url: "https://kyivindependent.com/news-archive/rss/", rubrique: ukraine }
+  - { nom: Al-Monitor,            url: "https://www.al-monitor.com/rss", rubrique: moyen_orient }
+  # Monde
+  - { nom: CNA Monde,             url: "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=6311", rubrique: monde }
+  - { nom: BBC World,             url: "https://feeds.bbci.co.uk/news/world/rss.xml", rubrique: monde }
+  - { nom: Al Jazeera,            url: "https://www.aljazeera.com/xml/rss/all.xml", rubrique: monde }
+  - { nom: Le Monde International, url: "https://www.lemonde.fr/international/rss_full.xml", rubrique: monde }
+  - { nom: Le Grand Continent,    url: "https://legrandcontinent.eu/fr/feed/", rubrique: monde }
+
+# ── Recherches Google News (dernières 24 h) ─────────────────
+# langue : en, fr, ja (japonais), ko (coréen), zh-TW (Taïwan), id (indonésien)
+recherches:
+  - { q: '"air defense" OR "air defence" OR "missile defense" OR "missile defence" OR IAMD OR GBAD', langue: en, rubrique: defense_aerienne }
+  - { q: '"counter-drone" OR "counter-UAS" OR "C-UAS" OR "drone interception"', langue: en, rubrique: defense_aerienne }
+  - { q: '"surface-to-air missile" OR "ballistic missile" OR "hypersonic missile"', langue: en, rubrique: defense_aerienne }
+  - { q: '"Taiwan Strait" OR "South China Sea" OR "North Korea" military', langue: en, rubrique: asie }
+  - { q: 'RSAF OR MINDEF OR "Singapore Armed Forces"', langue: en, rubrique: singapour }
+  - { q: 'ASEAN OR (Philippines OR Indonesia OR Malaysia OR Vietnam) military', langue: en, rubrique: singapour }
+  - { q: 'defence contract (Indonesia OR Philippines OR Malaysia OR Thailand OR Vietnam OR India OR Japan OR "South Korea" OR Australia OR Singapore)', langue: en, rubrique: industrie }
+  - { q: '"Airbus Defence and Space"', langue: en, rubrique: industrie }
+  - { q: 'site:breakingdefense.com', langue: en, rubrique: industrie }
+  - { q: '"military satellite" OR "Space Force" OR "early warning satellite" OR "anti-satellite"', langue: en, rubrique: espace }
+  - { q: 'hypersonic OR "directed energy" OR "laser weapon" OR "drone swarm" OR "military AI"', langue: en, rubrique: tech }
+  - { q: '"state-sponsored" cyberattack OR "electronic warfare" OR "GPS jamming"', langue: en, rubrique: cyber }
+  - { q: 'NATO OR "European defence" OR "EU defence" OR "European Sky Shield"', langue: en, rubrique: europe }
+  - { q: 'Ukraine "air defense" OR Russia missile strike', langue: en, rubrique: ukraine }
+  - { q: 'Iran OR Israel OR Houthi military', langue: en, rubrique: moyen_orient }
+  - { q: '"export controls" OR sanctions OR "rare earths" OR semiconductors China', langue: en, rubrique: economie }
+  - { q: 'election (Japan OR "South Korea" OR Taiwan OR Philippines OR Indonesia OR Malaysia OR Thailand OR India OR Australia OR Singapore OR Myanmar)', langue: en, rubrique: elections }
+  - { q: '"election results" OR "presidential election" OR "general election"', langue: en, rubrique: elections }
+  - { q: 'site:reuters.com (military OR defence OR election OR geopolitics)', langue: en, rubrique: monde }
+  - { q: '"défense aérienne" OR "défense sol-air" OR antimissile OR "Indo-Pacifique"', langue: fr, rubrique: defense_aerienne }
+  - { q: '"Europe de la défense" OR OTAN OR "Ministère des Armées"', langue: fr, rubrique: europe }
+  - { q: '防空 OR ミサイル防衛 OR 自衛隊', langue: ja, rubrique: asie }
+  - { q: '방공 OR 미사일 방어 OR 북한 미사일', langue: ko, rubrique: asie }
+  - { q: '防空 OR 共機 OR 國防部', langue: zh-TW, rubrique: asie }
+  - { q: '"pertahanan udara" OR "TNI AU" OR Kemhan', langue: id, rubrique: singapour }
