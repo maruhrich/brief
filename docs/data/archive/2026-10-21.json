@@ -1,0 +1,664 @@
+{
+ "date": "2026-10-21",
+ "date_label": "Wednesday, October 21, 2026",
+ "genere_le": "2026-10-21T09:03:48+08:00",
+ "mode": "ia",
+ "modele": "gemini-3.6-flash",
+ "accroche": [
+  "UK deploys Typhoon jets to defend Saudi Arabia against Houthi attacks",
+  "NATO reinforces Black Sea patrols after Russian drone strikes on shipping",
+  "US resumes intelligence sharing with Kyiv as envoy meets Russian leadership"
+ ],
+ "essentiel": [
+  {
+   "suite": false,
+   "remplace": null,
+   "emoji": "✈️",
+   "titre": "UK deploys Typhoons for Saudi air defence against Houthis",
+   "resume": "The UK will deploy Typhoon fighter jets and an A400M transport aircraft to Saudi Arabia to conduct defensive air missions against Houthi missile and drone strikes. Military advisers will also support Saudi staff officers.",
+   "pourquoi": "",
+   "pays": [
+    "United Kingdom",
+    "Saudi Arabia",
+    "Yemen"
+   ],
+   "region": "Middle East",
+   "rubrique": "moyen_orient",
+   "liens": [
+    {
+     "source": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/aje-onl-nf_uk-to-deploy-fighter-jets-to-defend-saudi-arabia_1-201026?traffic_source=rss",
+     "titre": "UK to deploy fighter jets to defend Saudi Arabia"
+    },
+    {
+     "source": "Le Monde International",
+     "url": "https://www.lemonde.fr/international/article/2026/10/20/le-royaume-uni-allie-de-toujours-de-l-arabie-saoudite-accroit-son-aide-a-riyad-contre-les-houthistes-du-yemen_6797976_3210.html",
+     "titre": "Le Royaume-Uni, allié de toujours de l’Arabie saoudite, accroît son aide à Riyad contre les houthistes du Yémen"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTGh1LWkyRVZqaTRQMEdnRXhvWFhvWnJ6TW5WdlEyM0dxTFQwLWczNjAwLU95SDFDZVVSdUNQUE1uYkREcG05THRjbmhiQk5FWlBjb2p2V01DVmhGRFppUmFHQUFwMm4yZHFLRndUbU9PcEVjY0JBY1JpZjROd0JnOTdoZXFodTRDSzJEQURHQkVzd21pMmtUZmdnLUE3SGI1UGt5Wno0WWVKR1ZWV0FaQ0FmZUY5aVlQZVAtRGV4WEhoTmVnbHRsZ0taZ2d2NFBxOFIzdQ?oc=5",
+     "titre": "Britain says it will carry out defensive air missions over Saudi Arabia"
+    },
+    {
+     "source": "テレ朝NEWS",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBaV2NyRmJPQTk3ZXBmTDg5QThZcE03bkNzNGpaSjYxZHQwdlRrYlhVNjY4NXIzVzMyUUFfOC1POFd3VFB4MXpGbjRuZUpwNTVPalRsbWptMi1CdmVyczhaVk9GZERnbTlTVWVVdk9GMmdsVzlkbE10dW93?oc=5",
+     "titre": "英 サウジ防空でタイフーン戦闘機派遣へ フーシ派の攻撃激化受け支援幅を拡大"
+    }
+   ],
+   "id": "2026-10-21|UK deploys Typhoons for Saudi air defence against Houthis"
+  },
+  {
+   "suite": true,
+   "remplace": "2026-10-20|Trump administration delays Patriot interceptor deliveries to Ukraine",
+   "emoji": "🤝",
+   "titre": "US resumes strike warnings to Ukraine amid new diplomatic push",
+   "resume": "Washington has resumed sharing intelligence and advance strike warnings with Kyiv following talks between Ukrainian President Volodymyr Zelenskyy and US envoys in Norway. US envoy Steve Witkoff is now set to meet Vladimir Putin in Moscow.",
+   "pourquoi": "",
+   "pays": [
+    "United States",
+    "Ukraine",
+    "Russia"
+   ],
+   "region": "Russia-Ukraine",
+   "rubrique": "ukraine",
+   "liens": [
+    {
+     "source": "Japan Times",
+     "url": "https://www.japantimes.co.jp/news/2026/10/21/world/witkoff-putin-trump-russia-ukraine/",
+     "titre": "U.S. envoy Witkoff to meet Putin, Trump presses Kyiv to settle"
+    },
+    {
+     "source": "The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOT1BXVEVrSUZFeXd0V1NuRDd6dXh3cGdXVndLZWJUYTU2N3VDWFZWTlRjLUhNM3p5TDBFdEFpWDZLYzFCNTQzODN4ZGV1Vk91S0U3MmM5SUZOVmFuM2o1dFNULWc0LTFWY1V6VnpUOUozUHg2SG9yQ0lEVnFIbDJyX1hsYjl1VHB4bVVSN1lTOXV5VFBZSzVCRUREa2tlaFZHTjAtMlRmc3E3a21INVN6cDh3TGlib1M0YklzQmpCWU5VczlvTnZxM0xkaw?oc=5",
+     "titre": "US has resumed sharing intelligence with Ukraine about Russian strikes, says Zelenskyy"
+    },
+    {
+     "source": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
+     "titre": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo"
+    },
+    {
+     "source": "CNA Monde",
+     "url": "https://www.channelnewsasia.com/world/zelenskyy-hails-resumption-us-advance-warning-strikes-ukraine-6476751",
+     "titre": "Zelenskyy hails resumption of US advance warning of strikes on Ukraine"
+    }
+   ],
+   "id": "2026-10-21|US resumes strike warnings to Ukraine amid new diplomatic push"
+  },
+  {
+   "suite": true,
+   "remplace": "2026-10-19|Romanian F-16s shoot down two drones in NATO airspace over Black Sea",
+   "emoji": "🛡️",
+   "titre": "NATO reinforces Black Sea air patrols after Russian drone strikes",
+   "resume": "NATO announced the deployment of additional maritime patrol aircraft and drones to the Black Sea region to protect commercial shipping. The move follows recent drone strikes off the coasts of Bulgaria and Romania attributed to Russia.",
+   "pourquoi": "",
+   "pays": [
+    "Bulgaria",
+    "Romania",
+    "Russia"
+   ],
+   "region": "Europe",
+   "rubrique": "europe",
+   "liens": [
+    {
+     "source": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/20/nato-to-send-additional-patrol-planes-to-black-sea-after-drone-attacks?traffic_source=rss",
+     "titre": "NATO to send additional patrol planes to Black Sea after drone attacks"
+    },
+    {
+     "source": "The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQREdOT1FlcW4tWjg1QlFXTkhFWjV6em16dlJueWdVRnktcWJsXy03SXVVeEFLUzN0cm5qN3ROdjZXLWZoV3I4LWNLZlFEbHpPb0RJZEs0RlRmdkFGUkdJQVdoRDI2WjVxTzV6NVNPMUFIajRGejBJaEN1dUM2el9lTkh3X2x2OXRCSFBIVFQ5R3ljU2xSeVhQUnlmOVVVZ0NYNlVDNEJSbw?oc=5",
+     "titre": "Nato increases Black Sea deployment amid escalating deadly Russian attacks"
+    },
+    {
+     "source": "Le Figaro",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPcHRtMkFLNjlOMUdsTU1MdnJvcVBTRnBINFB1ZjhEOF9GZG95eDN4RTEyTGstblpYd0Y0QktnTm14WURudlEtTEE1dXphTDl6MjI3UzNDdll5NXU0Rm9Ca0YwcmRqWGVRNXRpS0MxdWN3MzExVGVNWnZyZW1USm9ld2FpUXREYU03VXFuRjU1eWRWbVpiRTRPY1cwRm9XLUI4Y3ZKNVBkMWlneTRKZ1ZnOVRfYzdRMTZVa2d4dWhSOVZ4cDlEMGRPZWFad2NHd3U5Sk5Zay1hbi1pVGsxMk5CWjlzQ19JUQ?oc=5",
+     "titre": "Une «escalade dangereuse et inacceptable» : la mer Noire, angle mort de la défense de l’Otan contre la Russie"
+    },
+    {
+     "source": "Le Monde International",
+     "url": "https://www.lemonde.fr/international/article/2026/10/20/guerre-en-ukraine-l-otan-va-deployer-des-moyens-supplementaires-en-mer-noire_6797970_3210.html",
+     "titre": "Guerre en Ukraine : l’OTAN va déployer des moyens supplémentaires en mer Noire"
+    }
+   ],
+   "id": "2026-10-21|NATO reinforces Black Sea air patrols after Russian drone strikes"
+  },
+  {
+   "suite": false,
+   "remplace": null,
+   "emoji": "⚠️",
+   "titre": "North Korea threatens border escalations as Seoul vows firm response",
+   "resume": "Pyongyang has threatened to restart loudspeaker broadcasts and deploy additional tactical strike weapons along the Military Demarcation Line. South Korea's military ordered a firm response to any North Korean border provocations.",
+   "pourquoi": "",
+   "pays": [
+    "North Korea",
+    "South Korea"
+   ],
+   "region": "North-East Asia",
+   "rubrique": "asie",
+   "liens": [
+    {
+     "source": "연합뉴스",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBQek5JWFFOcUI3UDRGZGpuT3kzcDE2aldSdnZYLWhobmZvVUNheVVrdFdwM1pUQm1yY2ltb2tZd2tpbGhMbk1DU2d3Ujl0amJpMEwwR1Z5TFZSU3NBcjBQZNIBYEFVX3lxTFBQek5JWFFOcUI3UDRGZGpuT3kzcDE2aldSdnZYLWhobmZvVUNheVVrdFdwM1pUQm1yY2ltb2tZd2tpbGhMbk1DU2d3Ujl0amJpMEwwR1Z5TFZSU3NBcjBQZA?oc=5",
+     "titre": "美고위당국자 \"전작권 전환요건 그대로지만 위협은 빨리 진화\""
+    },
+    {
+     "source": "조선일보",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWUJyYlh6RWxmbzRkci1nNXlpRm9kSlFVY3B5VHZ1QUpoSHNTejFUTGJPLXFmWERwakhzVzRoVkJJUVVsREVjUlZKLTFQbVZjYi1zZzZRSHFiZGZvTXVraTg2T1JXdk5TNU9NOHlBVDNrQktIQ3lPV0xUb2pyeU5zaHhMbXotZFFR?oc=5",
+     "titre": "North Korea Defies 60 Shots, Crosses MDL"
+    },
+    {
+     "source": "The Korea Times",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZzdoMktaa0lwYTBBUEFTTHhCRzJ3RGZjd1RlSURFbUVsNFNJVDRfMlVFdTNMTzR0MllHVFYyY21DZWw5WC1Ub1U1SjZtaU9XcEoyS1ZFNkt3THlRZTdDX0VjdEVRb2NmMkhNRHlXQmdGMmw3eEZON1ZFX2JEWC11NHdhTy0zRUE2bS1wV09mbjJqWDZkNzVyV1M4RFBCMTlwQTItTktqbnhPQUV3R0w5bU5CUlVwVV9hZExFNXQ4RE5yd3Jidm1ZelNYRXBSa3R2bzNacUZhdGZIRzV1eXA5Y25PQnN5eVpyeEdJZtIB8gFBVV95cUxOMmNnZ0ZjMzYta3ZrdlJ6WXVxckZRSTBtZ2g5dldOSUhZUVMtOUZ3LVlhZjRnSTlRQ3ZRdlVvUVV4SjJHVXFHM25NQ18ycEx1bnVka3gwYzBPYUNySmYxc3I3RTlFanZXOEU0eml6QzhJVXBCdHp1TlhJX3VsVlI1WjJ3TzdFMkpuZTF6ME1GRnFnR3FXZHR2VzZMSXpDTkR0S2Z6TG1IY0FSTDdRNkxKdUVmTGRJQmF1UXhoM01ZTmhmVm9YZS1NdVZhRTdhQXhsQkdXeHVzZFU1VXVIOG91eVktTU1SRmJxV3hHLXFETVM0Zw?oc=5",
+     "titre": "N. Korea may be testing Trump's red lines with increased missile launches in 2nd term: analysis"
+    },
+    {
+     "source": "뉴스1",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB5Y3YzaWNrbUo3LXF0WHZuc2ZORjFnSzFlVDlVdjVTNFpyU2dGYXNSeFdSOXZpaldoUmtDUUh5X3hKZkZPSjFXS0hGS25DNzlzTU9SWUZHWk4?oc=5",
+     "titre": "美싱크탱크 \"北, 트럼프 2기에 미사일 더 많이 쐈다…이미 1기 넘어서\""
+    }
+   ],
+   "id": "2026-10-21|North Korea threatens border escalations as Seoul vows firm response"
+  }
+ ],
+ "rubriques": [
+  {
+   "id": "monde",
+   "titre": "World",
+   "items": []
+  },
+  {
+   "id": "asie",
+   "titre": "APAC",
+   "items": [
+    {
+     "suite": true,
+     "remplace": "2026-10-20|Singapore extends transboundary haze notices to ten Indonesian firms",
+     "emoji": "🇸🇬",
+     "titre": "Singapore air quality moderates as Indonesia battles forest fires",
+     "resume": "Air quality in Singapore showed slight improvement while remaining in the moderate-to-unhealthy range due to Indonesian forest fires. Indonesia declined foreign assistance, stating domestic resources are managing the fires.",
+     "pourquoi": "",
+     "pays": [
+      "Singapore",
+      "Indonesia"
+     ],
+     "region": "South-East Asia",
+     "rubrique": "asie",
+     "liens": [
+      {
+       "source": "Straits Times Asie",
+       "url": "https://www.straitstimes.com/asia/se-asia/malaysia-expects-tourism-fallout-from-indonesia-haze",
+       "titre": "Malaysia expects tourism fallout from Indonesia haze"
+      },
+      {
+       "source": "BBC Asia",
+       "url": "https://www.bbc.co.uk/news/articles/cqm2dzwdmmywo?at_medium=RSS&at_campaign=rss",
+       "titre": "Borneo burning: Life on the frontline of South East Asia's toxic haze"
+      },
+      {
+       "source": "CNA Singapour",
+       "url": "https://www.channelnewsasia.com/singapore/haze-psi-pm25-oct-21-6476941",
+       "titre": "Air quality in Singapore sees slight improvement; 1-hour PM2.5 readings elevated in two regions"
+      },
+      {
+       "source": "Straits Times Singapour",
+       "url": "https://www.straitstimes.com/singapore/haze-in-singapore-air-quality-lies-between-moderate-and-unhealthy-bands-overnight",
+       "titre": "Haze in Singapore: Air quality lies between moderate and unhealthy bands"
+      }
+     ],
+     "id": "2026-10-21|Singapore air quality moderates as Indonesia battles forest fires"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🗳️",
+     "titre": "Malaysia de-registers main opposition coalition before elections",
+     "resume": "Malaysian authorities have officially de-registered the main opposition coalition Perikatan Nasional ahead of upcoming national elections. The decision prevents constituent parties from contesting ballots under a unified alliance banner.",
+     "pourquoi": "",
+     "pays": [
+      "Malaysia"
+     ],
+     "region": "South-East Asia",
+     "rubrique": "asie",
+     "liens": [
+      {
+       "source": "CNA Asie",
+       "url": "https://www.channelnewsasia.com/asia/malaysia-perikatan-nasional-deregister-opposition-bersatu-pas-6474751",
+       "titre": "Malaysia de-registers main opposition bloc Perikatan Nasional as elections loom"
+      },
+      {
+       "source": "Reuters",
+       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZXJhdklRSEUwTWdWSkF3UjlTWC0wZks1NWJnVk00QjlfaGw0b0U4WjhRZXpvdERDTVVYWjVKTEE1eEh1enV2VTF1aUI5UzE2ZHVTUVJCU091Q1hoSWdOVGFuSW9YaGZtTUdkYXluNXQ1TzQyZ015T3pQMmNjMmh3SXpQeVA3S1RoSjhxdWp5UThzLTF3SVZfZUVqLWx2NGl5am5kWHdMSnFEcl82aHF6dWhB?oc=5",
+       "titre": "Malaysia de-registers main opposition bloc as elections loom"
+      }
+     ],
+     "id": "2026-10-21|Malaysia de-registers main opposition coalition before elections"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🚢",
+     "titre": "Chinese naval tonnage output more than double US volume",
+     "resume": "A report released ahead of Euronaval reveals China built more than twice the naval tonnage of the United States between 2024 and 2025. The expansion further narrows the naval fleet gap in the Indo-Pacific.",
+     "pourquoi": "",
+     "pays": [
+      "China",
+      "United States"
+     ],
+     "region": "North-East Asia",
+     "rubrique": "asie",
+     "liens": [
+      {
+       "source": "Defense News",
+       "url": "https://www.defensenews.com/naval/2026/10/20/china-built-more-than-twice-naval-tonnage-of-us-in-2024-25-euronaval/",
+       "titre": "China built more than twice naval tonnage of US in 2024-25: Euronaval"
+      }
+     ],
+     "id": "2026-10-21|Chinese naval tonnage output more than double US volume"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🤝",
+     "titre": "South Korea recalls Kyiv embassy staff following POW dispute",
+     "resume": "Seoul is withdrawing additional diplomatic personnel from its embassy in Ukraine following a dispute over Kyiv's public disclosure of captured North Korean soldiers. Relations between the two nations have cooled significantly.",
+     "pourquoi": "",
+     "pays": [
+      "South Korea",
+      "Ukraine"
+     ],
+     "region": "North-East Asia",
+     "rubrique": "asie",
+     "liens": [
+      {
+       "source": "Japan Times",
+       "url": "https://www.japantimes.co.jp/news/2026/10/20/asia-pacific/politics/south-korea-embassy-staff-ukraine/",
+       "titre": "Seoul to pull embassy staff from Kyiv over North Korea prisoner disclosure"
+      },
+      {
+       "source": "Straits Times Asie",
+       "url": "https://www.straitstimes.com/asia/east-asia/south-korea-to-pull-more-ukraine-embassy-staff-after-pow-dispute",
+       "titre": "South Korea to pull more Ukraine embassy staff after POW dispute"
+      },
+      {
+       "source": "CNA Asie",
+       "url": "https://www.channelnewsasia.com/east-asia/south-korea-withdraw-ukraine-embassy-staff-6474651",
+       "titre": "South Korea to withdraw some Ukraine embassy staff after POW row"
+      }
+     ],
+     "id": "2026-10-21|South Korea recalls Kyiv embassy staff following POW dispute"
+    }
+   ]
+  },
+  {
+   "id": "elections",
+   "titre": "Elections & Politics",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🗳️",
+     "titre": "Romania appoints pro-European government ending five-month crisis",
+     "resume": "Romania's parliament voted in a new pro-European government led by independent Prime Minister Luca Niculescu. The appointment resolves a five-month political crisis following three previously failed attempts to form a cabinet.",
+     "pourquoi": "",
+     "pays": [
+      "Romania"
+     ],
+     "region": "Europe",
+     "rubrique": "elections",
+     "liens": [
+      {
+       "source": "Le Monde International",
+       "url": "https://www.lemonde.fr/international/article/2026/10/20/roumanie-apres-trois-echecs-un-gouvernement-pro-europeen-est-enfin-investi-a-bucarest_6797956_3210.html",
+       "titre": "Roumanie : après trois échecs, un gouvernement pro-européen est enfin investi à Bucarest"
+      },
+      {
+       "source": "Le Grand Continent",
+       "url": "https://legrandcontinent.eu/fr/2026/10/20/apres-plus-de-cinq-mois-de-crise-la-roumanie-a-un-gouvernement/",
+       "titre": "Après plus de cinq mois de crise, la Roumanie a un gouvernement"
+      }
+     ],
+     "id": "2026-10-21|Romania appoints pro-European government ending five-month crisis"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🗳️",
+     "titre": "Alberta rejects proposal for independence referendum",
+     "resume": "Voters in Alberta decisively rejected a proposal to hold a referendum on leaving Canada, delivering a major setback to the province's separatist movement. Separatist leaders vowed to continue campaigning despite the clear defeat.",
+     "pourquoi": "",
+     "pays": [
+      "Canada"
+     ],
+     "region": "Americas",
+     "rubrique": "elections",
+     "liens": [
+      {
+       "source": "BBC World",
+       "url": "https://www.bbc.co.uk/news/articles/cr62ylj832vxo?at_medium=RSS&at_campaign=rss",
+       "titre": "Alberta's decisive decision to stay in Canada gives Carney backing to take on Trump"
+      },
+      {
+       "source": "CNA Monde",
+       "url": "https://www.channelnewsasia.com/world/canada-alberta-secession-referedum-vote-6474136",
+       "titre": "Alberta rejects plan for referendum on leaving Canada"
+      }
+     ],
+     "id": "2026-10-21|Alberta rejects proposal for independence referendum"
+    }
+   ]
+  },
+  {
+   "id": "defense_aerienne",
+   "titre": "Air & Missile Defence",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🛡️",
+     "titre": "Japan and Malaysia sign RM40m counter-drone deal",
+     "resume": "Malaysia and Japan have signed a 40 million ringgit contract to provide counter-drone systems to the Royal Malaysian Navy. The agreement enhances maritime surveillance and C-UAS capabilities in Southeast Asia.",
+     "pourquoi": "",
+     "pays": [
+      "Malaysia",
+      "Japan"
+     ],
+     "region": "South-East Asia",
+     "rubrique": "defense_aerienne",
+     "liens": [
+      {
+       "source": "NST Online",
+       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQclJnM2NYVGE4SXdjM3ZpNW45OE1RSGRIWkRuR2FsM0Rpd0lIOUxpUGxGbGtEV1NYek0wS0EzSXhsTGlsX1hFTUVRdjg1X1J2T3VTQlFxbWF5MzBaVkFDNWhkU3dLcGp6dzhKN05xLVBKU2tsSm5FWTQ0OFhtMGRFQ3I2WTJMVlNheU92NHc1LV92bklxMGE5LWFNcFNlQdIBowFBVV95cUxQRVMwa3l0eU5QVzJLaExsMk9qa3hDdkoxdDJTdGVvLTZ5XzZGUWhwaG1qNHlaS2c5WkxrdFJ6YXN1TGktdGVTdmFCWkY2Q2tZbnM2elhsSU82dTgybEhYUFYzbS10Qm1sbW5rZExvNUxlZVpIWTV2eDVMVktSNm9nWnJzNkNScm9HLXhEYnA2cVpnMks5MTFYeERNRUo3WlN6UnNz?oc=5",
+       "titre": "Malaysia, Japan sign RM40mil counter-drone deal"
+      },
+      {
+       "source": "Unmanned airspace",
+       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQR0dzeHRrOVpfY1Y1T3lLLWpZa3RpQW9mQThrdW5LekVMRXNGY3hnem9ETTJBUmQwSFlvcEI0NDBqcHhPeGo3M1BubEVoTnFrQTB4bXZpTzQ4aks1R05icTBMVldiajVFNWlNcHF3MnM5T2p4UWxrUFBRYmU1Q19EOWNMM1lkTHk3OFNvbUZQbnRFbzJiYmNmaEJLMU5TS3NOb3kzUFgtUVlDSThUUzZxeEVwRjRDaWtZcldZbndB?oc=5",
+       "titre": "Japan to provide C-UAS system to Royal Malaysian Navy"
+      }
+     ],
+     "id": "2026-10-21|Japan and Malaysia sign RM40m counter-drone deal"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🛩️",
+     "titre": "US Air Force pilot controls uncrewed combat aircraft in flight",
+     "resume": "An active-duty F-22 Raptor pilot successfully controlled an uncrewed FQ-44 Collaborative Combat Aircraft in flight. The test highlights progress in manned-unmanned teaming capabilities for air superiority missions.",
+     "pourquoi": "",
+     "pays": [
+      "United States"
+     ],
+     "region": "Americas",
+     "rubrique": "defense_aerienne",
+     "liens": [
+      {
+       "source": "Defense News",
+       "url": "https://www.defensenews.com/industry/techwatch/2026/10/20/us-air-force-f-22-pilot-controls-unmanned-fq-44-in-flight/",
+       "titre": "US Air Force F-22 pilot controls unmanned FQ-44 in flight"
+      }
+     ],
+     "id": "2026-10-21|US Air Force pilot controls uncrewed combat aircraft in flight"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🛰️",
+     "titre": "Starlink slowdown hampers Ukrainian air defences",
+     "resume": "SpaceX founder Elon Musk reportedly instructed Starlink to throttle satellite communications over Ukraine, hampering Ukrainian aerial defence operations. Ukrainian arms manufacturers are now actively seeking alternative satellite networks.",
+     "pourquoi": "",
+     "pays": [
+      "Ukraine",
+      "United States"
+     ],
+     "region": "Russia-Ukraine",
+     "rubrique": "defense_aerienne",
+     "liens": [
+      {
+       "source": "Japan Times",
+       "url": "https://www.japantimes.co.jp/news/2026/10/21/world/elon-musk-ukraine-starlink/",
+       "titre": "Musk gave the order to slow down Ukraine’s Starlink, WSJ reports"
+      },
+      {
+       "source": "Bloomberg.com",
+       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9hZVBKUGV3Q01pOHhiaG1zVHM5N0VtNnV0eU51UXh5bEUwUUxEb01kVmc0NG9sdnBvRnpTdl9tc2F4VW9yUGJuY1h0cVFDM0o0U3V4QVB3UURUYTR6T1lDZ1FVU2N1d0NSVXBDV3NLNGxXRmd3cjFN?oc=5",
+       "titre": "マスク氏がスターリンク減速指示、ウクライナの防空に支障－WSJ"
+      },
+      {
+       "source": "The War Zone",
+       "url": "https://www.twz.com/news-features/major-ukrainian-arms-maker-rethinking-future-reliance-on-starlink",
+       "titre": "Major Ukrainian Arms Maker Rethinking Future Reliance On Starlink"
+      }
+     ],
+     "id": "2026-10-21|Starlink slowdown hampers Ukrainian air defences"
+    }
+   ]
+  },
+  {
+   "id": "industrie",
+   "titre": "Defence Industry & Contracts",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "📝",
+     "titre": "Indian Navy contracts $68m BrahMos retrofit for legacy warships",
+     "resume": "India's Ministry of Defence signed a 68 million dollar contract to equip legacy Kashin-class destroyers and Veer-class corvettes with BrahMos supersonic cruise missiles. The upgrade extends the firepower of the surface fleet.",
+     "pourquoi": "",
+     "pays": [
+      "India"
+     ],
+     "region": "South Asia",
+     "rubrique": "industrie",
+     "liens": [
+      {
+       "source": "Naval News",
+       "url": "https://www.navalnews.com/naval-news/2026/10/indian-navy-to-equip-legacy-kashin-and-veer-classes-with-brahmos/",
+       "titre": "Indian Navy to Equip Legacy Kashin and Veer Classes with BrahMos"
+      }
+     ],
+     "id": "2026-10-21|Indian Navy contracts $68m BrahMos retrofit for legacy warships"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "💰",
+     "titre": "US Navy expands Gecko Robotics maintenance contract to $300m",
+     "resume": "The US Navy extended its AI-driven predictive maintenance contract with Gecko Robotics to 300 million dollars. The firm uses wall-climbing robots and drones to inspect hull integrity and structural welds on naval ships.",
+     "pourquoi": "",
+     "pays": [
+      "United States"
+     ],
+     "region": "Americas",
+     "rubrique": "industrie",
+     "liens": [
+      {
+       "source": "Defense News",
+       "url": "https://www.defensenews.com/news/your-navy/2026/10/20/us-navy-gecko-robotics-surge-ai-maintenance-contract-to-300m/",
+       "titre": "US Navy, Gecko Robotics surge AI maintenance contract to $300M"
+      }
+     ],
+     "id": "2026-10-21|US Navy expands Gecko Robotics maintenance contract to $300m"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🤝",
+     "titre": "Canada and Turkey draft defence and energy cooperation pact",
+     "resume": "Canada and Turkey plan to sign a joint declaration during Mark Carney's visit to Ankara to deepen bilateral cooperation across four sectors, including defence and energy. The agreement reinforces ties between the NATO allies.",
+     "pourquoi": "",
+     "pays": [
+      "Canada",
+      "Turkey"
+     ],
+     "region": "Europe",
+     "rubrique": "industrie",
+     "liens": [
+      {
+       "source": "Al-Monitor",
+       "url": "https://www.al-monitor.com/originals/2026/10/canada-turkey-agree-during-carney-visit-deepen-defence-and-energy-ties-source",
+       "titre": "Canada, Turkey to agree during Carney visit to deepen defence and energy ties, source says"
+      },
+      {
+       "source": "The Straits Times",
+       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQeW1kTnNENnN1aUl1dzBLNG02WkphYUVSNzVZZEx1OTRhQWJHbUR4TXhhUTVrTjdLejFMM1RXUmdfSktDdFhIYzVrbUpyeHVMM2xlVC1FeUtZT0picENtT1pERHRiaUdKV0dUcXNKbnE4WUo2Z2dpZEZPQnl2TFY3bk4zNzdKNHJkTktBeGFZeHoyQTR4MFBvRzE2eTdQclVsWUI0aVlYNENuOUEyT3RxZkw4RFhyMUpGMVZhSlAzd1RtVDNMT2pRSmJUQTM0SjZFRVVTbFJMT0prbFBIOG1FUg?oc=5",
+       "titre": "Canada, Turkey set to sign pledge during Carney visit to deepen defence, energy ties, source says"
+      }
+     ],
+     "id": "2026-10-21|Canada and Turkey draft defence and energy cooperation pact"
+    }
+   ]
+  },
+  {
+   "id": "ukraine",
+   "titre": "Ukraine / Russia",
+   "items": []
+  },
+  {
+   "id": "moyen_orient",
+   "titre": "Middle East",
+   "items": [
+    {
+     "suite": true,
+     "remplace": "2026-10-19|Houthi missile strike kills 18 in Yemen as Egypt signals support for Riyadh",
+     "emoji": "🚀",
+     "titre": "Shabwa missile attack death toll rises to 73 in Yemen",
+     "resume": "The death toll from a Houthi ballistic missile attack on a pro-government military training camp in Shabwa governorate has risen to 73 recruits. The strike represents one of the deadliest single attacks in months.",
+     "pourquoi": "",
+     "pays": [
+      "Yemen"
+     ],
+     "region": "Middle East",
+     "rubrique": "moyen_orient",
+     "liens": [
+      {
+       "source": "BBC World",
+       "url": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss",
+       "titre": "Houthi missile strike on Yemen camp kills 73 security recruits, local authorities say"
+      },
+      {
+       "source": "The Straits Times",
+       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeU5xNFJMLVpUNHlPeGZtYVo1Y0h6ODc5akhNMkFtVGFlV0REQnRUd0VFWTMweW1HZEF1QkxRRk51VXZhT1hhQ3UtaURhY3pldmRDNlkxeUNKY2w0Qm1qZmkwUHNPRkVpdU1TNGF0MGp4N2JMWHZZVUlWWjZuVzRKZERhWFFoaW9TaTB3OU42NWFENEdNaEg2RVduNzRZMUUteHh5LXV5bzJYcm9aYUh3QWVsZ1VyWXNoNF9Qd0pPbw?oc=5",
+       "titre": "Death toll from Houthi attack on Yemen training camp rises to 73"
+      },
+      {
+       "source": "The Korea Times",
+       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWVpMOWNpOVZ4R0dNWk5FYXNhV0pmSGRONUozbERobzdQdDN1QU41akJMelhmazVmMjRNTG92aHJUMVB4OTNUVGxZQjN5OTR4R0U1WUZ2b25jWXFJYnI3MWFzV0ZNSjNYUGUzNzdTZ3EySndrM1VnSWtnNk5od1d3WENMY3IxNllTLXJRRGU1NXAtMmxDbEZvTnNMX2lBUENIUzhPeWFMcE1vRG9zV240U2VhdlBDcnV3SmdVejJhLS1nZWdTZUNOM3NMeUZhMDV3aC12MTNUNNIB1wFBVV95cUxQWVpMOWNpOVZ4R0dNWk5FYXNhV0pmSGRONUozbERobzdQdDN1QU41akJMelhmazVmMjRNTG92aHJUMVB4OTNUVGxZQjN5OTR4R0U1WUZ2b25jWXFJYnI3MWFzV0ZNSjNYUGUzNzdTZ3EySndrM1VnSWtnNk5od1d3WENMY3IxNllTLXJRRGU1NXAtMmxDbEZvTnNMX2lBUENIUzhPeWFMcE1vRG9zV240U2VhdlBDcnV3SmdVejJhLS1nZWdTZUNOM3NMeUZhMDV3aC12MTNUNA?oc=5",
+       "titre": "Death toll rises to 73 in Houthi strike on Yemen training camp in deadliest attack in months"
+      },
+      {
+       "source": "The New York Times",
+       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVWkyRTdNT1dhank1THc2cElOelBLdnR5MHZBajFsVTFKOEY1T0U5UllMVWlxOXlkOGNjaVZCLTFKM1lERUlpaTljdWtQcC13bzZHRTQ5dzc2UVhRRmNLWV9EcEM0dDhGVG9yWnZBdEpHbUIzSnVTVGM2ZGJBaHJMOHNJeTQyRlRockNjd2lMT2NGOEZPUWc?oc=5",
+       "titre": "Houthi Strikes Kill Dozens in Yemeni Desert Military Camp, Officials Say"
+      }
+     ],
+     "id": "2026-10-21|Shabwa missile attack death toll rises to 73 in Yemen"
+    }
+   ]
+  },
+  {
+   "id": "europe",
+   "titre": "Europe",
+   "items": []
+  },
+  {
+   "id": "espace",
+   "titre": "Space & Satellites",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🛰️",
+     "titre": "US Navy controls MQ-25A drone via satellite across 2,100 miles",
+     "resume": "Aircraft carrier USS Ronald Reagan remotely operated an MQ-25A Stingray uncrewed tanker in Illinois while underway in the Pacific. The test was conducted over a proliferation Low Earth Orbit (pLEO) satellite network.",
+     "pourquoi": "",
+     "pays": [
+      "United States"
+     ],
+     "region": "Americas",
+     "rubrique": "espace",
+     "liens": [
+      {
+       "source": "Naval News",
+       "url": "https://www.navalnews.com/naval-news/2026/10/us-navy-carrier-remote-controls-mq-25a-stingray-over-2100-miles-away/",
+       "titre": "US Navy Carrier Remote-Controls MQ-25A Stingray Over 2,100 Miles Away"
+      }
+     ],
+     "id": "2026-10-21|US Navy controls MQ-25A drone via satellite across 2,100 miles"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🚀",
+     "titre": "South Korea outlines 2031 military satellite launch on Nuri rocket",
+     "resume": "South Korea announced plans to launch its first dedicated military satellite aboard its indigenous Nuri space launch vehicle in 2031. The mission forms part of Seoul's sovereign space reconnaissance roadmap.",
+     "pourquoi": "",
+     "pays": [
+      "South Korea"
+     ],
+     "region": "North-East Asia",
+     "rubrique": "espace",
+     "liens": [
+      {
+       "source": "조선일보",
+       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZnU1YW1SNHM2Z0ZiMVlEenV2R21ENENaQXdJWm4xNHhtVC03WGRKU3MxTVNvTEVRMlJZRkdRQzdJY1F4UXBUU2xuT051cFAtZDJ2MkZyNTRjLWVIMFE2U2xQV19UUU5CTGxwSm0zcENoUHJxY2RsSUdqaWloZWpRSlU0QlZSelg2?oc=5",
+       "titre": "Nuri to Launch First Military Satellite in 2031"
+      }
+     ],
+     "id": "2026-10-21|South Korea outlines 2031 military satellite launch on Nuri rocket"
+    }
+   ]
+  },
+  {
+   "id": "tech",
+   "titre": "Emerging Tech",
+   "items": []
+  },
+  {
+   "id": "economie",
+   "titre": "Economy & Sanctions",
+   "items": []
+  }
+ ],
+ "a_surveiller": [
+  {
+   "quand": "October 27",
+   "quoi": "Israeli legislative elections",
+   "liens": [
+    {
+     "source": "Le Monde International",
+     "url": "https://www.lemonde.fr/international/article/2026/10/20/a-gaza-des-frappes-israeliennes-font-sept-morts-selon-la-defense-civile-et-des-hopitaux_6797971_3210.html",
+     "titre": "A Gaza, des frappes israéliennes font sept morts, selon la défense civile et des hôpitaux"
+    }
+   ]
+  },
+  {
+   "quand": "November",
+   "quoi": "APEC summit in Shenzhen, China",
+   "liens": [
+    {
+     "source": "CNA Asie",
+     "url": "https://www.channelnewsasia.com/east-asia/shenzhen-apec-summit-payment-transport-services-safety-6452521",
+     "titre": "Deadline for change: How APEC is accelerating Shenzhen's makeover - and what could last"
+    }
+   ]
+  },
+  {
+   "quand": "November",
+   "quoi": "Proposed trilateral summit between US, Russia, and China",
+   "liens": [
+    {
+     "source": "France 24 Asie",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20261020-la-perspective-d-une-r%C3%A9union-tripartite-donald-trump-pr%C3%AAt-%C3%A0-rencontrer-poutine-et-xi-jinping",
+     "titre": "La perspective d'une réunion tripartite : Donald Trump, prêt à rencontrer Poutine et Xi Jinping"
+    }
+   ]
+  }
+ ],
+ "hebdo": null,
+ "stats": {
+  "articles": 397,
+  "sources": 52
+ }
+}
