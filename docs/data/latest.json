@@ -1,62 +1,86 @@
 {
- "date": "2026-10-22",
- "date_label": "Thursday, October 22, 2026",
- "genere_le": "2026-10-22T08:59:29+08:00",
+ "date": "2026-10-23",
+ "date_label": "Friday, October 23, 2026",
+ "genere_le": "2026-10-23T09:02:20+08:00",
  "mode": "ia",
- "modele": "gemini-3.5-flash-lite",
+ "modele": "gemini-flash-latest",
  "accroche": [
-  "Russia and Ukraine signal readiness to resume US-led peace talks",
-  "US orders non-essential embassy staff to leave Saudi Arabia amid Houthi strikes",
-  "North Korea vows aggressive border countermeasures and loudspeaker activations"
+  "Russian ballistic missiles strike Kyiv despite talks",
+  "Pentagon agrees decade-long deal for 850 F-35s",
+  "Deadly Houthi attacks prompt Saudi Aramco evacuations"
  ],
  "essentiel": [
   {
-   "suite": false,
-   "remplace": null,
-   "emoji": "🤝",
-   "titre": "Russia and Ukraine open to US-brokered talks",
-   "resume": "Moscow and Kyiv have signaled a willingness to resume trilateral peace talks following meetings between US envoy Steve Witkoff and Vladimir Putin. However, heavy missile strikes hit Kyiv concurrently as skepticism remains high.",
+   "suite": true,
+   "remplace": "2026-10-22|Russia and Ukraine open to US-brokered talks",
+   "emoji": "🚀",
+   "titre": "Russia bombards Kyiv after indicating readiness for peace talks",
+   "resume": "Russian forces launched three waves of ballistic missiles and drones against Kyiv hours after Moscow agreed to resume US-brokered talks. Ukrainian President Volodymyr Zelenskyy said the strikes proved there is no real change in the Kremlin's stance.",
    "pourquoi": "",
    "pays": [
     "Russia",
-    "Ukraine",
-    "United States"
+    "Ukraine"
    ],
    "region": "Russia-Ukraine",
    "rubrique": "ukraine",
    "liens": [
     {
+     "source": "CNA Monde",
+     "url": "https://www.channelnewsasia.com/world/zelenskyy-says-fresh-russian-strikes-show-no-change-in-kremlin-position-6484431",
+     "titre": "Zelenskyy says fresh Russian strikes show 'no change' in Kremlin position"
+    },
+    {
      "source": "Le Monde International",
-     "url": "https://www.lemonde.fr/international/live/2026/10/22/en-direct-guerre-en-ukraine-l-ukraine-et-la-russie-se-disent-pretes-a-reprendre-des-negociations-tripartites-avec-les-etats-unis_6796922_3210.html",
-     "titre": "EN DIRECT, guerre en Ukraine : l’Ukraine et la Russie se disent prêtes à reprendre des négociations tripartites avec les Etats-Unis"
-    },
-    {
-     "source": "Reuters",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQXZaYTY5blYzZWJWYkJaQnI2M2RSSGJUcnpzSF9OMldoZjZxckRDRzhyb2JReEVNbEE5bjdZcUZlNzJ2b0YzQkRIZjltamVxVHVSaElldGhNUmlFZzdmZHpPOFBOSDNhbFV0NEdpYXBBN0w3VjlHV0JkSVQ3NG1hMHJMay14MWNuNDdQTldXaVE2Z205bjFkN05lVUh4TkloZWFvSm5FcGp0aS1nQ2JKcmNGTHB1NDhqdWJCaEM2NnoyRUE?oc=5",
-     "titre": "Putin agrees to resume 3-way peace talks with Ukraine and US"
-    },
-    {
-     "source": "BBC World",
-     "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
-     "titre": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks"
+     "url": "https://www.lemonde.fr/international/live/2026/10/22/en-direct-guerre-en-ukraine-vladimir-poutine-se-dit-pret-a-reprendre-les-negociations-avec-l-ukraine-et-les-etats-unis-en-vue-d-un-accord-final_6796922_3210.html",
+     "titre": "EN DIRECT, guerre en Ukraine : Vladimir Poutine se dit prêt à reprendre les négociations avec l’Ukraine et les Etats-Unis en vue « d’un accord final »"
     },
     {
      "source": "Al Jazeera",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/russia-willing-to-resume-peace-talks-with-ukraine-us-after-witkoff-visit?traffic_source=rss",
-     "titre": "Russia willing to resume peace talks with Ukraine, US after Witkoff visit"
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWmJwWHBSdTZDQ3F5dGxvRFM2UkY3NDRWX2RCN0hWMnNWeDUtN0twVzlQUjdfTzBpWmR0d0lEYzlKODVoYllyaV9LLUZaeVg3RnFaQ1FuV2ZTdnlXUkYtQ0xYS0NsYW9Tb0lsQVI2NGNXNjV2WW95NkIwYW9xUXg4ZnJ0MGl6OV9fNE5zWU5LYS16eG1NOVJN0gGcAUFVX3lxTFAwQWVoRUJLMUZmdVpINHhTcHY3MncwcG9ucVkzNy1INXYzUlBweE5TaHk2RXJpLU5IUzg0a0JTaU1wOEczS1JQV2tsbnczX192Rm9qYTlqU0dET0U4WlVGRWpYczVNZUt5a0d1U3ZmY1Zwa2xMQUVhMVNZa1FwdDFJTjBQcHQ5bGNJQlJ3YjVUU083QVZQRFBTT2VQbw?oc=5",
+     "titre": "Russian strikes hit Kyiv after Witkoff meets Putin"
+    },
+    {
+     "source": "AP News",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeldMenNBb3pveGlrZmlGLXZkaWNZaEhBUHMwSWh4dm5ZQW1IRWxEVGRxbFVDeUdwTnh2WW1jSXJ3T2U1cmh4cTR5bC1DSXdOSzJZb3hFaGNBNlAtclluMU4zMVBEVWpua1A2S2dBbXdjeWo1SFNUWGNvZ1dRRXhKSk4xTjlYUXFXNVM4NFctSmdxVHRqcjZrOWF4allidw?oc=5",
+     "titre": "Russian missiles pound Kyiv as Moscow says over 800 Ukrainian drones downed"
     }
    ],
-   "id": "2026-10-22|Russia and Ukraine open to US-brokered talks"
+   "id": "2026-10-23|Russia bombards Kyiv after indicating readiness for peace talks"
+  },
+  {
+   "suite": false,
+   "remplace": null,
+   "emoji": "🛩️",
+   "titre": "Pentagon and Lockheed Martin agree decade-long deal for 850 F-35s",
+   "resume": "The US Department of Defense and Lockheed Martin reached a 10-year framework agreement securing at least 850 F-35 fighters. The procurement remains subject to annual congressional budget approvals.",
+   "pourquoi": "",
+   "pays": [
+    "United States"
+   ],
+   "region": "Americas",
+   "rubrique": "industrie",
+   "liens": [
+    {
+     "source": "Defense News",
+     "url": "https://www.defensenews.com/news/pentagon-congress/2026/10/22/pentagon-lockheed-agree-to-10-year-deal-for-850-f-35-jets/",
+     "titre": "Pentagon, Lockheed agree to 10-year deal for 850 F-35 jets"
+    },
+    {
+     "source": "Breaking Defense",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQXpmZ2ZyVmlFcE83ZWZ5VGphZGR5M1M4TGxsVmpiM1laS080R3VQVDF1cndJbVdrTEZvamEtUklxOV8wLWhBLVNSMGVXQ0ZiQ2ZsZk1Ocl8yZEUzVGNoRkw5bnFHNWdKYm9uNWNwaTFvbFV2Yk9KMWRyWERFbDBFRTJENlhKeFdtYTYtd01IUU4yaUlXSXlIMUVjZ0N6eXNCbk01dUwzaHc1ajlHZmUxdU4tRXUyS1E?oc=5",
+     "titre": "Pentagon, Lockheed agree to decade-long F-35 framework deal for hundreds of jets"
+    }
+   ],
+   "id": "2026-10-23|Pentagon and Lockheed Martin agree decade-long deal for 850 F-35s"
   },
   {
    "suite": true,
-   "remplace": "2026-10-20|Saudi Arabia postpones flagship summit as Houthi strike kills over fifty",
+   "remplace": "2026-10-22|US orders staff evacuation from Saudi Arabia",
    "emoji": "⚠️",
-   "titre": "US orders staff evacuation from Saudi Arabia",
-   "resume": "The US State Department ordered non-essential embassy personnel and families to leave Saudi Arabia. The move comes as sustained Houthi drone and missile strikes target the kingdom's infrastructure.",
+   "titre": "Aramco evacuates Dhahran base as deadly Houthi strikes hit Saudi Arabia",
+   "resume": "Saudi Aramco instructed staff to evacuate its Dhahran headquarters following repeated Houthi missile and drone strikes. Interceptions and impacts across eastern Saudi Arabia left at least two people dead and struck King Fahd International Airport.",
    "pourquoi": "",
    "pays": [
-    "United States",
     "Saudi Arabia",
     "Yemen"
    ],
@@ -64,156 +88,113 @@
    "rubrique": "moyen_orient",
    "liens": [
     {
-     "source": "Japan Times",
-     "url": "https://www.japantimes.co.jp/news/2026/10/22/world/us-diplomats-saudi-arabia-houthi/",
-     "titre": "U.S. orders diplomats to depart Saudi Arabia amid Houthi strikes"
+     "source": "The Times of Israel",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNzBhUFhHVGRScEtyMHI0ZXZFbXlpdF9aWHFseU4wcE11THMzc0xCWWJqOEJPRzJYQzVmcTBLZkhBcUhISmdjR1lQeFRiRnJvZzlFWHgwaXh6N2N5dlZxVlUya2RWWVpEWWZJd0M3NVItR0R5TjRTZzA4cEp0My03RWZIcnBYVGZ1UzdBS1NRbGQ5TW9QalU1UW90MTFHcnFzbTRMal9RR3N2WTQ0WTNkNVlKSk10dXhVVDFrNnhSQVkyTjhIa0ZHaGtfOV9vWEI4MHgxWnBlSQ?oc=5",
+     "titre": "Riyadh-led coalition says it shot down Houthi ballistic missile targeting Saudi Arabia's Najran"
     },
     {
-     "source": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/21/us-orders-departure-of-personnel-from-saudi-arabia-citing-houthi-threat?traffic_source=rss",
-     "titre": "US orders departure of personnel from Saudi Arabia, citing Houthi threat"
+     "source": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&at_campaign=rss",
+     "titre": "Two killed in Houthi attack on airport in eastern Saudi Arabia, authorities say"
     },
     {
      "source": "Al-Monitor",
-     "url": "https://www.al-monitor.com/originals/2026/10/washington-orders-us-embassy-staff-families-leave-saudi-arabia",
-     "titre": "Washington orders US embassy staff, families to leave Saudi Arabia"
+     "url": "https://www.al-monitor.com/originals/2026/10/saudi-aramco-tells-staff-evacuate-dhahran-clashes-yemens-houthis-continue",
+     "titre": "Saudi Aramco tells staff to evacuate Dhahran as clashes with Yemen's Houthis continue"
     },
     {
-     "source": "Reuters",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONDg0WFNBeGFxeHpUVUsya2RYd0k3XzF6bXU3eGpZVnh2T25MWHVsQzVrbE9PNEdaWnpfN1dmRmtxajMtbl8yZ29EWUxYaXAxcnkxcFN1NEVDLVE3bUtkR0NwZDVPN2haVXFERXRUeHRnQ2QyVDhVdjBNa2FIUFVDOWFicGJOQVVWR0JFMnZSM0NLV09nZHk5UzA2LTgtbmFEVnlYZDI1Uk9ic1hyLTZ0Z2NKbWI5QWgtWWE3ZzV4eE11bmpCcGstTFAzQnVGUQ?oc=5",
-     "titre": "EXCLUSIVE: US orders diplomats to depart Saudi Arabia amid Houthi strikes"
+     "source": "Japan Times",
+     "url": "https://www.japantimes.co.jp/news/2026/10/22/world/oil-saudi-attacks/",
+     "titre": "Oil rises as deadly attacks in Saudi Arabia fan Middle East supply fears"
     }
    ],
-   "id": "2026-10-22|US orders staff evacuation from Saudi Arabia"
+   "id": "2026-10-23|Aramco evacuates Dhahran base as deadly Houthi strikes hit Saudi Arabia"
   },
   {
-   "suite": true,
-   "remplace": "2026-10-21|North Korea threatens border escalations as Seoul vows firm response",
-   "emoji": "📢",
-   "titre": "North Korea prepares border loudspeakers",
-   "resume": "North Korean leader's sister Kim Yo-jong inspected border fortifications and warned that propaganda loudspeakers directed at South Korea will be operational within days. Seoul vowed an overwhelming response to any provocations.",
+   "suite": false,
+   "remplace": null,
+   "emoji": "⚠️",
+   "titre": "Magnitude 7.0 earthquake strikes northern Tibet, killing at least 16",
+   "resume": "A powerful magnitude 7.0 earthquake struck Nagqu in northern Tibet late on October 22, destroying hundreds of homes. Chinese authorities confirmed at least 16 people died and more than 30 were injured.",
    "pourquoi": "",
    "pays": [
-    "North Korea",
-    "South Korea"
+    "China"
    ],
    "region": "North-East Asia",
    "rubrique": "asie",
    "liens": [
     {
-     "source": "Yonhap (Corée du Nord)",
-     "url": "https://en.yna.co.kr/view/AEN20261022001151320",
-     "titre": "(LEAD) N.K. leader's sister warns of border countermeasures, loudspeakers to be ready within days"
-    },
-    {
      "source": "Straits Times Asie",
-     "url": "https://www.straitstimes.com/asia/east-asia/north-koreas-kim-yo-jong-warns-south-korea-says-border-loudspeakers-to-be-ready-within-days",
-     "titre": "North Korea’s Kim Yo Jong warns South Korea, says border loudspeakers to be ready within days"
+     "url": "https://www.straitstimes.com/asia/powerful-tibet-earthquake-kills-18-people-and-injures-32-others",
+     "titre": "Powerful Tibet earthquake kills 18 people and injures 32 others"
     },
     {
-     "source": "Malay Mail",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZWdyQkZYVy0taHBaRDBFMVZpT0ZMaDhuUGczaldqQThyMkVIVEVRWFNVc2stcTJpZ2RRekFzeUFuN0gwZHlIRXhGMERibW5MekZyNjhnNmdBdC1TVWxjM1ZBY0dDdGtoa3pMMEo2YTd3Q2xhRnZDRWc4MjItWGtxLXBJcHVieGZSMXJUdUZIU0VORF92ZXQ1XzE5dldTalBfdkotVTBBcXJ2RHJCQ2pRZXZsZXlfSGlSbGFJa29rMHVodzFQYnhQQ0daQdIB0AFBVV95cUxNNjJXZWZCbUZGdVkweWJNR0ZRdmdlSDdCeVFCcGN4V19nelZvaGJRZTNfNl9yZzVKajd3TGhteENnSVYwUUx4LWRORnNGQ0VET2JBYmxIMlZ4R0RiamxQSW9fU21sOWRHajMzWjNPUTJKbm1kclBWR25kaGFkaDdORVNjSlJuTkN0WVVMbkRydDRlampXMU1OWmI4b09fempUZ2NrQURYdFJhRjVxVHBRQUJSb0ppWEhYcUhydDh5RUxoaDd4R01QTjIzSUtDVUNr?oc=5",
-     "titre": "North Korea says new firepower units moved into ‘firing positions’ near border"
-    }
-   ],
-   "id": "2026-10-22|North Korea prepares border loudspeakers"
-  },
-  {
-   "suite": false,
-   "remplace": null,
-   "emoji": "💰",
-   "titre": "Meta fined $25 billion over data privacy",
-   "resume": "A US court ordered Meta to pay a record $25 billion penalty following a jury verdict finding the company lied to users about data access during the Cambridge Analytica scandal.",
-   "pourquoi": "",
-   "pays": [
-    "United States"
-   ],
-   "region": "Americas",
-   "rubrique": "monde",
-   "liens": [
+     "source": "BBC Asia",
+     "url": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss",
+     "titre": "Powerful earthquake hits Tibet killing 16 people, reports say"
+    },
     {
-     "source": "BBC World",
-     "url": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
-     "titre": "Meta fined $25bn for 'lies' over user data privacy"
+     "source": "RFI Asie-Pacifique",
+     "url": "https://www.rfi.fr/fr/asie-pacifique/20261022-un-puissant-s%C3%A9isme-de-magnitude-7-fait-des-morts-et-de-nombreux-bless%C3%A9s-au-tibet",
+     "titre": "Un puissant séisme de magnitude 7 fait des morts et de nombreux blessés au Tibet"
     },
     {
      "source": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/10/21/judge-orders-meta-to-pay-25bn-in-fines-for-facebook-privacy-violations?traffic_source=rss",
-     "titre": "Judge orders Meta to pay $25bn in fines for Facebook privacy violations"
-    },
-    {
-     "source": "Le Monde International",
-     "url": "https://www.lemonde.fr/international/article/2026/10/21/meta-condamne-a-verser-25-milliards-de-dollars-au-nouveau-mexique-apres-le-scandale-cambridge-analytica_6798305_3210.html",
-     "titre": "Meta condamné à verser 25 milliards de dollars au Nouveau-Mexique après le scandale Cambridge Analytica"
+     "url": "https://www.aljazeera.com/news/2026/10/22/magnitude-7-earthquake-kills-16-people-in-chinas-tibet-xinhua-reports?traffic_source=rss",
+     "titre": "Magnitude 7 earthquake kills 16 people in China’s Tibet, Xinhua reports"
     }
    ],
-   "id": "2026-10-22|Meta fined $25 billion over data privacy"
-  },
-  {
-   "suite": false,
-   "remplace": null,
-   "emoji": "🛰️",
-   "titre": "Global satellite services revenues projected to surge",
-   "resume": "A new industry report forecasts that global satellite connectivity and services revenues will expand by 44% to reach $145 billion by 2035.",
-   "pourquoi": "",
-   "pays": [
-    "France"
-   ],
-   "region": "Global",
-   "rubrique": "espace",
-   "liens": [
-    {
-     "source": "SpaceNews",
-     "url": "https://spacenews.com/global-satcom-services-revenues-to-reach-145-billion-by-2035/",
-     "titre": "Global Satcom Services Revenues to Reach $145 Billion by 2035"
-    }
-   ],
-   "id": "2026-10-22|Global satellite services revenues projected to surge"
+   "id": "2026-10-23|Magnitude 7.0 earthquake strikes northern Tibet, killing at least 16"
   }
  ],
  "rubriques": [
   {
    "id": "monde",
    "titre": "World",
-   "items": []
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "⚖️",
+     "titre": "European Parliament awards Sakharov Prize to US-sanctioned ICC",
+     "resume": "The European Parliament awarded its Sakharov human rights prize to the International Criminal Court. The symbolic move comes shortly after the Trump administration imposed financial sanctions against the tribunal's judges.",
+     "pourquoi": "",
+     "pays": [
+      "United States"
+     ],
+     "region": "Global",
+     "rubrique": "monde",
+     "liens": [
+      {
+       "source": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/10/22/us-sanctioned-icc-wins-sakharov-prize-eus-top-human-rights-award?traffic_source=rss",
+       "titre": "US-sanctioned ICC wins Sakharov Prize, EU’s top human rights award"
+      },
+      {
+       "source": "Le Monde International",
+       "url": "https://www.lemonde.fr/international/article/2026/10/22/en-remettant-le-prix-sakharov-a-la-cour-penale-internationale-le-parlement-europeen-affiche-sa-fermete-face-a-washington_6798633_3210.html",
+       "titre": "En remettant le prix Sakharov à la CPI, le Parlement européen affiche sa fermeté face aux Etats-Unis"
+      },
+      {
+       "source": "South China Morning Post",
+       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdWNfaEdudXRqdzBjQmhIRVVGdGtDaGdNdGFqblFoRU1TSEhGT2xvTmV0SnJTZ0F2M2g3cWlsRndIbEF5VUMzbF9QOXNsc2x6OEFlZDB2enBJTXMtSmpJc0g2WDF2STZSRUNFTzU1NFVKd0loYTl2VjNkNVVIeHZNVkcxNUtMLXFUa0dGQm9Ta0MzSk04RVhNbHhrTlcyLXd5UlNiTG1BWG9aT1BoOUk5aNIBsAFBVV95cUxNeGlDSUJxYkJTclY3SW5mRDY2eTFxeHh1blAyS0VIaU9oSENTZlhFLTZLSVdOV2xqOVhxZmlTbHlBcWp2eXpSR0FtLXJJeWIwcFFEQU50VHRlSWVlVnZrY0hpc2NjbHdhNHc2Z0gxNFlReE5McmpWQldYbFpyMTFyUUVvQ1NRQjlsTkpaWDZUd2hqeDRYRFRIenpNNnJNZjZkMnlWRnJvbTBfOVVqTW9rNQ?oc=5",
+       "titre": "ICC, reviled by Trump, wins top EU human rights award"
+      }
+     ],
+     "id": "2026-10-23|European Parliament awards Sakharov Prize to US-sanctioned ICC"
+    }
+   ]
   },
   {
    "id": "asie",
    "titre": "APAC",
    "items": [
     {
-     "suite": true,
-     "remplace": "2026-10-20|Singapore and Qatar commit to upgrade ties to strategic partnership",
-     "emoji": "🇸🇬",
-     "titre": "Singapore and UAE launch economic partnership talks",
-     "resume": "Prime Minister Lawrence Wong and UAE President Sheikh Mohamed Zayed Al Nahyan witnessed the signing of energy, water, and disease vector control agreements in Abu Dhabi. Both nations also agreed to start formal economic partnership negotiations.",
-     "pourquoi": "",
-     "pays": [
-      "Singapore",
-      "United Arab Emirates"
-     ],
-     "region": "South-East Asia",
-     "rubrique": "asie",
-     "liens": [
-      {
-       "source": "CNA Singapour",
-       "url": "https://www.channelnewsasia.com/singapore/uae-lawrence-wong-bilateral-agreement-6479141",
-       "titre": "Singapore and the UAE to launch economic partnership negotiations to further trade, investment links"
-      },
-      {
-       "source": "Straits Times Singapour",
-       "url": "https://www.straitstimes.com/singapore/singapore-uae-can-do-more-to-connect-their-businesses-and-investors-pm-wong",
-       "titre": "Singapore and UAE to start talks on economic pact, form joint energy task force"
-      }
-     ],
-     "id": "2026-10-22|Singapore and UAE launch economic partnership talks"
-    },
-    {
      "suite": false,
      "remplace": null,
-     "emoji": "🇮🇩",
-     "titre": "Prabowo hits back at MSCI over stock market downgrade threat",
-     "resume": "Indonesian President Prabowo accused MSCI of trying to intimidate Indonesia after a warning of a potential market downgrade triggered a sharp equities sell-off. Jakarta rejected allegations linking the market rout to state investors.",
+     "emoji": "🛩️",
+     "titre": "Indonesian Air Force tests fighter jet dispersal landings on toll road",
+     "resume": "The Indonesian Air Force conducted touch-and-go landing trials with four combat aircraft on the Pasuruan-Probolinggo toll road in East Java. The drill tested operational readiness and alternative landing strips during wartime contingencies.",
      "pourquoi": "",
      "pays": [
       "Indonesia"
@@ -222,95 +203,91 @@
      "rubrique": "asie",
      "liens": [
       {
-       "source": "Straits Times Asie",
-       "url": "https://www.straitstimes.com/asia/se-asia/prabowo-vows-indonesia-will-not-be-frightened-by-msci-amid-proposed-market-downgrade",
-       "titre": "Prabowo vows Indonesia will not be ‘frightened’ by MSCI amid proposed market downgrade"
+       "source": "detikcom",
+       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaEtvdTZzSktRRzFiRnZLYUd1Q081bktERXA1ejRMdjIyZnNJTlphbGVCdmc4bzF1S0lsVnd1Rnd6a1RqZnU3Q01BdHZiWm91TEpFNHNwT1Z0azg5R1ViQXMtbVV1Si1KYTFYRXJrMkZJMVVXWEpwZ1drbmxQX0hENGlGSUxGQWQwZVFnTzJKdFIyOWU5ZHc2b2JpaXRJd081VkdXQm5zQUwtczJuYTNvNmhn0gGyAUFVX3lxTE9oS291NnNKS1FHMWJGdkthR3VDTzVuS0RFcDV6NEx2MjJmc0lOWmFsZUJ2ZzhvMXVLSWxWd3VGd3prVGpmdTdDTUF0dmJab3VMSkU0c3BPVnRrODlHVWJBcy1tVXVKLUphMVhFcmsyRkkxVVdYSnBnV2tubFBfSEQ0aUZJTEZBZDBlUWdPMkp0UjI5ZTlkdzZvYmlpdEl3TzVWR1dCbnNBTC1zMm5hM282aGc?oc=5",
+       "titre": "Tol Paspro Dibuka Lagi Usai Jadi Uji Landasan Jet Tempur TNI AU"
       },
       {
-       "source": "CNA Asie",
-       "url": "https://www.channelnewsasia.com/asia/prabowo-accuses-msci-intimidate-indonesia-market-rout-6478796",
-       "titre": "Prabowo accuses MSCI of trying to intimidate Indonesia after market rout"
+       "source": "20detik",
+       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSk9Zd1RsMzB1LVVRUTdXNmVocHVsdHl4VnJfTTFvMFZJd3prc3hkNElMYjNvNnhOOVdqaVZsYjhFaXdoSHU5SDhPX0FWa3FBWjcwLWhnT3B6Vm5DdDlpVWZOYXhPTkhNSk5WVHA5Wl80X0oyeFNOVE8zamxIbmVjaXJUSGcyMXpCTUZWUTloRFFKVEVFMkx5SVE0ZUt4SXBqTHp6RGcyeEVzS1A5eVFj?oc=5",
+       "titre": "Video: Momen 4 Pesawat Tempur TNI AU Mendarat di Tol Paspro"
       },
       {
-       "source": "CNA Singapour",
-       "url": "https://www.channelnewsasia.com/singapore/gic-indonesia-temasek-stock-market-msci-6478261",
-       "titre": "GIC, Temasek deny claims they pressured MSCI to downgrade Indonesia's market"
+       "source": "ANTARA News",
+       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZUtneXZuU2ZkT1U2Mi1BVDdud1ZKVEpxclpNX1dWbU1wMlkzYUVhY29CN1ZKc19IUzJPSXFQV2tNMm4taDZqTUFWMkFOQ2E1SlVDanNVdFhfeUlBZ3lWMDBVR0lHaEJ2elRTb20tQmZ2S19fSnZZcTdZQ3hCV2NtYmhaMm5hQ2hua3k1UjJIY3lKd19kanFUb254a3QtcXREdDhJNmxaWWd1cXVN?oc=5",
+       "titre": "TNI AU uji landasan alternatif pesawat tempur di Tol Paspro Jatim"
+      },
+      {
+       "source": "Kompas.com",
+       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQ2h3VjlrU2wyaVlkV29DWW5HSXVnaV9QcTFYYWNpUmgxUUV0RGRyQTZDdEk2U1Q5Q3RFWU9WZzVEZEZzNjVMblNJcWgwNlZiN2Y5WVVtejljanpMQzFwZ2tXbGVzaDNscWU0YWZtR0RPckFhbkw2UGM2SVA2VXNSbjFBUThLRDc3ZlVYZ0RVY2ZialVXRXFSVWczQ29BU3d6TnNWd2VPQnlSRnNjYVViNkVralpoN3pMekpqVWJ1WHlBQ1k?oc=5",
+       "titre": "Tol Paspro Jadi Cadangan Landasan Pesawat Tempur TNI AU, Ini Kata Pemkab"
       }
      ],
-     "id": "2026-10-22|Prabowo hits back at MSCI over stock market downgrade threat"
+     "id": "2026-10-23|Indonesian Air Force tests fighter jet dispersal landings on toll road"
     },
     {
-     "suite": false,
-     "remplace": null,
-     "emoji": "🇲🇾",
-     "titre": "Malaysia bans Waze for civil servants over security concerns",
-     "resume": "Malaysia has barred civil servants from using the Waze navigation app, citing data security links to Israel. Prime Minister Anwar Ibrahim recommended switching to the domestic alternative Tuju.",
+     "suite": true,
+     "remplace": "2026-10-22|North Korea prepares border loudspeakers",
+     "emoji": "📢",
+     "titre": "North Korea readies border loudspeakers as Seoul appeals to UN",
+     "resume": "Kim Yo-jong warned that North Korean border propaganda loudspeakers will be operational within days in response to South Korean actions. Seoul called for de-escalation and prepared a formal complaint to the UN Security Council.",
      "pourquoi": "",
      "pays": [
-      "Malaysia"
-     ],
-     "region": "South-East Asia",
-     "rubrique": "asie",
-     "liens": [
-      {
-       "source": "Straits Times Asie",
-       "url": "https://www.straitstimes.com/asia/se-asia/malaysia-bans-waze-for-civil-servants-amid-mounting-fears-over-foreign-digital-surveillance",
-       "titre": "Malaysia bans Waze for civil servants amid mounting fears over foreign digital surveillance"
-      },
-      {
-       "source": "CNA Asie",
-       "url": "https://www.channelnewsasia.com/asia/malaysia-anwar-ibrahim-waze-data-security-6477761",
-       "titre": "Malaysia PM Anwar warns against Israeli navigation app Waze over data security concerns"
-      }
-     ],
-     "id": "2026-10-22|Malaysia bans Waze for civil servants over security concerns"
-    },
-    {
-     "suite": false,
-     "remplace": null,
-     "emoji": "🇯🇵",
-     "titre": "Japan recovers wreckage of crashed Global Hawk drone",
-     "resume": "The Japan Air Self-Defense Force retrieved a six-metre section of the fuselage belonging to a crashed RQ-4 Global Hawk drone. An ongoing investigation follows a series of recent parts-drop incidents across military bases.",
-     "pourquoi": "",
-     "pays": [
-      "Japan"
+      "North Korea",
+      "South Korea"
      ],
      "region": "North-East Asia",
      "rubrique": "asie",
      "liens": [
       {
-       "source": "FNNプライムオンライン",
-       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAwV3JFYkRob29UR3NpNmV0Q3JmSC1BUm0xQmFfVTZyOExLNU5rZWE0YU14dE5NdWgtMXhTOFpSS1FEVTFPYUUwR0wxMk5Bdw?oc=5",
-       "titre": "長さ6メートル 航空自衛隊が墜落したグローバルホークの胴体の一部を回収 画像を公開"
+       "source": "Yonhap (Corée du Nord)",
+       "url": "https://en.yna.co.kr/view/AEN20261023000800315",
+       "titre": "(EDITORIAL from Korea JoongAng Daily on Oct. 23)"
       },
       {
-       "source": "TBS NEWS DIG",
-       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5nWGlCVDQ3UF9ocV9LenZRYnV1TEZ1YjkxcWJTdWVONFB5dkNGRV91ZThaM3VBMVNoNzlXZVpEMV9VUE9OSnViN08xY3B1TFBsU0JySmFOdw?oc=5",
-       "titre": "墜落の「グローバルホーク」 10月17日に回収した物体が墜落した機体の胴体の一部と断定 航空自衛隊が発表 長さ約6ｍ・幅1.6ｍ・高さは1.5ｍ"
+       "source": "조선일보",
+       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQX2t2TkRETFM1cnJMSmFVZ1g5aFozaC1lbjc4T05PT0tMXzdWR2Fkb2VLWWI3akpsZll1c0JhQ0tJNUJ4Wnl4c0JINm1oeFJmRUVkWElDYlJFOVJmNVZYVXJ1NkNWSVZzOHJRc3Q2ejR5QXM0ZzlCT1hNR1g2elBMcVQtZ3JLMlU?oc=5",
+       "titre": "Editorial: Kim Yo-jong Threatens Loudspeakers: An Inverted Relationship Where the Perpetrator Demands Retaliation"
+      },
+      {
+       "source": "SBS 뉴스",
+       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0xWXo0cExVeHBJdG9WbXNicklGZVFqYnEzR1VoSndPTEdMTDJUaXllX0diUUxPYnh2RWtlQ0stMU9FYlJ5ZDQ0N2dpSDRfcjl5R1l6aENIeXAtY1AtOUc0QzJaUVh3cW5ZQTlBZU9B0gFmQVVfeXFMTzV0UHlzZzdJTEVkcmhkMlhtcWNmUnFhOVc3Q0ZLTWFveU9XVlZqZ2NEemhsSzYwcDZKLTRQWmtYa3hLb25IeFRNQnhUaWw2MzE1ajBNd0ZzRmk5Sk5lekM0UjRjYTJR?oc=5",
+       "titre": "North Korea Warns 'New Countermeasures' and Loudspeakers on Standby; Seoul to Send Letter to UN Security Council President"
+      },
+      {
+       "source": "The Diplomat",
+       "url": "https://thediplomat.com/2026/10/this-time-the-korean-loudspeaker-standoff-is-different/",
+       "titre": "This Time, the Korean Loudspeaker Standoff Is Different"
       }
      ],
-     "id": "2026-10-22|Japan recovers wreckage of crashed Global Hawk drone"
+     "id": "2026-10-23|North Korea readies border loudspeakers as Seoul appeals to UN"
     },
     {
-     "suite": false,
-     "remplace": null,
-     "emoji": "🇦🇺",
-     "titre": "Meta sued in Australian class action over harm to children",
-     "resume": "A class action lawsuit has been filed in Australia against Meta on behalf of eight plaintiffs alleging social media platforms cause intentional harm to children.",
+     "suite": true,
+     "remplace": "2026-10-21|Singapore air quality moderates as Indonesia battles forest fires",
+     "emoji": "🇸🇬",
+     "titre": "Singapore expands mask distribution as air quality temporarily improves",
+     "resume": "Singapore authorities began a second round of mask distribution, expanding eligibility to seniors aged 60 and above. Air quality improved to moderate levels after 18 consecutive days of haze caused by Indonesian peat fires.",
      "pourquoi": "",
      "pays": [
-      "Australia"
+      "Singapore",
+      "Indonesia"
      ],
-     "region": "Oceania",
+     "region": "South-East Asia",
      "rubrique": "asie",
      "liens": [
       {
-       "source": "Straits Times Asie",
-       "url": "https://www.straitstimes.com/asia/australianz/meta-sued-in-australia-class-action-over-alleged-social-media-harm-to-children",
-       "titre": "Meta sued in Australia class action over alleged social media harm to children"
+       "source": "CNA Singapour",
+       "url": "https://www.channelnewsasia.com/singapore/haze-psi-pm25-oct-23-6484486",
+       "titre": "24-hour PSI readings remain at good to moderate level across Singapore"
+      },
+      {
+       "source": "Straits Times Singapour",
+       "url": "https://www.straitstimes.com/singapore/haze-eases-in-singapore-as-residents-wake-up-to-improved-air-quality",
+       "titre": "Haze eases in Singapore as residents wake up to improved air quality"
       }
      ],
-     "id": "2026-10-22|Meta sued in Australian class action over harm to children"
+     "id": "2026-10-23|Singapore expands mask distribution as air quality temporarily improves"
     }
    ]
   },
@@ -319,35 +296,66 @@
    "titre": "Elections & Politics",
    "items": [
     {
-     "suite": true,
-     "remplace": "2026-10-20|Hegseth visits Netanyahu in Tel Aviv ahead of parliamentary election",
+     "suite": false,
+     "remplace": null,
      "emoji": "🗳️",
-     "titre": "Israeli voters head to polls amid regional tensions",
-     "resume": "Israeli military personnel have begun voting ahead of the upcoming national parliamentary elections. Key candidates and Arab minority lists are mobilizing voters as prime ministerial contenders clash over security strategy.",
+     "titre": "Lula and Bolsonaro in dead heat ahead of Brazil presidential runoff",
+     "resume": "Opinion polls show President Luiz Inacio Lula da Silva and right-wing challenger Flavio Bolsonaro tied ahead of Sunday's runoff election. The campaign has seen sharp polarisation over evangelical influence and allegations of social media bias.",
      "pourquoi": "",
      "pays": [
-      "Israel"
+      "Brazil"
      ],
-     "region": "Middle East",
+     "region": "Americas",
      "rubrique": "elections",
      "liens": [
       {
-       "source": "The Washington Post",
-       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU3dBUkdJTUxEYjlpZnU1SUgzaXBSWFEwNGY3Q3FNWUZCS21xUk5lNl82ODl2OF9XTDQ3dnJKNkJ1WkZQRXkwSHBrSlU1VVROMjNCWERYZzU0QUczZG0xdXhMY3dHVjR3a0F3Sk1GR2kxU1lrQnJqS2UxNXJrX0hsalpSVno1MEU0aXh5XzRSVGVaaGZ2MXRVZ1VKVjlxWE1RQ2dPNDFuVG1JalBsVVFVSkxsWWlkejUyLUVQeVhSc3JvbUtWbHc?oc=5",
-       "titre": "How next week’s Israeli elections could affect settler violence, Gaza and the Iran war"
+       "source": "Reuters",
+       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQzhiV2tiVEJJcEs1Skc2QS0yQWN0cEw5c1JUbHdiSERtd2FHZW5RclA5UEhjby1UMk5FZDZwUWVKQ0dfSUFNVlJuNldHdVYwVXdRNUx0U08yaWNrWWp2bnpGcThLczVtVWl3QVFfLXdDRlZLRkdnY2dWTkZYM2V2WEtuVWVKV2FCcGZEWjRuUlVvMGNfVmtVMFlVMldKT3Z5bklvZGlHbUpOR1MzU0EzNmhHSkUwUGdkMVM4NDUxd0xtUQ?oc=5",
+       "titre": "Flavio Bolsonaro and Lula about even ahead of Brazil runoff, Datafolha poll shows"
       },
       {
-       "source": "Al-Monitor",
-       "url": "https://www.al-monitor.com/originals/2026/10/top-arab-israeli-election-candidate-tells-afp-netanyahu-win-would-be-catastrophe",
-       "titre": "Top Arab-Israeli election candidate tells AFP Netanyahu win would be 'catastrophe'"
+       "source": "BBC World",
+       "url": "https://www.bbc.co.uk/news/articles/c6pwgve2lk5go?at_medium=RSS&at_campaign=rss",
+       "titre": "Lula says rival should be disqualified over alleged Meta interference ahead of Brazil vote"
       },
       {
-       "source": "The Times of Israel",
-       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUjc1N0c1T1JDSU9HU3paQmd3Q2k0cnVJd3B0UHNDekR1dWVnU2dFQWQ5a0xGdFlGWUliLV9vTk9lUW1jZUFnOWdNTFFFdkRDODdmNUtTVzJWejRwbHhNaFlhU2dEcUxObTBET003VEJrLXZnWG1pR2t4VGVuNUxGLTY2bGlGOVVLWEV1X0k3X21VMzlncDNmclMtOUswZTQ2akhkMUpNcVVPNFpkeU9JaVJSSWdtdzR3blZQWUZjY0xOeVlt?oc=5",
-       "titre": "IDF troops begin voting as military’s polls open in Israel, Gaza, Lebanon and Syria"
+       "source": "Le Monde International",
+       "url": "https://www.lemonde.fr/le-monde-des-religions/article/2026/10/22/au-bresil-la-sainte-noire-notre-dame-d-aparecida-consacree-enjeu-de-l-election-presidentielle_6798651_6038514.html",
+       "titre": "Au Brésil, la sainte noire Notre-Dame d’Aparecida consacrée enjeu de l’élection présidentielle"
+      },
+      {
+       "source": "Japan Times",
+       "url": "https://www.japantimes.co.jp/news/2026/10/22/world/lula-older-voters-bolsonaro/",
+       "titre": "Lula hopes older voters can help power him to victory against Flavio Bolsonaro"
       }
      ],
-     "id": "2026-10-22|Israeli voters head to polls amid regional tensions"
+     "id": "2026-10-23|Lula and Bolsonaro in dead heat ahead of Brazil presidential runoff"
+    },
+    {
+     "suite": true,
+     "remplace": "2026-10-21|Malaysia de-registers main opposition coalition before elections",
+     "emoji": "⚖️",
+     "titre": "Malaysian court stays deregistration of opposition coalition Perikatan Nasional",
+     "resume": "The Kuala Lumpur High Court granted an interim stay against the Registrar of Societies' deregistration of Perikatan Nasional. The ruling allows the main opposition bloc to continue political operations and contest upcoming state elections.",
+     "pourquoi": "",
+     "pays": [
+      "Malaysia"
+     ],
+     "region": "South-East Asia",
+     "rubrique": "elections",
+     "liens": [
+      {
+       "source": "Straits Times Asie",
+       "url": "https://www.straitstimes.com/asia/se-asia/malaysian-high-court-stays-former-ruling-coalition-pns-deregistration-by-registrar-of-societies",
+       "titre": "Malaysian High Court stays former ruling coalition PN’s deregistration by Registrar of Societies"
+      },
+      {
+       "source": "CNA",
+       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOS2ZKcUtWZ3V0SWtlY1puTU5CTmNITXFnRWNtVmM3RDlPeUhXUGJybFdYLUNIZGZUaERNamNLWUFYQzdzcG50ajgteGU1N1RpM1JsTExpM0RBUmhaQ25OeEIyT1huQldkUERMQnJZSTh2by1pWHFCWXFjcUNtbC1uRkhZUTJGb184bTd3cGpnTWFGWGxwOXdaZHI5cXdQTms2RkJFWjBXTm54RUl0NU1OWDZkeHlBaUdWSVNxYk5sQ0R5SUN5aHQteQ?oc=5",
+       "titre": "Malaysia opposition coalition’s deregistration could reshape Melaka election: Analyst"
+      }
+     ],
+     "id": "2026-10-23|Malaysian court stays deregistration of opposition coalition Perikatan Nasional"
     }
    ]
   },
@@ -359,82 +367,55 @@
      "suite": false,
      "remplace": null,
      "emoji": "🛡️",
-     "titre": "France orders additional SAMP/T NG air defence systems",
-     "resume": "The French DGA has ordered additional SAMP/T NG Franco-Italian medium-range ground-based air defence systems. The procurement accelerates the delivery schedule outlined in the current military programming law.",
+     "titre": "South Korean counter-drone laser achieves 100% intercept rate in Army drill",
+     "resume": "South Korea's indigenously developed anti-drone laser weapon system achieved a 100 per cent intercept success rate during operational Army live-fire trials. Hanwha-built systems are now positioned for potential export to European and Middle Eastern customers.",
      "pourquoi": "",
      "pays": [
-      "France",
-      "Italy"
+      "South Korea"
      ],
-     "region": "Europe",
+     "region": "North-East Asia",
      "rubrique": "defense_aerienne",
      "liens": [
       {
-       "source": "Opex360",
-       "url": "https://www.opex360.com/2026/10/21/la-direction-generale-de-larmement-a-commande-quatre-systemes-de-defense-aerienne-samp-t-ng-supplementaires/",
-       "titre": "La Direction générale de l’armement a commandé quatre systèmes de défense aérienne SAMP/T NG supplémentaires"
+       "source": "Korea JoongAng Daily",
+       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVDhYRTBoR1JCNjVxZTNxS095cndJbGhjZUp6YlQ1NGR1bHFtSldtbzhRQ2E4YXBSS3hJMk45bGJCbGxNWU9FNHVHbzVXZHhzYzJJQWRuUUNzQk43OHJ5c0NvWkp5eGJ6WDU5Yk5lQlVVU3Z4ZEN1NVhqVlJNOUozdnYtZU12SV9zNmt6V0pPUFZnTUhrVUJuRFlzOE9XRE5jSmxHWmRMaHZSdXdDTUhuaHVZT2twamVlUTVfU3dvWmR1ZTRDenVsbFN4X3FnLUJlVDgtNHBoZWI3UGFuZk5EWWRn?oc=5",
+       "titre": "Not as strong as Iron Beam, but ready now: Can Korea's antidrone laser win over Europe, Middle East?"
+      },
+      {
+       "source": "The Defense Post",
+       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1lcDQtN1R2ZVp2QUFqMVVac3dfbGNCWk9neHZ1VGZ6NS12c3o0X2Rlc2o5a0N4QnJZME1yTFZiQkhPb3lRU19FQk1WT1BXUENyckh0WEEwblpJY3E4Ykp4UWZhS05TVThKTHFDeTJhcEN6cE02SjBMMzVR0gF_QVVfeXFMTmtUamlWQ08tV2NFbE5EVENkbVpESFBGQnhsbHhBMU5fUFpXU3hzaDhuRVhJVmkza0s0RnVVbjBxZlhzbVBWdURxM1NibDhHUlNTcnZiLVVBd2otQ0xJZVNiOWFVQ1J3SWxSSHh5MllYN3lENC1GbUlsZGZMWGdGVQ?oc=5",
+       "titre": "South Korean Laser Weapon Achieves 100% Drone Interception Rate in Army Drill"
       }
      ],
-     "id": "2026-10-22|France orders additional SAMP/T NG air defence systems"
+     "id": "2026-10-23|South Korean counter-drone laser achieves 100% intercept rate in Army drill"
     },
     {
      "suite": false,
      "remplace": null,
      "emoji": "🛩️",
-     "titre": "US Navy spots AIM-174B and AIM-260 missiles on Super Hornet",
-     "resume": "A US Navy F/A-18 Super Hornet was photographed carrying both the AIM-174B and the secretive AIM-260 JATM long-range missiles. The dual loadout marks a significant milestone for naval aviation strike capabilities.",
+     "titre": "China's KJ-3000 radar jets enter serial production at Shaanxi facility",
+     "resume": "Satellite imagery confirmed four new KJ-3000 airborne early warning and control aircraft outside a Chinese production facility. The radar aircraft represents the primary next-generation platform to replace China's legacy KJ-200 and KJ-500 AEW&C fleets.",
      "pourquoi": "",
      "pays": [
-      "United States"
+      "China"
      ],
-     "region": "Americas",
+     "region": "North-East Asia",
      "rubrique": "defense_aerienne",
      "liens": [
       {
        "source": "The War Zone",
-       "url": "https://www.twz.com/air/navy-f-a-18-super-hornet-spotted-carrying-new-aim-174b-and-aim-260-long-range-missiles-together",
-       "titre": "Navy F/A-18 Super Hornet Spotted Carrying New AIM-174B And AIM-260 Long-Range Missiles Together"
-      },
-      {
-       "source": "Naval News",
-       "url": "https://www.navalnews.com/naval-news/2026/10/aim-174b-aim-260a-super-hornet/",
-       "titre": "AIM-174B, AIM-260A seen together on Super Hornet for the first time"
+       "url": "https://www.twz.com/air/four-kj-3000-radar-jets-at-chinese-factory-point-to-serial-production",
+       "titre": "Four KJ-3000 Radar Jets At Chinese Factory Point To Serial Production"
       }
      ],
-     "id": "2026-10-22|US Navy spots AIM-174B and AIM-260 missiles on Super Hornet"
+     "id": "2026-10-23|China's KJ-3000 radar jets enter serial production at Shaanxi facility"
     },
     {
      "suite": false,
      "remplace": null,
-     "emoji": "🛡️",
-     "titre": "Iran defence minister vows advanced air defence technologies",
-     "resume": "Iran's new defence minister pledged to upgrade the country's national air defence network using new technologies. The move comes amid rising regional threats and active posturing by the Islamic Revolutionary Guard Corps.",
-     "pourquoi": "",
-     "pays": [
-      "Iran"
-     ],
-     "region": "Middle East",
-     "rubrique": "defense_aerienne",
-     "liens": [
-      {
-       "source": "The Times of Israel",
-       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWUtUdHZKMVQ4VHJpa0FNZlhtbWcyczZtbW9MTlE5ekNCZWJORWp5cExhYkViWVQtdmlKaDJhNU5WMm5XZTV4X282aXpBaE8wZUd0Ql9FWU5GM2FsLXgwYUNpU3NKSC1TbzBIN0czbHVUMnQ4QklVcUExXzRBNV9uakgzQ2ljUjJlMkkzeHVVaFVVZ2dBcGd3bERlVC04ZVNRc2U4My1iUWo2ck9wMmJ3alpSVDZMZGJmS01HWU1kRUZoNkdIcXozVzJtYTVMcmhaX3VMcA?oc=5",
-       "titre": "Iran's new defense minister vows greater air defense with 'new technologies' in face of threats"
-      },
-      {
-       "source": "The Times of Israël",
-       "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNMGJUa2JmMGNaOGlTYk5KaUhzQzFFdnpUSXluVkcwMXlMQVFLdmRESXRPd1k5ZTJMLUJVVHJVLV9mOS1Qd2hFX1lvWXAwd3B5TzlsVVI0SGNHc3F1ZHlqMzJIaU50TW9UaTBTcUdsYWItSXAyb2VhWGpMMmdlajV3cHpfMDRUVWJpSkJSZ2ZUU2JEUUpidUU3V2JCVG1wMzNLQV9LcE52TW5KSnM4bmVqZUFyVUUzUGpzal9MU1NITUVUc2tkNW5vaGpQMnJSSHdVdDRaOW53SFlFc1FoRjI3a29qU3NYVUZoUEVNNjdUQlhUbGc4bE1fOWJWUnlfOW5INS04bTVHdm8?oc=5",
-       "titre": "Le nouveau ministre iranien de la Défense s'engage à renforcer la défense aérienne grâce à de \"nouvelles technologies\" face aux menaces"
-      }
-     ],
-     "id": "2026-10-22|Iran defence minister vows advanced air defence technologies"
-    },
-    {
-     "suite": false,
-     "remplace": null,
-     "emoji": "🛰️",
-     "titre": "US Air Force outlines 1,509 combat-ready fighter jet target",
-     "resume": "The US Air Force informed Congress that it requires 1,500-plus combat-coded fighter jets by 2035. F-35s are projected to make up 40 percent of the fleet, with F-47s ultimately replacing F-22s.",
+     "emoji": "🚢",
+     "titre": "Pentagon launches 120-day sprint to field counter-drone armed USVs",
+     "resume": "The US Defense Innovation Unit launched a 120-day rapid acquisition effort for uncrewed surface vessels armed with counter-drone capabilities. The initiative aims to protect naval surface task groups against swarms of cheap one-way attack drones.",
      "pourquoi": "",
      "pays": [
       "United States"
@@ -443,17 +424,12 @@
      "rubrique": "defense_aerienne",
      "liens": [
       {
-       "source": "Breaking Defense",
-       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVEE1LWFQV1E4Vnh5OFVMTmpGdkd2VzhmT1hBdGExUFdUcGdjd2RyLWxZSktHLTkzeXpQN1ZaMW5fNFBIVGV2WS1mVWU4QWJEYlUyRGhDTzl4dlpQOU5ma2ctdTFyUzU2SmJkUFpVY25OQktJck45VEZtN1Rkc0t2T180U0M2UW55dzY1emdLV05NUkI2djg5TGNDZXp6NUFERnloZDdMemxWQQ?oc=5",
-       "titre": "Air Force needs 1,509 combat-ready jets by 2035, service tells Congress"
-      },
-      {
-       "source": "Defense News",
-       "url": "https://www.defensenews.com/news/your-military/2026/10/21/us-air-force-outlines-the-fighter-fleet-it-needs-by-2035/",
-       "titre": "US Air Force outlines the fighter fleet it needs by 2035"
+       "source": "Naval News",
+       "url": "https://www.navalnews.com/naval-news/2026/10/pentagon-diu-sprint-counter-uas-armed-usvs/",
+       "titre": "Pentagon Launches 120-Day “Sprint” to Field Counter-UAS Armed USVs"
       }
      ],
-     "id": "2026-10-22|US Air Force outlines 1,509 combat-ready fighter jet target"
+     "id": "2026-10-23|Pentagon launches 120-day sprint to field counter-drone armed USVs"
     }
    ]
   },
@@ -464,74 +440,144 @@
     {
      "suite": false,
      "remplace": null,
-     "emoji": "🤝",
-     "titre": "Qatar, Turkey, Pakistan and Indonesia sign Badr defence pact",
-     "resume": "Representatives from Qatar, Turkey, Pakistan, and Indonesia have signed the Badr defence cooperation memorandum of understanding. The agreement aims to deepen multilateral defence industrial ties and joint military cooperation.",
+     "emoji": "📝",
+     "titre": "Denmark procures Kongsberg and Covenant long-range strike missiles",
+     "resume": "The Danish Ministry of Defence decided to acquire long-range strike missiles from Norway's Kongsberg and British developer Covenant. Copenhagen aims to establish an offensive standoff deterrent to respond to potential peer adversary strikes.",
      "pourquoi": "",
      "pays": [
-      "Qatar",
-      "Turkey",
-      "Pakistan",
-      "Indonesia"
+      "Denmark",
+      "Norway",
+      "United Kingdom"
      ],
-     "region": "Global",
+     "region": "Europe",
      "rubrique": "industrie",
      "liens": [
       {
-       "source": "Al Jazeera",
-       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUUl1ckNjWmxTVGQ3cHhJbUJyUktLRTF0S2FLYlJvX3JWMDhvcFF1S2JNY0xkd2NxRXk2ZjZDSUdxdmFjck1iYjgyRUpkV3VuWHFlRHBSLTQ0NGxFLW9zckdJdUVyRkVtYzk1TS1MLVVRUUNtQWZLc2E2OExvRVR6OGpsYUdIVWJYU2ZKQUVVWW5CaTl2SFpUZjJFSDV1WnFKWFNSWmJGQmhiQl9ldER6UdIBtgFBVV95cUxNckRtY3h5QjFrT2pvakcxVGdKaFRVcEhmMDU5OXdweFlNRnctazBpbldpQkU0TjgwZENUNHAtaXBuTEFvdml1QWhKWTAwc2NuWi02LTE3ZEFWSVBldjRPN2ZUdVVLRzFaZWIwVTJzWUtyZzJkRWd1SFU1Zl9pVjVQbExfcEx3a0ZqdzkzS2Z4QzVQT2RzV0xXd090Z2dld1YtMTNoRVpxVDQ0SDJoRlUtR1Jfay0xQQ?oc=5",
-       "titre": "Qatar, Turkiye, Pakistan and Indonesia sign ‘Badr’ defence pact"
+       "source": "Defense News",
+       "url": "https://www.defensenews.com/global/europe/2026/10/22/denmark-to-buy-kongsberg-covenant-missiles-for-new-long-range-strike-option/",
+       "titre": "Denmark to buy Kongsberg, Covenant missiles for new long-range strike option"
       },
       {
        "source": "Breaking Defense",
-       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcUlRYW5sTzk1am5QaERwbGw1TUpzbUxMbm81a1JqdHNBODc4dmhQM1lhSW9hUGdxdDczWktxcUtXSWhMLVIwSl9mNUlYTFFDY01MRXVhdnp0YTVPRENRRENpdmFvTEJTX3M1amI0bG5yZU4tMlpmcXBsejhKM3Q0WHh6SXBvUTJidDFkN2trU3JWNlkxbzEtQkxDeWI?oc=5",
-       "titre": "Turkey, Qatar, Indonesia, Pakistan ink defense cooperation MoU"
+       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQd1lIYVNhQW1qOXhnZWR4aTdyRW91aTVGMnJIRENFOElHVnFQeVhOQjNHYzVuXzgta2ZJb1NHV3pKRHRTRDE0WlIzeFdQMlp4dVR5aURrSXRYc3pMQ2dBMGNHSWdibFktbGNMb01zZHZpaTZIRUlndmRobUJDWTlJdUJoVjByX2k2M2JSUVJmMWxCcGtyYXhvSVYwMGVIREtQSS1Xb0RLOA?oc=5",
+       "titre": "‘Ability to strike back’: Denmark commits to long-range missile orders"
       },
       {
-       "source": "Reuters",
-       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOX0ZsRmRXTHdTVURFSkU3MlRZU1I5RFE5SnQzNnBRUExvd3J3Si10VjEwejZackYzZ0h0cFI5TlVsSXA1bjB4TF9nUmhpMERtSlBhMGg0d05XUE9iV1RGa19zdGZjaGVhWlNKNlRQN1Z3RE92eHNCNDM5eEN2dUZzQlNfck0wdlkxVldaYzZmMHFIdW8yY1pXZktOUERvSFFfS3FjT2NrR243ZnpwNFN3ZUotVndkQ3Z0aEFiMEFXem1BSDB4MVo5SEdB?oc=5",
-       "titre": "Turkey, Qatar, Pakistan, Indonesia sign defence cooperation accord, Ankara says"
-      },
-      {
-       "source": "Dawn",
-       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9zSVA2bldPMWJxaTZqM091VHRYUjV5Qll0VnVqWW5ycGZkamVUeUxRWG1XM3JFSGFlRzMtX1I2WDRsTzNlT1hkOQ?oc=5",
-       "titre": "Pakistan, Qatar, Turkiye and Indonesia sign 'Badr' defence cooperation pact"
+       "source": "연합뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5rMHlVZTh2NmNKT3B3dzV5RG9CVnlIQ1I4Mmtub2FhWjNWSkotV2dkaWMwN3hGZjJnU1RpZXJsUXU3ZFFkUGc5SjZIRXBlS0dmVnNZc2d6RnY0WU3SAWBBVV95cUxONEtJNENMaFZSWjBsclNmMmZESVpKTFE1TVg1UkxXa2ZIcGlvdnJBQmlya2lyZUhfSjlYSmpwYmFlRmRRVUhHRkFRSk1qblR2Vk5lcHBVS0NIUW8tazQzZWs?oc=5",
+       "titre": "덴마크, 사상 첫 장거리 미사일 무장…\"러 위협 대응\""
       }
      ],
-     "id": "2026-10-22|Qatar, Turkey, Pakistan and Indonesia sign Badr defence pact"
+     "id": "2026-10-23|Denmark procures Kongsberg and Covenant long-range strike missiles"
     },
     {
      "suite": false,
      "remplace": null,
-     "emoji": "📝",
-     "titre": "India's BEL signs ₹770-crore radar contract",
-     "resume": "India's Ministry of Defence has signed a ₹770-crore contract with Bharat Electronics Limited for low-level tactical radars. The procurement aims to boost the military's low-altitude airspace surveillance network.",
+     "emoji": "💰",
+     "titre": "US Missile Defense Agency awards $75m contract to Long Wall",
+     "resume": "The Missile Defense Agency awarded a $75 million contract to start-up Long Wall to test low-cost midcourse interceptors. The project seeks scalable, economical intercept options to counter large ballistic missile salvos.",
      "pourquoi": "",
      "pays": [
-      "India"
+      "United States"
      ],
-     "region": "South Asia",
+     "region": "Americas",
      "rubrique": "industrie",
      "liens": [
       {
-       "source": "The Hindu",
-       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdWVIU3RQTWxFdWd3ZjZrNEFueGtKLXIzbnpxN3pReWdtOVkzRW1ENnZES2dFVV9mcGhVUUNlNVo3LTRxUUpTcGlNVVVrUHFVRU8wdnhvcFc5VzZIT3lYelAzQkhzWFp3SUhyeFlSMHBUN2M4cmNZajBXZFdJQ2Eyc0ZkNlFYZXd1UV8xUzdPMEFmTnpnSWg1WGEyUmZpcV9fUEtSUU12NnlHUHE4ODNmS3JCZFV3MHdibXV5c2ppVi1pWDhHYUZwVzBweW5TLUUz0gHQAUFVX3lxTE11ZUhTdFBNbEV1Z3dmNms0QW54a0otcjNuenE3elF5Z205WTNFbUQ2dkRLZ0VVX2ZwaFVRQ2U1WjctNHFRSlNwaU1VVWtQcVVFTzB2eG9wVzlXNkhPeVh6UDNCSHNYWndJSHJ4WVIwcFQ3YzhyY1lqMFdkV0lDYTJzRmQ2UVhld3VRXzFTN08wQWZOemdJaDVYYTJSZmlxX19QS1JRTXY2eUdQcTg4M2ZLckJkVXcwd2JtdXlzamlWLWlYOEdhRnBXMHB5blMtRTM?oc=5",
-       "titre": "Defence Ministry signs ₹770-crore contract with BEL for low-level radars"
+       "source": "Aviation Week",
+       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeW5XS3M0VHBiOEJqcVZOZjdxclJiMWJSRTJObDlxYnhKaUxOUGpRV1pZT3BxNGNDalBiT1BOWmkyT2l2ZWFiQUNFVGVGSXJGb0t1RGRmV1VyZUJkRlJkdkN6WDhpTVZmUlFZRUNqZmRacDFLV0VIVWNfUHZPSnI5SFdIMUJsTUw3LU1WOGpoU0kwdVhaN1drajRZZUZLMTUxWEN0cWdIeUZkMUNhWE1NVTNDOGdzRDRZ?oc=5",
+       "titre": "Missile Defense Agency Awards Long Wall Interceptor Contract"
+      },
+      {
+       "source": "Breaking Defense",
+       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQU01POE1nTEV0TVVNYmx2QU1RMUQxWGk1ZkVlQUtaTVFhVmlaT1NrT25GR1Q4N2VHZnpseldEUTdUcDFnMVN2bmc0SFpLMGtPcy1HZFdaYkRxbHZ1NVF2Z3F6T2lvU0xCVUJlNlc1UjR2R0ZPcEtEQ2RVVk94ZGJRUGVncHpuRmo0bDRxNmVIZElEN3NwcUdHQ2hhQVcwb2xaWWN3U0RWbTRsbGM?oc=5",
+       "titre": "MDA awards $75M to Long Wall for low-cost, midcourse interceptor testing"
       }
      ],
-     "id": "2026-10-22|India's BEL signs ₹770-crore radar contract"
+     "id": "2026-10-23|US Missile Defense Agency awards $75m contract to Long Wall"
     }
    ]
   },
   {
    "id": "ukraine",
    "titre": "Ukraine / Russia",
-   "items": []
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🤝",
+     "titre": "Ukraine cleared to buy military equipment directly through NATO agency",
+     "resume": "Ukraine secured access to procure arms and ammunition directly via the NATO Support and Procurement Agency. The mechanism provides Kyiv with an alternative supply channel amid growing uncertainty over direct bilateral US military aid.",
+     "pourquoi": "",
+     "pays": [
+      "Ukraine"
+     ],
+     "region": "Europe",
+     "rubrique": "ukraine",
+     "liens": [
+      {
+       "source": "Defense News",
+       "url": "https://www.defensenews.com/global/europe/2026/10/22/ukraine-to-be-able-to-buy-military-supplies-via-nato-agency-report/",
+       "titre": "Ukraine to be able to buy military supplies via NATO agency: report"
+      },
+      {
+       "source": "Financial Times",
+       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPN21NdHZWLVhMUlNXTlRjR0pkVjd0Vmp0UVZwRTlmWTcxN2RPdGstTDNHaWdLRmVHWXFCa3I0RmI3WUlRWjN6XzRyMHF5eUpVeUhDbVVlTElBcDV3YW05THFrY0JBLU81aHpCQnk2OVVBb05POGtfOHpKQ3Y5bU1XazFkU0s?oc=5",
+       "titre": "Ukraine to buy military supplies via Nato agency"
+      },
+      {
+       "source": "The Straits Times",
+       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSWgybk43RjVZMlVJaHA1ZmUxZzFPMEVSVThYYWIxMDZfT0RQZzBoX2RNeTNSUmdzY09MQVZ0NTV6QXR4MHItaEgzOFJzWVY1Smg3MFA5SHZxeGJYQVp5UzlCMlNqdjB5V1dtS1FrdEJ0OGR1ZmVhVExiVHZPYVdmWmdJekdEVko0dlZqVk4wd3lPVEIzeGFMeU54a1hXUURzMWdYOTNLa1N0RDdwQmtNQ05B?oc=5",
+       "titre": "Ukraine to be able to buy military supplies via NATO agency: Reports"
+      }
+     ],
+     "id": "2026-10-23|Ukraine cleared to buy military equipment directly through NATO agency"
+    }
+   ]
   },
   {
    "id": "moyen_orient",
    "titre": "Middle East",
-   "items": []
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "⚠️",
+     "titre": "US and Israel draft Iran strike plans as Tehran warns Gulf shipping",
+     "resume": "US and Israeli officials are reportedly preparing contingencies for renewed military strikes on Iranian infrastructure following upcoming elections. Concurrently, Iran's IRGC claimed to have hit seven vessels and threatened Gulf energy transit routes.",
+     "pourquoi": "",
+     "pays": [
+      "Iran",
+      "Israel",
+      "United States"
+     ],
+     "region": "Middle East",
+     "rubrique": "moyen_orient",
+     "liens": [
+      {
+       "source": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/liveblog/2026/10/23/trump-hints-new-strikes-says-us-knocked-hell-out-of-iran?traffic_source=rss",
+       "titre": "Iran war live: Trump hints new strikes, says US knocked ‘hell out’ of Iran"
+      },
+      {
+       "source": "The Washington Post",
+       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPblM5N2lNR1dGazZJNVFnYkhPeUU4bmlXTWJQX3JMX1ZNanBaM21EaTRzT0d0YUx4Rkg2bjQ1bXlSMjNFOWNKTGJ3WFcyQ0lTUUp1TmxSUlJQWV9qZjRONDY5SFZWQVRHd1l6c2ZsRmtONzYzTms4OGFzYlp2MUl6bTFPanBpaFNPbkI2cWxUS1pVdXpBcDl3Vk9uOExYd29JUlE?oc=5",
+       "titre": "Netanyahu says U.S. and Israel must topple Iranian regime"
+      },
+      {
+       "source": "The Korea Times",
+       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNak0zRmxkSXMzUmdPUUNJYzc0cTQ4SlNqRlRKSTlhaUVtbDRjSDVKQXQ4c0JEc19HaTEwZkQxSlN0LVJlNTRha2ZMckJsTm1tZ2x6dHRZQXp2M05senpqZ0tDX2p0VmxkaUd4VXE5bXVTM3N6bWJwc0tqbXBzeEJaX3hXbUR2eElMZ1lZODZ4OGVNVnAwZzVNd0pVNHBHS3VxR19KbFZ3QlFyVVZxZEpoNG45M2dmU0hUbDh5dWNoSmpmeE5MRHA00gHHAUFVX3lxTE1qTTNGbGRJczNSZ09RQ0ljNzRxNDhKU2pGVEpJOWFpRW1sNGNINUpBdDhzQkRzX0dpMTBmRDFKU3QtUmU1NGFrZkxyQmxObW1nbHp0dFlBenYzTmx6empnS0NfanRWbGRpR3hVcTltdVMzc3ptYnBzS2ptcHN4QlpfeFdtRHZ4SUxnWVk4Nng4ZU1WcDBnNU13SlU0cEdLdXFHX0psVndCUXJVVnFkSmg0bjkzZ2ZTSFRsOHl1Y2hKamZ4TkxEcDQ?oc=5",
+       "titre": "Iran says 7 oil tankers attacked in Strait of Hormuz amid fears of return to war"
+      },
+      {
+       "source": "The Guardian",
+       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSkEyT2MxcnpyTV9nYUk1TXh1WlV5cUc5NWd1b1FZVjM3Q21KY1cwS1FuLWFsaGNVWTlHZzBuU2VxckxiLXdRcjZuQWliQVY5dTUwUG42RkJfZEpid2l6c3FQcmsxbi1BUU9kWUg2OEFEQlExTF9SdWRjdFYtamVfbVZ2bUZFZXhHTlRTTnRhZk0zaTdYaHZCTEdxTGVvM1RfbVFGX01vczM?oc=5",
+       "titre": "Iran threatens to strike oil and AI facilities across Gulf if US and Israel renew attacks"
+      }
+     ],
+     "id": "2026-10-23|US and Israel draft Iran strike plans as Tehran warns Gulf shipping"
+    }
+   ]
   },
   {
    "id": "europe",
@@ -540,36 +586,63 @@
     {
      "suite": false,
      "remplace": null,
-     "emoji": "⚠️",
-     "titre": "German military warns of significant Russian sabotage threat",
-     "resume": "A classified internal analysis by the German military warns of a high risk of Russian sabotage targeting domestic infrastructure and military installations. Authorities have raised the internal sabotage threat level accordingly.",
+     "emoji": "🚢",
+     "titre": "UK parliamentary report warns of severe Royal Navy Arctic ASW gaps",
+     "resume": "A British parliamentary committee warned that the Royal Navy faces acute anti-submarine warfare shortfalls in the High North. The inquiry cautioned that depleted surface escort numbers leave critical subsea infrastructure vulnerable to Russian sabotage.",
      "pourquoi": "",
      "pays": [
-      "Germany",
+      "United Kingdom",
       "Russia"
      ],
      "region": "Europe",
      "rubrique": "europe",
      "liens": [
       {
-       "source": "Defense News",
-       "url": "https://www.defensenews.com/global/europe/2026/10/21/german-military-raises-sabotage-threat-level-amid-warning-of-russian-attacks-report/",
-       "titre": "German military raises sabotage threat level amid warning of Russian attacks: report"
+       "source": "Opex360",
+       "url": "https://www.opex360.com/2026/10/22/un-rapport-sinquiete-des-deficits-capacitaires-de-la-royal-navy-pour-pour-contrer-les-sous-marins-russes-dans-le-grand-nord/",
+       "titre": "Un rapport s’inquiète des déficits capacitaires de la Royal Navy pour contrer les sous-marins russes dans le Grand Nord"
       },
       {
-       "source": "Reuters",
-       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdVRoRl9JRkgwV2ZQYm5oMFAyOGVVXzItQUhZdXB3dDlCNVQ1RERQLVpYdGtWNHhFcWVLQktIQ0xRU1Y0N3R5VDNvYXFKdUI1ZUw2SDFvV3NEaVBkamtQYUNYZVVzQ1BqQzRHSVpfdlcwQkg0TFh4cldkNFNNbXhIbzhuT2JQeTZkc1J5MmR3TWlqeWg5MUxrWHJ2a0JLMGtZdzAxT0NOak44aXI0MFJ3T2pKTmJaWFZ2RXJWdFViSQ?oc=5",
-       "titre": "Germany's military warns of 'significant' Russian sabotage threat"
+       "source": "CBS News",
+       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNU1dLSW4wLWRfelJsZ0lZSVpyNHBiTWdqeHVMeTBPN041WGpXS2Z1Ym5oV2dOelEwYkxPQWRsY2lETTBYeXNUYVdfNUZabC1GbzVNZUVELXJtSFVSUUxOQmY4cG9QWVJ0TzZkU3BZUzlVYU1XdW5yQ0c0dnJWWXp1S25ENG55bjA?oc=5",
+       "titre": "\"Glaring gaps\" in U.K.'s Arctic defense leave it and NATO open to Russian attacks, British lawmakers say"
+      },
+      {
+       "source": "Defense News",
+       "url": "https://www.defensenews.com/global/europe/2026/10/22/uks-royal-navy-has-serious-anti-submarine-warfare-gap-committee-finds/",
+       "titre": "UK’s Royal Navy has ‘serious’ anti-submarine warfare gap, committee finds"
       }
      ],
-     "id": "2026-10-22|German military warns of significant Russian sabotage threat"
+     "id": "2026-10-23|UK parliamentary report warns of severe Royal Navy Arctic ASW gaps"
     }
    ]
   },
   {
    "id": "espace",
    "titre": "Space & Satellites",
-   "items": []
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🛰️",
+     "titre": "US Space Force launches 'Spider' programme to revamp GPS ground ops",
+     "resume": "The US Space Force initiated a new ground modernisation effort dubbed Spider to overhaul GPS operations. The programme aims to introduce open-architecture software and enhance cyber resilience against peer jamming and spoofing threats.",
+     "pourquoi": "",
+     "pays": [
+      "United States"
+     ],
+     "region": "Americas",
+     "rubrique": "espace",
+     "liens": [
+      {
+       "source": "Aviation Week",
+       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPV1hIeDlmeGlyVm1MZFIzNk5KSTlVVlRfeDJTVDFIZjU3ZnFwSnhLdnpRZ3B0LTc1dHJ4VlNacm5BVTJCY2szcEJqZzFQcUJKNHpqRFphbTRrckY4bmFHVS13V3pTS1lMZ3NseXJxejB1R0JfSEFxb1pQUWNfNzQyY083TjBzMmNWSEpvOG9UaUM0UkppLWNwdFV6YVV6ODAtRjVmUGtn?oc=5",
+       "titre": "U.S. Space Force Plans New ‘Spider’ Program For GPS Ground Ops"
+      }
+     ],
+     "id": "2026-10-23|US Space Force launches 'Spider' programme to revamp GPS ground ops"
+    }
+   ]
   },
   {
    "id": "tech",
@@ -578,9 +651,9 @@
     {
      "suite": false,
      "remplace": null,
-     "emoji": "💻",
-     "titre": "AI vulnerabilities trigger global security scramble",
-     "resume": "Developers rushed to release emergency patches after autonomous AI tools uncovered critical security flaws in PHP. The programming language powers over 70% of websites worldwide.",
+     "emoji": "🤖",
+     "titre": "Palantir insists allied military AI platform has no remote kill switch",
+     "resume": "Palantir affirmed that its software deployed across NATO headquarters contains no vendor-controlled kill switch. The assurance follows European concerns over technological dependence on US providers after recent commercial satellite service restrictions.",
      "pourquoi": "",
      "pays": [
       "United States"
@@ -589,63 +662,103 @@
      "rubrique": "tech",
      "liens": [
       {
-       "source": "Japan Times",
-       "url": "https://www.japantimes.co.jp/news/2026/10/22/world/government-websites-security-php-ai/",
-       "titre": "Government websites go dark after AI-discovered flaw sparks security scramble"
+       "source": "Euronews.com",
+       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVmU5c1RaX0g0aDBPQl93alNWM0ZlRXZiZ3ZyMmwwdXlpWnVUcWhJOFU2U0hrYmkyNk1TRWtPZXIzTlVlZUZua0lhYVdvaldUQnpTeGlSQ0w0X3NjQThhRl9sdU00UGhnYWNVNkJscktISjV2NnQ5YXV4cC1jTE04Wlh4YVM4aFVmcmw2cHhqRzg0Vlc4S21SdU4xWEF4MkMwcXR5MW1zeTVrMFlsekdWY0tMV1pVRTNfQXRtRjVn?oc=5",
+       "titre": "Palantir vows NATO AI system has no ‘kill switch’ after Starlink row"
       },
       {
-       "source": "Al Jazeera",
-       "url": "https://www.aljazeera.com/news/2026/10/22/world-leaders-warn-against-security-flaw-found-in-php-computer-programming?traffic_source=rss",
-       "titre": "World leaders warn against security flaw found in PHP computer programming"
-      },
-      {
-       "source": "CNA Monde",
-       "url": "https://www.channelnewsasia.com/world/ai-websites-dark-cybersecurity-flaw-6478206",
-       "titre": "Websites go dark worldwide as AI exposes critical security flaws"
+       "source": "Reuters",
+       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdDFzczJud3pHcEZobURrNEhua1BVYm43Q2FSbFF5N2Jzc2gta1FnTm1wcVRseGVvSHhUSEZ0SnlHSXlsR0VKRW9rRGszYzRwLW5mQWdLZk9FVnMxVU12ZjBKZ21yT0lYNXZVTW1lRlBWWWV5d0g2U2F6MDRwajYtbXdOMDBXNjducVgtbWMwZmpBT3cyb1VqRTVPbjNsMk9OTnpqOTJUUFZMRkJWMW40V3lCLWpuOUREWU5sejd5UGdraHJGWWM4Nw?oc=5",
+       "titre": "Palantir says it cannot shut off NATO AI system as Europeans fear US tech dependence"
       }
      ],
-     "id": "2026-10-22|AI vulnerabilities trigger global security scramble"
+     "id": "2026-10-23|Palantir insists allied military AI platform has no remote kill switch"
     }
    ]
   },
   {
    "id": "economie",
    "titre": "Economy & Sanctions",
-   "items": []
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "⚙️",
+     "titre": "TSMC seeks non-Chinese rare-earth alternatives for chipmaking tools",
+     "resume": "TSMC has begun auditing suppliers and seeking non-Chinese motor alternatives to reduce reliance on Beijing-controlled rare earths. The initiative seeks to insulate advanced semiconductor fabrication lines against Chinese export restrictions on critical permanent magnets.",
+     "pourquoi": "",
+     "pays": [
+      "Taiwan",
+      "China"
+     ],
+     "region": "North-East Asia",
+     "rubrique": "economie",
+     "liens": [
+      {
+       "source": "Japan Times",
+       "url": "https://www.japantimes.co.jp/business/2026/10/22/tsmc-rare-earths-supply/",
+       "titre": "TSMC seeks factory-equipment alternatives to thwart China’s rare earths grip, sources say"
+      },
+      {
+       "source": "Reuters",
+       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVDZiLXZ3MjNBLVhJa0g3VzJ0SU9MalBLSjFrMWlJUVhXd21CY0x2OVo3SUVLV25tNnBDZVBKYnN4b1E2ZHd4Rm9FTzVGMDYySmtfU1lBRkxYUFl2eGlOWjllZEptTVZ6V3BVVFVtQVBaODVqWmp1V3dTckg2WUZVQVRYNTFIZU9yLU81bVJTNEhzZG8xR0xVNnFUcTRXSkg0cFVLOHBxSjVXSzdtdS13cFF4RkpscWdLeXdPb3Q4Sk9GQ1dybDZn?oc=5",
+       "titre": "EXCLUSIVE: TSMC seeks factory-equipment alternatives to thwart China's rare earths grip, sources say"
+      }
+     ],
+     "id": "2026-10-23|TSMC seeks non-Chinese rare-earth alternatives for chipmaking tools"
+    }
+   ]
   }
  ],
  "a_surveiller": [
   {
-   "quand": "October 27",
-   "quoi": "Israeli general election",
+   "quand": "October 25",
+   "quoi": "Second round of the Brazilian presidential election between Lula and Flávio Bolsonaro",
    "liens": [
     {
-     "source": "The Washington Post",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU3dBUkdJTUxEYjlpZnU1SUgzaXBSWFEwNGY3Q3FNWUZCS21xUk5lNl82ODl2OF9XTDQ3dnJKNkJ1WkZQRXkwSHBrSlU1VVROMjNCWERYZzU0QUczZG0xdXhMY3dHVjR3a0F3Sk1GR2kxU1lrQnJqS2UxNXJrX0hsalpSVno1MEU0aXh5XzRSVGVaaGZ2MXRVZ1VKVjlxWE1RQ2dPNDFuVG1JalBsVVFVSkxsWWlkejUyLUVQeVhSc3JvbUtWbHc?oc=5",
-     "titre": "How next week’s Israeli elections could affect settler violence, Gaza and the Iran war"
-    },
-    {
-     "source": "Al-Monitor",
-     "url": "https://www.al-monitor.com/originals/2026/10/top-arab-israeli-election-candidate-tells-afp-netanyahu-win-would-be-catastrophe",
-     "titre": "Top Arab-Israeli election candidate tells AFP Netanyahu win would be 'catastrophe'"
+     "source": "Le Monde International",
+     "url": "https://www.lemonde.fr/idees/article/2026/10/22/election-presidentielle-au-bresil-chaque-victoire-de-l-extreme-droite-a-l-etranger-banalise-cette-perspective-chez-nous-alertent-des-responsables-politiques-de-gauche-en-france_6798635_3232.html",
+     "titre": "Election présidentielle au Brésil : « Chaque victoire de l’extrême droite à l’étranger banalise cette perspective chez nous », alertent des responsables politiques de gauche en France"
     }
    ]
   },
   {
-   "quand": "October 30",
-   "quoi": "Bank of Japan monetary policy meeting and rate decision",
+   "quand": "October 26",
+   "quoi": "Opening of the Chinese Communist Party's Fifth Plenum in Beijing",
+   "liens": [
+    {
+     "source": "CNA Asie",
+     "url": "https://www.channelnewsasia.com/east-asia/china-fifth-plenum-2026-party-discipline-6461861",
+     "titre": "CNA Explains: Why China’s fifth plenum will focus on party discipline"
+    }
+   ]
+  },
+  {
+   "quand": "November 3",
+   "quoi": "United States midterm congressional elections",
    "liens": [
     {
      "source": "Japan Times",
-     "url": "https://www.japantimes.co.jp/business/2026/10/21/economy/boj-rate-hike-three-months/",
-     "titre": "BOJ likely to keep hiking rates every quarter, ex-official says"
+     "url": "https://www.japantimes.co.jp/news/2026/10/22/world/trump-russia-backlash-challenge/",
+     "titre": "Republican backlash over Russia policy poses challenge for Trump in Congress"
+    }
+   ]
+  },
+  {
+   "quand": "December 11",
+   "quoi": "Court deadline for Donald Trump's deposition in BBC defamation lawsuit",
+   "liens": [
+    {
+     "source": "CNA Monde",
+     "url": "https://www.channelnewsasia.com/world/trump-bbc-defamation-case-lawsuit-deposition-dec-11-6484181",
+     "titre": "Judge orders Trump to give deposition in BBC lawsuit by Dec 11"
     }
    ]
   }
  ],
  "hebdo": null,
  "stats": {
-  "articles": 427,
+  "articles": 415,
   "sources": 52
  }
 }
