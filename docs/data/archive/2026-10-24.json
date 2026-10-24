@@ -1,0 +1,755 @@
+{
+ "date": "2026-10-24",
+ "date_label": "Saturday, October 24, 2026",
+ "genere_le": "2026-10-24T09:12:09+08:00",
+ "mode": "ia",
+ "modele": "gemini-flash-latest",
+ "accroche": [
+  "US Army activates Guam air defence battalion against regional missile threats",
+  "Seoul proposes military talks to ease rising inter-Korean border tensions",
+  "Russia and Ukraine agree to humanitarian ceasefire in Oleshky"
+ ],
+ "essentiel": [
+  {
+   "suite": false,
+   "remplace": null,
+   "emoji": "🛡️",
+   "titre": "US Army activates dedicated air and missile defence battalion in Guam",
+   "resume": "The US Army has activated an air and missile defence battalion on Guam to strengthen defences against Chinese and North Korean threats. The unit integrates THAAD batteries as part of Washington's layered regional architecture.",
+   "pourquoi": "",
+   "pays": [
+    "United States",
+    "Guam"
+   ],
+   "region": "Oceania",
+   "rubrique": "defense_aerienne",
+   "liens": [
+    {
+     "source": "The Korea Times",
+     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPT2dtYnREN1FZNWpCUTVaaG1kNmY5SmdDZ2E0bW9lcTU5dDQ3MnMydmVJQUh5eFhxUEQ1bE9vcER0emh2WHhFNTJYb2g1N3I4SHc1ekVHei1HLWtITHUwTXloNk1tTlRmY1Flb2VGenlBOE1yS05QSU9oZVh3MjhMMUM4WlZFLTlTWkFJbkN6SmRaYUJTYVY2dVZ5VFhibmNiZlJpTG9XS2pDZ1BFSTdPU3pSQTRqdFVzMVR4WXNMTDZXaUFoVVAwTXRGZmhlYkFiVGJBSkN6T3IzVU9UTHR0c25FODVmR3pkai1BV3FleHg1d9IB8gFBVV95cUxPT2dtYnREN1FZNWpCUTVaaG1kNmY5SmdDZ2E0bW9lcTU5dDQ3MnMydmVJQUh5eFhxUEQ1bE9vcER0emh2WHhFNTJYb2g1N3I4SHc1ekVHei1HLWtITHUwTXloNk1tTlRmY1Flb2VGenlBOE1yS05QSU9oZVh3MjhMMUM4WlZFLTlTWkFJbkN6SmRaYUJTYVY2dVZ5VFhibmNiZlJpTG9XS2pDZ1BFSTdPU3pSQTRqdFVzMVR4WXNMTDZXaUFoVVAwTXRGZmhlYkFiVGJBSkN6T3IzVU9UTHR0c25FODVmR3pkai1BV3FleHg1dw?oc=5",
+     "titre": "US Army activates air defense battalion in Guam amid N. Korean, Chinese missile threats: report"
+    },
+    {
+     "source": "Defence Industry Europe",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTF9UWmxFZ202WExwdGVTblpNcFpBV2xvc0NBSC1jandCNTRNaU9YY0J5WS1FdUFSTWdSS0VkSmY0Ni04RnZyZ0RpMFMzMGNrRXNBS0E1TUlQY1lPOHAwdVBqbGtGRlFjYl9RekQ1SEJNbXktaVNyUXhGTmdLcHc3MnZoVUtEY3VBQ3RRM0EySjZRTW1WNFJMYlR4V2N5aHhRalRpYjZlWVhCRy02eXdYaFRCUks0QQ?oc=5",
+     "titre": "U.S. Army activates Guam air and missile defense battalion, building on THAAD operations"
+    }
+   ],
+   "id": "2026-10-24|US Army activates dedicated air and missile defence battalion in Guam"
+  },
+  {
+   "suite": true,
+   "remplace": "2026-10-23|North Korea readies border loudspeakers as Seoul appeals to UN",
+   "emoji": "🤝",
+   "titre": "South Korea proposes military talks with North Korea on border demarcation",
+   "resume": "Seoul has proposed bilateral military talks with Pyongyang to clarify the Military Demarcation Line and restore direct communication hotlines. The offer follows escalating tensions and recent landmine detonations along the demilitarised zone.",
+   "pourquoi": "",
+   "pays": [
+    "South Korea",
+    "North Korea"
+   ],
+   "region": "North-East Asia",
+   "rubrique": "asie",
+   "liens": [
+    {
+     "source": "NHKニュース",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA1WlFmeHo4RmwyaTRTN1JGQWJpXzlvTVJJeFk0X0lLdHdkZ2x4SE5VM1c2UndtRnhuUzRVUE1MRUMtc1diWTJPS0x6T3gxS1h5OFM3NUtqdklVVE9iZDVMVUVfYw?oc=5",
+     "titre": "South Korea proposes military talks with North Korea"
+    },
+    {
+     "source": "Korea JoongAng Daily",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUzgwTlh1N0pSZW1STS05ZW1ERnNFbmlCb2kwSWY0a0hWZGM4TVpoX19yTVJvU0FNMXRranUtSDVWTmJRNDNpUGhVVFZTbTRZMHRlMTRpMzVQTHVEZlYxTHVzcEZUUFpkWVJIeER6TlF3d1k4LTh6X0VjRlMzUkpLVUVrNzFWN3dvUmU5Y0d5cmZfa1FjOThZSExKVjN2UFQ3VTJvbHRNU01pX08wVEVCSW9pZl9vZ2NISUJYek9DSDdQUlU?oc=5",
+     "titre": "Seoul proposes talks with Pyongyang over disputed MDL, but response unlikely"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ0VQR19oU3Q0VUwweEhiT3pCdnNpZGlobTZ1VGJQa2JjUkdWZ2pfd0pYWmFUNnhDQm80Snc3dXhWYm9JM0VmZnpGZ2lKM3VLaEgyQ0lmTEpvZGdVTHNDbjhoblVaZWpwNW9LalhmRWpra2JkZHFiOHJjaFBqMzhDNWd4MGVPaGxWVUpuVTljMEJGbHhWUWhHMjBuZGdoWlBaYTdaONIBpAFBVV95cUxPQ0VQR19oU3Q0VUwweEhiT3pCdnNpZGlobTZ1VGJQa2JjUkdWZ2pfd0pYWmFUNnhDQm80Snc3dXhWYm9JM0VmZnpGZ2lKM3VLaEgyQ0lmTEpvZGdVTHNDbjhoblVaZWpwNW9LalhmRWpra2JkZHFiOHJjaFBqMzhDNWd4MGVPaGxWVUpuVTljMEJGbHhWUWhHMjBuZGdoWlBaYTdaOA?oc=5",
+     "titre": "South Korea invites North for military talks over border"
+    },
+    {
+     "source": "DW.com",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOU210VlMyZ2ZHcGFOMklKZTl0Q2xtYUczcFkxcWFRRXEwUG9Vdk5wLWlsZXlDRkJES0NuYURNZ0ctcnpQZWVPZjA0UlFfdDVSZ1dKNEZpbTJNeHN5UkQxLWdZQUItOTZqX3paZWs1dEdfY3B6WTRkamVCWmFiaGRTYUtEUDJNZnhlbnpfQ3Bn0gGOAUFVX3lxTFBwMFp1M3ExY2Z1Y0RyUTlwME9TSG5NYWpvWmZuWXItaHlaODcyNW5wV3B6Z3hSZHBGSnJxc3o3UEVYd3dwLTFIVk5OVEgtamg1UjZRTjNRUWJzM25WQzBNZUU3OFpIU3dDR0JaSm5UaDRfdUlnMzBJUGxodlhJRVRUWVZYMV9iemVkWl8tU1E?oc=5",
+     "titre": "South Korea proposes military talks with North amid border tensions"
+    }
+   ],
+   "id": "2026-10-24|South Korea proposes military talks with North Korea on border demarcation"
+  },
+  {
+   "suite": true,
+   "remplace": "2026-10-22|Russia and Ukraine open to US-brokered talks",
+   "emoji": "🤝",
+   "titre": "Russia and Ukraine agree to humanitarian ceasefire in Oleshky",
+   "resume": "Moscow and Kyiv have agreed to a localized humanitarian ceasefire in the occupied town of Oleshky starting on October 29. The White House announced the US-brokered truce to allow emergency aid deliveries and civilian evacuations.",
+   "pourquoi": "",
+   "pays": [
+    "Russia",
+    "Ukraine",
+    "United States"
+   ],
+   "region": "Russia-Ukraine",
+   "rubrique": "ukraine",
+   "liens": [
+    {
+     "source": "Tempo.co English",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSkFhSUJlemRSeFNnakdoeXU1QlhFY1VfMUV0YVNic3ozQmRCdFhoVFlzY1Q1amJVUGtoT2pjWVBHVngteGRDZGVmTW1PY1QwSmNiN3dJejgtdGp2cENmcElwd3Z4MEprMEpNM3kwSEp5NTZqYmxZNThOQVVtTUxmYldsa2J0V1JkU0wzWjY4Ri0?oc=5",
+     "titre": "Russia, Ukraine Agree to US-Brokered, One City Ceasefire"
+    },
+    {
+     "source": "Le Monde International",
+     "url": "https://www.lemonde.fr/international/live/2026/10/23/en-direct-guerre-en-ukraine-l-armee-ukrainienne-dit-qu-elle-observera-une-treve-a-olechky-a-partir-de-mardi-pour-permettre-des-operations-humanitaires_6796922_3210.html",
+     "titre": "EN DIRECT, guerre en Ukraine : l’armée ukrainienne dit qu’elle observera une trêve à Olechky à partir de mardi pour permettre des opérations humanitaires"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/russia-ukraine-agree-to-melania-trump-brokered-localised-ceasefire?traffic_source=rss",
+     "titre": "Russia, Ukraine agree to Melania Trump-brokered localised ceasefire"
+    },
+    {
+     "source": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
+     "titre": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'"
+    }
+   ],
+   "id": "2026-10-24|Russia and Ukraine agree to humanitarian ceasefire in Oleshky"
+  },
+  {
+   "suite": true,
+   "remplace": "2026-10-22|Israeli voters head to polls amid regional tensions",
+   "emoji": "⚠️",
+   "titre": "Israel locks down West Bank following deadly shooting near Hebron",
+   "resume": "Prime Minister Benjamin Netanyahu ordered a full lockdown across the occupied West Bank after Palestinian gunmen killed two soldiers near Hebron. Sweeping military operations were launched just four days before Israel's general election.",
+   "pourquoi": "",
+   "pays": [
+    "Israel",
+    "Palestine"
+   ],
+   "region": "Middle East",
+   "rubrique": "moyen_orient",
+   "liens": [
+    {
+     "source": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/10/24/iran-war-live-israel-launches-targeted-hebron-operation-after-attack?traffic_source=rss",
+     "titre": "Iran war live: Israel launches ‘targeted’ Hebron operation after attack"
+    },
+    {
+     "source": "The Washington Post",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSmJyQXhhU1ZfQUJvRVp4cENkNzhMZFl3ajF2UjByeFJGMzdmY2VUdEI1ekRFV1EzZE5KNERXOVFYSTFzckZXYUN4QXc5ZC1CUFl5cGEzOTZ3WnpGa2tLV3NKYW9lZkFGMkFzUl9tekZnM213ZXJOdnJwaTBLMlhlRU5wZEFvYWN6OG9fSDRZMzM0dEw5SFZZX0oza0poNDlCNzhuTlBXSE96UlEyWWtpNkRGZjcySWV6VGx0NndLWkM0c0E?oc=5",
+     "titre": "Netanyahu vows West Bank military operation after attack kills two Israeli soldiers"
+    },
+    {
+     "source": "NBC News",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN3dwb0R4Z1VVa2VJenltT3B4WWEzS0xsc2Q5SmY0eEEwNy1FN2J6RlZDZE1DaUhzOTdKeHNuckEtMkJvYk0yS2VfRmtBQmhuT3VpcU5CMDFPWlBIYWRDU25XaU51SHJ5cVF2NHkxNGdLb3AtVkpuaHhOR2ZpQjk3aWd2Ni1NY04zM1dLNUxYVlctdWZnUE1RR1N5Q1dsUzF3em1pWjlqUUxpQS1p?oc=5",
+     "titre": "Israel orders sweeping West Bank operation after military says 2 soldiers were killed in attack that left 2 gunmen dead"
+    },
+    {
+     "source": "Le Monde International",
+     "url": "https://www.lemonde.fr/international/article/2026/10/23/cisjordanie-en-reponse-a-la-mort-de-deux-militaires-israeliens-netanyahou-promet-des-destructions-d-ampleur-et-encore-plus-de-colonies_6799138_3210.html",
+     "titre": "Cisjordanie : en réponse à une attaque contre des militaires israéliens, Nétanyahou promet des destructions d’ampleur et encore plus de colonies"
+    }
+   ],
+   "id": "2026-10-24|Israel locks down West Bank following deadly shooting near Hebron"
+  }
+ ],
+ "rubriques": [
+  {
+   "id": "monde",
+   "titre": "World",
+   "items": []
+  },
+  {
+   "id": "asie",
+   "titre": "APAC",
+   "items": [
+    {
+     "suite": true,
+     "remplace": "2026-10-23|Singapore expands mask distribution as air quality temporarily improves",
+     "emoji": "🇸🇬",
+     "titre": "Singapore serves legal notices to 10 companies over transboundary haze",
+     "resume": "The National Environment Agency issued legal notices to 10 Singapore-based firms, including Asia Pulp & Paper, under transboundary haze laws. Singapore will also establish an expert panel to assist cross-border investigations.",
+     "pourquoi": "",
+     "pays": [
+      "Singapore",
+      "Indonesia"
+     ],
+     "region": "South-East Asia",
+     "rubrique": "asie",
+     "liens": [
+      {
+       "source": "CNA Singapour",
+       "url": "https://www.channelnewsasia.com/singapore/nea-haze-notices-companies-transboundary-pollution-6486086",
+       "titre": "NEA issues notices to 10 Singapore-based firms for first time under haze law"
+      },
+      {
+       "source": "Straits Times Singapour",
+       "url": "https://www.straitstimes.com/singapore/environment/singapore-will-form-panel-of-experts-to-help-investigations-into-haze-linked-firms",
+       "titre": "Singapore will form panel of experts to help investigations into haze-linked firms"
+      }
+     ],
+     "id": "2026-10-24|Singapore serves legal notices to 10 companies over transboundary haze"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "⚠️",
+     "titre": "Philippine defence chief warns towing Sierra Madre would be an act of war",
+     "resume": "Defence Secretary Gilberto Teodoro warned that any Chinese attempt to forcibly tow the grounded BRP Sierra Madre would constitute an act of war. Manila affirmed it will vigorously defend its sovereign rights and personnel.",
+     "pourquoi": "",
+     "pays": [
+      "Philippines",
+      "China"
+     ],
+     "region": "South-East Asia",
+     "rubrique": "asie",
+     "liens": [
+      {
+       "source": "Inquirer.net",
+       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPM1k3RHNsenJ1NUtENFBvNmNnR3R3MlNIZWd1LXVud0syNWE3MG81U1dvRE5mR3dmcERJaWdNRFM3Wm9KMWFaWnl1a3FlajBjZ281RkV0Rl91U3hqZ0lkNGUtMmRYUndXRDU3cDQ1WjBpYXZYVzZsdjNXZW9JVlpKb0dfbVB4TDdIQTREWlNlTEZ3T09DZnc?oc=5",
+       "titre": "Gibo Teodoro: ‘Act of war’ if China tries to tow Sierra Madre"
+      },
+      {
+       "source": "Philstar.com",
+       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU21zdkM4OU9ucHNyQW1SdjJSQ0xRdEtra1liNDFWdzRrQ0Z0emhXNTZraW5YWVZXWDBidjY5UkhuTTl6bWpfWVFGLWxMdVp0cjgwei14T2V4cHlSRER6TGNsM01PVXA3Qzh1aU95elQxSkhpWEdoa05FUXgwRkNRUEs1alFVV3RsYlBHekFJNGFxUFp0Zy15US1XaEE2VXVX0gGnAUFVX3lxTE1zcm0zamlQNjJuVWgzU2pYU2wySVdveGNDRG1IODQxaFBacFhubUpVUTBuZFdIWWJWNGVoVWZTSUNkbFE3QkJOWXNrVENzbk1oZ2h5YUxRd1hkQnl4cUVyYmgwV1hJSkFuNkQwcWJya20yRVJXTDFydkJaNjBLN2hkZzJ3TjlOM010OTIxZURRNlEzZklTVFF3Yjl0ZldPWFV1Ni03aHlJ?oc=5",
+       "titre": "Teodoro: Use of force vs BRP Sierra Madre an 'act of war'"
+      }
+     ],
+     "id": "2026-10-24|Philippine defence chief warns towing Sierra Madre would be an act of war"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "📝",
+     "titre": "Japan approves bill restricting foreign land purchases near military bases",
+     "resume": "The Japanese cabinet approved a bill requiring prior government approval for land purchases surrounding Self-Defense Forces bases. The law specifically restricts foreign government-linked acquisitions due to concerns over espionage and drone launches.",
+     "pourquoi": "",
+     "pays": [
+      "Japan"
+     ],
+     "region": "North-East Asia",
+     "rubrique": "asie",
+     "liens": [
+      {
+       "source": "FNNプライムオンライン",
+       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5jZmJieW9BQ0VVOUpKTWVwYmo4MG5JMDkycWdSUlNHYWVER2MwSElqNmFDNW0wTGRQMlJ4OEJUaC10WTZMZ1hwTURZcW5JUQ?oc=5",
+       "titre": "自衛隊基地周辺の土地取得に事前許可制導入へ 法案を閣議決定 ドローンなど「攻撃拠点として利用のリスク高まっている」"
+      },
+      {
+       "source": "産経ニュース",
+       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBFblIwS3dkRUJsSDRYWXQyci1lbUIwWDVXUVZBZmVRU25oSEhzeFBXT2JYZnNLWHRwaXhsNEtKdXFXVWhmaVppWlV5SDVvcVZlbmlnODdSOWdSZVl0R2dOQW9wVzdUeWRucmNWT040UDhxNUV6SWc?oc=5",
+       "titre": "自衛隊基地周辺の土地取得に許可制 外国政府や軍関係者認めず 規制法改正案を閣議決定"
+      }
+     ],
+     "id": "2026-10-24|Japan approves bill restricting foreign land purchases near military bases"
+    }
+   ]
+  },
+  {
+   "id": "elections",
+   "titre": "Elections & Politics",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🗳️",
+     "titre": "Sarawak state assembly set to dissolve ahead of elections",
+     "resume": "Sarawak's state legislative assembly will dissolve on October 26, triggering state elections within 60 days. The ruling GPS coalition is widely favoured to retain power amid broader political pressure on Prime Minister Anwar Ibrahim.",
+     "pourquoi": "",
+     "pays": [
+      "Malaysia"
+     ],
+     "region": "South-East Asia",
+     "rubrique": "elections",
+     "liens": [
+      {
+       "source": "Straits Times Asie",
+       "url": "https://www.straitstimes.com/asia/se-asia/sarawak-legislative-assembly-to-be-dissolved-on-oct-26",
+       "titre": "Sarawak heads for state polls as pressure mounts for Malaysian PM Anwar Ibrahim"
+      },
+      {
+       "source": "CNA Asie",
+       "url": "https://www.channelnewsasia.com/asia/sarawak-dissolved-state-assembly-elections-6481586",
+       "titre": "Sarawak state assembly to be dissolved on Oct 26, paving way for election within 60 days"
+      }
+     ],
+     "id": "2026-10-24|Sarawak state assembly set to dissolve ahead of elections"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "⚖️",
+     "titre": "US Justice Department sues to delay Alaska Senate election certification",
+     "resume": "The US Department of Justice filed a lawsuit seeking to block certification of Alaska's Senate election results if the Republican incumbent loses. Critics and Democrats condemned the move as an unprecedented federal intervention.",
+     "pourquoi": "",
+     "pays": [
+      "United States"
+     ],
+     "region": "Americas",
+     "rubrique": "elections",
+     "liens": [
+      {
+       "source": "Hindustan Times",
+       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPNC1oQUFmdVNqWDBLTlBGa1d0SGlrZnViWEN2RVpyc1B0V1dWUDlkVjRUQXpEd2p6OVFoZ1BibWlrOXByRlVGNXhNRTVybVliNk9hVUpPYVAxSzROQk80QUlLOFYzMjlqYnFxQS1uNG02aFVhRHVuMjdhS1lpak9DSnBNTzVrMUx6eVBnX0lHcF9XQzN0b1FQd24xUlJQUUxMZUdya3lqTk9FOWJQRjE3UlNaRjUteUpmX0s2TkZBLUZZaXc0QVFLRlFIdUNxN3dqOFcweU1YVkRiNEFxUklfUlRtck5UZGdLTHVDaTVPcUk5SXdRM0MtYmt2a9IBgAJBVV95cUxNT2pxMGplZHhVay1sdElrZ0RNTFFWTnV4OGFhMDJoMVZ1b1V2Q1lDbk5uYUdHUGM3b010bkpCRUNBM1VSMFBGclY0TjZ5a3BzcldJazJqU25ucVhURzMxUEwtc0o4UE1UcnV4cjdaNnc5a1JIeUVSYXhzblhLTUw4TWhCMzY2dzJiUGgzSm4wSzFoTEJfV2pKektKMUZfc2gzZ0w1czdjZ0VJZlc0NTRXUFhFLVBoeFZQaW5PRUsxLXdTRS1uT1BNckgtZVUtbVNXdDFtNGNGdUdmbU96MGxVaDBCdWxadGdFblg2UTBWZ3Bmd0VYd09pdGFLdUd0cXV5?oc=5",
+       "titre": "Trump administration seeks to block Alaska Senate election results if Republican incumbent loses | Hindustan Times"
+      },
+      {
+       "source": "Reuters",
+       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdmhoNXZfaEZSVXU4cVh3dW9tMm54alE4THRoUWNBSzc4QTFvNHl6eE9mOElIeXE1S0pkQlV4Yld6U0t5RjZnbEpjSzVyMkMzQ01MM1hSclViSHVmRDZGTndKTm9GZHZaRUFIZnAxVnM2V0hDMGhUOHVKemxQcFdxc0hmLTJDTTFQWTFTRFhRalM1Y1I3Y0dRTEF6UldFdHg3OVVxd0hkdUFyNTdUN0dDZVRwbTFqbVVyT2FtSw?oc=5",
+       "titre": "US Justice Dept sues to block possible Alaska election of Democrat to Senate"
+      },
+      {
+       "source": "Axios",
+       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYk5DdWZLSHh4ZzFyVDRSYURMejRmdjh6U1BjXzByRFFpNjZzWE5yLXZqc1d6RmUxVm1zR0FFamZWTnF5X2k5MmZCY2ZZbzh6bmJkbDdlVXJVQXVweWFGNGRyUmhvd0xsdWExWVE0LXBfcndFOHdIT0xhbmpMSzlNa0dWRHA?oc=5",
+       "titre": "DOJ sues to delay Alaska election results if GOP incumbent loses"
+      },
+      {
+       "source": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/10/23/trump-administration-sues-to-block-possible-democratic-win-in-alaska?traffic_source=rss",
+       "titre": "Trump administration sues to block possible Democratic win in Alaska"
+      }
+     ],
+     "id": "2026-10-24|US Justice Department sues to delay Alaska Senate election certification"
+    }
+   ]
+  },
+  {
+   "id": "defense_aerienne",
+   "titre": "Air & Missile Defence",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🛡️",
+     "titre": "Singapore Army tests mobile C-UAS as Air Force seeks helicopter defences",
+     "resume": "The Singapore Army conducted operational trials of a mobile counter-drone capability to safeguard field units. Meanwhile, the Republic of Singapore Air Force is seeking dedicated counter-UAS protection systems for its helicopter fleet.",
+     "pourquoi": "",
+     "pays": [
+      "Singapore"
+     ],
+     "region": "South-East Asia",
+     "rubrique": "defense_aerienne",
+     "liens": [
+      {
+       "source": "Aviation Week",
+       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTmcyaWhyWlpaaUtxaUR2ckp5NlpiSDVvbzJ6TDBnbTZSdnJkZVFYXy01cEZDZHRtME1mWjlPeG1UNmxYUzdlcE16RW1OUHZ3cHJTN0E5ajhkWE9nSUxRTTRWOFU4cW1NZEVWczlvUldyek9wTFE4eVVSSkVuV1hBbklPWGJIdmVRQVFtYy1BRzdydTZET2FDN1luR0pXYm5YNkdJ?oc=5",
+       "titre": "Singapore Army Tests Mobile C-UAS Capability"
+      }
+     ],
+     "id": "2026-10-24|Singapore Army tests mobile C-UAS as Air Force seeks helicopter defences"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🚀",
+     "titre": "US Army funds L3Harris long-range drone interceptor development",
+     "resume": "The US Army awarded funding to L3Harris to develop and flight-test a long-range drone interceptor. The effort seeks to provide cost-effective surface-to-air options against hostile uncrewed aerial systems.",
+     "pourquoi": "",
+     "pays": [
+      "United States"
+     ],
+     "region": "Americas",
+     "rubrique": "defense_aerienne",
+     "liens": [
+      {
+       "source": "Defence Industry Europe",
+       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZFZucGF1ay0tRXJOWUtTbTJzWFJXRUVYNnlBMm5sVU9LVVZhUFloYm9WZXptaDE1ajdQQVhYYUJ6Wi1iaUs0ektjSzEtaDJFU21WVF9ETkx2MW9QVFNnSHNUUGZuZlhsQzlRZlZpcFFZVDRWbHE1N0JnNVlyMHhUU1JFa2VWSzlaYmtnWThueDZjQU5lOHN4LU5pTlp4akUyWm15VS1vMDdjVzNFM1dvUlRB?oc=5",
+       "titre": "U.S. Army funds L3Harris long-range drone interceptor development and flight testing"
+      }
+     ],
+     "id": "2026-10-24|US Army funds L3Harris long-range drone interceptor development"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🚢",
+     "titre": "Spanish Navy and Navantia design IAMD-dedicated F110 frigate variant",
+     "resume": "Navantia and the Spanish Navy are designing an air defence evolution of the Bonifaz-class F110 frigate. The variant will feature advanced integrated air and missile defence capabilities against complex aerial threats.",
+     "pourquoi": "",
+     "pays": [
+      "Spain"
+     ],
+     "region": "Europe",
+     "rubrique": "defense_aerienne",
+     "liens": [
+      {
+       "source": "Naval News",
+       "url": "https://www.navalnews.com/naval-news/2026/10/spanish-navy-and-navantia-design-an-iamd-frigate-aiming-to-extend-f110-class/",
+       "titre": "Spanish Navy and Navantia design an IAMD frigate aiming to extend F110 class"
+      },
+      {
+       "source": "Defence Industry Europe",
+       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORDNCaW1MQS02SktTXzlEVXdIOXhDUzFYd0U2eGhIWTNtLWdwOUtWdGE2Z1UyRm5QTDVnMDRSai0zbUswSzZWbFlpdUpZR0RTNDNKMWYtZHNYNFlrQkF5aVNyZjNveGozVzhIWHd5RjVvZC02UTRpdkppSnQ2bzRtY0tNa0RKVk5yQ2gwOVF3LTVNb1paZlYxTTdlTmtyN082VkE0cnlmYmJLQV8tT0lVTWF2ZHFlZUtab2c?oc=5",
+       "titre": "Spanish Navy and Navantia develop F110 IAMD frigate with expanded air and missile defence"
+      }
+     ],
+     "id": "2026-10-24|Spanish Navy and Navantia design IAMD-dedicated F110 frigate variant"
+    }
+   ]
+  },
+  {
+   "id": "industrie",
+   "titre": "Defence Industry & Contracts",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🛩️",
+     "titre": "General Atomics partners with Spirit Defense on FQ-42 CCA drone ramp-up",
+     "resume": "General Atomics partnered with Spirit Defense to expand manufacturing capacity for the USAF FQ-42 Collaborative Combat Aircraft. The initiative supports surging demand for autonomous uncrewed fighter wingmen over the next six years.",
+     "pourquoi": "",
+     "pays": [
+      "United States"
+     ],
+     "region": "Americas",
+     "rubrique": "industrie",
+     "liens": [
+      {
+       "source": "The War Zone",
+       "url": "https://www.twz.com/air/general-atomics-fq-42-cca-drone-production-ramp-up-to-be-boosted-by-boeing-subsidiary",
+       "titre": "General Atomics FQ-42 CCA Drone Production Ramp Up To Be Boosted By Boeing Subsidiary"
+      }
+     ],
+     "id": "2026-10-24|General Atomics partners with Spirit Defense on FQ-42 CCA drone ramp-up"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🚢",
+     "titre": "Indian Navy issues tender for four landing platform docks",
+     "resume": "The Indian Navy issued a request for proposals to procure four landing platform docks. The acquisition programme aims to significantly bolster expeditionary amphibious warfare and regional power projection capabilities.",
+     "pourquoi": "",
+     "pays": [
+      "India"
+     ],
+     "region": "South Asia",
+     "rubrique": "industrie",
+     "liens": [
+      {
+       "source": "Asian Military Review",
+       "url": "https://www.asianmilitaryreview.com/2026/10/indian-navy-issues-rfp-for-four-landing-platform-docks-foc/",
+       "titre": "Indian Navy issues RfP for four landing platform docks"
+      }
+     ],
+     "id": "2026-10-24|Indian Navy issues tender for four landing platform docks"
+    }
+   ]
+  },
+  {
+   "id": "ukraine",
+   "titre": "Ukraine / Russia",
+   "items": [
+    {
+     "suite": true,
+     "remplace": "2026-10-21|NATO reinforces Black Sea air patrols after Russian drone strikes",
+     "emoji": "🚢",
+     "titre": "Cargo vessel sinks off Romania following suspected Russian drone strike",
+     "resume": "A commercial cargo vessel sank off Romania's Black Sea coast following an alleged Russian drone strike, leaving one sailor dead and three missing. Romanian authorities condemned the strike near NATO waters.",
+     "pourquoi": "",
+     "pays": [
+      "Romania",
+      "Russia",
+      "Ukraine"
+     ],
+     "region": "Russia-Ukraine",
+     "rubrique": "ukraine",
+     "liens": [
+      {
+       "source": "The Straits Times",
+       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOUw0TFVORXhqOHQzcTktRmJMWVhBNm93dXBFZTlnQTNVS2pFNkxZLWNodHQzY3lZbFc3YVI4VVVfbHpVZnowTVhiZzVMT0dFVHphUDRsdi01X2U2UGRWNzhpLU1JQjNQUXh2N2JDNFFyLVRhOU16Uk82TjhPUElWOW9CNFNSQUlRS0Vvb1RVcnczamp0RkRQVjB2R0JyREpyREZGUGZGM0Q1ODBYcFZHdnlwbVV5S2lJQ1dBWG1CbDJIS1k?oc=5",
+       "titre": "Romania blames Russia for drone that sinks cargo ship; 1 killed, 3 missing"
+      }
+     ],
+     "id": "2026-10-24|Cargo vessel sinks off Romania following suspected Russian drone strike"
+    }
+   ]
+  },
+  {
+   "id": "moyen_orient",
+   "titre": "Middle East",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "⚠️",
+     "titre": "Gunmen kill seven at church funeral in Jordan",
+     "resume": "Masked gunmen opened fire during a funeral at a church in Karak, killing seven people and wounding 34. Security forces launched an extensive manhunt as King Abdullah II vowed retaliation.",
+     "pourquoi": "",
+     "pays": [
+      "Jordan"
+     ],
+     "region": "Middle East",
+     "rubrique": "moyen_orient",
+     "liens": [
+      {
+       "source": "CNA Monde",
+       "url": "https://www.channelnewsasia.com/world/gunmen-jordan-shooting-king-retaliation-seven-killed-6488111",
+       "titre": "Gunmen kill 7 at Jordan church, king vows retaliation"
+      },
+      {
+       "source": "Al Jazeera",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_masked-gunmen-kill-seven-in-attack-on-church-jordan-231026?traffic_source=rss",
+       "titre": "Masked gunmen kill seven in attack on church funeral in Jordan"
+      },
+      {
+       "source": "BBC World",
+       "url": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
+       "titre": "Seven shot dead by gunmen at church funeral in Jordan, officials say"
+      },
+      {
+       "source": "Le Monde International",
+       "url": "https://www.lemonde.fr/international/article/2026/10/23/en-jordanie-une-fusillade-dans-une-eglise-fait-au-moins-six-morts_6799108_3210.html",
+       "titre": "En Jordanie, une attaque dans une église fait au moins sept morts"
+      }
+     ],
+     "id": "2026-10-24|Gunmen kill seven at church funeral in Jordan"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🚀",
+     "titre": "Study indicates Saudi missile plant expansion may produce advanced weapons",
+     "resume": "Satellite imagery indicates Saudi Arabia is expanding a domestic missile manufacturing facility, possibly with Chinese assistance. The site may produce more capable ballistic missiles, enhancing deterrence against regional threats.",
+     "pourquoi": "",
+     "pays": [
+      "Saudi Arabia",
+      "China"
+     ],
+     "region": "Middle East",
+     "rubrique": "moyen_orient",
+     "liens": [
+      {
+       "source": "Reuters",
+       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUTNudHNub01PQk1mQ1pIc3I0d2N5TGJPTG5lSlkwSWZKc05VMHpaNGtRTmpmd1pDblNPYjZGbEw3d05QeThxdjNJWDhYX09KMDdPeTlOeWxhX0txVTVrVzRvdWwzMEFfN01jYUNoN1dEVkRQMjlrUENUNVcxMkNuZDlyTnVQMlBkNmhJRzRjRkRESDVJZmdWYzJFMUtzUzBMdFpXVWNoM0hzOTBaajZhRDJtQ0U5ZFlzMkdaZ3BZa2ZPN0RwUHR6cQ?oc=5",
+       "titre": "EXCLUSIVE: Saudi missile plant expansion may produce more powerful missiles, study says"
+      },
+      {
+       "source": "Defense News",
+       "url": "https://www.defensenews.com/global/mideast-africa/2026/10/23/saudi-missile-plant-expansion-may-produce-more-powerful-missiles-study-says/",
+       "titre": "Saudi missile plant expansion may produce more powerful missiles, study says"
+      },
+      {
+       "source": "news.sbs.co.kr",
+       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFByakJLdE56NGdDWUtpYVd4WlZyWHJFVHVMLUNGeUtKalhvYmFMcVhTZ3AtWVQ3SFRiZGxySE01OVFJdkwyOUM4T3VMbTNNZTZhRlBNQlVpX3lOWkY0RmFpbWpHbWJkZw?oc=5",
+       "titre": "사우디, 미사일 생산 시설 확장…중국 기술 가능성"
+      }
+     ],
+     "id": "2026-10-24|Study indicates Saudi missile plant expansion may produce advanced weapons"
+    }
+   ]
+  },
+  {
+   "id": "europe",
+   "titre": "Europe",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🛩️",
+     "titre": "France and Britain conduct first joint airborne nuclear strike exercise",
+     "resume": "The French Air and Space Force and the Royal Air Force conducted Exercise Rummy, marking their first joint airborne nuclear strike exercise. The drill operationalises bilateral nuclear cooperation agreements signed in 2025.",
+     "pourquoi": "",
+     "pays": [
+      "France",
+      "United Kingdom"
+     ],
+     "region": "Europe",
+     "rubrique": "europe",
+     "liens": [
+      {
+       "source": "Defense News",
+       "url": "https://www.defensenews.com/global/europe/2026/10/23/france-uk-carry-out-joint-airborne-nuclear-strike-exercise-for-first-time/",
+       "titre": "France, UK carry out joint airborne nuclear-strike exercise for first time"
+      },
+      {
+       "source": "Opex360",
+       "url": "https://www.opex360.com/2026/10/23/les-forces-aeriennes-francaises-et-britanniques-ont-simule-une-frappe-nucleaire-lors-de-lexercice-inedit-rummy/",
+       "titre": "Les forces aériennes françaises et britanniques ont simulé une frappe nucléaire lors de l’exercice inédit «Rummy»"
+      },
+      {
+       "source": "CNA Monde",
+       "url": "https://www.channelnewsasia.com/world/british-jets-join-french-nuclear-exercise-first-time-6486406",
+       "titre": "British jets join French nuclear exercise for first time, France says"
+      }
+     ],
+     "id": "2026-10-24|France and Britain conduct first joint airborne nuclear strike exercise"
+    }
+   ]
+  },
+  {
+   "id": "espace",
+   "titre": "Space & Satellites",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🛰️",
+     "titre": "Russian military satellite shadows US spacecraft linked to Ukraine",
+     "resume": "Washington accused Moscow of deliberately manoeuvring a Russian military satellite into close proximity with a US-registered commercial satellite supporting Ukraine. The incident raises alarms over escalating orbital counter-space activities.",
+     "pourquoi": "",
+     "pays": [
+      "Russia",
+      "United States",
+      "Ukraine"
+     ],
+     "region": "Global",
+     "rubrique": "espace",
+     "liens": [
+      {
+       "source": "Defense News",
+       "url": "https://www.defensenews.com/space/2026/10/23/the-west-cant-stop-me-space-wars-heat-up-as-russia-tails-a-ukraine-linked-us-satellite/",
+       "titre": "‘The West can’t stop me’: Space wars heat up as Russia tails a Ukraine-linked US satellite"
+      }
+     ],
+     "id": "2026-10-24|Russian military satellite shadows US spacecraft linked to Ukraine"
+    }
+   ]
+  },
+  {
+   "id": "tech",
+   "titre": "Emerging Tech",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "⚠️",
+     "titre": "US military bans BYD electric vehicles from Japanese air base",
+     "resume": "The US military barred BYD electric vehicles from entering an air base in Japan over national security and surveillance concerns. The decision highlights growing allied scrutiny over connected Chinese vehicles near sensitive defence infrastructure.",
+     "pourquoi": "",
+     "pays": [
+      "United States",
+      "Japan",
+      "China"
+     ],
+     "region": "North-East Asia",
+     "rubrique": "tech",
+     "liens": [
+      {
+       "source": "뉴시스",
+       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9UdUVucFZ4Wi1nejJGZncwZm91TExfTVAwVUZBdktlWTdUN3BqMHJSRzVZTDF2WE1DX05weTJEZG1LazlKZUJhN1hlSDJPbzVTQTVmWXJqQ2E2cWJRMUl5QW9BRWxxaHJzVVkwX3M3aGZjdkZmd3B2WtIBeEFVX3lxTE9UdUVucFZ4Wi1nejJGZncwZm91TExfTVAwVUZBdktlWTdUN3BqMHJSRzVZTDF2WE1DX05weTJEZG1LazlKZUJhN1hlSDJPbzVTQTVmWXJqQ2E2cWJRMUl5QW9BRWxxaHJzVVkwX3M3aGZjdkZmd3B2Wg?oc=5",
+       "titre": "BYD, 주한미군 기지도 못 들어가나…\"정책 변경 시 공지\""
+      },
+      {
+       "source": "Reuters",
+       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRGNKcXBtcDlRVC1hQWltZmxFSTNLRERxS0E1cENlTnFGUUFISFBqVzh1RGFjVHU2UUhndmY5bUtnT0dRLW5ZVHBFNGdGM3R3S050aUZfT0xtMG9wR05IakJXWGREYkZFcm1tcnlObmtFazNmRE9KOXVrR1BrcmFfUzRPUjlqZUh1b1BWQjE2dU1pUnZDUGRDN2JCS2Npdzg0dGJZR09Ya3g1S0gtRl9ZeWM3aDBxaTQ4aG4tdQ?oc=5",
+       "titre": "US bans BYD from air base in Japan over security concern, news report says"
+      }
+     ],
+     "id": "2026-10-24|US military bans BYD electric vehicles from Japanese air base"
+    }
+   ]
+  },
+  {
+   "id": "economie",
+   "titre": "Economy & Sanctions",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🚢",
+     "titre": "First Russian diesel cargo heads to US under Trump-Putin agreement",
+     "resume": "A tanker carrying the first shipment of Russian diesel bound for New York has departed following a deal between Donald Trump and Vladimir Putin. The delivery bypasses broader Western restrictions on Russian petroleum products.",
+     "pourquoi": "",
+     "pays": [
+      "United States",
+      "Russia"
+     ],
+     "region": "Americas",
+     "rubrique": "economie",
+     "liens": [
+      {
+       "source": "Al-Monitor",
+       "url": "https://www.al-monitor.com/originals/2026/10/exclusive-first-russian-diesel-putin-trump-deal-heading-us-data-shows",
+       "titre": "Exclusive-First Russian diesel from Putin-Trump deal heading for US, data shows"
+      },
+      {
+       "source": "Le Grand Continent",
+       "url": "https://legrandcontinent.eu/fr/2026/10/23/economie-russe-poutine-peut-il-se-permettre-de-livrer-du-carburant-aux-etats-unis/",
+       "titre": "Économie russe : Poutine peut-il se permettre de livrer du carburant aux États-Unis ?"
+      }
+     ],
+     "id": "2026-10-24|First Russian diesel cargo heads to US under Trump-Putin agreement"
+    }
+   ]
+  }
+ ],
+ "a_surveiller": [
+  {
+   "quand": "October 25",
+   "quoi": "Brazil presidential run-off election between Luiz Inacio Lula da Silva and Flavio Bolsonaro",
+   "liens": [
+    {
+     "source": "AP News",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOOXJBX3lTVWtTalk1Z2ozazdxeGRyZXItRW93akllUUREQ24xTE9lZnM5Tk1OWFREdzF2QWlkY0hBRWh3WDdtWVNfR1VRLWtoTGV1WkthdklfTlRXY1I3X1d2cl90X3ozT2VscVlfakVBWjdhWFR3dmhnUHV3ZENhbXJNN2JZT3ZKMFJkYWFCUVZGbGdPdy1CVWxqaWpuOU9ONVRubFlwWmFzZEJGaDhab29TRXFZOTdPWl9SOG93dE43NlVXRFJValBSTV9IQW1BdDBoMWdhU2twSGdjNzR3?oc=5",
+     "titre": "Flávio Bolsonaro and Lula da Silva head to close run-off presidential election on Sunday"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbGYxTWRHbm5VTmdCdTlKNms1WEV5bFhrNFFjQlozb2stb3F0OWRwNWYyTkFRR0pxZW80MlNnQTQ5M0NsNVBLdmF5eWdqc1MwdTl1SEtYYi1Ed2VwV05MOEFoZEhRQk1wMkdhaTN4TnlFdEN3WVZEelRvNnJ6ZXJJNFJ3?oc=5",
+     "titre": "Brazil runoff election results"
+    }
+   ]
+  },
+  {
+   "quand": "October 26 to 29",
+   "quoi": "Fifth plenum of the Chinese Communist Party's Central Committee in Beijing",
+   "liens": [
+    {
+     "source": "Straits Times Asie",
+     "url": "https://www.straitstimes.com/asia/how-chinas-october-26-to-29-communist-party-plenum-works",
+     "titre": "How China's October 26 to 29 Communist Party plenum works"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUDZRNlBHRUM0T3ZXRlRrWWQyOHZsSnU4LThjWVZrcE9GUWxMX2I1d0RmbFlKTE5Gdk9rRDg3NklSSXlaejRnZElyRFBWaXM0NGdyVnkzWVBIVkdXbkhad3NWTk1hcFM5blJBaFREV2c3SU0yYjhndjNvcTg1WTItb09tY2hDZGdQS3RuRlhsVU96WW1TUXFHTks1SFFtQkVSYXZ4em5NeVQ0b0Z2NjVwUEk1RTFxdTNHQWNBYXZ3?oc=5",
+     "titre": "Tougher discipline, and Xi's authority, key at China's Communist Party's fifth plenum"
+    }
+   ]
+  },
+  {
+   "quand": "October 26",
+   "quoi": "Formal dissolution of the Sarawak state assembly ahead of Malaysian state elections",
+   "liens": [
+    {
+     "source": "CNA Asie",
+     "url": "https://www.channelnewsasia.com/asia/sarawak-dissolved-state-assembly-elections-6481586",
+     "titre": "Sarawak state assembly to be dissolved on Oct 26, paving way for election within 60 days"
+    }
+   ]
+  },
+  {
+   "quand": "October 27",
+   "quoi": "Israeli legislative elections amid security lockdowns and regional conflict",
+   "liens": [
+    {
+     "source": "Le Monde International",
+     "url": "https://www.lemonde.fr/international/article/2026/10/23/cisjordanie-en-reponse-a-la-mort-de-deux-militaires-israeliens-netanyahou-promet-des-destructions-d-ampleur-et-encore-plus-de-colonies_6799138_3210.html",
+     "titre": "Cisjordanie : en réponse à une attaque contre des militaires israéliens, Nétanyahou promet des destructions d’ampleur et encore plus de colonies"
+    },
+    {
+     "source": "news.sbs.co.kr",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5JSkk1akdVdXRxZjNFMkp0bjNnNVhzOU5oYnlIb0ZSYk5VVWZGbHFUdWowZEVkUG84YXg5NHppQ2FuWE5YZEFSaU56Q1pMWEViSzY4aDg5cWVEYmM0cHFJZGFrVjBkampTRzlVbGdR?oc=5",
+     "titre": "Shooting Terror Attack in West Bank Four Days Before Israeli General Election; Netanyahu Orders West Bank Lockdown"
+    }
+   ]
+  },
+  {
+   "quand": "October 29",
+   "quoi": "Start of the localized humanitarian ceasefire in the Ukrainian city of Oleshky",
+   "liens": [
+    {
+     "source": "Le Monde International",
+     "url": "https://www.lemonde.fr/international/live/2026/10/23/en-direct-guerre-en-ukraine-l-armee-ukrainienne-dit-qu-elle-observera-une-treve-a-olechky-a-partir-de-mardi-pour-permettre-des-operations-humanitaires_6796922_3210.html",
+     "titre": "EN DIRECT, guerre en Ukraine : l’armée ukrainienne dit qu’elle observera une trêve à Olechky à partir de mardi pour permettre des opérations humanitaires"
+    },
+    {
+     "source": "CNA Monde",
+     "url": "https://www.channelnewsasia.com/world/melania-trumo-ukraine-russia-truce-oleshky-6487441",
+     "titre": "Melania Trump announces truce in Ukrainian city 'on brink of disaster'"
+    }
+   ]
+  }
+ ],
+ "hebdo": null,
+ "stats": {
+  "articles": 423,
+  "sources": 52
+ }
+}
