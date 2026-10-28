@@ -1,0 +1,819 @@
+{
+ "date": "2026-10-28",
+ "date_label": "Wednesday, October 28, 2026",
+ "genere_le": "2026-10-28T09:48:56+08:00",
+ "mode": "ia",
+ "modele": "gemini-3.6-flash",
+ "accroche": [
+  "Inconclusive Israeli election exit polls show tight race and deadlock",
+  "Local ceasefire begins in Ukrainian town of Oleshky to deliver aid",
+  "Defeated Brazilian presidential candidate Flávio Bolsonaro flees to United States"
+ ],
+ "essentiel": [
+  {
+   "suite": true,
+   "remplace": "2026-10-27|Israel votes in general election amid reports of pre-poll Iran plans",
+   "emoji": "🗳️",
+   "titre": "Israeli Election Ends in Deadlock According to Exit Polls",
+   "resume": "Exit polls indicate a tie between Prime Minister Benjamin Netanyahu and opposition leader Gadi Eisenkot. Voter turnout reached 77.7 per cent, with the Arab bloc projecting historic gains of up to 18 seats.",
+   "pourquoi": "",
+   "pays": [
+    "Israel"
+   ],
+   "region": "Middle East",
+   "rubrique": "elections",
+   "liens": [
+    {
+     "source": "Al-Monitor",
+     "url": "https://www.al-monitor.com/originals/2026/10/tight-israel-vote-both-camps-hold-out-cautious-hope",
+     "titre": "In tight Israel vote, both camps hold out cautious hope"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/28/arab-parties-could-win-18-seats-in-israeli-elections-exit-polls-suggest?traffic_source=rss",
+     "titre": "Arab parties projected to win 18 seats in Israeli parliamentary election"
+    },
+    {
+     "source": "BBC World",
+     "url": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss",
+     "titre": "Watch: What happens now after close vote in Israeli election?"
+    },
+    {
+     "source": "Japan Times",
+     "url": "https://www.japantimes.co.jp/news/2026/10/28/world/politics/israeli-opposition-netanyahu-vote/",
+     "titre": "Israeli opposition leads Netanyahu after inconclusive vote"
+    }
+   ],
+   "id": "2026-10-28|Israeli Election Ends in Deadlock According to Exit Polls"
+  },
+  {
+   "suite": false,
+   "remplace": null,
+   "emoji": "🤝",
+   "titre": "Local Ceasefire Holds in Ukrainian Town of Oleshky",
+   "resume": "A US-brokered local truce in Russian-occupied Oleshky took effect to deliver humanitarian relief and permit civilian evacuations. Both Russian and Ukrainian officials confirmed no violations were recorded during the initial hours.",
+   "pourquoi": "",
+   "pays": [
+    "Ukraine",
+    "Russia",
+    "United States"
+   ],
+   "region": "Russia-Ukraine",
+   "rubrique": "ukraine",
+   "liens": [
+    {
+     "source": "Japan Times",
+     "url": "https://www.japantimes.co.jp/news/2026/10/28/world/politics/us-truce-ukraine-town-starvation/",
+     "titre": "U.S.-brokered truce appears to hold in Ukrainian town close to starvation"
+    },
+    {
+     "source": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
+     "titre": "Ceasefire extended across Ukraine's Kherson region, officials say"
+    },
+    {
+     "source": "CNA Monde",
+     "url": "https://www.channelnewsasia.com/world/ukraine-russia-us-brokered-truce-holding-6497861",
+     "titre": "Ukraine, Russia say US-brokered truce holding in ravaged city"
+    },
+    {
+     "source": "Le Monde International",
+     "url": "https://www.lemonde.fr/international/article/2026/10/27/ukraine-dans-la-ville-occupee-d-olechky-le-debut-d-une-operation-a-risque-pour-sauver-les-civils-pris-au-piege_6801330_3210.html",
+     "titre": "Ukraine : dans la ville occupée d’Olechky, le début d’une opération à risque pour sauver les civils pris au piège"
+    }
+   ],
+   "id": "2026-10-28|Local Ceasefire Holds in Ukrainian Town of Oleshky"
+  },
+  {
+   "suite": true,
+   "remplace": "2026-10-27|Flávio Bolsonaro seeks annulment of Brazilian presidential election result",
+   "emoji": "✈️",
+   "titre": "Flávio Bolsonaro Flees Brazil for US Following Election Loss",
+   "resume": "Defeated Brazilian presidential candidate Flávio Bolsonaro fled to the United States after Brazil's Supreme Court ordered the surrender of his passports. The US State Department confirmed visas were issued to Bolsonaro and his family.",
+   "pourquoi": "",
+   "pays": [
+    "Brazil",
+    "United States"
+   ],
+   "region": "Americas",
+   "rubrique": "elections",
+   "liens": [
+    {
+     "source": "CBS News",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMjliUkF5YXRBTUtLUHVzTlhZVFdHNG54VGQ4NDl0aFg3UUNJQmM0MF9UR1V0bmYxQkRYTXQ1LThUS3VsaVljd3VEVzRUeHhTU2xUbkJYT2lMNUNRSDBqdHV1bm1jcHJLSHhhaW1zZlR2aXZEMWNLSzNlRS1NNjFaOUdzYlg1dkdmZ2NVQmgzUzRvU28?oc=5",
+     "titre": "U.S. issuing visas to Brazil's Flávio Bolsonaro and family after he lost presidential election, official says"
+    },
+    {
+     "source": "Japan Times",
+     "url": "https://www.japantimes.co.jp/news/2026/10/28/world/politics/us-visa-brazil-election-bolsonaro/",
+     "titre": "U.S. to give visa to Brazilian election loser Bolsonaro"
+    },
+    {
+     "source": "ABC News",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQa2NiVnoySURTZWlWNHg3dmhYcllZRjBRUUlpRGlrVThaWlU2bmtYVEFCU2ZoOGR1WlZCMC1ZSGkzN05XSnMycl9mNEdhb19CMXBuYWVtY2JQUjdaZ3dCMEZaMjh0R3NMY3pvUHBNUUZBWXFfaXBMN2RVNW15ZkpCZGZoVmpiLWt1TFpndmhmb0U3S3RldnZ6OVI1QWc0cjRQTmwzcGJ2S0o4ZVV2?oc=5",
+     "titre": "Video Flavio Bolsonaro reportedly flees Brazil after presidential election loss"
+    },
+    {
+     "source": "CNA Monde",
+     "url": "https://www.channelnewsasia.com/world/bolsonaro-brazil-election-defeat-lula-us-6497941",
+     "titre": "Flavio Bolsonaro headed to US after Brazil election defeat: US media"
+    }
+   ],
+   "id": "2026-10-28|Flávio Bolsonaro Flees Brazil for US Following Election Loss"
+  },
+  {
+   "suite": true,
+   "remplace": "2026-10-27|Egyptian parliament approves military deployment to defend Saudi Arabia",
+   "emoji": "🚀",
+   "titre": "US Pentagon Iran War Costs Exceed $47 Billion as Houthis Strike Saudi Targets",
+   "resume": "Pentagon data revealed US military expenditure in the Iran war has exceeded $47 billion. Meanwhile, Yemen's Houthis launched ballistic missiles targeting Saudi Arabia's Ras Tanura refinery and defence ministry, calling Egyptian military support a declaration of war.",
+   "pourquoi": "",
+   "pays": [
+    "United States",
+    "Iran",
+    "Saudi Arabia",
+    "Yemen"
+   ],
+   "region": "Middle East",
+   "rubrique": "moyen_orient",
+   "liens": [
+    {
+     "source": "Al-Monitor",
+     "url": "https://www.al-monitor.com/originals/2026/10/us-costs-iran-war-rise-over-47-billion-according-pentagon-estimate",
+     "titre": "US costs of Iran war rise to over $47 billion, according to Pentagon estimate"
+    },
+    {
+     "source": "WSJ",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYXd0OHZEUnBrMFNkRjJ5dHFUakFsTDU0NUxhdzhQUnpPQ0JxMllJanhoeVFQWm1GMmk2RkRUdDFWLVR2N0VwczZOQmZmbG9BanpUSTE2VEhnSS1xd29mUzFzbEdRTVBDWGRSOW1hRW41WU04eE9OSUo4QmFoSG9DUUhUNi13bzNkbEZaWlFUaVUzUzZPWGtMc2JDeEZyODg2Q09JdFZBekl1WnNJdDVBYnZQMzhieGt4bjFuOFZnMA?oc=5",
+     "titre": "U.S. Warns Gulf of Possible Short, Intense Renewal of Iran War After Midterms"
+    },
+    {
+     "source": "The National",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdmN6SzJtQ0JYM2gwc3RFSmQ5V3lFTFVfbk04VEdnUXJDcVRZTE90aDVfSUhvVzFUOExCT0FNd2h5MFFjMlltY3dwd2JUc3ZtM1R6RXRXdldlMUZBSnZrR1pteE4yeGd2Vi1saWwySzh3MTJFQWpsNGFNQ1NQWFRPMmtkMkE4Uko4LUZaZTdUMWFQOWFqRXhSZ0k1ZWVPcmhpc1FXZ0FaYVBxRWFuTkNydzF3?oc=5",
+     "titre": "Middle East latest: Saudi Arabia reports missile interception damage in Riyadh as Houthis claim more attacks"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMU9tRHdmbzQ2ZHlsQzBDVmpqUEhlTk9meXgzN1VMOWlUMnlKOU1ibFRMQ1VQNDNjTkloUG9lb054S2JXZ2YwMS1MMXM4b1pwczl2clNyTHM5RGZVdnd6bzJXTVl4bW4yZ0pGTEV2aEV4dlR2cDNkc0lvNjVMN2ZScklvRDE3S1VyS0FoaC02Z3BqTHJPeTJrekxhM0dONmN0VzdXTmE5QjNfM0pIZ1Q2SHMtSkZzbFNqSThaN2RybDFBdw?oc=5",
+     "titre": "Yemen's Houthis say they hit Saudi Ras Tanura oil refinery with missile"
+    }
+   ],
+   "id": "2026-10-28|US Pentagon Iran War Costs Exceed $47 Billion as Houthis Strike Saudi Targets"
+  }
+ ],
+ "rubriques": [
+  {
+   "id": "monde",
+   "titre": "World",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🤝",
+     "titre": "Togo deepens strategic and maritime ties with China",
+     "resume": "Togo is expanding its maritime ambitions and security coordination with Sahel states by strengthening strategic relations with Beijing. The partnership aims to position Lomé as a regional trade gateway to West Africa.",
+     "pourquoi": "",
+     "pays": [
+      "Togo",
+      "China"
+     ],
+     "region": "Africa",
+     "rubrique": "monde",
+     "liens": [
+      {
+       "source": "The Diplomat",
+       "url": "https://thediplomat.com/2026/10/togos-china-pivot-building-a-strategic-gateway-to-the-sahel/",
+       "titre": "Togo’s China Pivot: Building a Strategic Gateway to the Sahel"
+      }
+     ],
+     "id": "2026-10-28|Togo deepens strategic and maritime ties with China"
+    }
+   ]
+  },
+  {
+   "id": "asie",
+   "titre": "APAC",
+   "items": [
+    {
+     "suite": true,
+     "remplace": "2026-10-27|German Chancellor Friedrich Merz begins official visit to Singapore",
+     "emoji": "🇸🇬",
+     "titre": "Singapore and Germany expand strategic partnership in AI",
+     "resume": "Singapore Prime Minister Lawrence Wong and German Chancellor Friedrich Merz agreed to step up industrial AI cooperation under an updated work plan. Both nations will also enhance research collaboration and foster ASEAN-EU ties.",
+     "pourquoi": "",
+     "pays": [
+      "Singapore",
+      "Germany"
+     ],
+     "region": "South-East Asia",
+     "rubrique": "asie",
+     "liens": [
+      {
+       "source": "Malay Mail",
+       "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOX2VNNGdzRHBzNmNRX3BFM3l4NmdnQWVwNzJfTVMzZXBrQlFCUzNrZkloZzhaUE1oZ0QwV3VvM1NmVmw5MHJ3WTVSaGdDSnppb0JCR01oMFQ2Q1dkT191Sy1odUxWSlZkQlA5cmJHckxyNUU2Unp1bTJxeUMzTjB4dHUyQ2czQ205Ym5tNUU3T2I0NEUxOUJ4R1c5am82LV8xLVA5ZHBwMFJTeGdwMlVGZXNlaHA2ZER0VUxsWTRwQmZEZzJjYkFFZXllT1lNT1lxUWRnQ0NUQ1VGVmVwMDJMdFY1Y1JzTHMzUU9UaUpOQlJHOU1xbXB0OVF0ZG1JS09oUGg3eXFUSdIBhwJBVV95cUxOX2VNNGdzRHBzNmNRX3BFM3l4NmdnQWVwNzJfTVMzZXBrQlFCUzNrZkloZzhaUE1oZ0QwV3VvM1NmVmw5MHJ3WTVSaGdDSnppb0JCR01oMFQ2Q1dkT191Sy1odUxWSlZkQlA5cmJHckxyNUU2Unp1bTJxeUMzTjB4dHUyQ2czQ205Ym5tNUU3T2I0NEUxOUJ4R1c5am82LV8xLVA5ZHBwMFJTeGdwMlVGZXNlaHA2ZER0VUxsWTRwQmZEZzJjYkFFZXllT1lNT1lxUWRnQ0NUQ1VGVmVwMDJMdFY1Y1JzTHMzUU9UaUpOQlJHOU1xbXB0OVF0ZG1JS09oUGg3eXFUSQ?oc=5",
+       "titre": "AI, energy and research among areas for ‘intensified cooperation’ as Singapore, Germany refresh strategic partnership"
+      },
+      {
+       "source": "Straits Times Singapour",
+       "url": "https://www.straitstimes.com/singapore/politics/singapore-germany-to-collaborate-on-ai-use-in-industries-step-up-research-on-new-tech",
+       "titre": "Singapore, Germany to collaborate on AI use in industries, step up research on new tech"
+      },
+      {
+       "source": "CNA Singapour",
+       "url": "https://www.channelnewsasia.com/singapore/singapore-germany-ai-cooperation-lawrence-wong-friedrich-merz-6493021",
+       "titre": "Singapore, Germany to expand industrial AI cooperation as part of updated 5-pillar work plan"
+      }
+     ],
+     "id": "2026-10-28|Singapore and Germany expand strategic partnership in AI"
+    },
+    {
+     "suite": true,
+     "remplace": "2026-10-25|Singapore companies confirm compliance with transboundary haze notices",
+     "emoji": "🇸🇬",
+     "titre": "Singapore and Indonesia create joint task force on haze",
+     "resume": "Singapore and Indonesia announced a joint task force to share intelligence and investigate companies linked to forest fires. Singapore is also planning legislative amendments to strengthen enforcement against transboundary haze polluters.",
+     "pourquoi": "",
+     "pays": [
+      "Singapore",
+      "Indonesia"
+     ],
+     "region": "South-East Asia",
+     "rubrique": "asie",
+     "liens": [
+      {
+       "source": "Straits Times Asie",
+       "url": "https://www.straitstimes.com/asia/se-asia/singapore-indonesia-to-set-up-joint-task-force-to-hold-firms-accountable-for-forest-fires",
+       "titre": "Singapore, Indonesia to set up joint task force to hold firms accountable for forest fires"
+      },
+      {
+       "source": "CNA Singapour",
+       "url": "https://www.channelnewsasia.com/singapore/singapore-indonesia-haze-taskforce-hotline-6495736",
+       "titre": "Singapore, Indonesia setting up joint task force to probe firms linked to forest fires; hotlines to manage differences"
+      },
+      {
+       "source": "Straits Times Singapour",
+       "url": "https://www.straitstimes.com/singapore/environment/spore-aims-to-tighten-haze-law-amid-hurdles-in-gathering-evidence-securing-cooperation-grace-fu",
+       "titre": "S’pore aims to tighten haze law amid hurdles in gathering evidence, securing cooperation: Grace Fu"
+      }
+     ],
+     "id": "2026-10-28|Singapore and Indonesia create joint task force on haze"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🛡️",
+     "titre": "US Defence Secretary Hegseth heads to Philippines for ASEAN meeting",
+     "resume": "US Defence Secretary Pete Hegseth is visiting Cebu to meet Southeast Asian counterparts and regional allies ahead of the ASEAN Defence Ministers' Meeting. Discussions will focus on Indo-Pacific security and maritime cooperation.",
+     "pourquoi": "",
+     "pays": [
+      "United States",
+      "Philippines"
+     ],
+     "region": "South-East Asia",
+     "rubrique": "asie",
+     "liens": [
+      {
+       "source": "Al-Monitor",
+       "url": "https://www.al-monitor.com/originals/2026/10/hegseth-likely-face-questions-us-role-indo-pacific-asean-summit",
+       "titre": "Hegseth likely to face questions on US role in Indo-Pacific at ASEAN summit"
+      },
+      {
+       "source": "Al Jazeera",
+       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQU1NKNjdWbWpMNzRvNTB5bUl6YTkyU09PX2szM0JVNTFzSEhVa082NHRkMzZRZ0dTVFZCRFU4OHVHVHZLWG95Y0hsUFl6cTBCV2hvYlVzRFFPUGlJUlgtazhPRUJVNnhmOXk0d3lrc1RRS3FTWV85RnRfc0VpSGFWVjU4ekdWWU52MmJHLWwybmI3V0hXa1cweDBNYkR6T25IcWQzMHFpNlAzUlN1Zl9vS2N30gG3AUFVX3lxTE1VVzdpOVBwelVXeDJvNkp0eWI4RGZyTE9FUzY1ODFvOEhBOXpGVFlaVmd4SFE0YktxOWFTSExqMFZsNVdZWlozWXptcmZxNDJxdnZGSDh5SGgwLVVwdmMzckc3czFXb21HS0s1SFJJOTB2UkZVYUUwQ2xieEgyUmgyZGFEMnFZWTRQRE5QendRYlZRUktNVmtMUldXeEtvMHlsU3d0ODNONVg3d3BYMFJHbmIxd1FMOA?oc=5",
+       "titre": "Hegseth heads to Manila to shore up US ties with Asia-Pacific partners"
+      },
+      {
+       "source": "Inquirer.net",
+       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPU19OdnRwZnFTSHpHSGlFd3FydWg3bnhvU2lFbF9hUVdfRDk4clliZ2tsd0NMQ3BPYWtpRXdjclhlY1p4eXN6ZFFFMnJTcWdpZXlwOHk4dVlaZzh3V0lsUWlaVmwzT3RKWUE5VWpfYWxGXzFkRDcxck1JZUhaM1JLMk5FQW9GejhLOGlObWh6M3VMcms4NGFkbnRmdGRvaTJMaURrc05XSTVxZ3AzemfSAbMBQVVfeXFMTmEwaE9KTm40dFVqS0RiaUs0VXY2RGc5bzRNb0V4LTFHZjZFWE9MemlzWmt6aWpqbWtscHh6Y1Y3MUUyNnhnYTdNRGxDSFlpZWxPYk1TdjFueDFfV01QXzVuNVpYM01XWmFKc1ZJYnlDYVJieG94Vl9sanA0UURXV0M0RFBJNzl1RDdFVkFqRjRTeUhPR3dlRnN0YThPcGw4T2VhTF9MM25QQnRkZGYtU01VRVU?oc=5",
+       "titre": "US defense chief Hegseth expected in Cebu for ASEAN defense meetings"
+      },
+      {
+       "source": "Yonhap News Agency",
+       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pb1A3eTRLSF9vbkxGOUpYeC0zMi1nMjZwbDFyRGF0WFctcF9NTENiM3FONG9raVBqUWhzZS15bC1PV3RxLTdCVHpsWWJlZFYtOFRYb3lmNEtHdw?oc=5",
+       "titre": "(LEAD) Defense chiefs of S. Korea, U.S. to hold talks in Philippines ahead of ASEAN meeting"
+      }
+     ],
+     "id": "2026-10-28|US Defence Secretary Hegseth heads to Philippines for ASEAN meeting"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "⚠️",
+     "titre": "North Korea deploys artillery and mobile guns along border",
+     "resume": "North Korea has stepped up military posture near the Demilitarised Zone by positioning coastal artillery and self-propelled guns. South Korea's defence ministry confirmed it is closely monitoring Pyongyang's move.",
+     "pourquoi": "",
+     "pays": [
+      "North Korea",
+      "South Korea"
+     ],
+     "region": "North-East Asia",
+     "rubrique": "asie",
+     "liens": [
+      {
+       "source": "Yonhap (Corée du Nord)",
+       "url": "https://en.yna.co.kr/view/AEN20261028001300315",
+       "titre": "N. Korea's Kim calls for combat readiness at photo session with army company leaders"
+      },
+      {
+       "source": "동아일보",
+       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9mdVVHMDhyOVRRTmpCWU13bTNrV0ZtMWk2MmllUjZ3QkdWSGZRM3pzdzNmMGlqTmhpZjFlc29iZG1JbnhROG05eG5MWk11ZUVNZFZyX3lnM2RDN0E5cXg3S1RLUnU0dw?oc=5",
+       "titre": "North Korea steps up threats amid infiltration drills"
+      },
+      {
+       "source": "SBS 뉴스",
+       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5DWTNSX1luVEZzZnhnNi1vU01KSG9GaFJPZjZXVDNyMHgzZERwelAzX09TUjZnWDhta2dlTFZ0eWJMU0hXZzh1N2RXaEdVS3I4dHc1Vm9feW9PYmRSMmM3ZzFFamVQakd1cTBTZDFn0gFmQVVfeXFMUGVfUENjd015VVFHcXphQ3pHbmlpd20zbWlIN1A4REpvaGJzaWl4cUJCaDFvQ0N1Z3hTY091enJfUGo5WktOUHRsZDFQMGJzdDMzOUx6VFM3Zkx5QXRsSk02UnVGYWpB?oc=5",
+       "titre": "North Korea Unveils Coastal Artillery as Unification Minister Calls Landmines 'Defensive Weapons'"
+      },
+      {
+       "source": "Nikkei Asia",
+       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUUUxTWJjZHNBOE1GQ0xER09WWDJleGhSeFZCMUprNjJhVlR3R255bDlLYkJXS3A2aTRvVkVremp5U1ljUDU0TEtWOTdTYW92UzF1N1JPeXdTbjQydmNLWHVPbXd0ZXJaekJOTThwUEZGMXQ1Y3NOMy1hb3FhSGtCR2dSa1FiM1Z5UmdMNGZOQXRCdDVSOXlBVEJqWkNhdWsyWXJ3Nw?oc=5",
+       "titre": "North Korea places self-propelled guns near DMZ"
+      }
+     ],
+     "id": "2026-10-28|North Korea deploys artillery and mobile guns along border"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🚀",
+     "titre": "Japan considers testing long-range missiles at Indian firing ranges",
+     "resume": "Japan's Ground Self-Defense Force sent officials to India to evaluate using local test ranges for long-range missiles and small attack drones. The initiative aims to alleviate domestic training constraints in Japan.",
+     "pourquoi": "",
+     "pays": [
+      "Japan",
+      "India"
+     ],
+     "region": "South Asia",
+     "rubrique": "asie",
+     "liens": [
+      {
+       "source": "The Diplomat",
+       "url": "https://thediplomat.com/2026/10/japan-confirms-dispatch-to-india-to-explore-anti-ship-missile-drills/",
+       "titre": "Japan Confirms Dispatch to India to Explore Anti-Ship Missile Drills"
+      },
+      {
+       "source": "Japan Times",
+       "url": "https://www.japantimes.co.jp/news/2026/10/27/japan/japan-india-missile-test-sites/",
+       "titre": "Japan eyes using Indian test ranges for powerful missiles and small attack drones"
+      }
+     ],
+     "id": "2026-10-28|Japan considers testing long-range missiles at Indian firing ranges"
+    }
+   ]
+  },
+  {
+   "id": "elections",
+   "titre": "Elections & Politics",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🗳️",
+     "titre": "Trump conditions acceptance of US midterm election results",
+     "resume": "US President Donald Trump announced while campaigning in Texas that he will accept upcoming midterm election results only if they are honest. The statement raised concerns over potential post-electoral challenges.",
+     "pourquoi": "",
+     "pays": [
+      "United States"
+     ],
+     "region": "Americas",
+     "rubrique": "elections",
+     "liens": [
+      {
+       "source": "CNA Monde",
+       "url": "https://www.channelnewsasia.com/world/trump-us-midterms-election-respect-honest-results-6497496",
+       "titre": "Trump says will respect US midterm results 'if they are honest'"
+      },
+      {
+       "source": "Le Monde International",
+       "url": "https://www.lemonde.fr/international/article/2026/10/27/midterms-2026-donald-trump-dit-qu-il-acceptera-les-resultats-des-elections-si-elles-sont-honnetes-dans-une-nouvelle-allusion-a-des-fraudes-electorales-jamais-prouvees_6801324_3210.html",
+       "titre": "Midterms 2026 : Donald Trump dit qu’il acceptera les résultats des élections si elles sont « honnêtes », dans une nouvelle allusion à des fraudes électorales jamais prouvées"
+      }
+     ],
+     "id": "2026-10-28|Trump conditions acceptance of US midterm election results"
+    }
+   ]
+  },
+  {
+   "id": "defense_aerienne",
+   "titre": "Air & Missile Defence",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🛡️",
+     "titre": "US selects Poland to host European Patriot PAC-3 maintenance hub",
+     "resume": "The US Department of Defence and Lockheed Martin selected Poland to host a new European maintenance and repair facility for Patriot PAC-3 interceptors. The hub will support allied Patriot operators across the continent.",
+     "pourquoi": "",
+     "pays": [
+      "Poland",
+      "United States"
+     ],
+     "region": "Europe",
+     "rubrique": "defense_aerienne",
+     "liens": [
+      {
+       "source": "Breaking Defense",
+       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOV3o3UGRUV2hjdmhlRkdTYjZLTHk2clp3cHYyejk3QVhmVlZjSDI5c0xqbmV2ZWh5aF9leW02X2FiOU42YlFDMDVmMHJleTdxa2YzNUliZlZtQkx1Qy05Q0pHUXdwRkxNRmo5eXprdlFzOHpBM0Y3VmVoMVVtOF8xSGRYMlNJSlVnWGRTREJIWlBVaGxsT216aTVSY280T3ltbzdOS2FaOGY?oc=5",
+       "titre": "Defense Department selects Poland for new PAC-3 maintenance facility"
+      },
+      {
+       "source": "Defence Industry Europe",
+       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOU2t2QjBZanpXVkNKS3k2YXdPRS1uYzVaaERmaXZoamlrN2cxckNOMEV1M2FmV0VXYXNHbDljWlI2dGJIdXJrVHVzczlzNzRVTTl2eUIzdnJrOHd1elFFdGM2UmZZLUs5cTc4ZXhKUDVvcTI2Ml9YaTdzYXlUM1lHSWNhUkNRRDIyN0Q2WEhUQXJSWVhDcHJDWTcwanJrUDROMUFXWHJLTk5nUUFiWTgyenY4bmh5UjRYMTZv?oc=5",
+       "titre": "Lockheed Martin, U.S. Government say Poland will host European PAC-3 missile maintenance hub"
+      },
+      {
+       "source": "Defense News",
+       "url": "https://www.defensenews.com/global/europe/2026/10/27/us-taps-poland-to-host-european-pac-3-missile-maintenance-facility/",
+       "titre": "US taps Poland to host European PAC-3 missile maintenance facility"
+      }
+     ],
+     "id": "2026-10-28|US selects Poland to host European Patriot PAC-3 maintenance hub"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "📡",
+     "titre": "Weibel to supply XENTA-M5 radars for Poland's counter-drone system",
+     "resume": "Danish radar manufacturer Weibel Scientific was selected to deliver XENTA-M5 3D radars for Poland's SAN counter-uncrewed aerial system programme. The radars will provide early detection and tracking of micro and mini drones.",
+     "pourquoi": "",
+     "pays": [
+      "Poland",
+      "Denmark"
+     ],
+     "region": "Europe",
+     "rubrique": "defense_aerienne",
+     "liens": [
+      {
+       "source": "Defence Industry Europe",
+       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQkNoYzM3V2ZBeS1Kc3lYelZ6dmVWMGJab3ZISm5CNU41d2ZzdEZjZzNHaERPeFNPZFdHSXgyN0M0WElRX1B1dktlNHlmRXZJOWg5S3RIbmdZU3hKR1RBN1RsaHNyQ1JzNDF2OVdGZXJfOVR1LXdJTU5UNi10Y1d5V2lLMTZFVDFXOWd4RUhqT3NZOUJJZ05mSkR2Und0d2djQURxcm4xa2ZnZUNnaVo0aXNB?oc=5",
+       "titre": "Weibel to supply XENTA-M5 radars for Poland’s SAN integrated counter-drone programme"
+      },
+      {
+       "source": "AFP.com",
+       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAxNm05bnZTQjZCX29tYXotdEZPRl9vcVV1aHJhb0VHNktwYUp3aU9qYWhLZlQ3RGN0Y0oxeXA1N0VIVmJxdFhwVUw4dw?oc=5",
+       "titre": "Weibel’s XENTA-M5 selected for Poland’s SAN Counter-UAS programme."
+      }
+     ],
+     "id": "2026-10-28|Weibel to supply XENTA-M5 radars for Poland's counter-drone system"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🚀",
+     "titre": "France orders more SAMP/T NG systems with hypersonic capability",
+     "resume": "The French Ministry of the Armed Forces placed an order for additional SAMP/T NG air defence systems. The upgraded system incorporates Aster block 1NT missiles capable of intercepting hypersonic threats.",
+     "pourquoi": "",
+     "pays": [
+      "France"
+     ],
+     "region": "Europe",
+     "rubrique": "defense_aerienne",
+     "liens": [
+      {
+       "source": "The Defense Post",
+       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1aazF2TF93czRlOVptMDE2T3RBRjgzNkdlRHVsQ3g3NzZnRDg5WDMycWx3S1JUT0hUakl4NWRIcHptckhtN2d3RkxSRzJKRWdEMWlza0U0cUp2SUFsUV92Q0FBVWcwd2w30gFuQVVfeXFMT0VOLVFjbkZKOERUbHhOcGl4Z3B0NlZnR05GUXpxdURCM2J1NWgzN3QyZzVfd3ZydktJOVpma2NLZllaRmFHQlE3YkMtR0lXZTYxNVZpMVJ6a1M2cGZ1QXplTnRjQXhxYWJOb2ZYLXc?oc=5",
+       "titre": "France Orders More SAMP/T NG Systems With Hypersonic Interception Capability"
+      }
+     ],
+     "id": "2026-10-28|France orders more SAMP/T NG systems with hypersonic capability"
+    }
+   ]
+  },
+  {
+   "id": "industrie",
+   "titre": "Defence Industry & Contracts",
+   "items": [
+    {
+     "suite": true,
+     "remplace": "2026-10-27|US Air Force puts AGM-183A ARRW hypersonic missile into production",
+     "emoji": "🏭",
+     "titre": "Lockheed Martin expands Alabama plant for ARRW production",
+     "resume": "Lockheed Martin announced an expansion of its Courtland, Alabama facility following a $694 million US Air Force contract for AGM-183A ARRW hypersonic missiles. The site will handle low-rate initial production for B-52 bomber integration.",
+     "pourquoi": "",
+     "pays": [
+      "United States"
+     ],
+     "region": "Americas",
+     "rubrique": "industrie",
+     "liens": [
+      {
+       "source": "Defence Industry Europe",
+       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNb1FWeVBENTJMN2tGQ1NyMGxWRnYzYlVtZGpzLW12VUhhRHFtUXpJREZyMmE5LUFZQ3hRbWRuVDdGaFBsUG5XRFg5dl83TjEwa2xxRG4yTDdOSmpVcjNyWVFYS0ZLRFZyLXhGb0hxTzNSYTQ1dVBxblgwMWJYTFJ2QkktY1k1LXg0YlZibklsMjkwdlRSVmh6VjhxM0VpcGNLZkhyUlItNldvdDFpM0ZqcE53Q04?oc=5",
+       "titre": "Lockheed Martin expands Alabama plant to produce hypersonic missiles for B-52 bombers"
+      },
+      {
+       "source": "Defense News",
+       "url": "https://www.defensenews.com/industry/techwatch/2026/10/27/us-air-force-awards-lockheed-martin-694m-hypersonic-missile-production-contract/",
+       "titre": "US Air Force awards Lockheed Martin $694M hypersonic missile production contract"
+      },
+      {
+       "source": "Opex360",
+       "url": "https://www.opex360.com/2026/10/27/apres-avoir-envisage-son-abandon-lus-air-force-lance-finalement-la-production-de-larme-hypersonique-agm-183a/",
+       "titre": "Après avoir envisagé son abandon, l’US Air Force lance finalement la production de l’arme hypersonique AGM-183A"
+      }
+     ],
+     "id": "2026-10-28|Lockheed Martin expands Alabama plant for ARRW production"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "📝",
+     "titre": "Germany to procure Ukrainian BARS long-range missile-drones",
+     "resume": "The German Bundeswehr intends to acquire Ukraine's indigenously developed BARS long-range missile-drone system. The purchase aims to rapidly fill deep conventional strike capability gaps in the German armed forces.",
+     "pourquoi": "",
+     "pays": [
+      "Germany",
+      "Ukraine"
+     ],
+     "region": "Europe",
+     "rubrique": "industrie",
+     "liens": [
+      {
+       "source": "Opex360",
+       "url": "https://www.opex360.com/2026/10/27/larmee-allemande-va-se-procurer-le-missile-drone-ukrainien-a-tres-longue-portee-bars/",
+       "titre": "L’armée allemande va se procurer le missile-drone ukrainien à très longue portée BARS"
+      }
+     ],
+     "id": "2026-10-28|Germany to procure Ukrainian BARS long-range missile-drones"
+    }
+   ]
+  },
+  {
+   "id": "ukraine",
+   "titre": "Ukraine / Russia",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🤝",
+     "titre": "Leaders of Finland and Norway speak directly with Putin on Ukraine",
+     "resume": "Finnish President Alexander Stubb and Norwegian Prime Minister Jonas Gahr Støre held a joint telephone call with Russian President Vladimir Putin. The leaders stressed that European security hinges on resolving the war in Ukraine.",
+     "pourquoi": "",
+     "pays": [
+      "Finland",
+      "Norway",
+      "Russia",
+      "Ukraine"
+     ],
+     "region": "Europe",
+     "rubrique": "ukraine",
+     "liens": [
+      {
+       "source": "Al Jazeera",
+       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQb2xMY1ZNOGZMdGFLZGV6Ui1rTTZmODJnOGprdHhzRlJXcmkwbndqd2libFRWeF9jSkowZXE5SF9EYmhoZ3pwekhNZWUxYmtRRE5wSHRSMXRUd0JyWkNnTi1HeWdJUjZHRXRtZDJKaVZZN1BrQzNnamdCWVZGVXJFTXlCWTFfLTFZSnpMeVB1RHRwa2pMYUxZT2I3c05WTDdoNXVuVHdsTDgzYkRINVFXbFR5a29jUEnSAbwBQVVfeXFMUHduZGtfYlZfU2EyYm9WQmNMaFFZT2lyR3R4Z2JtOEN5NHUwZzhMTWpkSWx6TVVwOWJVbzdiM2plZTR3NUpvSkhQVlFGNVBtNEdvWWNaOTRaOUF3Z25sXy0wcEFMZ2F3MzNjMzY5aXl2bXJ4a0xEZjMzWjB3TE8tekVtWmJ6azk3bE1ndnRRdzJackdzUFdOY0R2NHlPZk00c0d5c1kxZXZpVEREWDkxUEpsTS10VHIxQXFmcEc?oc=5",
+       "titre": "Kremlin downplays rare Putin call from leaders of Finland and Norway"
+      },
+      {
+       "source": "CNA Monde",
+       "url": "https://www.channelnewsasia.com/world/norway-finland-russia-putin-ukraine-war-6497676",
+       "titre": "Norway, Finland leaders hold 'frank and substantive' talk with Putin"
+      },
+      {
+       "source": "BBC World",
+       "url": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
+       "titre": "Norway and Finland leaders hold rare call with Putin"
+      },
+      {
+       "source": "Bloomberg.com",
+       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQlNDamdfUVV3b0U2WE9GWUFkSTZIYUJrU1FrUmJUTFE5WjNIZ3BWVFZNbG16TllSa3VOaHNXeGEyclZraUhFQ3hvcDUxNnZpUWhmbDRVNEZETmVNR1UxT2Y4eVJQbXRnWjh1dUZ3LUdiZHJZZGJHSlI3SGs1TG90WjNaR0d1YUJJWXBKeEp4YWNQSzY4QUV2QU4zMG00ZEpXMG5QWXo3eG5hbTA?oc=5",
+       "titre": "Finland and Norway Hold ‘Frank’ Call With Putin on Ukraine"
+      }
+     ],
+     "id": "2026-10-28|Leaders of Finland and Norway speak directly with Putin on Ukraine"
+    }
+   ]
+  },
+  {
+   "id": "moyen_orient",
+   "titre": "Middle East",
+   "items": [
+    {
+     "suite": true,
+     "remplace": "2026-10-27|Jordan strikes militant targets in Syria following deadly church shooting",
+     "emoji": "🤝",
+     "titre": "Jordan and Syria form joint security committee after air strikes",
+     "resume": "Following Jordanian air strikes against militant targets in southern Syria, both nations agreed to establish a joint security committee. The bilateral body will coordinate border security and manage cross-border incident repercussions.",
+     "pourquoi": "",
+     "pays": [
+      "Jordan",
+      "Syria"
+     ],
+     "region": "Middle East",
+     "rubrique": "moyen_orient",
+     "liens": [
+      {
+       "source": "Al-Monitor",
+       "url": "https://www.al-monitor.com/originals/2026/10/jordan-syria-form-security-committee-after-deadly-strikes-islamic-state-sites",
+       "titre": "Jordan, Syria to form security committee after deadly strikes on Islamic State sites"
+      },
+      {
+       "source": "BBC World",
+       "url": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss",
+       "titre": "Jordan carries out deadly strike in Syria in retaliation for church attack"
+      }
+     ],
+     "id": "2026-10-28|Jordan and Syria form joint security committee after air strikes"
+    }
+   ]
+  },
+  {
+   "id": "europe",
+   "titre": "Europe",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "⚠️",
+     "titre": "Romania accuses Russia of grave security violation over sabotage plot",
+     "resume": "Romanian President condemned an alleged Russian sabotage operation targeting domestic critical infrastructure as a grave violation of a NATO member's security. Romanian authorities have heightened protection around key logistics hubs.",
+     "pourquoi": "",
+     "pays": [
+      "Romania",
+      "Russia"
+     ],
+     "region": "Europe",
+     "rubrique": "europe",
+     "liens": [
+      {
+       "source": "The Washington Post",
+       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPT1NpNXdEWmlfSFlDYkxjcGc3OVl2d2VjRXNLWTB4UDd3TDR5ZG5YTGItWl9xVWJ3VFUyTmZFNWpMREZjbVh2b1NJRnM1WG81enB3eWJHOW93Qm1kd0d6ZXgzNy1mQU1INlV4T3pHRmZKTWpDdFdoaU55ZDZwQWxOSjNrN0hvUm9nOFlaTGJlZHNadFBEdVJzVXVxRkROLUhEcjBTMUh1c2VTeTlyQ1lvN0tuMnJFTVpjcm9jdHZvYk1oSnpqSFk4X19VMmNwT25ScmVkaV9R?oc=5",
+       "titre": "Romanian president calls alleged Russian sabotage plot a 'grave violation' of NATO member's security"
+      }
+     ],
+     "id": "2026-10-28|Romania accuses Russia of grave security violation over sabotage plot"
+    }
+   ]
+  },
+  {
+   "id": "espace",
+   "titre": "Space & Satellites",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🛰️",
+     "titre": "US intelligence confirms details of China's secret spaceplane",
+     "resume": "US intelligence agencies confirmed that China's reusable orbital spaceplane closely mirrors the design of the US Space Force's X-37B. The vessel continues to demonstrate extended autonomous operational capabilities in orbit.",
+     "pourquoi": "",
+     "pays": [
+      "China",
+      "United States"
+     ],
+     "region": "North-East Asia",
+     "rubrique": "espace",
+     "liens": [
+      {
+       "source": "The War Zone",
+       "url": "https://www.twz.com/news-features/u-s-intel-confirms-this-is-chinas-secret-spaceplane",
+       "titre": "U.S. Intel Confirms This Is China’s Secret Spaceplane"
+      }
+     ],
+     "id": "2026-10-28|US intelligence confirms details of China's secret spaceplane"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🛰️",
+     "titre": "US Space Force plans multivendor satellite constellation for GPS",
+     "resume": "The US Space Force issued requirements for a multi-provider satellite constellation to augment position, navigation, and timing capabilities. The initiative aims to build resiliency against signal jamming and anti-satellite threats.",
+     "pourquoi": "",
+     "pays": [
+      "United States"
+     ],
+     "region": "Americas",
+     "rubrique": "espace",
+     "liens": [
+      {
+       "source": "Aviation Week",
+       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSVA3dVBlMi1OeUtIVzBIUTVXdUdxWVZnc082ZXY1RlBmc0FSNEY0R1dMdmNNTm5zVkUydXlpRUxLdElQaU96TC1KWTJ6N2NxRW5uRWl5OGp0Rlk2U21la2dVNFBqX3V0SFlRc3E0UExfNGhIM01yZ0ZsVTNTQ0tabFBjajRkaGZVajI3NkZLY3RJMG9XZlh6dEhFb2U?oc=5",
+       "titre": "U.S. Space Force Wants Multivendor ‘GPS Gen’ Constellation"
+      }
+     ],
+     "id": "2026-10-28|US Space Force plans multivendor satellite constellation for GPS"
+    }
+   ]
+  },
+  {
+   "id": "tech",
+   "titre": "Emerging Tech",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🎈",
+     "titre": "US Army evaluates high-altitude balloons for Indo-Pacific ISR",
+     "resume": "The US Army is testing stratospheric high-altitude balloons to provide long-range sensing and targeting along the first island chain. The platforms offer low-cost, persistent surveillance in contested airspaces facing China.",
+     "pourquoi": "",
+     "pays": [
+      "United States",
+      "China"
+     ],
+     "region": "North-East Asia",
+     "rubrique": "tech",
+     "liens": [
+      {
+       "source": "Defense News",
+       "url": "https://www.defensenews.com/industry/techwatch/2026/10/27/us-army-looks-to-high-flying-balloons-to-help-see-strike-along-front-lines-with-china/",
+       "titre": "US Army looks to high-flying balloons to help see, strike along front lines with China"
+      }
+     ],
+     "id": "2026-10-28|US Army evaluates high-altitude balloons for Indo-Pacific ISR"
+    }
+   ]
+  },
+  {
+   "id": "economie",
+   "titre": "Economy & Sanctions",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "💰",
+     "titre": "Malaysia permits export of 700 tonnes of rare earths to US",
+     "resume": "Rare earth developer DTEC received approval to export up to 700 tonnes of raw rare-earth carbonate from Perak to the United States for research. The deal aligns with US efforts to diversify critical mineral supply chains.",
+     "pourquoi": "",
+     "pays": [
+      "Malaysia",
+      "United States"
+     ],
+     "region": "South-East Asia",
+     "rubrique": "economie",
+     "liens": [
+      {
+       "source": "Straits Times Asie",
+       "url": "https://www.straitstimes.com/asia/se-asia/dtec-granted-permit-to-ship-raw-rare-earths-from-malaysia-to-us-for-research-ceo-says",
+       "titre": "DTEC granted permit to ship raw rare earths from Malaysia to US for research, CEO says"
+      }
+     ],
+     "id": "2026-10-28|Malaysia permits export of 700 tonnes of rare earths to US"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "💰",
+     "titre": "SK Hynix announces $75bn shareholder return plan following strong Q3",
+     "resume": "South Korean memory chip maker SK Hynix reported a sevenfold increase in third-quarter profit, driven by global demand for AI memory chips. The company subsequently unveiled a $75 billion capital return plan for shareholders.",
+     "pourquoi": "",
+     "pays": [
+      "South Korea"
+     ],
+     "region": "North-East Asia",
+     "rubrique": "economie",
+     "liens": [
+      {
+       "source": "Reuters",
+       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcy1XMnJsZEJsNUwxOVB1LWhGV2dXellEM1dVVmYxc0ZKYk9oMEs2WEJGcmZsLWFiUUQxREdWOFFvUXYwV2VUWHF6M2NBbURtWVJqWHd2clVISmdKVGEzQzdJRngwcUFPYUlBZFJndG5WRTBUcENrUG9Hci1NMGxpSFV5X3hRWXdmZ05ISkpwZUpaRmdTemFrYXk5Qk1BbWN2dEZXY05hTS1lWHc2QTQtZ1NB?oc=5",
+       "titre": "SK Hynix unveils shareholder return plan worth $75 billion after posting 7-fold jump in Q3 profit"
+      }
+     ],
+     "id": "2026-10-28|SK Hynix announces $75bn shareholder return plan following strong Q3"
+    }
+   ]
+  }
+ ],
+ "a_surveiller": [
+  {
+   "quand": "October 29",
+   "quoi": "Conclusion of the Chinese Communist Party Fifth Plenum in Beijing",
+   "liens": [
+    {
+     "source": "동아일보",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9mdVVHMDhyOVRRTmpCWU13bTNrV0ZtMWk2MmllUjZ3QkdWSGZRM3pzdzNmMGlqTmhpZjFlc29iZG1JbnhROG05eG5MWk11ZUVNZFZyX3lnM2RDN0E5cXg3S1RLUnU0dw?oc=5",
+     "titre": "North Korea steps up threats amid infiltration drills"
+    }
+   ]
+  },
+  {
+   "quand": "November 1",
+   "quoi": "Istana Open House in Singapore prior to Deepavali celebrations",
+   "liens": [
+    {
+     "source": "CNA Singapour",
+     "url": "https://www.channelnewsasia.com/singapore/istana-open-house-nov-1-deepavali-haze-psi-6495846",
+     "titre": "Istana open house to be held on Nov 1 ahead of Deepavali, subject to haze conditions"
+    },
+    {
+     "source": "Straits Times Singapour",
+     "url": "https://www.straitstimes.com/singapore/first-narrated-changing-of-guards-ceremony-part-of-istana-open-house-for-deepavali",
+     "titre": "First narrated changing of guard ceremony part of Istana Open House for Deepavali"
+    }
+   ]
+  },
+  {
+   "quand": "November 7",
+   "quoi": "New Zealand general election",
+   "liens": [
+    {
+     "source": "BBC Asia",
+     "url": "https://www.bbc.co.uk/news/articles/cr1exvxz8g47o?at_medium=RSS&at_campaign=rss",
+     "titre": "New Zealand election 2026: What you need to know"
+    }
+   ]
+  }
+ ],
+ "hebdo": null,
+ "stats": {
+  "articles": 450,
+  "sources": 51
+ }
+}
