@@ -1,0 +1,711 @@
+{
+ "date": "2026-10-29",
+ "date_label": "Thursday, October 29, 2026",
+ "genere_le": "2026-10-29T09:57:54+08:00",
+ "mode": "ia",
+ "modele": "gemini-flash-latest",
+ "accroche": [
+  "Switzerland shortlists SAMP/T NG and Barak MX for air defence",
+  "US and Japan agree to jointly produce AMRAAM missiles",
+  "Israeli election count confirms deadlock as Netanyahu bloc misses majority"
+ ],
+ "essentiel": [
+  {
+   "suite": false,
+   "remplace": null,
+   "emoji": "🛡️",
+   "titre": "Switzerland shortlists SAMP/T NG and Barak MX for secondary air defence",
+   "resume": "The Swiss defence procurement agency has shortlisted France's SAMP/T NG and Israel's Barak MX for its secondary ground-based air defence programme. A final selection between the two systems will follow comprehensive technical and operational evaluations.",
+   "pourquoi": "",
+   "pays": [
+    "Switzerland",
+    "France",
+    "Israel"
+   ],
+   "region": "Europe",
+   "rubrique": "defense_aerienne",
+   "liens": [
+    {
+     "source": "Defence Industry Europe",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS3NRR2dxQnF3WDlVWmRfV2dlU1hFV3J3YVFOTzZPZ3l4ME56T1QtYTJ6eXR2cFdOTjNPX0dQVFBvdXB4dzVqN19aeFc2QVc2S0NtZ25WRVZaRUtBQnVkZ3pwWWcxenAtQzVtWmJ3UlA3STc2MDVyeFY0R091R1VzYUdZajVsZ20wOFJDSWhNOER3Z3NDQVJ6LW12LWF4OTdsU2gtTTV5UUJ1Znhh?oc=5",
+     "titre": "Switzerland shortlists Barak MX and SAMP/T NG for additional air defence system"
+    },
+    {
+     "source": "The Times of Israël",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNd2lHN3I2b2xDYmZZR1QzZXlVM0dhQUpuamNGTm1oZHRzODUtLUhHdzRIeEsxSEtNRXFWUlVLOXBKaWZaMWVyMXBMamp0UFM3RWFsWmg1ZDhtRWxlUEV4ek1Vamc1STBMQXo2MEptSHhZMWRSLXZtZjBoYTRTa2JKODNaMVdaT0djZ0VhelVZNElTZ3J5c2FUdDgzckRCLWp3R2hVeEZVRi1TZU5jakMyNnVlVjg1X0x3SDlmaE1UNVZLd9IBwgFBVV95cUxNd2lHN3I2b2xDYmZZR1QzZXlVM0dhQUpuamNGTm1oZHRzODUtLUhHdzRIeEsxSEtNRXFWUlVLOXBKaWZaMWVyMXBMamp0UFM3RWFsWmg1ZDhtRWxlUEV4ek1Vamc1STBMQXo2MEptSHhZMWRSLXZtZjBoYTRTa2JKODNaMVdaT0djZ0VhelVZNElTZ3J5c2FUdDgzckRCLWp3R2hVeEZVRi1TZU5jakMyNnVlVjg1X0x3SDlmaE1UNVZLdw?oc=5",
+     "titre": "La France et Israël seuls candidats encore en lice pour le deuxième système sol-air suisse"
+    },
+    {
+     "source": "Opex360",
+     "url": "https://www.opex360.com/2026/10/28/surprise-en-suisse-le-choix-dun-second-systeme-de-defense-aerienne-se-fera-entre-le-samp-t-ng-et-le-barak-mx-israelien/",
+     "titre": "Surprise en Suisse : le choix d’un second système de défense aérienne se fera entre le SAMP/T NG et le Barak MX israélien"
+    },
+    {
+     "source": "Aviation Week",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSnY3VmZaSDZuUlNEUk1yZUJOcnhEWUR3VGlJTDk5QUFHbHduYzBLVElkbGVBRDRoWGtZejdmWmd6VXVVcjdsMS1SN1k2T2xpS0J6WGpYNEVrQzV6aV95Zlg3RXVzQU9NSGhmSkNXWnpjMzcxTW1LeXZDdS05akNobnRhLXNSV3JWWDlzOU0xVmJHUVR6TU0yU29CbnVvNmtQZWZYOGE5YkVMYVVpeEMyVENZd2lIUHlL?oc=5",
+     "titre": "Switzerland Shortlists Barak MX, SAMP/T NG In Air Defense Contest"
+    }
+   ],
+   "id": "2026-10-29|Switzerland shortlists SAMP/T NG and Barak MX for secondary air defence"
+  },
+  {
+   "suite": false,
+   "remplace": null,
+   "emoji": "🚀",
+   "titre": "US and Japan agree to co-produce AMRAAM missiles in Japan",
+   "resume": "Washington and Tokyo have concluded an agreement to establish a Japanese production facility to manufacture advanced medium-range air-to-air missiles. The AMRAAM weapons will equip Japanese and American F-35 fighter fleets in the Indo-Pacific.",
+   "pourquoi": "",
+   "pays": [
+    "Japan",
+    "United States"
+   ],
+   "region": "North-East Asia",
+   "rubrique": "industrie",
+   "liens": [
+    {
+     "source": "CNA Asie",
+     "url": "https://www.channelnewsasia.com/asia/us-japan-agree-build-missile-production-facility-6501576",
+     "titre": "US and Japan agree to establish missile-production facility"
+    }
+   ],
+   "id": "2026-10-29|US and Japan agree to co-produce AMRAAM missiles in Japan"
+  },
+  {
+   "suite": true,
+   "remplace": "2026-10-28|Israeli Election Ends in Deadlock According to Exit Polls",
+   "emoji": "🗳️",
+   "titre": "Israeli election count confirms political deadlock as Netanyahu misses majority",
+   "resume": "With nearly 90 per cent of votes counted, Prime Minister Benjamin Netanyahu's right-wing bloc leads with 53 seats, falling well short of a 61-seat majority. The inconclusive outcome signals protracted coalition talks or another round of elections.",
+   "pourquoi": "",
+   "pays": [
+    "Israel"
+   ],
+   "region": "Middle East",
+   "rubrique": "elections",
+   "liens": [
+    {
+     "source": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/29/no-clear-winner-in-israeli-election-with-nearly-90-percent-of-votes-counted?traffic_source=rss",
+     "titre": "No clear winner in Israel election with nearly 90 percent of votes counted"
+    },
+    {
+     "source": "Japan Times",
+     "url": "https://www.japantimes.co.jp/news/2026/10/29/world/politics/israel-election-netanyahu-power/",
+     "titre": "Israel’s election gives survivor Netanyahu a path to keep power"
+    },
+    {
+     "source": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+     "titre": "Netanyahu's bloc leading Israel election but short of majority, partial results show"
+    },
+    {
+     "source": "Le Monde International",
+     "url": "https://www.lemonde.fr/international/live/2026/10/28/en-direct-legislatives-en-israel-aucune-majorite-ne-se-dessine-au-lendemain-du-scrutin-apres-le-depouillement-de-plus-de-85-des-suffrages-exprimes_6801217_3210.html",
+     "titre": "Législatives en Israël : aucune majorité ne se dessine au lendemain du scrutin, après le dépouillement de plus de 85 % des suffrages exprimés"
+    }
+   ],
+   "id": "2026-10-29|Israeli election count confirms political deadlock as Netanyahu misses majority"
+  },
+  {
+   "suite": false,
+   "remplace": null,
+   "emoji": "⚠️",
+   "titre": "Spanish high-speed train collision kills at least 68 people",
+   "resume": "At least 68 people were killed and more than 100 injured when two high-speed passenger trains collided south of Madrid near Urda. Spain has declared three days of national mourning as investigators examine signalling and computer failures.",
+   "pourquoi": "",
+   "pays": [
+    "Spain"
+   ],
+   "region": "Europe",
+   "rubrique": "monde",
+   "liens": [
+    {
+     "source": "Japan Times",
+     "url": "https://www.japantimes.co.jp/news/2026/10/29/world/spain-second-train-crash-dead/",
+     "titre": "At least 68 people dead in Spain’s second major train crash this year"
+    },
+    {
+     "source": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss",
+     "titre": "High-speed train crash kills at least 68 people in Spain"
+    },
+    {
+     "source": "Le Monde International",
+     "url": "https://www.lemonde.fr/international/article/2026/10/28/l-espagne-a-nouveau-endeuillee-par-une-catastrophe-ferroviaire-moins-d-un-an-apres-celle-d-adamuz_6801644_3210.html",
+     "titre": "L’Espagne à nouveau endeuillée par une catastrophe ferroviaire, moins d’un an après celle d’Adamuz"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/spain-demands-answers-after-deadliest-train-disaster-in-over-a-decade?traffic_source=rss",
+     "titre": "Spain demands answers after deadliest train disaster in over a decade"
+    }
+   ],
+   "id": "2026-10-29|Spanish high-speed train collision kills at least 68 people"
+  }
+ ],
+ "rubriques": [
+  {
+   "id": "monde",
+   "titre": "World",
+   "items": [
+    {
+     "suite": true,
+     "remplace": "2026-10-28|Flávio Bolsonaro Flees Brazil for US Following Election Loss",
+     "emoji": "🗳️",
+     "titre": "Flávio Bolsonaro claims Brazil presidency from US exile following election defeat",
+     "resume": "Defeated presidential candidate Flávio Bolsonaro landed in Florida, claiming to be Brazil's legitimate leader and alleging electoral fraud. The conservative senator faces multiple domestic legal investigations after fleeing Brazil via Argentina and Ecuador.",
+     "pourquoi": "",
+     "pays": [
+      "Brazil",
+      "United States"
+     ],
+     "region": "Americas",
+     "rubrique": "monde",
+     "liens": [
+      {
+       "source": "BBC World",
+       "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
+       "titre": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami"
+      },
+      {
+       "source": "Financial Times",
+       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTmEtNExMNldLSjBTLVU3Sk9XYjFtamNfUlU3a3NDQUF4MGlqVmtlTF9uc3R4bzlFSXFpY0NjMnRzNFdHc2Iyc3gwbzdvM3JHS0ZJWmthaVAyYjA1ak1tMTRnY2xZS3F6MU8tejQ0VDNiMm5XQnFXX2pEWEdpaU9zc2lxS3c?oc=5",
+       "titre": "Flávio Bolsonaro claims fraud in Brazil’s presidential election"
+      },
+      {
+       "source": "CNA Monde",
+       "url": "https://www.channelnewsasia.com/world/brazil-election-bolsonaro-defeat-flee-us-leader-6501531",
+       "titre": "Bolsonaro claims he is Brazil's true leader after fleeing to US"
+      },
+      {
+       "source": "Le Monde International",
+       "url": "https://www.lemonde.fr/international/article/2026/10/29/en-fuite-aux-etats-unis-flavio-bolsonaro-assure-etre-le-leader-du-bresil_6801710_3210.html",
+       "titre": "En fuite aux Etats-Unis, Flavio Bolsonaro assure être le « leader » du Brésil"
+      }
+     ],
+     "id": "2026-10-29|Flávio Bolsonaro claims Brazil presidency from US exile following election defeat"
+    }
+   ]
+  },
+  {
+   "id": "asie",
+   "titre": "APAC",
+   "items": [
+    {
+     "suite": true,
+     "remplace": "2026-10-28|Singapore and Indonesia create joint task force on haze",
+     "emoji": "🇸🇬",
+     "titre": "Singapore summons company executives over Indonesian forest fire links",
+     "resume": "Singapore ministers summoned leaders of ten firms under investigation for alleged links to regional forest fires causing transboundary haze. Officials warned of legislative amendments making non-cooperation with Singaporean cross-border haze inquiries a statutory offence.",
+     "pourquoi": "",
+     "pays": [
+      "Singapore",
+      "Indonesia"
+     ],
+     "region": "South-East Asia",
+     "rubrique": "asie",
+     "liens": [
+      {
+       "source": "Straits Times Singapour",
+       "url": "https://www.straitstimes.com/singapore/singapore-indonesia-committed-at-highest-level-to-resolving-bilateral-issues-vivian-balakrishnan",
+       "titre": "Singapore, Indonesia committed at highest level to resolving bilateral issues: Vivian Balakrishnan"
+      },
+      {
+       "source": "CNA Singapour",
+       "url": "https://www.channelnewsasia.com/singapore/vivian-balakrishnan-indonesia-high-level-talks-haze-commitment-6496126",
+       "titre": "PM Wong, Prabowo committed to ‘do what is necessary’ to tackle bilateral issues, including haze: Vivian Balakrishnan"
+      }
+     ],
+     "id": "2026-10-29|Singapore summons company executives over Indonesian forest fire links"
+    },
+    {
+     "suite": true,
+     "remplace": "2026-10-28|US Defence Secretary Hegseth heads to Philippines for ASEAN meeting",
+     "emoji": "🤝",
+     "titre": "US proposes new US-ASEAN defence cooperation framework in Cebu",
+     "resume": "US Defence Secretary Pete Hegseth proposed an ambitious US-ASEAN defence cooperation framework during regional talks in the Philippines. The initiative seeks to strengthen multilateral maritime domain awareness and advanced naval coordination across South-East Asia.",
+     "pourquoi": "",
+     "pays": [
+      "United States",
+      "Philippines"
+     ],
+     "region": "South-East Asia",
+     "rubrique": "asie",
+     "liens": [
+      {
+       "source": "Philstar.com",
+       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQmJuX3dGZFozU0JQb0ZweUlBQnFOa1RDTUdELWFiT2pTR01wNDg3RFY5N2t1enlYWVptNlFkNDNkVmZaaTJfZ1piRVdvdXhPZjY1cWdEMk5Eek5xNGNTekZURWNCZjNGdTFwTlY2SHBDM3IybFJqazVvY2IzOGM2SjYzWGhnVWVGVlBNUHRTaERLblBoMEUzb3pSRV91SUxJTk5GN2lZZ1laUGJTd2x4NkR4ZXBUVE5WcjU40gHCAUFVX3lxTE5sTzV6d3JCTTEtVDdOc2xiS1c1ZkVXb0lfMENCSjJDUHJvX2JLZkxEaXpsZTV5TzJJQXUzcFRPZ1o1V05QTlZWdGZ1U3JxNW1FOEdEWEFDaHRDczJBZjNzRmhvRHlrZVhNM3ctNFR2TXM1NWxaTW05dk01WnpzWk1MaThaOFc5Tk93ZzBES1pXekRvUnMzVGtCM3BFODZseHZfSkhfRDZ3RlBKNFJtY08tUUpTeXNINmRNVmoyelUzbnBB?oc=5",
+       "titre": "Hegseth pushes US-ASEAN defense framework as China scales back at talks"
+      },
+      {
+       "source": "South China Morning Post",
+       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRDJ5bVo5WE1pQ0Y5LUtWYjY1SjF1Rk5JQVlyd3I1TTkwSGdEa1VSU0tnQmxMN2VYODBzMlBsVVJObXhWdWp0c0V1TF81WTJ5am1xZll4c25pT1ZIZzQ0TUhBRk1vSm14QmZLZWpIRDFfajA3SEd6ekp2Y3J0NnhtMjVJemhUTnV0M3FuT3JRWjJtWWx5aGo2NjRRaHpmQ3c3QnBCVlk0QVFKU2hoVDBSMHhhV2xyVmwycHdFMGF5ZDJid9IBwgFBVV95cUxPbG5fajlKc0Juc2IyQ2JiWmlwaU5BWmNjakFHeW9ZVmtvSW8tdFBteEhXcHpOdy1HNkwxREVhTTJYTXdGelFoMV9MNEdTOUFydk56MHpTT1AzX1E5Ynl1cVJCa2xGQ01xSm5LY3p4QmFQN2VHVHFMTzZ3ck9Td2t1cnMzLTd2dWlBLUdsSWs2cTJjQUFfNTRYVmU3czZxN0dONHFyekZkcjBkM2RNQlVFNTJnandBdkxaMHdGektOSV9jZw?oc=5",
+       "titre": "Hegseth pledges stronger military framework with Philippines, but lacks details"
+      },
+      {
+       "source": "Inquirer.net",
+       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeHhKVUdSdVdhbWFEZ3FPR05TNDN3VEVkd0VlTk5wRHRmbTRob2pUcGg1QnE4TlJzd0pJOE5XSWd4TEYwNGJ1M0EwTHByWjU4amZISGVqX2owVjRpSGRCZGNVSDdqSDY2bkdrMlcweHU5LWhZSTE3ZXB2Nm1VM0dtbTNWckdDNHAwQTY0a2MxbnpPRm4wTmE3SjNyZE1qMHJoYWtz0gGjAUFVX3lxTFB4eEpVR1J1V2FtYURncU9HTlM0M3dURWR3RWVOTnBEdGZtNGhvalRwaDVCcThOUnN3Skk4TldJZ3hMRjA0YnUzQTBMcHJaNThqZkhIZWpfajBWNGlIZEJkY1VIN2pINjZuR2syVzB4dTktaFlJMTdlcHY2bVUzR21tM1ZyR0M0cDBBNjRrYzFuek9GbjBOYTdKM3JkTWowcmhha3M?oc=5",
+       "titre": "Hegseth in Cebu: Time for ‘ambitious’ US-Asean defense ties"
+      },
+      {
+       "source": "Cebu Daily News",
+       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZ3BVdnpmbmNXX3I2SUJCN21OZTNyRDk2b1gzaXFYZFRVaFpyM0kyWWJWTmZnbjVRZWdTNlVDMlgxNmo0cENPbWNVVGVWNGlsNWREelF5U01MM3dJNGp5NXBVRzlhd18wQTNpSTBBRlFydER1TF8xdnZHYzA2Qmx3Q1NPWmlLSDRUWGY2UnVSOEEyODZx0gGaAUFVX3lxTE1sMGxITVBBd0ZveDFUZlZoOEpFaElYazJoc1ptTU5pX25EeWZ4S2JldG9aT29uYkN4SDUyUWExeUZVTTFkcUI5eWd1VllyMEwyb1VUcjFKcWx3N1ViZkRReERoSUVxX0FBdDUwd3M0LW5lOV9TZzJJVkQxTnB1VXhaRWR5enJWY2RpZ05VdDRFU2FqY1ROcjdCTVE?oc=5",
+       "titre": "US seeks new defense cooperation deal with Asean"
+      }
+     ],
+     "id": "2026-10-29|US proposes new US-ASEAN defence cooperation framework in Cebu"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🇸🇬",
+     "titre": "Singapore Armed Forces test airborne 5G and counter-drone systems",
+     "resume": "The Singapore Armed Forces have trialled airborne 5G communications nodes and modular counter-drone technologies across their rotary fleet. The trials explore integrated survivability and resilient command-and-control architectures against uncrewed aerial threats.",
+     "pourquoi": "",
+     "pays": [
+      "Singapore"
+     ],
+     "region": "South-East Asia",
+     "rubrique": "asie",
+     "liens": [
+      {
+       "source": "Janes",
+       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcW50V1ZsZ1pIWVF3ZkpWZGNtNFdPekYzd1JUMHQ5cVdXcFFrdkl1OE5Ca1d2T0dYZDNheUhaeldMN1djVTVxNnVDRDhtMjJ5WXl1VEhtRFRpRTY2TnRjbU5RTVFDc3Y2MUtmU0FBRTVrYmJwNEN6MG5DSURoRjktR1hUSmhpY0NnT013UFhDNWlsVzhwQkFmcmpiX3JZYkR3Q3JUM3FrdDYzR1VGMDNodWVrZlh6VHEySkQ1Mk0yZmhDVkk?oc=5",
+       "titre": "Singapore tests airborne 5G and counter-UAS concepts"
+      }
+     ],
+     "id": "2026-10-29|Singapore Armed Forces test airborne 5G and counter-drone systems"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🇸🇬",
+     "titre": "Singapore and Malaysia test emergency response on cross-border RTS Link",
+     "resume": "Singaporean and Malaysian emergency agencies concluded a joint field training exercise simulating an on-board fire and passenger evacuation along the RTS Link. The cross-border rail service is scheduled to begin passenger operations in February 2027.",
+     "pourquoi": "",
+     "pays": [
+      "Singapore",
+      "Malaysia"
+     ],
+     "region": "South-East Asia",
+     "rubrique": "asie",
+     "liens": [
+      {
+       "source": "Straits Times Singapour",
+       "url": "https://www.straitstimes.com/singapore/singapore-malaysia-conclude-field-exercise-to-handle-emergencies-at-the-rts-link",
+       "titre": "Singapore, Malaysia conclude field exercise to handle emergencies at RTS Link"
+      },
+      {
+       "source": "CNA Asie",
+       "url": "https://www.channelnewsasia.com/singapore/rts-link-train-fire-cross-border-exercise-6498921",
+       "titre": "Singapore, Malaysia test emergency response to simulated fire on stranded RTS Link train"
+      }
+     ],
+     "id": "2026-10-29|Singapore and Malaysia test emergency response on cross-border RTS Link"
+    }
+   ]
+  },
+  {
+   "id": "elections",
+   "titre": "Elections & Politics",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🗳️",
+     "titre": "Progressive surge threatens hung parliament in New Zealand election",
+     "resume": "Opinion polls show the Opportunity Party's Qiulae Wong surging ahead of New Zealand's general election on November 7. Projections suggest neither major political bloc will secure a parliamentary majority under the mixed-member proportional voting system.",
+     "pourquoi": "",
+     "pays": [
+      "New Zealand"
+     ],
+     "region": "Oceania",
+     "rubrique": "elections",
+     "liens": [
+      {
+       "source": "Straits Times Asie",
+       "url": "https://www.straitstimes.com/asia/australianz/progressive-newcomer-shakes-up-new-zealand-politics-evoking-jacinda-ardern",
+       "titre": "Progressive newcomer shakes up New Zealand politics, evoking Jacinda Ardern"
+      }
+     ],
+     "id": "2026-10-29|Progressive surge threatens hung parliament in New Zealand election"
+    }
+   ]
+  },
+  {
+   "id": "defense_aerienne",
+   "titre": "Air & Missile Defence",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🛡️",
+     "titre": "US military establishes permanent THAAD missile defence battery on Guam",
+     "resume": "The US Department of Defense has transitioned its rotational THAAD air defence deployment on Guam into a permanent stationing. The decision addresses escalating ballistic and hypersonic missile threats from China and North Korea across the western Pacific.",
+     "pourquoi": "",
+     "pays": [
+      "United States",
+      "Guam"
+     ],
+     "region": "Oceania",
+     "rubrique": "defense_aerienne",
+     "liens": [
+      {
+       "source": "Korea JoongAng Daily",
+       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVURXSk1oQjgyNFBPb0xKd0g5NE5iMXFDckNualZZR3lTc3ozbDBZaEFBTjdzTGdiTTZoQ2Jrcm4wOVEwdl9TMTRrX1lKb0t5WDRsUnlSN1ZzWmNOcHk5bGlUQ3V5RE9RQ3FsWllWSl9CcXBxVHN0X3BlVWJSMGlRX0xFeXY1ZUlsZ2ZHQWdhd1hySVpsaUY0T0ZLUlIydEgxVnIxV3M2V0pPWk9VeWhUWnk5cEVYbE10SGhXTWtR?oc=5",
+       "titre": "U.S. makes Thaad unit in Guam permanent as North Korea, China threats grow"
+      }
+     ],
+     "id": "2026-10-29|US military establishes permanent THAAD missile defence battery on Guam"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🛡️",
+     "titre": "Ukraine urgently requests expedited Patriot interceptor deliveries from US",
+     "resume": "President Volodymyr Zelenskyy urged US defence officials to accelerate deliveries of Patriot surface-to-air missiles following intensive Russian barrages against Kyiv. Ukrainian officials reported over 100 missiles targeted the capital area in the past two weeks.",
+     "pourquoi": "",
+     "pays": [
+      "Ukraine",
+      "United States",
+      "Russia"
+     ],
+     "region": "Russia-Ukraine",
+     "rubrique": "defense_aerienne",
+     "liens": [
+      {
+       "source": "North Atlantic Treaty Organization",
+       "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPRVAwV2l6ekNzUUNUTnp0eTJLNUppYmhnb1dpbmhJVkN4LUtVX2RxaXpROGtZdUp5YUxVRzQ5RDRaU2YtUHA5S21xSE1zd0dUbEZsOHJoVWlpY2xNcDc5OGRwX2didnJYcFlDMzZKbjFSYzVXTi1qTmVYQzJIVnBSNWx1cnNpNTB4S3pWM3lYME10SllTa0dDOHhoeUxaR09JMTIzSlFXYXlwUk9QT2xHcGFzYWl0QWZvR1NINmhNdDZRM0JQaUdZSmZYVWxITmFRaHhxanJfanRJWXZ0Qk55b2Vha1ptNk5zd1ZadGt1MndLdmxSQ1Q5UXlsM2FxQjlaemc?oc=5",
+       "titre": "Forum de Kyïv sur la sécurité : la secrétaire générale adjointe de l’OTAN rappelle que l’Ukraine a besoin de toute urgence de moyens de défense aérienne supplémentaires"
+      },
+      {
+       "source": "Bloomberg",
+       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeXlfV2FDbFZZSmdZZXY1ZmlmMnNabGJCZHA1aTZhNlJlNFhhRHAyNU9HdkhDbG0xMlIxd1BpeEZrZkN1cXdSN1pRbmd6U3pQMURibWRPUVBYRFZNc09tRkpTTFVKRzVQWkNNRTNYNFlKUHl1WG1SYXRSMFQxVC1WU0hYbEJzT1E4WWl3b0tEY01VUEdtNmJYNGhhWjhJbmQxbGkzQi04MnBpVGlabE1UYktSS2p3NGpncXNpNDk4N0RwbXVP?oc=5",
+       "titre": "Zelenskyy Urges Hegseth to Speed Up Release of Patriot Missiles"
+      },
+      {
+       "source": "뉴스1",
+       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RU0hPYTBXa3Q2alVmRE0tNXlYRVZhUlB1cnJHQUtkNWdUMklSTkprczZDVmVFeGgzZ0VZenVFS2NkNWVUcnI4ZnB2QWdMMEJ6VUk0?oc=5",
+       "titre": "젤렌스키 \"키이우 2주간 미사일 100발 공격받아\"…패트리엇 급구"
+      },
+      {
+       "source": "Ouest-France",
+       "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOeHpPYXVJQXJCLVh5RDM4cFQtSDE3S1RjdmNFamFGZHNKNnJlWm5LRDZ4QWJQQUREbDJYOE1TWVI2V1JkN1NUY3o3SWtiMFRJM25sRktuSFJTSTRJVzdhRllYTm5ESVEzWlA3RlVkM2pHQkpBTkFMdDZhYmlaSDVCcGMzbW1ZV1duUmJOUVlnQTlWdDVuVlpYU0xhV1MwRFRtUW5iZjlIckdXRGVuenJBOUE4d0ZrdW9FYzJUMEI1UFZnTmh6QUFGbl9mTEdHa2FnVS1IRG5KMmxMcENlQzBFTjRmZzFxQVdaOEV3LUQ2WmRxRU9SdnZkYmVPY2lJanBfQmJjZ19RM1FmZFY1TWc4ZmxB?oc=5",
+       "titre": "Guerre en Ukraine : missiles Patriot, appel téléphonique entre Oslo, Helsinki et Moscou… Le point sur la nuit"
+      }
+     ],
+     "id": "2026-10-29|Ukraine urgently requests expedited Patriot interceptor deliveries from US"
+    }
+   ]
+  },
+  {
+   "id": "industrie",
+   "titre": "Defence Industry & Contracts",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "📝",
+     "titre": "Malaysia orders Chaiseri Jackal support vehicles for CAESAR artillery",
+     "resume": "The Malaysian Army has contracted Thai manufacturer Chaiseri to deliver Jackal vehicles across four operational configurations. The platforms will provide specialised logistics and command support for Malaysia's upcoming CAESAR 155mm truck-mounted howitzers.",
+     "pourquoi": "",
+     "pays": [
+      "Malaysia",
+      "Thailand",
+      "France"
+     ],
+     "region": "South-East Asia",
+     "rubrique": "industrie",
+     "liens": [
+      {
+       "source": "Asian Military Review",
+       "url": "https://www.asianmilitaryreview.com/2026/10/chaiseri-wins-jackal-order-from-malaysian-army-foc/",
+       "titre": "Chaiseri wins Jackal order from Malaysian Army"
+      }
+     ],
+     "id": "2026-10-29|Malaysia orders Chaiseri Jackal support vehicles for CAESAR artillery"
+    }
+   ]
+  },
+  {
+   "id": "ukraine",
+   "titre": "Ukraine / Russia",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🤝",
+     "titre": "Kremlin ties timing of trilateral Ukraine peace talks to Middle East conflict",
+     "resume": "Kremlin foreign policy aide Yuri Ushakov announced that scheduling the next trilateral Ukraine settlement talks depends heavily on Middle Eastern developments. Ukrainian President Volodymyr Zelenskyy had previously urged convening a Washington-Kyiv-Moscow meeting in November.",
+     "pourquoi": "",
+     "pays": [
+      "Russia",
+      "Ukraine",
+      "United States"
+     ],
+     "region": "Russia-Ukraine",
+     "rubrique": "ukraine",
+     "liens": [
+      {
+       "source": "Al-Monitor",
+       "url": "https://www.al-monitor.com/originals/2026/10/next-round-ukraine-talks-depends-middle-east-other-factors-kremlin-aide-says",
+       "titre": "Next round of Ukraine talks depends on Middle East, other factors, Kremlin aide says"
+      },
+      {
+       "source": "Le Monde International",
+       "url": "https://www.lemonde.fr/international/live/2026/10/28/en-direct-guerre-en-ukraine-le-cessez-le-feu-a-olechky-est-un-immense-succes-selon-volodymyr-zelensky-qui-appelle-a-une-rencontre-entre-moscou-kiev-et-washington-en-novembre_6799896_3210.html",
+       "titre": "EN DIRECT, guerre en Ukraine | Le cessez-le-feu à Olechky est un « immense succès », selon Volodymyr Zelensky, qui appelle à une rencontre entre Moscou, Kiev et Washington en novembre"
+      }
+     ],
+     "id": "2026-10-29|Kremlin ties timing of trilateral Ukraine peace talks to Middle East conflict"
+    }
+   ]
+  },
+  {
+   "id": "moyen_orient",
+   "titre": "Middle East",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "⚠️",
+     "titre": "Iran advances seven-day Hormuz plan as Gulf allies prepare for US strikes",
+     "resume": "Iranian Foreign Minister Abbas Araghchi stated Tehran is actively engaging regional mediators on a seven-day proposal to de-escalate maritime passage in the Strait of Hormuz. Meanwhile, Gulf states are reportedly making preparations for potential US strikes.",
+     "pourquoi": "",
+     "pays": [
+      "Iran",
+      "United States"
+     ],
+     "region": "Middle East",
+     "rubrique": "moyen_orient",
+     "liens": [
+      {
+       "source": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/liveblog/2026/10/29/iran-war-live-tehran-presses-7-day-hormuz-plan-trump-denies-peace-talks?traffic_source=rss",
+       "titre": "Iran war live: Tehran presses 7-day Hormuz plan; Trump denies peace talks"
+      },
+      {
+       "source": "뉴시스",
+       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9nakxleEpOLUQwWFgwNU8tVFZyZF93YS1KUjV2YXhXVDFHMnhNSGVoZGE3MnhMcUVlUmtQa1VucnduVFk1U1ZpVmpxbDdnci1rTEpzN05yZzFlWTFXc0FYNFkwX3dGeDZwaHB4ZmFGVmhFU1lUdFI1WdIBeEFVX3lxTE9nakxleEpOLUQwWFgwNU8tVFZyZF93YS1KUjV2YXhXVDFHMnhNSGVoZGE3MnhMcUVlUmtQa1VucnduVFk1U1ZpVmpxbDdnci1rTEpzN05yZzFlWTFXc0FYNFkwX3dGeDZwaHB4ZmFGVmhFU1lUdFI1WQ?oc=5",
+       "titre": "\"美, 중간선거 후 이란 대규모 공습 검토…걸프국에 대비 지시\""
+      }
+     ],
+     "id": "2026-10-29|Iran advances seven-day Hormuz plan as Gulf allies prepare for US strikes"
+    }
+   ]
+  },
+  {
+   "id": "europe",
+   "titre": "Europe",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🛩️",
+     "titre": "Germany weighs joining UK-Italy-Japan GCAP fighter programme",
+     "resume": "German Chancellor Friedrich Merz stated in Tokyo that Berlin is examining potential participation in the GCAP combat aircraft programme led by Britain, Italy, and Japan. The interest follows acute industrial and political strains surrounding the Franco-German FCAS initiative.",
+     "pourquoi": "",
+     "pays": [
+      "Germany",
+      "Japan",
+      "United Kingdom",
+      "Italy"
+     ],
+     "region": "Europe",
+     "rubrique": "europe",
+     "liens": [
+      {
+       "source": "Opex360",
+       "url": "https://www.opex360.com/2026/10/28/berlin-fait-un-pas-de-plus-vers-le-programme-davion-de-combat-mene-par-londres-rome-et-tokyo/",
+       "titre": "Berlin fait un pas de plus vers le programme d’avion de combat mené par Londres, Rome et Tokyo"
+      },
+      {
+       "source": "Straits Times Asie",
+       "url": "https://www.straitstimes.com/asia/germany-weighs-role-in-gcap-fighter-jet-program-says-merz-on-japan-visit",
+       "titre": "Germany weighs role in GCAP fighter jet programme, says Merz on Japan visit"
+      }
+     ],
+     "id": "2026-10-29|Germany weighs joining UK-Italy-Japan GCAP fighter programme"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "💰",
+     "titre": "UK commits to 3% GDP defence spending by 2030 while filling funding gap",
+     "resume": "The British government reaffirmed its commitment to increase defence spending to 3 per cent of GDP by 2030. Ministers stated departmental reprioritisation will cover a £4.7 billion funding shortfall within the national Defence Investment Plan.",
+     "pourquoi": "",
+     "pays": [
+      "United Kingdom"
+     ],
+     "region": "Europe",
+     "rubrique": "europe",
+     "liens": [
+      {
+       "source": "Al Jazeera",
+       "url": "https://www.aljazeera.com/economy/2026/10/28/five-key-takeaways-from-the-uk-autumn-budget?traffic_source=rss",
+       "titre": "Five key takeaways from the UK Autumn Budget"
+      },
+      {
+       "source": "Breaking Defense",
+       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOWdoVi0zY0pwN290Z080czBSNkFxVkQ5RnhqRi0wcUhFcUFBTW9GWGdKSzdLczRQN1kyb0sxOElBOW1GNEN6c2hDakQ2RkgwbGdsV2NWMGxILXBqMDFkX3ItY1JhUzl6SDF4QWRQZDYzVlJ2UHV6dC02MFZPZklHWDNMVFJMNTIyTnBfZ1YwUlVSQ0tpUGk4dWtrekM5WksyWlFiQVlnZm5vS0M3WWo5OWRhcnk0cEczemJ0LUlxX3RYNWc?oc=5",
+       "titre": "UK commits to 3 percent GDP on defense by 2030, new investment partnerships with industry"
+      },
+      {
+       "source": "Defense News",
+       "url": "https://www.defensenews.com/global/europe/2026/10/28/uks-healey-says-government-will-fill-defense-plan-gap-by-reprioritizing/",
+       "titre": "UK’s Healey says government will fill defense plan gap by ‘reprioritizing’"
+      }
+     ],
+     "id": "2026-10-29|UK commits to 3% GDP defence spending by 2030 while filling funding gap"
+    }
+   ]
+  },
+  {
+   "id": "espace",
+   "titre": "Space & Satellites",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🛰️",
+     "titre": "US Space Force missile-tracking satellite launch postponed to 2027",
+     "resume": "The Space Development Agency has delayed the launch of its next missile-tracking satellite constellation to 2027. The schedule revision follows a reassessment of acquisition methodologies and orbital integration procedures.",
+     "pourquoi": "",
+     "pays": [
+      "United States"
+     ],
+     "region": "Americas",
+     "rubrique": "espace",
+     "liens": [
+      {
+       "source": "SpaceNews",
+       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOV3BRQkhMXzBHQXJnb0FMWDZjRThWdkZQSE00WmJtQzNvSHNYbG1sWTFDNFNxdkJDaFFHa042V0E0S05BRXAxQXRoXzhoVVBnbGRCek1GOF9MaXVzczJnZTlyR3hxeXpzazFzd0pxR25IRUhGc2gzMzJ4bWFET0hrRVN2TEpfYlFEZGJZY1FkZFd4SS1kZnVPWWdXaXNZOU9qMjI2X3hMUjBSWlVRV1RXN1pUTzZSNnpwanlqdXNR?oc=5",
+       "titre": "Space Force missile-tracking satellite launch slips to 2027 as SDA reassesses acquisition approach"
+      }
+     ],
+     "id": "2026-10-29|US Space Force missile-tracking satellite launch postponed to 2027"
+    }
+   ]
+  },
+  {
+   "id": "tech",
+   "titre": "Emerging Tech",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🇸🇬",
+     "titre": "Singapore proposes international framework for AI incident reporting",
+     "resume": "Prime Minister Lawrence Wong proposed a multilateral pilot framework allowing states and industry partners to systematically report and analyse artificial intelligence incidents. Singapore recommended a flexible, incident-driven architecture to enhance international AI safety and governance.",
+     "pourquoi": "",
+     "pays": [
+      "Singapore"
+     ],
+     "region": "South-East Asia",
+     "rubrique": "tech",
+     "liens": [
+      {
+       "source": "CNA Singapour",
+       "url": "https://www.channelnewsasia.com/singapore/pilot-ai-incident-report-safety-governance-pm-wong-6500216",
+       "titre": "Interested parties, countries can come together to launch AI incident reporting pilot: PM Wong"
+      },
+      {
+       "source": "Straits Times Singapour",
+       "url": "https://www.straitstimes.com/tech/singapore-proposes-ai-incident-reporting-pilot-to-boost-ai-safety",
+       "titre": "Singapore proposes incident reporting initiative for boosting AI safety"
+      }
+     ],
+     "id": "2026-10-29|Singapore proposes international framework for AI incident reporting"
+    }
+   ]
+  },
+  {
+   "id": "economie",
+   "titre": "Economy & Sanctions",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "⚠️",
+     "titre": "Malaysia customs intercepts $12m in smuggled advanced AI chips at KLIA",
+     "resume": "Malaysian customs authorities seized 30 server units containing advanced artificial intelligence chips valued at $12.1 million at Kuala Lumpur International Airport. Officials linked the haul to a broader investigation into illicit transshipment syndicates.",
+     "pourquoi": "",
+     "pays": [
+      "Malaysia"
+     ],
+     "region": "South-East Asia",
+     "rubrique": "economie",
+     "liens": [
+      {
+       "source": "South China Morning Post",
+       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWGVoRFJjWmRSTm1vVlh3N0Q1Rk1WSjhnelhlRnRvQU44dWdtV01qeXlfS0dtMkhIRFhFZ1ZESzF5NHNSSjVSOWpNcDdDSW5mMzhOUTBKTmRVVUEtU2lLSGltTzlEWV9LOUFpX25yU0xvbU15VDljM0o3Y01PSUtZUDE4c3k1TUpYTE54S3BzSGxQdnBpSi0wZEF3Z3hnb1d3X1JxR1hyUDBRZHRlQ2Y3Rmh2OVBtWExVbi11bGZ1QVF6Z202ZGR6TDRINEN2U2Qy0gHQAUFVX3lxTE5YZWhEUmNaZFJObW9WWHc3RDVGTVZKOGd6WGVGdG9BTjh1Z21XTWp5eV9LR20ySEhEWEVnVkRLMXk0c1JKNVI5ak1wN0NJbmYzOE5RMEpOZFVVQS1TaUtIaW1POURZX0s5QWlfbnJTTG9tTXlUOWMzSjdjTU9JS1lQMThzeTVNSlhMTnhLcHNIbFB2cGlKLTBkQXdneGdvV3dfUnFHWHJQMFFkdGVDZjdGaHY5UG1YTFVuLXVsZnVBUXpnbTZkZHpMNEg0Q3ZTZDI?oc=5",
+       "titre": "Malaysia seizes smuggled AI chips worth US$12 million at Kuala Lumpur airport"
+      },
+      {
+       "source": "CNA Asie",
+       "url": "https://www.channelnewsasia.com/asia/malaysia-airport-customs-seize-advanced-ai-chips-smuggling-6498976",
+       "titre": "AI chips worth US$12.1 million seized at Malaysia airport, customs authority says"
+      }
+     ],
+     "id": "2026-10-29|Malaysia customs intercepts $12m in smuggled advanced AI chips at KLIA"
+    }
+   ]
+  }
+ ],
+ "a_surveiller": [
+  {
+   "quand": "November 3",
+   "quoi": "US midterm elections for the House of Representatives and one-third of the Senate",
+   "liens": [
+    {
+     "source": "Le Monde International",
+     "url": "https://www.lemonde.fr/international/live/2026/10/28/en-direct-midterms-2026-donald-trump-attendu-dans-l-ohio-barack-obama-en-georgie-suivez-la-campagne-des-elections-de-mi-mandat-aux-etats-unis_6801590_3210.html",
+     "titre": "EN DIRECT, Midterms 2026 : Donald Trump attendu dans l’Ohio, Barack Obama en Géorgie... Suivez la campagne des élections de mi-mandat aux Etats-Unis"
+    }
+   ]
+  },
+  {
+   "quand": "November 7",
+   "quoi": "New Zealand parliamentary general election",
+   "liens": [
+    {
+     "source": "Straits Times Asie",
+     "url": "https://www.straitstimes.com/asia/australianz/progressive-newcomer-shakes-up-new-zealand-politics-evoking-jacinda-ardern",
+     "titre": "Progressive newcomer shakes up New Zealand politics, evoking Jacinda Ardern"
+    }
+   ]
+  },
+  {
+   "quand": "November",
+   "quoi": "Proposed trilateral peace talks between Ukraine, Russia, and the United States",
+   "liens": [
+    {
+     "source": "Al-Monitor",
+     "url": "https://www.al-monitor.com/originals/2026/10/next-round-ukraine-talks-depends-middle-east-other-factors-kremlin-aide-says",
+     "titre": "Next round of Ukraine talks depends on Middle East, other factors, Kremlin aide says"
+    },
+    {
+     "source": "Le Monde International",
+     "url": "https://www.lemonde.fr/international/live/2026/10/28/en-direct-guerre-en-ukraine-le-cessez-le-feu-a-olechky-est-un-immense-succes-selon-volodymyr-zelensky-qui-appelle-a-une-rencontre-entre-moscou-kiev-et-washington-en-novembre_6799896_3210.html",
+     "titre": "EN DIRECT, guerre en Ukraine | Le cessez-le-feu à Olechky est un « immense succès », selon Volodymyr Zelensky, qui appelle à une rencontre entre Moscou, Kiev et Washington en novembre"
+    }
+   ]
+  },
+  {
+   "quand": "February 2027",
+   "quoi": "Scheduled passenger opening of the Singapore-Malaysia RTS Link cross-border transit system",
+   "liens": [
+    {
+     "source": "CNA Asie",
+     "url": "https://www.channelnewsasia.com/singapore/rts-link-train-fire-cross-border-exercise-6498921",
+     "titre": "Singapore, Malaysia test emergency response to simulated fire on stranded RTS Link train"
+    }
+   ]
+  }
+ ],
+ "hebdo": null,
+ "stats": {
+  "articles": 406,
+  "sources": 51
+ }
+}
