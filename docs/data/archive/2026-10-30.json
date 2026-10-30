@@ -1,0 +1,779 @@
+{
+ "date": "2026-10-30",
+ "date_label": "Friday, October 30, 2026",
+ "genere_le": "2026-10-30T10:11:12+08:00",
+ "mode": "ia",
+ "modele": "gemini-flash-latest",
+ "accroche": [
+  "North Korea fires dozen ballistic missiles and tests attack drones",
+  "Hormuz tanker mine blasts raise fears of imminent US Iran strikes",
+  "Russian drone strike kills 14 at Dnipro train station"
+ ],
+ "essentiel": [
+  {
+   "suite": false,
+   "remplace": null,
+   "emoji": "🚀",
+   "titre": "North Korea fires barrage of ballistic missiles and showcases attack drones",
+   "resume": "Pyongyang launched around a dozen short-range ballistic missiles into the Sea of Japan following Seoul's dialogue proposal. Kim Jong-un also inspected attack drones and cruise missile tests, demanding rapid military AI and unmanned systems development.",
+   "pourquoi": "",
+   "pays": [
+    "North Korea",
+    "South Korea"
+   ],
+   "region": "North-East Asia",
+   "rubrique": "defense_aerienne",
+   "liens": [
+    {
+     "source": "CNA Asie",
+     "url": "https://www.channelnewsasia.com/east-asia/north-korea-drones-missiles-kim-jong-un-6505466",
+     "titre": "North Korea displays drones, missiles as Kim urges AI weapons push"
+    },
+    {
+     "source": "Le Monde International",
+     "url": "https://www.lemonde.fr/international/article/2026/10/30/la-coree-du-nord-teste-des-drones-d-attaque-selon-son-agence-de-presse-officielle_6802526_3210.html",
+     "titre": "La Corée du Nord teste des drones d’attaque, selon son agence de presse officielle"
+    },
+    {
+     "source": "France 24",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdU1icUx4MjI0ck5KUzF0ZDdVeEdndlJ6SGRSYVpFOWRDYzRFeF8xZHByVzh3YzdEUGJQbEEtZ3Zpa3psSmJVV1JwWjNqODNZODduSTU0MHRUTUNCVzlFUl8yd1ZWeGpuaFJMZjBieU9aT24wc284NGVacWZKeHJyc25WY1BWbzNZclFLdXBpLUVvWEtYN0JOTmw5YUFrUFFTbUdOaDFrWjJtN25zcGhmak5OcE5DakFfOXNz?oc=5",
+     "titre": "North Korea tests attack drones as Kim calls for 'absolute superiority'"
+    },
+    {
+     "source": "동아일보",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE52bkI3eWtXSWxXNWlqNWdCck42Z29LeFJmcjRnUHFMVUNZSWxXOWRVWlRFYVpYaWppajUtdER2OGRYVDJkY3VhSUJieE04emZLWjZncHdxa0J4NzBwR1VEYTY1OHZ5Zw?oc=5",
+     "titre": "North Korea fires more than 10 ballistic missiles"
+    }
+   ],
+   "id": "2026-10-30|North Korea fires barrage of ballistic missiles and showcases attack drones"
+  },
+  {
+   "suite": false,
+   "remplace": null,
+   "emoji": "⚠️",
+   "titre": "Tankers hit mines in Hormuz as US prepares Iran strike options",
+   "resume": "Four commercial oil tankers caught fire after mine explosions in the Strait of Hormuz, with Tehran claiming to seize a US drone. Concurrently, US commanders briefed President Donald Trump on military strike options against Iranian targets.",
+   "pourquoi": "",
+   "pays": [
+    "Iran",
+    "United States",
+    "Israel"
+   ],
+   "region": "Middle East",
+   "rubrique": "moyen_orient",
+   "liens": [
+    {
+     "source": "Le Monde International",
+     "url": "https://www.lemonde.fr/international/article/2026/10/30/quatre-petroliers-en-feu-apres-des-explosions-de-mines-dans-le-detroit-d-ormuz_6802559_3210.html",
+     "titre": "Quatre pétroliers en feu après des explosions de mines dans le détroit d’Ormuz"
+    },
+    {
+     "source": "The Times of Israel",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaXg4cWkxb0hZU0FMMnRrNjNhd1VDLVJaN3h5UlhKZ0s4UEZTVmJMXy1YUDlZc2hySkJ2VjZYX1RLR3BuaF8zU0UxRDBMc3JqS0psbUFPdjU2dFRmeUY3dDN0T0RUMUJCdWVPX3VuZTB5dEV1WWN1T3kwdE1ESldvSXZCN2hjWGZ5LXlSM05hM0wzMkxweW9BcHVDNDdYMHRUSElNZ2hFYWFQY3RTeC1YdNIBtgFBVV95cUxQVGtUTHVaSDAyNGo0cUlROTcwWk5GYXRwUlZST214WUZuMmtKWmZic1pVM1k1UE8wcUM4OTJxMGM3WVE0WVd1WVF1amRGLUxKb0dBeTY0cE5sQlBHTDFSSEJoUlBmNW54MENFZHVOUkpvdEVIazgxRC1xdFZ6dXBrMmFPSXNFOWdiMFV2VlBJMk1qRVhaMjNzSmRELVVjODdzZ190ZlhNWkdKd29aQXRnTFVxSHI2dw?oc=5",
+     "titre": "Top US commander briefs Trump on Iran military options as 10 US military transport planes land in Israel"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/10/30/iran-war-live-irgc-says-four-tankers-struck-mines-in-strait-of-hormuz?traffic_source=rss",
+     "titre": "Iran war live: IRGC says four tankers struck mines in Strait of Hormuz"
+    },
+    {
+     "source": "news.sbs.co.kr",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NNDFNSG9IZVFDek5Ka2stZnhLaTRQU1dnWS1CTjNyR0hfMnpEdUY5UjFGZkM0MzNjOUY1eGI5c0dUbVdNTkpmVk5qeHRqeEs0bXdSYnJtMDBKXzQ5ZjVFSkdNMmRUVTlSTnBZR2pn?oc=5",
+     "titre": "US Central Command Chief Reports Iran Strike Options to Trump, Raising Speculation of Imminent Attack"
+    }
+   ],
+   "id": "2026-10-30|Tankers hit mines in Hormuz as US prepares Iran strike options"
+  },
+  {
+   "suite": false,
+   "remplace": null,
+   "emoji": "💥",
+   "titre": "Russian jet drone strikes Dnipro railway station, killing 14",
+   "resume": "A Russian jet-powered drone strike hit a crowded passenger platform at Dnipro railway station, killing at least 14 people and injuring 14 others. The attack occurred alongside renewed Russian ballistic missile barrages targeting the capital, Kyiv.",
+   "pourquoi": "",
+   "pays": [
+    "Ukraine",
+    "Russia"
+   ],
+   "region": "Russia-Ukraine",
+   "rubrique": "ukraine",
+   "liens": [
+    {
+     "source": "Le Monde International",
+     "url": "https://www.lemonde.fr/international/live/2026/10/30/en-direct-guerre-en-ukraine-kiev-visee-par-une-nouvelle-salve-de-missiles-balistiques-russes_6799896_3210.html",
+     "titre": "EN DIRECT, guerre en Ukraine : Kiev visée par une nouvelle salve de missiles balistiques russes"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMVJMbm5Vb3NTVmNud01fMHc3WHJUWTNvWl8zSmJYZjVUUHhRbm5VWGZxVWZmbGpQdHZNZUlCQVFuLWxWb1FoR0xTZThVSmRTRVBlWUlLaWNKUTZzVnV1dTYyellibWN0XzFXNGpsUk45U2o1Z2hzUndOUEJYM0Q3WmUxSHFteS1WRXpyRk5JcmdTaEdyNVMzV2dwRGxCc0hGMlpQRElXQzMxZXdj?oc=5",
+     "titre": "Russian drone strike kills 14 on Ukrainian rail platform, 6 die in other attacks"
+    },
+    {
+     "source": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss",
+     "titre": "Russian drone attack on Ukrainian train station kills at least 14, officials say"
+    },
+    {
+     "source": "POLITICO.eu",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZnNTNlA3QThlQVg4MTFCY3NlX3BtUlBOeXlRa1FqR0NxZ2t5ZjdlRzRDQUp4OHMwTFFPMU02YVJnY1U1TGtTdThjUHdscUpZVXRta1EwMWsxNW5yRnBDbW50M05XeHpuZHVGaWMxTldrbTRnaGp6NkVJVVA1aTNaUmJoTTZiZkNwZzBBb3BxUDU3YVVrWUVJeTRNemhpRVlMazk4cE9KY3FCQVphamtTaGRJb3JobWgydnc?oc=5",
+     "titre": "Russian strike on busy train platform kills at least 14 in Dnipro"
+    }
+   ],
+   "id": "2026-10-30|Russian jet drone strikes Dnipro railway station, killing 14"
+  },
+  {
+   "suite": false,
+   "remplace": null,
+   "emoji": "🇸🇬",
+   "titre": "Singapore takes over ADMM chairmanship following heated South China Sea exchanges",
+   "resume": "The Philippines handed the ASEAN Defence Ministers' Meeting chairmanship to Singapore after sharp bilateral clashes with Beijing over South China Sea actions. Washington confirmed plans to work with Singapore to advance regional defence framework talks.",
+   "pourquoi": "",
+   "pays": [
+    "Singapore",
+    "Philippines",
+    "China",
+    "United States"
+   ],
+   "region": "South-East Asia",
+   "rubrique": "asie",
+   "liens": [
+    {
+     "source": "조선일보",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcEhhTm9tZDUzUkhjYmVHM1NQekFVRjBCQXMtUlRkWW9jNlY0bHo0bWl6alM5WG1WaEFjcWNaYXZDLXZ2elNfdUdGamNqREU3WUFLSllQa2p2UHJPZlpPVGIzaXNRN1ZaVF9YWkpYWGc4R25aYlhqMzF3NXNHMDVfRTl5cFM?oc=5",
+     "titre": "Exclusive: Philippine Defense Secretary Vows No Retreat Against Chinese Aggression"
+    },
+    {
+     "source": "Cebu Daily News",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcG5PckdxS0hjaWRnYkVCTjBQNllkZXRiZVBJd24wRkJaZnVLUGJoZTQzSnlWcVBDcFpIOHBaT3NhdnFNN0d0R0tSZ3FmUC1JU01mZ0VIRktlNEFmUEptb1lGVGlnR0hzS252dzBKY0dfT1dTQ2N6b1pEMURkUW9uREpCVWxLWkVFXzFSMzhFbWNxSE1tNlhOMW8tOFZHZV9uR09qQjZfOTg3UW5KcUltcHk1dml6a0VyUU9IdDFTbWRiRVNUYXfSAcsBQVVfeXFMTnZMNFNRWUpTQXJCbXBJSE9ITldKLWVhUHAtZ3BMRS0wUEF3elMwcktqTnREVm1ZWkx2MldCNlc1M1V6TXRJMnNvRmJwd2lxNEJQMjVxTms5WDJOVWZ0c3VjenRKUnJKQ1ozN2Y1XzdTQjhPX28wWHFyTXRGdEMxbFkzMURMc0labVl5aEM3TC1IOGNHS1FMb1lwM3RlOS1sYzdlNlJNblJBY21Md0JLb19PTnFjRmhsZ20wbGNlWktGaDhZa2wyTFFhU2s?oc=5",
+     "titre": "ASEAN defense ministers adopt initiatives to strengthen regional security cooperation"
+    },
+    {
+     "source": "Inquirer.net",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNajJVMVMtSURuVi1pY2V3a2ZVYjJtYlp2Qmtpc05TYjhIcldCTk9pU3ZRbU1qYnp3MGM2NUdPMVFEaTVRTFFQLUo1LUtmU3A3clhKd3NtdzAtOV9WQkc4bmVZeEZPSDJaUTQ3UEFwX2NyMEd1RGttTy1VbUNEaG5zMFFXWXFScnE3Z25GMFZUYjROWWI5dy1BOThuakc0WlFpLUd6UNIBqgFBVV95cUxQS2VDNEI5cXozeERVbUc5XzFiRG8xWk9wTGR4SS16TlpReGhPNk1qSDhEN0t0czdzR3pScjFhaHJXQmtGeG9aYkVESHk1Wk8xZHVsZUE5aVIxb0J2SWk3bVk2UWo2QTRKeEpOOGtIUXBFZGxaNk8tdXVidklMZmFaY1JpWmR1OHZWeDY0cHNudUpWeHpMS25fZTFjNnExZXUxMUsxUjBaazBQUQ?oc=5",
+     "titre": "Gibo Teodoro rejects China claim PH abused Asean chairmanship"
+    },
+    {
+     "source": "South China Morning Post",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeGFfbThVSEtiVFlfa2k3Q2tVbzJKQjZJT3RkQlNqQW1Dd2ZORk10RkhEYmVPOW1hUWNseTM3NWlaY3VhZm1rSExXaGtWY1o0WmprMzJDTEYtdDAxLUNsZldsRElxRkJNcEdqbW9STUgxU2pUa1lZRkw1YjVucXlLa2JVTGFBT084dllhR2ZLSGJzeG1lbE1QZk9tRXBEdV9EZE9jTHQ4YkhjTDJFOTlNTDRxbnAyUzNLQVp4N2VONFlVYTRiQXlpM1JqRkPSAcwBQVVfeXFMT3FBMEp6czFJUzM5Rlp1R1FXYWFseDVmQmtETUNBMG84cXBIVVNBOTRHd1QxRTBydkM1OEw2d1FJZ0pEdzBlUDRkUFZvSWl0S1BUMDlJRXd3clJPQm15UlVKQXJvQzhhMTFvSUpFVXNlQmt2UjdfXzZ6WGlSdzgtYjY0ZU45QlduLW53RWpVbGhBSXRTSTF0TmViMjJOcWhieWJxQTdCNUV2UXA3NkV4TE93elFKMTNyUkZKbHM3dGZabGRCMEhsZ3ZTd2lS?oc=5",
+     "titre": "China accuses Philippines of setting up ‘obstacles’ to Asean defence meeting"
+    }
+   ],
+   "id": "2026-10-30|Singapore takes over ADMM chairmanship following heated South China Sea exchanges"
+  },
+  {
+   "suite": false,
+   "remplace": null,
+   "emoji": "🏛️",
+   "titre": "ECB President Christine Lagarde steps down early",
+   "resume": "European Central Bank President Christine Lagarde announced her early resignation months before her term concludes, stating she cannot remain neutral amid escalating global events. Her abrupt exit precedes critical European economic and interest rate decisions.",
+   "pourquoi": "",
+   "pays": [
+    "European Union",
+    "Germany",
+    "France"
+   ],
+   "region": "Europe",
+   "rubrique": "economie",
+   "liens": [
+    {
+     "source": "Japan Times",
+     "url": "https://www.japantimes.co.jp/business/2026/10/30/economy/ecb-lagarde-resignation/",
+     "titre": "ECB’s Lagarde steps down, saying she can’t remain neutral on world events"
+    },
+    {
+     "source": "CNA Monde",
+     "url": "https://www.channelnewsasia.com/world/google-alphabet-wall-street-stocks-6504246",
+     "titre": "Google drags down US stocks as Lagarde signals early ECB exit"
+    },
+    {
+     "source": "Le Grand Continent",
+     "url": "https://legrandcontinent.eu/fr/2026/10/29/faire-de-leuro-une-monnaie-geopolitique/",
+     "titre": "Faire de l’euro une monnaie géopolitique"
+    }
+   ],
+   "id": "2026-10-30|ECB President Christine Lagarde steps down early"
+  }
+ ],
+ "rubriques": [
+  {
+   "id": "monde",
+   "titre": "World",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🗳️",
+     "titre": "Trump cancels Midwest campaign rallies ahead of US midterms",
+     "resume": "US President Donald Trump abruptly cancelled scheduled weekend rallies in Kansas and Iowa, shifting to telephone-based events five days before the midterm vote. Meanwhile, the administration escalated legal challenges against ballot certification in Alaska.",
+     "pourquoi": "",
+     "pays": [
+      "United States"
+     ],
+     "region": "Americas",
+     "rubrique": "monde",
+     "liens": [
+      {
+       "source": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/10/30/trump-administration-renews-bid-to-block-alaska-election-results?traffic_source=rss",
+       "titre": "Trump administration renews bid to block Alaska election results"
+      },
+      {
+       "source": "Le Monde International",
+       "url": "https://www.lemonde.fr/international/live/2026/10/30/en-direct-midterms-2026-donald-trump-annule-ses-meetings-du-week-end_6801590_3210.html",
+       "titre": "EN DIRECT, midterms 2026 : Donald Trump annule ses meetings du week-end dans le Kansas et l’Iowa"
+      },
+      {
+       "source": "CNA Monde",
+       "url": "https://www.channelnewsasia.com/world/donald-trump-cancels-midterm-rallies-phone-in-events-6505201",
+       "titre": "Trump cancels weekend rallies, plans to phone in to other midterm campaign events"
+      },
+      {
+       "source": "BBC World",
+       "url": "https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no?at_medium=RSS&at_campaign=rss",
+       "titre": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate"
+      }
+     ],
+     "id": "2026-10-30|Trump cancels Midwest campaign rallies ahead of US midterms"
+    }
+   ]
+  },
+  {
+   "id": "asie",
+   "titre": "APAC",
+   "items": [
+    {
+     "suite": true,
+     "remplace": "2026-10-29|Singapore summons company executives over Indonesian forest fire links",
+     "emoji": "🇸🇬",
+     "titre": "Indonesia accuses Singapore over LNG as haze probe panel forms",
+     "resume": "An Indonesian minister accused Singapore of reselling contracted liquefied natural gas amid bilateral friction over transboundary haze. Singapore authorities appointed a specialist legal panel including a King's Counsel to investigate ten firms linked to peatland fires.",
+     "pourquoi": "",
+     "pays": [
+      "Singapore",
+      "Indonesia"
+     ],
+     "region": "South-East Asia",
+     "rubrique": "asie",
+     "liens": [
+      {
+       "source": "Straits Times Asie",
+       "url": "https://www.straitstimes.com/asia/se-asia/indonesia-minister-accuses-singapore-of-reselling-lng-amid-calls-to-ease-bilateral-tensions",
+       "titre": "Indonesia minister accuses Singapore of reselling LNG amid calls to ease bilateral tensions"
+      },
+      {
+       "source": "CNA Singapour",
+       "url": "https://www.channelnewsasia.com/singapore/firms-specialist-panel-nea-minlaw-haze-6502826",
+       "titre": "King's Counsel, 6 firms selected for haze probe panel, more may be added if necessary: MinLaw, NEA"
+      },
+      {
+       "source": "Straits Times Singapour",
+       "url": "https://www.straitstimes.com/singapore/6-firms-one-lawyer-appointed-to-specialist-panel-tasked-with-probing-10-spore-firms-links-to-haze",
+       "titre": "6 firms, one lawyer appointed to specialist panel tasked with probing 10 S’pore firms’ links to haze"
+      }
+     ],
+     "id": "2026-10-30|Indonesia accuses Singapore over LNG as haze probe panel forms"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🇨🇳",
+     "titre": "Chinese Communist Party plenum confirms record purges of senior officials",
+     "resume": "The CCP Central Committee concluded a plenum on internal discipline, formally expelling a record 33 senior officials ahead of the 2027 Party Congress. High absence rates highlighted extensive purges as President Xi Jinping consolidated central political control.",
+     "pourquoi": "",
+     "pays": [
+      "China"
+     ],
+     "region": "North-East Asia",
+     "rubrique": "asie",
+     "liens": [
+      {
+       "source": "Straits Times Asie",
+       "url": "https://www.straitstimes.com/asia/chinas-communist-party-conclave-on-toughening-discipline-sees-record-expulsions-absences",
+       "titre": "China's Communist Party conclave on toughening discipline sees record expulsions, absences"
+      },
+      {
+       "source": "BBC Asia",
+       "url": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&at_campaign=rss",
+       "titre": "Record number of purges as Xi emphasises 'party discipline' at China political gathering"
+      },
+      {
+       "source": "CNA Asie",
+       "url": "https://www.channelnewsasia.com/asia/china-measures-tighten-discipline-communist-party-6503251",
+       "titre": "China adopts measures to tighten discipline in Communist Party"
+      },
+      {
+       "source": "Reuters",
+       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPblFZUFd0QWlTQ1ItUmJ6cXJKck9UdTE5X2JXMWJxUHY5Qk9MTWt2eGV1NGtaSFlwV2FyMTk0cmZoMWtBOGtqcmFidm56TGhBYjl5U3J0NnNWZ3hhb1ZJQUM2YU9OVkZ3R1FFWmR0OVRpUE1VOG5OYklNcllPWGRTNWRUWW0xSVBpcEVfYXhkUm10VVhZT082NTBXWTBNbFlsZ3VsdA?oc=5",
+       "titre": "China's Communist Party confirms expulsion of 33 officials"
+      }
+     ],
+     "id": "2026-10-30|Chinese Communist Party plenum confirms record purges of senior officials"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🇲🇾",
+     "titre": "Malaysian Prime Minister Anwar secures budget passage with Bersatu backing",
+     "resume": "Prime Minister Anwar Ibrahim passed a pivotal federal budget test after securing an unexpected confidence-and-supply agreement from former rival party Bersatu. The deal stabilises the ruling coalition ahead of looming state and general elections.",
+     "pourquoi": "",
+     "pays": [
+      "Malaysia"
+     ],
+     "region": "South-East Asia",
+     "rubrique": "asie",
+     "liens": [
+      {
+       "source": "South China Morning Post",
+       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNN1REWTdQcFlpMEpsVWlSb09zbk1iaFJXNHZyUWItMWRETXF6VFZId2RUYXZUX3ZGS0FuVDNCdk5kSXhKQWxWRkU3YV9TbGZtR28zMlVGVVNaUmZUVHdDT2JNSVc2czU0ZkV6SU1NSlJJT0sxVnJTbklMSFBOY1BqUThEeHNmYjkzTkgzUkkwMjZfMTZlOUw3SFQyM2R3c2xjTVlHZXNwcG83ck91M2hNUnFEY1dJa1U4YkhlejNjUlJXclliSHR4UVg0alVNNmltRFRR0gHTAUFVX3lxTE42SDJuTS0xLW9DOU9xOVVBZllUTk4waUhxRElnbk1KOW9FSWNxckM5Z2h3WnVjQmhFdHFDSXFTeXlxTEFweUVPeFBwM3IwdTJoeldkOVMxUV9XNnZDUW9zX2ZUU3RUUFFubWZhVnNLTlVodWVkN2lZVU5uT3ljcXZhVThmMjZZUnIyN3dJVHlyamx3bFFDRHFLN2EzRk84UzNOeXA3d2xXbVdTSS1sNHNPbEJKUFlmb052RnhHTWpSaVJLTkpUYmw5TVVoVVAyNzZPMUE?oc=5",
+       "titre": "Anwar’s ex-rival backs budget. Will Muhyiddin become PM’s election partner?"
+      },
+      {
+       "source": "Straits Times Asie",
+       "url": "https://www.straitstimes.com/asia/se-asia/malaysias-anwar-survives-budget-test-after-securing-support-from-former-rival-bersatu",
+       "titre": "Malaysia’s Anwar survives budget test after securing support from former rival Bersatu"
+      }
+     ],
+     "id": "2026-10-30|Malaysian Prime Minister Anwar secures budget passage with Bersatu backing"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🤝",
+     "titre": "South Korea agrees to deepen defence cooperation with Singapore and Vietnam",
+     "resume": "South Korea's defence chief met regional counterparts at the ASEAN defence gathering, agreeing to expand bilateral defence industry and operational ties with Singapore and Vietnam. Seoul reiterated calls for regional unity against North Korean missile provocations.",
+     "pourquoi": "",
+     "pays": [
+      "South Korea",
+      "Singapore",
+      "Vietnam"
+     ],
+     "region": "South-East Asia",
+     "rubrique": "asie",
+     "liens": [
+      {
+       "source": "The Korea Times",
+       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPaV9yZVJuQWJHUHFfY0hxMEZRR0hwQTJJaXVYMDQyb2lmWm56VDJJaG9iSXhwbVRSZ3N2RGFoQW1oWXp5MDBRMUdHRzFzMVFPRk51dkh6WEhxLWFpbEg5ZHJ5TkZiQWVBaWVNakdNLXpWcGNzSzN5bVg3ZExFNlZpUGppSTNDTm16ay1yWHhGclJCS2RQNTZINng4VFo3aU5YMi1uc3k3Y2VRSkFpdS15WUh1Wk1udV9JckxUQkFaRnJuamJVUW1QYjc4bVVGYzJZU285dXpB0gHbAUFVX3lxTE1aWkF6eHhSeHNhWll0Z1U4N2d4MTAtYThiMXQ4RGxfWDZFRHlWMy1PdzYzU2JQSTBvZVVoRzJXMUlnUndneTd4S01DYU5HbXN0TmZ1S3dfV0I0NW1vRWZGallZOGF5ZzZTb2YzbklKSGQzMld1NHdTWV9mWjJDMm9VOXJFckM0SUpqSUUxenhwS0FmTHBldmJUYks5Y055RGJ0OEZfODFKb0dkblBLTDhXVExEYWFrU3dkemFHc0hUUWdUTzFxOXd6azNIV2dTazg5Nmh6SkQ5aXhkdw?oc=5",
+       "titre": "S. Korean defense chief agrees to expand defense cooperation with Singapore, Vietnam"
+      }
+     ],
+     "id": "2026-10-30|South Korea agrees to deepen defence cooperation with Singapore and Vietnam"
+    }
+   ]
+  },
+  {
+   "id": "elections",
+   "titre": "Elections & Politics",
+   "items": [
+    {
+     "suite": true,
+     "remplace": "2026-10-29|Israeli election count confirms political deadlock as Netanyahu misses majority",
+     "emoji": "🗳️",
+     "titre": "Netanyahu claims stolen election as final Israeli vote confirms deadlock",
+     "resume": "Final certified results gave Benjamin Netanyahu's right-wing bloc 53 Knesset seats against the opposition's 48 and Arab lists' 19. Netanyahu rejected the outcome, alleging electoral fraud and foreign interference ahead of the Knesset swearing-in on November 10.",
+     "pourquoi": "",
+     "pays": [
+      "Israel"
+     ],
+     "region": "Middle East",
+     "rubrique": "elections",
+     "liens": [
+      {
+       "source": "NBC News",
+       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbzRienByTkQ5U2pCV25Jd09FREVxd05VLTZRSTY1TGVTY2dsYl9zOFRucG1xN0pnOHhhLXRObUFNbGp1My1DYXB3UnByT0g0QTBMTlZqU3d6U0JrNm80bTBwSHh5N1hKcjk3MDhCaWNyNzdIaGlUZWxEWWpnUFFVNS01ZzcxUFp1MVRmdUd4YmNaRWZLdFg0R0dkTlp3TDFGX1Z3LUpZQ2I3ZDJwQlhvSFJNeEpPaHR6SlE?oc=5",
+       "titre": "Israel’s final election results show neither Netanyahu nor rival can immediately form government"
+      },
+      {
+       "source": "CNA Monde",
+       "url": "https://www.channelnewsasia.com/world/israel-election-netanyahu-attacks-arab-parties-6503801",
+       "titre": "Netanyahu, at risk of losing power, steps up attacks on Israel's Arab parties"
+      },
+      {
+       "source": "Le Monde International",
+       "url": "https://www.lemonde.fr/international/article/2026/10/30/legislatives-en-israel-le-camp-de-benyamin-netanyahou-arrive-en-tete-mais-sans-majorite-selon-les-resultats-definitifs_6802493_3210.html",
+       "titre": "Législatives en Israël : le camp de Benyamin Nétanyahou arrive en tête mais sans majorité selon les résultats définitifs"
+      },
+      {
+       "source": "AP News",
+       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUlRWdElCT21MdGllQ29QbmxreHhfeTJvaUQ5Rjd2VndKSFRqSmJVMEhKY1VpOTNYWm1zZklsVWVjY0FHbDZxenZUa2NFaWQ0NEluY1ZXV1lqSWNPOWVyMXZ4eGhuQnkxLWVha01PVlhLb2l4Y2RzdENjSTQ0c3UweG5qTFZiOWE1MHFoVllsQjdqeURjUUxfSHpCWnlwNFdnR0N1Y2h1dUw5VElo?oc=5",
+       "titre": "Netanyahu’s party claims election ‘stolen’ as results show him losing majority"
+      }
+     ],
+     "id": "2026-10-30|Netanyahu claims stolen election as final Israeli vote confirms deadlock"
+    }
+   ]
+  },
+  {
+   "id": "defense_aerienne",
+   "titre": "Air & Missile Defence",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🛡️",
+     "titre": "Germany urges Japan to support Ukrainian air defence",
+     "resume": "German Chancellor Friedrich Merz formally requested Japanese Prime Minister Sanae Takaichi to explore providing air defence support to Ukraine. The request comes as European allies seek additional surface-to-air interceptors from global partners.",
+     "pourquoi": "",
+     "pays": [
+      "Germany",
+      "Japan",
+      "Ukraine"
+     ],
+     "region": "North-East Asia",
+     "rubrique": "defense_aerienne",
+     "liens": [
+      {
+       "source": "NHKニュース",
+       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zQUtUd2xwU0ZSc3JYMm9GQTYzMkJjUGtNbm1FSl9wMDk3VEp0MjVKZlE4a0ZZMThBOGlGYklQWEo5NG50azlDR0h5bVB0LXB4V0pSakpVb0c5Vk9ZYmVDRGJ6OA?oc=5",
+       "titre": "Merz asks Takaichi to support Ukraine's air defense"
+      },
+      {
+       "source": "共同網",
+       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9zaTk5ZUFSWkp6WjZLTHlDZVdIYUFic2hfak9kX0tELUxNVWhJQlV0Y0YybXgza3dNR1ZySVYxU3dWaGxjQzRqUDNKSGtRM2NMZWtHeTlocHU?oc=5",
+       "titre": "詳訊：德總理請求日本協助為烏克蘭提供防空支援"
+      },
+      {
+       "source": "47NEWS",
+       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9YYWxVYWg2M1dCSmZUVWhxTU9DdTN4LUM1ckRwSVl6c0cxNVVEeHdKbU1zZ21ERmIxaUIwemNrUHBWS3ZrRl9Pek40VQ?oc=5",
+       "titre": "【速報】独首相、日本にウクライナ防空支援を要請"
+      }
+     ],
+     "id": "2026-10-30|Germany urges Japan to support Ukrainian air defence"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🚀",
+     "titre": "Japan and Australia agree on Self-Defense Force missile testing ranges",
+     "resume": "Japanese and Australian defence ministers reached an agreement allowing the Japan Self-Defense Forces to conduct missile firing trials at Australian military ranges. The bilateral pact deepens operational defence interoperability across the Indo-Pacific.",
+     "pourquoi": "",
+     "pays": [
+      "Japan",
+      "Australia"
+     ],
+     "region": "Oceania",
+     "rubrique": "defense_aerienne",
+     "liens": [
+      {
+       "source": "防衛省",
+       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1CNWhaSWxyN0kyVkNMcENTSGZtM05Pc3lEMjJqQ2F2SjVQN0VIYU8tTXpyN05qOWh5Vi1INkRhRVB0c09tX1pmYzhVMWUxellpQjJYNExoNHdfeWtNLXJwcnc1WGljS2ZLa3lPdTc2alJDc2JfaHNNN1lqZw?oc=5",
+       "titre": "【お知らせ】日豪防衛相会談について"
+      },
+      {
+       "source": "日本経済新聞",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE05RkJ4dGZQbFZBMUhIME5kckpjVkdlWEk1MzVWLXA1ZEY1b3VRWERoZzdvUm9ib241YlFGUUpBRlVzTXRtZ3lBdFg2NndMN24tdldjRnVvNEpZOUt1MktwZWZyV1ZZaFhuVkl0MQ?oc=5",
+       "titre": "日豪防衛相が会談、豪州内の自衛隊ミサイル試験へ連携で合意"
+      }
+     ],
+     "id": "2026-10-30|Japan and Australia agree on Self-Defense Force missile testing ranges"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🛡️",
+     "titre": "European HYDEF hypersonic interceptor advances to 16 partner nations",
+     "resume": "The European Hypersonic Defence (HYDEF) interceptor project successfully concluded its first development phase. The multinational initiative to design an endo-atmospheric interceptor against hypersonic glide vehicles has now expanded to 16 participating countries.",
+     "pourquoi": "",
+     "pays": [
+      "European Union",
+      "Germany",
+      "Spain"
+     ],
+     "region": "Europe",
+     "rubrique": "defense_aerienne",
+     "liens": [
+      {
+       "source": "Defence Industry Europe",
+       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWDdiVEhPaG1GWGlBaWVpOHd0ak1DQ3ZtcG53Wk41WDVEU29hNEVHbHFXMFhCN3NmU0lPSUtqV3MwOVBKVDZkbzdMNHh4R3RUODhZRGFMcW5GZFdCUjd0QW84RlZUY2FLTS0wQmY3YklfVXVaOXBSSlBsRm84Ri1PandFOUtpNXY3S3p0M01LTi11TFhQZFhrQkhjemJ4N2taa3FOQ2lRcTR2RXQ3QjltdUd1eTBKQTNjQTQxRA?oc=5",
+       "titre": "European HYDEF hypersonic interceptor project completes first phase, expands to 16 countries"
+      }
+     ],
+     "id": "2026-10-30|European HYDEF hypersonic interceptor advances to 16 partner nations"
+    }
+   ]
+  },
+  {
+   "id": "industrie",
+   "titre": "Defence Industry & Contracts",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "📝",
+     "titre": "US Army selects Lockheed Martin PAC-3 Edge for Future Interceptor",
+     "resume": "The US Army chose Lockheed Martin's PAC-3 Edge design for its Future Interceptor development programme. The decision advances next-generation hit-to-kill surface-to-air missile technology to counter advanced ballistic and hypersonic threats.",
+     "pourquoi": "",
+     "pays": [
+      "United States"
+     ],
+     "region": "Americas",
+     "rubrique": "industrie",
+     "liens": [
+      {
+       "source": "Defence Industry Europe",
+       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOGRtV2U5MHJoa1pWcW5ZN3M3WDZsSkhxYzFKakRGSWxzd0FIUkJEd0c5VjdyRWIxS2k1UjVJODJUMW5uYlhoMzlfTDA0VWxLUWt3SU9xSWpMWWxDd3Axd0wtWGhvclFSbG1aS2kwWmxmMW5GdklzYVZ0Qy1xQ0l0eUtvNnJWSF9LUXRzTUdkcm1pT0VNRG9aSVctWmxyVHRQdzZ3S1hTZTM0d1pPUXR5UlZVaVpGc0FJZ2Vz?oc=5",
+       "titre": "U.S. Army selects Lockheed Martin’s PAC-3 Edge for Future Interceptor development program"
+      }
+     ],
+     "id": "2026-10-30|US Army selects Lockheed Martin PAC-3 Edge for Future Interceptor"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🛩️",
+     "titre": "Indian Navy launches Rafale Marine trials at Goa test facility",
+     "resume": "The Indian Navy commenced operational trials of Dassault Aviation's Rafale Marine fighter jet at the Shore-Based Test Facility in Goa. The tests prepare carrier air wings for integration ahead of serial fleet induction.",
+     "pourquoi": "",
+     "pays": [
+      "India",
+      "France"
+     ],
+     "region": "South Asia",
+     "rubrique": "industrie",
+     "liens": [
+      {
+       "source": "Asian Military Review",
+       "url": "https://www.asianmilitaryreview.com/2026/10/indian-navy-conducts-rafale-m-trials-in-goa-foc/",
+       "titre": "Indian Navy conducts Rafale M trials in Goa"
+      }
+     ],
+     "id": "2026-10-30|Indian Navy launches Rafale Marine trials at Goa test facility"
+    }
+   ]
+  },
+  {
+   "id": "ukraine",
+   "titre": "Ukraine / Russia",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🛩️",
+     "titre": "Poland prepares to transfer MiG-29 fighters and ammunition to Ukraine",
+     "resume": "Warsaw has reportedly resolved recent bilateral rifts with Kyiv and resumed plans to transfer remaining MiG-29 combat aircraft alongside F-16 cannon ammunition to Ukraine. The move bolsters Ukrainian frontline aviation amid sustained Russian air strikes.",
+     "pourquoi": "",
+     "pays": [
+      "Poland",
+      "Ukraine"
+     ],
+     "region": "Europe",
+     "rubrique": "ukraine",
+     "liens": [
+      {
+       "source": "The War Zone",
+       "url": "https://www.twz.com/news-features/polish-mig-29s-f-16-cannon-ammo-reportedly-headed-to-ukraine-as-bitter-warsaw-kyiv-rift-heals",
+       "titre": "Polish MiG-29s, F-16 Cannon Ammo Reportedly Headed To Ukraine As Bitter Warsaw-Kyiv Rift Heals"
+      }
+     ],
+     "id": "2026-10-30|Poland prepares to transfer MiG-29 fighters and ammunition to Ukraine"
+    }
+   ]
+  },
+  {
+   "id": "moyen_orient",
+   "titre": "Middle East",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "⚠️",
+     "titre": "Pentagon dismisses senior military planner over classified leaks",
+     "resume": "US Defence Secretary Pete Hegseth fired Army Lieutenant General Brett Sylvia, a senior Joint Staff operational planner, over accusations of leaking classified intelligence concerning Iran and Ukraine. The firing occurs amid intense deliberations over military strikes against Tehran.",
+     "pourquoi": "",
+     "pays": [
+      "United States",
+      "Iran"
+     ],
+     "region": "Middle East",
+     "rubrique": "moyen_orient",
+     "liens": [
+      {
+       "source": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/10/29/pentagon-fires-general-it-says-leaked-classified-information-to-media?traffic_source=rss",
+       "titre": "Pentagon fires general it says leaked classified information to media"
+      },
+      {
+       "source": "Defense News",
+       "url": "https://www.defensenews.com/pentagon/2026/10/29/senior-us-general-fired-accused-of-leaking-classified-information/",
+       "titre": "Senior US general fired, accused of leaking classified information"
+      },
+      {
+       "source": "CNBC",
+       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1YTnV6ZDY4ck1NMHRaQzRYX0hFVGRPTlVZLVVZdHp0cFhGZVJ6dWc3alhpVVZxSi1mZGtlSE1KenRyMmpmV0FWNS1JM283Z2tIemxMSkZkRGE2bkNqUmJCQ0M3YXpWZ2hqNmFlSFFB0gFzQVVfeXFMUDJCcm5OWTVVc3pnWVJZVmlwMklMeXMyaXI3aTUtWEIzamN0SGJRek5DN0tQQi1MdGtkYmEtZmREZTg1bEwtZTJGcHIyMjV5bDlNVDBfeExDTElIc3plZUNNQlpvQ3NIVDZHVUJkaEpLTFFJaw?oc=5",
+       "titre": "Hegseth reportedly fires U.S. top military planner as Trump downplays Iran peace talks"
+      },
+      {
+       "source": "The Times of Israel",
+       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTXRMYTJjcDZGdHZsOTY4SjAzcEZsVldXbzY4WWNMQ082elNIbWg5SlYwWWdOdzZLUmFLa1Jfbl9WVV9LVjJhd1NkNzVoNVVKb3BSMGtTNGNnS1p3MG1SLWFjMW85V2lpVTFTM1lMYjR2MG9qNkdqM1hPZDhIeURvMjI4YzlhWHVyTzkxYXM0bk9CRW5jMktBQ3RQWVlQejBCWS1CZ3RqSGw5ckp3ZFRvLXRoZldwOVVNNnVzTll2Y3M?oc=5",
+       "titre": "Hegseth fires Pentagon’s top military planner as Trump weighs new Iran strikes"
+      }
+     ],
+     "id": "2026-10-30|Pentagon dismisses senior military planner over classified leaks"
+    }
+   ]
+  },
+  {
+   "id": "europe",
+   "titre": "Europe",
+   "items": [
+    {
+     "suite": true,
+     "remplace": "2026-10-29|Spanish high-speed train collision kills at least 68 people",
+     "emoji": "🚆",
+     "titre": "Leaked audio reveals signalling clearance before fatal Spanish rail collision",
+     "resume": "Audio recordings from the Urda rail crash revealed dispatchers cleared a high-speed passenger train onto tracks occupied by a stalled train, raising the confirmed death toll to 69. The tragedy has triggered intense national debate over railway infrastructure maintenance.",
+     "pourquoi": "",
+     "pays": [
+      "Spain"
+     ],
+     "region": "Europe",
+     "rubrique": "europe",
+     "liens": [
+      {
+       "source": "BBC World",
+       "url": "https://www.bbc.co.uk/news/articles/cr78plp1p9yvo?at_medium=RSS&at_campaign=rss",
+       "titre": "Young athlete and former minister among victims of Spain train crash"
+      },
+      {
+       "source": "Le Monde International",
+       "url": "https://www.lemonde.fr/international/article/2026/10/29/accident-de-trains-en-espagne-le-roi-felipe-vi-a-rendu-visite-aux-victimes_6802375_3211.html",
+       "titre": "Accident de trains en Espagne : le roi Felipe VI a rendu visite aux victimes"
+      },
+      {
+       "source": "CNA Monde",
+       "url": "https://www.channelnewsasia.com/world/spanish-rescuers-search-victims-train-crash-death-toll-rises-69-6502846",
+       "titre": "Spanish rescuers search for victims as train crash death toll rises to 69"
+      }
+     ],
+     "id": "2026-10-30|Leaked audio reveals signalling clearance before fatal Spanish rail collision"
+    }
+   ]
+  },
+  {
+   "id": "espace",
+   "titre": "Space & Satellites",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🛰️",
+     "titre": "Pentagon pledges $150m loan to Stoke Space for launch capacity",
+     "resume": "The US Department of Defense pledged a $150 million loan to commercial rocket startup Stoke Space. The funding aims to accelerate reusable rocket development and expand sovereign military space launch alternatives.",
+     "pourquoi": "",
+     "pays": [
+      "United States"
+     ],
+     "region": "Americas",
+     "rubrique": "espace",
+     "liens": [
+      {
+       "source": "FlightGlobal",
+       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSFYzZmlVMnFIOWNVTXlvbUt1SFN3cTJnU0NpMlMzOEhQZ3Nxc2VRd3JpT01zZElxZkQ4NC1mcE42dW11dGZzWFJtekJLc0RKR0hCNFBiUUVBekV0alBqTXk2QnhvMkh6RktvY2NhbGRDY0ZzUW5IeFdxX2xvVEgybkdoZnl5bWhtOXk5b2xSU1lCa1hzRU5UU0xIdTlGNjEwbUNzdzVIeGp0UnRjMlo4Um1BOXRLR2VadEpOUjRvTkpRR280alZrMy1JUUphOU1CQ0dvQmhR?oc=5",
+       "titre": "Pentagon pledges $150m loan to Stoke Space in push to expand US military space launch capacity"
+      }
+     ],
+     "id": "2026-10-30|Pentagon pledges $150m loan to Stoke Space for launch capacity"
+    }
+   ]
+  },
+  {
+   "id": "tech",
+   "titre": "Emerging Tech",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "💻",
+     "titre": "Pentagon probes military base freezer failures as suspected cyberattack",
+     "resume": "The US Department of Defense is investigating widespread refrigeration failures that spoiled food supplies across several domestic military bases as a suspected coordinated cyberattack. Officials warn adversaries may be testing vulnerabilities in military logistics and base support networks.",
+     "pourquoi": "",
+     "pays": [
+      "United States"
+     ],
+     "region": "Americas",
+     "rubrique": "tech",
+     "liens": [
+      {
+       "source": "Reuters",
+       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZWtDa2JmUnFRRENlQ0RoX2hseFpyajltZE5vbjUwdnlDeTQ5M01zanFrNTBJcE1NV0RwZGFCd29LQXZQN2RYd3pBZnhNbU91eEdZalRSbVpXbTdnS2VXMXNaWE9ZdV9tSHVub29PUy1kX3BFYTNZUWM2NFpTLTZTWGdLX2hTXzYxR2JPanVaeVowcVZmMTZubVZxZE9QSjFPYmVuQjJFVVZqTUJKRUlMclM0NGM4YTNzMmR0ZUdR?oc=5",
+       "titre": "EXCLUSIVE: Pentagon treating military base freezer malfunctions as suspected cyberattack, officials say"
+      },
+      {
+       "source": "Defense News",
+       "url": "https://www.defensenews.com/pentagon/2026/10/29/pentagon-treating-military-base-freezer-malfunctions-as-suspected-cyberattack-officials-say/",
+       "titre": "Pentagon treating military base freezer malfunctions as suspected cyberattack, officials say"
+      }
+     ],
+     "id": "2026-10-30|Pentagon probes military base freezer failures as suspected cyberattack"
+    }
+   ]
+  },
+  {
+   "id": "economie",
+   "titre": "Economy & Sanctions",
+   "items": []
+  }
+ ],
+ "a_surveiller": [
+  {
+   "quand": "November 1",
+   "quoi": "Deadline for humanitarian assistance delivery and civilian evacuations in Russian-occupied Oleshky",
+   "liens": [
+    {
+     "source": "Le Monde International",
+     "url": "https://www.lemonde.fr/international/article/2026/10/29/en-ukraine-derriere-la-mission-humanitaire-a-olechky-la-crainte-d-une-operation-militaire-et-de-propagande-russe_6802386_3210.html",
+     "titre": "En Ukraine, derrière la mission humanitaire à Olechky, la crainte d’une opération militaire et de propagande russe"
+    }
+   ]
+  },
+  {
+   "quand": "November 3",
+   "quoi": "US midterm elections determining control of the Senate and House of Representatives",
+   "liens": [
+    {
+     "source": "CNA Monde",
+     "url": "https://www.channelnewsasia.com/world/usa-us-midterms-early-test-2028-presidential-election-6504756",
+     "titre": "Beyond Trump: US midterms offer early test in battle for White House in 2028"
+    }
+   ]
+  },
+  {
+   "quand": "November 10",
+   "quoi": "Swearing-in of Israel's newly elected Knesset following certified election deadlock",
+   "liens": [
+    {
+     "source": "The Times of Israel",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcGdUU1BJaV9ycTFtRmVVRTM0cm41TG1HQmJKY2NiRXFRdUoxQzg2ZWRxSGM1T0E2Q201cUlvSGZqdEZrcTlBUlZiNHB2a1JLcnRuaDFaOEU3bng0Wi1ad0haUFRGUjdqeU9Wd3NzT3hyMVU5akZ0aGpKR29vWklaSG1qbG1SNEtnZHp1QnNZeEJ1WUdESVM4OTIzbm1rRmpoc05UN0JmbnFnbWdycE9sQjVDZ0ZxdkVxenlJV0ZWeHdjY2piR0tlMGdDdFRMOFFhSHc?oc=5",
+     "titre": "Central Elections Committee publishes final election results, Knesset to be sworn in Nov. 10"
+    }
+   ]
+  },
+  {
+   "quand": "November 29",
+   "quoi": "Spanish general election held under intensified scrutiny of rail network safety",
+   "liens": [
+    {
+     "source": "Le Monde International",
+     "url": "https://www.lemonde.fr/international/article/2026/10/29/en-espagne-la-catastrophe-ferroviaire-d-urda-pose-a-nouveau-la-question-du-developpement-inconsidere-des-trains-a-grande-vitesse_6802350_3210.html",
+     "titre": "En Espagne, la catastrophe ferroviaire d’Urda pose à nouveau la question du développement inconsidéré des trains à grande vitesse"
+    }
+   ]
+  },
+  {
+   "quand": "December",
+   "quoi": "K-DEX 2026 defence exhibition in South Korea focusing on autonomous and counter-drone systems",
+   "liens": [
+    {
+     "source": "Asian Military Review",
+     "url": "https://www.asianmilitaryreview.com/2026/10/from-autonomous-systems-to-counter-drone-k-dex-2026-maps-out-future-battlefield-technologies/",
+     "titre": "From Autonomous Systems to Counter-Drone: K-DEX 2026 Maps Out Future Battlefield Technologies"
+    }
+   ]
+  }
+ ],
+ "hebdo": null,
+ "stats": {
+  "articles": 462,
+  "sources": 51
+ }
+}
