@@ -1,0 +1,683 @@
+{
+ "date": "2026-10-31",
+ "date_label": "Saturday, October 31, 2026",
+ "genere_le": "2026-10-31T09:54:23+08:00",
+ "mode": "ia",
+ "modele": "gemini-flash-latest",
+ "accroche": [
+  "US approves 500 Patriot missiles for Ukraine in two-billion-dollar deal",
+  "China tests GJ-21 stealth combat drone on amphibious assault ship",
+  "North Korean hackers steal record six billion dollars from crypto exchange"
+ ],
+ "essentiel": [
+  {
+   "suite": true,
+   "remplace": "2026-10-29|Ukraine urgently requests expedited Patriot interceptor deliveries from US",
+   "emoji": "🛡️",
+   "titre": "US approves $2.1bn sale of 500 Patriot PAC-3 MSE missiles for Ukraine",
+   "resume": "Washington approved a potential $2.1 billion foreign military sale of 500 Patriot PAC-3 MSE interceptors for Ukraine, funded by allied partners. Ukrainian authorities welcomed the decision despite concerns regarding multi-year delivery timelines.",
+   "pourquoi": "",
+   "pays": [
+    "United States",
+    "Ukraine"
+   ],
+   "region": "Russia-Ukraine",
+   "rubrique": "defense_aerienne",
+   "liens": [
+    {
+     "source": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+     "titre": "US approves sale of 500 Patriot missiles to Ukraine"
+    },
+    {
+     "source": "Rti 中央廣播電臺",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBwZDRtSUV0ODRic3FYZDhEU0R5NmJaV3RxaUdOWmhZdThiMm4zZ0UtaHNCclZzdERpY0c5UmQtQmtVd1RkdFVCRzZwd0prTUp2S0tiZ1pPNA?oc=5",
+     "titre": "川普政府批准 向烏克蘭出售500枚愛國者防空飛彈"
+    },
+    {
+     "source": "Le Monde International",
+     "url": "https://www.lemonde.fr/international/live/2026/10/30/en-direct-guerre-en-ukraine-washington-approuve-la-vente-de-500-missiles-patriot-a-kiev_6799896_3210.html",
+     "titre": "EN DIRECT, guerre en Ukraine : Washington approuve la vente de 500 missiles Patriot à Kiev"
+    },
+    {
+     "source": "中央社 CNA",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Qa1JnUXNYSTRfZVJid052QzVvdHZFZW0zcWpxa0dEbVA1SWpjZU5Jc1U5UVl6VnVTMVNCeUF6Sms5RWlHbk5LWTVBUmI1OEt0djd3Ym1OM0gxYklMRVIw?oc=5",
+     "titre": "強化烏克蘭防空能力川普政府批准出售500枚愛國者飛彈| 國際"
+    }
+   ],
+   "id": "2026-10-31|US approves $2.1bn sale of 500 Patriot PAC-3 MSE missiles for Ukraine"
+  },
+  {
+   "suite": false,
+   "remplace": null,
+   "emoji": "🛩️",
+   "titre": "China conducts carrier trials of stealthy GJ-21 drone on Type 076",
+   "resume": "Beijing announced the GJ-21 stealth combat unmanned aircraft has successfully launched from and recovered aboard the Type 076 amphibious assault ship. The trial marks an operational milestone for Chinese naval aviation and shipborne uncrewed combat platforms.",
+   "pourquoi": "",
+   "pays": [
+    "China"
+   ],
+   "region": "North-East Asia",
+   "rubrique": "asie",
+   "liens": [
+    {
+     "source": "The War Zone",
+     "url": "https://www.twz.com/air/stealthy-gj-21-drone-has-launched-and-recovered-from-type-076-amphibious-assault-ship-china-claims",
+     "titre": "Stealthy GJ-21 Drone Has Launched And Recovered From Type 076 Amphibious Assault Ship, China Claims"
+    },
+    {
+     "source": "Straits Times Asie",
+     "url": "https://www.straitstimes.com/asia/east-asia/china-says-stealth-attack-drone-makes-first-takeoff-landing-on-amphibious-ship",
+     "titre": "China says stealth attack drone makes first takeoff, landing on amphibious ship"
+    }
+   ],
+   "id": "2026-10-31|China conducts carrier trials of stealthy GJ-21 drone on Type 076"
+  },
+  {
+   "suite": false,
+   "remplace": null,
+   "emoji": "💻",
+   "titre": "North Korean hackers linked to record $6.36bn Binance cryptocurrency heist",
+   "resume": "Cybersecurity analysts attributed the theft of $6.36 billion from cryptocurrency exchange Binance to North Korean state-sponsored threat group TraderTraitor. Proceeds from the historic exploit are assessed to directly fund Pyongyang's weapons programmes.",
+   "pourquoi": "",
+   "pays": [
+    "North Korea"
+   ],
+   "region": "North-East Asia",
+   "rubrique": "tech",
+   "liens": [
+    {
+     "source": "Yonhap (Corée du Nord)",
+     "url": "https://en.yna.co.kr/view/AEN20261031000252315",
+     "titre": "(2nd LD) N. Korean hackers blamed for record US$6.36 bln Binance cryptocurrency theft: U.S. firm"
+    },
+    {
+     "source": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+     "titre": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea"
+    },
+    {
+     "source": "Straits Times Asie",
+     "url": "https://www.straitstimes.com/asia/east-asia/north-korean-hackers-linked-to-crypto-thefts-among-worlds-best-experts-say",
+     "titre": "North Korean hackers linked to crypto thefts among world’s best, experts say"
+    },
+    {
+     "source": "The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUk0tVDZsMEx4M1NtS1BVd2FFWGlnMDJob2l5Nk41MWhSc05uOEhWRWNDUDNfbUdHTzFzT3p2VUl0a3o0RENWTXhTZTExc2o2eDQ3S2RiTm1VYS0yRDkzendqZ1kxeWVaMXRvUGd6Z1pWZDNHVEZQcEk5UjdaOWpnSmFjVXEtb2wzNDUxQ3VMeFV2SVVpYlBFdlZleFdtUzJDVnBWYkthV2Q1R211amc?oc=5",
+     "titre": "How crypto hacking funds isolated North Korea’s nuclear programme"
+    }
+   ],
+   "id": "2026-10-31|North Korean hackers linked to record $6.36bn Binance cryptocurrency heist"
+  },
+  {
+   "suite": false,
+   "remplace": null,
+   "emoji": "💰",
+   "titre": "India approves $22.5bn in multi-domain defence procurement",
+   "resume": "India's Defence Acquisition Council granted preliminary approval for equipment proposals worth 2.12 trillion rupees across the armed forces. Capital allocations cover additional K9 self-propelled howitzers, helicopters, and unmanned aerial surveillance systems.",
+   "pourquoi": "",
+   "pays": [
+    "India"
+   ],
+   "region": "South Asia",
+   "rubrique": "industrie",
+   "liens": [
+    {
+     "source": "Asian Military Review",
+     "url": "https://www.asianmilitaryreview.com/2026/10/india-approves-defence-acquisitions-including-k9-sphs-worth-us22-5bn-foc/",
+     "titre": "India approves defence acquisitions, including K9 SPHs, worth US$22.5bn"
+    }
+   ],
+   "id": "2026-10-31|India approves $22.5bn in multi-domain defence procurement"
+  }
+ ],
+ "rubriques": [
+  {
+   "id": "monde",
+   "titre": "World",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🤝",
+     "titre": "G20 ministerial photo cancelled over European boycott of Lavrov",
+     "resume": "G20 organisers in the United States cancelled the traditional group photograph after European ministers refused to pose alongside Russian Foreign Minister Sergei Lavrov. Western delegations openly condemned Russia's war during the ministerial sessions.",
+     "pourquoi": "",
+     "pays": [
+      "United States",
+      "Russia",
+      "United Kingdom"
+     ],
+     "region": "Americas",
+     "rubrique": "monde",
+     "liens": [
+      {
+       "source": "BBC World",
+       "url": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
+       "titre": "G20 'family photo' cancelled after protests over presence of Russian minister"
+      },
+      {
+       "source": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/10/30/g20-drops-group-photo-as-europeans-refuse-to-stand-with-lavrov?traffic_source=rss",
+       "titre": "G20 drops group photo as Europeans refuse to stand with Lavrov"
+      },
+      {
+       "source": "CNA Monde",
+       "url": "https://www.channelnewsasia.com/world/us-marco-rubio-g20-ministers-iran-ukraine-war-6506156",
+       "titre": "Rubio hosts G20 ministers as Iran, Ukraine wars divide members"
+      }
+     ],
+     "id": "2026-10-31|G20 ministerial photo cancelled over European boycott of Lavrov"
+    }
+   ]
+  },
+  {
+   "id": "asie",
+   "titre": "APAC",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🛩️",
+     "titre": "Royal Malaysian Air Force receives first FA-50M light fighter",
+     "resume": "Malaysia took delivery of its first KAI FA-50M light combat aircraft from South Korea to bolster tactical air operations. Deliveries across the 18-aircraft procurement programme are scheduled to conclude by March 2028.",
+     "pourquoi": "",
+     "pays": [
+      "Malaysia",
+      "South Korea"
+     ],
+     "region": "South-East Asia",
+     "rubrique": "asie",
+     "liens": [
+      {
+       "source": "NST Online",
+       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPckxIdXNsOTk3RmZMX196M25DMWFvaEg5Z2VWeUlNOTFZdUM2bFhXcGYzM043MlpEbXBhSGF0ZExjLWwyTC1IQnNoSVlYVE1PNnlhS2xaZGIxeWdJNnVBM3cxaFJ2Z3Y2WHlXNEpzelRONEpDd0R0bzBRVzQwNGdVamdfWHh1OURzVEdpeHoyNTR0bmxXU1lvcHZqc2FZUFZlb05xdVJXV3AyYUhZYXZqeEZsNVZZZ9IBtgFBVV95cUxPckxIdXNsOTk3RmZMX196M25DMWFvaEg5Z2VWeUlNOTFZdUM2bFhXcGYzM043MlpEbXBhSGF0ZExjLWwyTC1IQnNoSVlYVE1PNnlhS2xaZGIxeWdJNnVBM3cxaFJ2Z3Y2WHlXNEpzelRONEpDd0R0bzBRVzQwNGdVamdfWHh1OURzVEdpeHoyNTR0bmxXU1lvcHZqc2FZUFZlb05xdVJXV3AyYUhZYXZqeEZsNVZZZw?oc=5",
+       "titre": "RMAF's first FA-50M fighter touches down on Malaysian soil [WATCH]"
+      },
+      {
+       "source": "South China Morning Post",
+       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWVVmWGR6YWhhWU5lQ1FTaVNJUmYxcGFEY3g3UXlDRW5xSURtN0NxNXdDYVUyR0lZTzl4cEZLc3VSREJQdEVnMDBGU3NCZVh3RVYxd05VVmg2QldKWDNMMFAwZkE5ZGp5c0hFaVZ3ZHdFR0NxR3NSTFN0RU5vajBxaWV0NlBoaGtKMUlqNWg4dmNhVE03SVhQSlhrX2tGM0habm9wREVWbE96YmZ4OXZwMW9GZWpCajNIdVlfM2ZYX3N2X1g3SXRURU1IQzJ4b2s30gHQAUFVX3lxTE1ZVWZYZHphaGFZTmVDUVNpU0lSZjFwYURjeDdReUNFbnFJRG03Q3E1d0NhVTJHSVlPOXhwRktzdVJEQlB0RWcwMEZTc0JlWHdFVjF3TlVWaDZCV0pYM0wwUDBmQTlkanlzSEVpVndkd0VHQ3FHc1JMU3RFTm9qMHFpZXQ2UGhoa0oxSWo1aDh2Y2FUTTdJWFBKWGtfa0YzSFpub3BERVZsT3piZng5dnAxb0ZlakJqM0h1WV8zZlhfc3ZfWDdJdFRFTUhDMnhvazc?oc=5",
+       "titre": "Malaysia’s ageing fighters get some relief as South Korean jets arrive"
+      },
+      {
+       "source": "The Star",
+       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOWM0SEhNR0tFaTd2aG9sNHlVYXZlc2JwWEQ1N2J5WHVpeXdqSGlmRElWLTJUU3ctTEl1VlZ3dDEyVTRPeEdZdjFQQlpyWllIemlRRDd6Um16aExZdnVORUwzOFd3SkljT0ZFVFVIVTFsQklBMDJYYXowV2ZiS3o3Y0tvSEhJeHQxTG1hMVZBaVk0NFBuaU15ZTBVY2VjdGI5bFlWMTVXeWJ6cWtrVTRKamNtczVOUmJ5c19vRURpN1dzNnIyaXRzVQ?oc=5",
+       "titre": "Malaysia receives first FA-50M fighter jet, full delivery expected by March 2028"
+      }
+     ],
+     "id": "2026-10-31|Royal Malaysian Air Force receives first FA-50M light fighter"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🇸🇬",
+     "titre": "Singapore and Malaysia conclude Exercise Malapura 2026",
+     "resume": "The Republic of Singapore Navy and Royal Malaysian Navy completed their bilateral maritime exercise Malapura in the Strait of Malacca. Drills focused on conventional warfare drills, maritime security coordination, and interoperability between surface combatants.",
+     "pourquoi": "",
+     "pays": [
+      "Singapore",
+      "Malaysia"
+     ],
+     "region": "South-East Asia",
+     "rubrique": "asie",
+     "liens": [
+      {
+       "source": "www.mindef.gov.sg",
+       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE84cmRmS285ZkJoM0Y3WGZ5ZjNlOE04eGpsNTFEcGh0eDVSMUlyaEpLb1Z3Q1ZWcEtiU2lSSzlNNEQxTlZ5ZXRnQ3JrNXBlNC1fU2VtV0ZaZlVFekxXdExJZGkyMnBIZ2xCZDBaUDd2akZYRnJITlgw?oc=5",
+       "titre": "Singapore and Malaysia Navies Strengthen Maritime Cooperation in Exercise Malapura 2026"
+      }
+     ],
+     "id": "2026-10-31|Singapore and Malaysia conclude Exercise Malapura 2026"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🇸🇬",
+     "titre": "Singapore foreign minister visits Pakistan in first bilateral trip since 2005",
+     "resume": "Singapore Foreign Minister Vivian Balakrishnan completed an official visit to Islamabad, meeting Pakistani leadership to discuss expanding bilateral trade ties. It marks the first visit by a Singapore government leader to Pakistan in two decades.",
+     "pourquoi": "",
+     "pays": [
+      "Singapore",
+      "Pakistan"
+     ],
+     "region": "South Asia",
+     "rubrique": "asie",
+     "liens": [
+      {
+       "source": "Straits Times Singapour",
+       "url": "https://www.straitstimes.com/singapore/better-late-than-never-says-balakrishnan-on-first-pakistan-visit-by-spore-leader-in-two-decades",
+       "titre": "‘Better late than never,’ says Balakrishnan on first Pakistan visit by S’pore leader in two decades"
+      },
+      {
+       "source": "CNA Singapour",
+       "url": "https://www.channelnewsasia.com/singapore/mfa-vivian-balakrishnan-pakistan-ishaq-dar-6505711",
+       "titre": "Vivian Balakrishnan urges ‘much higher’ trade with Pakistan on first visit by a Singapore leader since 2005"
+      }
+     ],
+     "id": "2026-10-31|Singapore foreign minister visits Pakistan in first bilateral trip since 2005"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🤝",
+     "titre": "Switzerland reopens Pyongyang diplomatic office after high-level visit",
+     "resume": "Swiss Foreign Minister Ignazio Cassis concluded a two-day visit to Pyongyang, announcing the reopening of Switzerland's diplomatic representation office in North Korea. Cassis subsequently briefed South Korean officials in Seoul on the discussions.",
+     "pourquoi": "",
+     "pays": [
+      "Switzerland",
+      "North Korea",
+      "South Korea"
+     ],
+     "region": "North-East Asia",
+     "rubrique": "asie",
+     "liens": [
+      {
+       "source": "Yonhap (Corée du Nord)",
+       "url": "https://en.yna.co.kr/view/AEN20261031001000315",
+       "titre": "N. Korea reports on Swiss FM's visit following opening of diplomatic office"
+      },
+      {
+       "source": "RFI Asie-Pacifique",
+       "url": "https://www.rfi.fr/fr/asie-pacifique/20261030-cor%C3%A9e-du-nord-la-suisse-annonce-la-r%C3%A9ouverture-de-sa-repr%C3%A9sentation-diplomatique-%C3%A0-pyongyang",
+       "titre": "Corée du Nord: la Suisse annonce la réouverture de sa représentation diplomatique à Pyongyang"
+      }
+     ],
+     "id": "2026-10-31|Switzerland reopens Pyongyang diplomatic office after high-level visit"
+    }
+   ]
+  },
+  {
+   "id": "elections",
+   "titre": "Elections & Politics",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "⚖️",
+     "titre": "Riot police deploy at Poland's top court amid judicial constitutional crisis",
+     "resume": "Polish riot police cordoned off the Constitutional Tribunal in Warsaw after the government suspended two senior magistrates and initiated criminal proceedings. Demonstrators and opposition lawmakers gathered outside the court to protest executive interference.",
+     "pourquoi": "",
+     "pays": [
+      "Poland"
+     ],
+     "region": "Europe",
+     "rubrique": "elections",
+     "liens": [
+      {
+       "source": "BBC World",
+       "url": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
+       "titre": "Police deployed during stand-off over control of top Poland court"
+      },
+      {
+       "source": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/10/30/polish-police-deployed-to-top-court-after-head-judge-suspended?traffic_source=rss",
+       "titre": "Polish police deployed to top court after head judge suspended"
+      },
+      {
+       "source": "Le Monde International",
+       "url": "https://www.lemonde.fr/international/article/2026/10/30/en-pologne-le-president-du-tribunal-constitutionnel-ecarte-la-police-deployee-a-varsovie_6803134_3210.html",
+       "titre": "En Pologne, le président du Tribunal constitutionnel écarté, la police déployée à Varsovie"
+      }
+     ],
+     "id": "2026-10-31|Riot police deploy at Poland's top court amid judicial constitutional crisis"
+    }
+   ]
+  },
+  {
+   "id": "defense_aerienne",
+   "titre": "Air & Missile Defence",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🛡️",
+     "titre": "Ukraine completes Freyja anti-ballistic missile defence development",
+     "resume": "Kyiv concluded domestic engineering on Freyja, a multinational surface-to-air defence shield designed to intercept ballistic threats. Ukrainian authorities stated operational deployment now awaits final component deliveries from European consortium partners.",
+     "pourquoi": "",
+     "pays": [
+      "Ukraine"
+     ],
+     "region": "Russia-Ukraine",
+     "rubrique": "defense_aerienne",
+     "liens": [
+      {
+       "source": "Defense News",
+       "url": "https://www.defensenews.com/global/europe/2026/10/30/ukraine-completes-work-on-new-missile-defense-system-awaits-european-partner-components/",
+       "titre": "Ukraine completes work on new missile defense system, awaits European partner components"
+      }
+     ],
+     "id": "2026-10-31|Ukraine completes Freyja anti-ballistic missile defence development"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🇸🇬",
+     "titre": "Singapore Armed Forces evaluate mobile counter-drone systems in Australia",
+     "resume": "The Singapore Armed Forces conducted field trials of mobile counter-uncrewed aerial systems (C-UAS) during overseas deployment in Australia. The evaluations tested modular sensors and electronic jamming capabilities in austere operating environments.",
+     "pourquoi": "",
+     "pays": [
+      "Singapore",
+      "Australia"
+     ],
+     "region": "South-East Asia",
+     "rubrique": "defense_aerienne",
+     "liens": [
+      {
+       "source": "Unmanned airspace",
+       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUXNiY2w0OU4weDBSSlB0YW5iYi1EME5vLURHOEpsbjJBNTlCRzdJOGNMaklOS2lzWXlmTFFSTTZ2cG1XbWNUTlBCVmZQREwxeDhRYWNtQjJZTnhmMWRzSXdzbERaZEZLU2JlazBEcVhDOWFseW91WndIQ292SlNpcDNJeUQwTDdhZWZzcTJ1OUpsY0VMZFNZOVlnUHNyQ3BMQ1EyRDNjOTZZRm9uaHhnT09sVQ?oc=5",
+       "titre": "Singapore evaluates mobile C-UAS in Australia"
+      }
+     ],
+     "id": "2026-10-31|Singapore Armed Forces evaluate mobile counter-drone systems in Australia"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🚢",
+     "titre": "Spanish Navy and Navantia plan IAMD configuration for F110 frigates",
+     "resume": "The Spanish Navy and shipbuilder Navantia initiated plans to develop an Integrated Air and Missile Defence (IAMD) variant for the F110 class. The configuration will incorporate upgraded sensors and command systems for high-intensity air defence.",
+     "pourquoi": "",
+     "pays": [
+      "Spain"
+     ],
+     "region": "Europe",
+     "rubrique": "defense_aerienne",
+     "liens": [
+      {
+       "source": "Janes Defence Intelligence",
+       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeWtpajBITnZXY2JXY3gwYjFrTTZFQlR0MzZSbG5SZW5rSW5pQVR0ODJfLTFyYmlEbFIwVzBPcVBvYU03YnZoMWItT2FsRS1Dc3B1X0RHQktvdWR0N2lKM3FEcVJyQ2ZOQVZJMlkzU2Y0VG1FcFdPMXMzQXZINnRRWHYtM0tGS1JMdXU4UTZLdDRza3o5ZWNoci1kQ1c0c0pBZ2Zsd3V2ZEFEb1RBTHlVTlVhb2R2WjVGQUZpeEp4bXpCRFk?oc=5",
+       "titre": "Spanish Navy, Navantia, chart course for F110 IAMD variant"
+      }
+     ],
+     "id": "2026-10-31|Spanish Navy and Navantia plan IAMD configuration for F110 frigates"
+    }
+   ]
+  },
+  {
+   "id": "industrie",
+   "titre": "Defence Industry & Contracts",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🚢",
+     "titre": "Hanwha Philly Shipyard selected for $269m US Navy Medium Landing Ship",
+     "resume": "Ship manager TOTE Services awarded a $269 million contract to Hanwha Defense USA to construct the US Navy's first Medium Landing Ship. Construction will take place at Hanwha Philly Shipyard in Pennsylvania.",
+     "pourquoi": "",
+     "pays": [
+      "United States",
+      "South Korea"
+     ],
+     "region": "Americas",
+     "rubrique": "industrie",
+     "liens": [
+      {
+       "source": "Breaking Defense",
+       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbGw2YnY4dVZOenU2cy1kM0ZTRkNJdDNpbEtOYUZEMElGcFFMOHRrUXBTRUpoVk9rQVJSaGVlOG40UXc0cWY1YWhIYlQwQUZMWlJXNTd3ZlYwVWdjNm5nOG5LVUFVX1Z2eWRpcnp6MDF1LS11ekdsWUVYWC1NcktUUUplekpZUl9qbjg3S2ZEOTZMbWVGQlk1UXFiWmZYWWZzRGFWekRBWm51eWZj?oc=5",
+       "titre": "Navy flexes new acquisition muscles with TOTE’s $269M LSM award to Hanwha"
+      },
+      {
+       "source": "Naval News",
+       "url": "https://www.navalnews.com/naval-news/2026/10/hanwha-philly-shipyard-selected-to-build-us-navy-medium-landing-ship-lsm/",
+       "titre": "Hanwha Philly Shipyard Selected to Build US Navy Medium Landing Ship (LSM)"
+      }
+     ],
+     "id": "2026-10-31|Hanwha Philly Shipyard selected for $269m US Navy Medium Landing Ship"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "📝",
+     "titre": "UK mandates local investment for foreign defence deals exceeding £50m",
+     "resume": "The British Ministry of Defence introduced a procurement policy requiring overseas contractors to commit to domestic industrial investments for deals over £50 million. The rule aims to reinforce sovereign UK manufacturing capacity.",
+     "pourquoi": "",
+     "pays": [
+      "United Kingdom"
+     ],
+     "region": "Europe",
+     "rubrique": "industrie",
+     "liens": [
+      {
+       "source": "Breaking Defense",
+       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaGppMDlPTG81ZnE0bkJPbXRKZDZ2WFdGcU9RS0xYMFBPS2JlajVHeEJVN3Q0TXZfVXMzT0hxRGF6UkpQOVR1d25hYjRmdHFzLWpqVV9CWFdEbmtSVzJsOFlERUV6TG9hNnM4VkYzUWZEU1FHNS1wazBMUDJua3NRRC1JSWIxM0loY3gtUTVwcWwwaDlWT1NYT2RjV3lpMGlMMXI0ZURpWDFMUTN1VV9FZ1gxbzMxcllvRmt5cFQ1Ykw?oc=5",
+       "titre": "New UK policy requires foreign defense contractors to invest locally for all £50M+ deals"
+      }
+     ],
+     "id": "2026-10-31|UK mandates local investment for foreign defence deals exceeding £50m"
+    }
+   ]
+  },
+  {
+   "id": "ukraine",
+   "titre": "Ukraine / Russia",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "⚠️",
+     "titre": "Pentagon asks European allies to temper rhetoric on Russian military threat",
+     "resume": "US defence officials urged several European NATO members to moderate their public statements regarding potential direct conflict with Russia, according to diplomatic sources. Washington reportedly raised concerns over escalating rhetoric amid ongoing defence production ramp-ups.",
+     "pourquoi": "",
+     "pays": [
+      "United States",
+      "Russia"
+     ],
+     "region": "Europe",
+     "rubrique": "ukraine",
+     "liens": [
+      {
+       "source": "Defense News",
+       "url": "https://www.defensenews.com/global/europe/2026/10/30/pentagon-tells-europeans-to-cool-their-rhetoric-on-russia-sources-say/",
+       "titre": "Pentagon tells Europeans to cool their rhetoric on Russia, sources say"
+      },
+      {
+       "source": "Reuters",
+       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTEZ5UV9XWUJPdkJDanlwdEFEY1V5T3A3UExxWHoxZFBHbnY1RjFsS0JwWk92TFhqYWpLVTFmMk9VUUhiRzZDVDZsdERfTERlUUZ0cWdKNm9MeUE4Mm5MNWZuaXpNLXVOM3BVczNXVndOOGlBZk9PLXBqT3hGLXpsRGVkREl6cTk5RXNWRThVVkNrem5BQkp0SVFReWY3aEktdGItd0c5bTNQUFVsRGZwczRYSUJVUFE?oc=5",
+       "titre": "EXCLUSIVE: Pentagon tells Europeans to cool their rhetoric on Russia, sources say"
+      }
+     ],
+     "id": "2026-10-31|Pentagon asks European allies to temper rhetoric on Russian military threat"
+    }
+   ]
+  },
+  {
+   "id": "moyen_orient",
+   "titre": "Middle East",
+   "items": [
+    {
+     "suite": true,
+     "remplace": "2026-10-30|Tankers hit mines in Hormuz as US prepares Iran strike options",
+     "emoji": "🤝",
+     "titre": "Qatari and Pakistani mediators hold Tehran talks amid maritime tensions",
+     "resume": "Diplomatic delegations from Qatar and Pakistan visited Tehran to negotiate de-escalation frameworks with Iranian officials following limpet mine strikes on commercial tankers in the Strait of Hormuz. President Trump stated the confrontation would resolve shortly.",
+     "pourquoi": "",
+     "pays": [
+      "Iran",
+      "Qatar",
+      "Pakistan",
+      "United States"
+     ],
+     "region": "Middle East",
+     "rubrique": "moyen_orient",
+     "liens": [
+      {
+       "source": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/liveblog/2026/10/31/iran-war-live-oil-tankers-hit-in-hormuz-trump-says-conflict-will-end-soon?traffic_source=rss",
+       "titre": "Iran war live: Oil tankers hit in Hormuz; Trump says conflict will end soon"
+      },
+      {
+       "source": "The National",
+       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcUJqUkM5anZjdXlzaUJZQkZVQ2lUVmZpT3JSMmFQdmUwT21UYkR6aVNmUXFBMHJkRXMtXy1yVWt4cUx3a2dkM1FRLVdHOEh4eTNrUVRoNmpkaW1laENrbzY2ZHNaeWJVQnNmWkNzRER2SWxlTEZBMGpVc3BoVzdkWEhGaW1GNzEt?oc=5",
+       "titre": "Middle East latest: Qatari mediators in Tehran again with latest proposal to end regional war"
+      },
+      {
+       "source": "Al-Monitor",
+       "url": "https://www.al-monitor.com/originals/2026/10/exclusive-pakistan-military-cautiously-optimistic-iran-us-mediation",
+       "titre": "Exclusive-Pakistan military 'cautiously optimistic' on Iran-US mediation"
+      },
+      {
+       "source": "The War Zone",
+       "url": "https://www.twz.com/news-features/iran-used-limpet-mine-placed-on-ships-hull-in-latest-strait-of-hormuz-attack-report",
+       "titre": "Iran Used Limpet Mine Placed On Ship’s Hull In Latest Strait Of Hormuz Attack: Report"
+      }
+     ],
+     "id": "2026-10-31|Qatari and Pakistani mediators hold Tehran talks amid maritime tensions"
+    }
+   ]
+  },
+  {
+   "id": "europe",
+   "titre": "Europe",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🛡️",
+     "titre": "Bulgaria joins NATO lower-level air defence threat initiative",
+     "resume": "Bulgaria formally acceded to NATO's multinational initiative focused on countering low-altitude and very-low-altitude aerial threats. The framework coordinates sensor sharing, doctrine, and procurement across member states to intercept drones and cruise missiles.",
+     "pourquoi": "",
+     "pays": [
+      "Bulgaria"
+     ],
+     "region": "Europe",
+     "rubrique": "europe",
+     "liens": [
+      {
+       "source": "North Atlantic Treaty Organization",
+       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQY3BIcV9XN1ZTSW44ZmJTaWNLeEx0THF3YjJ4bGl3VDNuT0o2TnBOWjNVT3hPTzhHdU85bVJaWU1WcWdMc0NTaUo3cDNBa3dETmFwelNWSjFZeDVjb195NWRGMlJWb1hjOHhQb3NGN2pZaFJ6a1RDN1ZFbzZWdWNMWDdSUUFLaGhaazNvNVgzTkNBMU5SNDdSLTJ2QW9rSnYtSk5PbnNLeGtPY284aElHakwwaXVnU2tXeTI2VDlrV0otY1htdWtSbHl3?oc=5",
+       "titre": "La Bulgarie adhère à l’initiative de l’OTAN concernant les menaces évoluant à très basse altitude"
+      }
+     ],
+     "id": "2026-10-31|Bulgaria joins NATO lower-level air defence threat initiative"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🛡️",
+     "titre": "Germany and Norway launch joint Leopard 2A8 production under Hansa pact",
+     "resume": "German manufacturer KNDS and Norwegian firm Ritek initiated local assembly of Leopard 2A8 main battle tanks in Norway. The joint venture advances the bilateral Hansa defence agreement covering land platforms, naval programmes, and space security.",
+     "pourquoi": "",
+     "pays": [
+      "Germany",
+      "Norway"
+     ],
+     "region": "Europe",
+     "rubrique": "europe",
+     "liens": [
+      {
+       "source": "Defense News",
+       "url": "https://www.defensenews.com/global/europe/2026/10/30/from-tanks-to-space-norway-and-germany-forge-ahead-with-hansa-defense-pact/",
+       "titre": "From tanks to space, Norway and Germany forge ahead with ‘Hansa’ defense pact"
+      }
+     ],
+     "id": "2026-10-31|Germany and Norway launch joint Leopard 2A8 production under Hansa pact"
+    }
+   ]
+  },
+  {
+   "id": "espace",
+   "titre": "Space & Satellites",
+   "items": []
+  },
+  {
+   "id": "tech",
+   "titre": "Emerging Tech",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🛩️",
+     "titre": "General Atomics develops NextGen hybrid-electric flying wing",
+     "resume": "General Atomics revealed development of NextGen, an uncrewed flying-wing aircraft utilizing hybrid-electric propulsion for long-endurance strike and reconnaissance missions. The company also confirmed live-fire trials of an air-to-ground Collaborative Combat Aircraft derivative planned for next year.",
+     "pourquoi": "",
+     "pays": [
+      "United States"
+     ],
+     "region": "Americas",
+     "rubrique": "tech",
+     "liens": [
+      {
+       "source": "The War Zone",
+       "url": "https://www.twz.com/news-features/general-atomics-developing-strike-recon-flying-wing-called-nextgen-that-uses-hybrid-electric-propulsion",
+       "titre": "General Atomics Developing Strike-Recon Flying Wing Called NextGen That Uses Hybrid-Electric Propulsion"
+      }
+     ],
+     "id": "2026-10-31|General Atomics develops NextGen hybrid-electric flying wing"
+    }
+   ]
+  },
+  {
+   "id": "economie",
+   "titre": "Economy & Sanctions",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "⚠️",
+     "titre": "US FCC plans vote to block Chinese telecoms from US telephone numbers",
+     "resume": "The US Federal Communications Commission scheduled a vote for November 19 to bar China Mobile, China Telecom, and China Unicom from direct access to US phone numbers. Regulators cited national security risks associated with interconnected telecommunications networks.",
+     "pourquoi": "",
+     "pays": [
+      "United States",
+      "China"
+     ],
+     "region": "Americas",
+     "rubrique": "economie",
+     "liens": [
+      {
+       "source": "CNA Monde",
+       "url": "https://www.channelnewsasia.com/world/us-plans-ban-chinese-telecom-firms-direct-access-phone-numbers-6505891",
+       "titre": "US plans to ban Chinese telecom firms from direct access to US phone numbers"
+      }
+     ],
+     "id": "2026-10-31|US FCC plans vote to block Chinese telecoms from US telephone numbers"
+    }
+   ]
+  }
+ ],
+ "a_surveiller": [
+  {
+   "quand": "November 1",
+   "quoi": "Bulgaria holds the second round of its presidential election",
+   "liens": [
+    {
+     "source": "Le Monde International",
+     "url": "https://www.lemonde.fr/international/article/2026/10/30/en-bulgarie-sur-les-bords-de-la-mer-noire-les-attaques-de-drones-s-invitent-dans-la-campagne-presidentielle_6803108_3210.html",
+     "titre": "En Bulgarie, sur les bords de la mer Noire, les attaques de drones s’invitent dans la campagne présidentielle"
+    }
+   ]
+  },
+  {
+   "quand": "November 3",
+   "quoi": "US midterm congressional elections and UN International Court of Justice judicial election take place",
+   "liens": [
+    {
+     "source": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/31/pope-leo-becomes-first-pontiff-to-vote-in-us-general-election?traffic_source=rss",
+     "titre": "Pope Leo becomes first pontiff to vote in US general election"
+    },
+    {
+     "source": "Straits Times Singapour",
+     "url": "https://www.straitstimes.com/singapore/politics/edwin-tong-warns-of-new-maritime-tech-risks-urges-support-for-international-law-at-un",
+     "titre": "Edwin Tong warns of new maritime tech risks, urges support for international law at UN"
+    }
+   ]
+  },
+  {
+   "quand": "November 19",
+   "quoi": "US Federal Communications Commission votes on barring Chinese telecom carriers from direct phone number access",
+   "liens": [
+    {
+     "source": "CNA Monde",
+     "url": "https://www.channelnewsasia.com/world/us-plans-ban-chinese-telecom-firms-direct-access-phone-numbers-6505891",
+     "titre": "US plans to ban Chinese telecom firms from direct access to US phone numbers"
+    }
+   ]
+  }
+ ],
+ "hebdo": null,
+ "stats": {
+  "articles": 419,
+  "sources": 52
+ }
+}
