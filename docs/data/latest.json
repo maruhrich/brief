@@ -1,197 +1,170 @@
 {
- "date": "2026-11-02",
- "date_label": "Monday, November 2, 2026",
- "genere_le": "2026-11-02T09:54:39+08:00",
+ "date": "2026-11-03",
+ "date_label": "Tuesday, November 3, 2026",
+ "genere_le": "2026-11-03T11:44:42+08:00",
  "mode": "ia",
  "modele": "gemini-flash-latest",
  "accroche": [
-  "Ukrainian air raid alert app compromised by suspected cyberattack",
-  "Doha talks continue as US and Tehran trade strike warnings",
-  "Acting President Iotova leads runoff in Bulgarian presidential election"
+  "US strikes Iranian targets on Qeshm Island amid ongoing Hormuz negotiations",
+  "North Korea tests cruise missile dispersal warhead with vertical strike capability",
+  "US voters cast ballots in pivotal midterms following California court ruling"
  ],
  "essentiel": [
   {
-   "suite": false,
-   "remplace": null,
-   "emoji": "🛡️",
-   "titre": "Ukraine air raid alert app disrupted by suspected cyberattack",
-   "resume": "Ukraine's air force reported that its public air raid alert app suffered hostile interference, issuing false alarms including radiation threats. Russian authorities later claimed their domestic warning application was also targeted by hackers.",
-   "pourquoi": "",
-   "pays": [
-    "Ukraine",
-    "Russia"
-   ],
-   "region": "Russia-Ukraine",
-   "rubrique": "defense_aerienne",
-   "liens": [
-    {
-     "source": "Al Jazeera",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZU1vWGMtSG45R1lkVVhDY2FydFpzYnlRRDRYV1RWdnQwMFlmbGxlc25TYzcwOEhWa2I3MUtHU2JGSXVEVTJKSWxMRW1rMFJIQjBGZXZhTXhIYzZQbmotOTR2LU5xdWhmbWNxNG1kQTYwWGUwOEpjRnJPR2k2Z2FXdFdBNTZKakNUTm40SXJCcTJzSENMMFNHZ0dDLVBfX2NxZGdFNnpQWXBIYVnSAbABQVVfeXFMUDJJdUpjTzFFV1E2dWZrVlFpRWZYbWxqeVE3VWhJWkVOcF9PQTlsRnBleC0zUEZLWHFuUXgzeFQzN2o3dXJKSFhWRVdJWmsxMTBIOWVpeTNjUUlKV0ZoemNwV25DSG8wd0ZDcjBUNlJKaHJ3UlhZSVRtWnk2czU1UVpna1pvaThNdDB0SGVoZXFZOG9TZ3dUZWRPcl9TclAzR3JBTGFBRy1QVnJjb3hXRU0?oc=5",
-     "titre": "Ukraine blames Russia after air alert app sends out false warnings"
-    },
-    {
-     "source": "France 24",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcFpOaTZ0SmdxM0pXSGlqZzRfRnI2MW1qdWU2NnJQZDR4VnVLZkxidi1jX0w2NUZONWNPbk40czlOWHFNelQweUFyME9YRDhwOGNBSjhWRGllaW1Ub1ZrTmZ3OUF0VHNkV3BOLTJ1LUZlcFZMXzlQeWdEUjA1ckd5NTFxeEZvTkdNeVdzT21sNUVrY0JnNUdvSVFCck0zU2R2VWNuZEVnQXd2dw?oc=5",
-     "titre": "Ukraine suspects nationwide air raid alert app has been hacked"
-    },
-    {
-     "source": "BBC World",
-     "url": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
-     "titre": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says"
-    },
-    {
-     "source": "The Straits Times",
-     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQaTlTczlCaG9EM1lNWnItTTNkWnRYZ0J3ZEhvNGxJZDF6a1NTNXFnZ0QydE9TcW1PZzB1ZTFVN21LWTdhdHIxSVo2cmVoT05qODJ0OHkzRUU3eHJJcURPekZVOVRaM05WQnBCYmxITUg1Y2ZXSWQ0ckIycG82b0FwNkg5WGkzZzVQQmRia21GekJMS2NHRV96X28yajBDNUpWMmJsQ2szQ19ublFqeGdUOWROT1drRFFjYmVFeHZWTFZuWXNDMVI4dy11QzMyMVJQYUZmdXVHYVNyOVpabVFQNTVsbnJaTG1NZ2c?oc=5",
-     "titre": "Ukrainian air force says public air raid alert app sent erroneous alerts after being hacked"
-    }
-   ],
-   "id": "2026-11-02|Ukraine air raid alert app disrupted by suspected cyberattack"
-  },
-  {
    "suite": true,
-   "remplace": "2026-11-01|Iran supreme leader orders unrestricted military response",
-   "emoji": "⚠️",
-   "titre": "Tehran and Washington trade warnings as Doha mediation continues",
-   "resume": "Iranian negotiators held a third day of talks with Qatari mediators in Doha to halt the conflict. Concurrently, Donald Trump warned US strikes remain possible, while Tehran threatened a longer, geographically unrestricted response.",
+   "remplace": "2026-11-02|Tehran and Washington trade warnings as Doha mediation continues",
+   "emoji": "💥",
+   "titre": "US launches strikes on Iran's Qeshm Island",
+   "resume": "The US military conducted strikes targeting Iranian positions on Qeshm Island in the Strait of Hormuz to counter missile threats. The operation occurred as Washington and Tehran signalled ongoing indirect talks to avert broader conflict.",
    "pourquoi": "",
    "pays": [
-    "Iran",
     "United States",
-    "Qatar",
-    "Israel"
+    "Iran"
    ],
    "region": "Middle East",
    "rubrique": "moyen_orient",
    "liens": [
     {
-     "source": "NBC News",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQclJ5Z2xoZkFWUnVfZ291YlpDVzBRTUUzcFRMSVRLNm9jZ25KWVh1SmpfOVhwaDVmWDVISzRfWVB1aEtYd2JCVWtyY3dYVkVnbkFYSWZOSklydXcyenVRNjJ1ZFBTMlNCQklGdFpRY0I5WGVFMEhpMkxoYjdHVFBEUG9iTExkMW9DU3JjazhVYWhZcFM3US1sS3Vid2ZJLTBOSUVIdHFVbXZ6X0JyeU1DbDJxbGZ6Mnltd2Z2ei1UeThhTVQ1NmxR?oc=5",
-     "titre": "Trump says more military action “still possible” as the Iran War continues"
+     "source": "Le Monde International",
+     "url": "https://www.lemonde.fr/international/article/2026/11/03/iran-l-armee-americaine-a-effectue-des-frappes-sur-l-ile-de-qeshm-selon-le-wall-street-journal_6805420_3210.html",
+     "titre": "Iran : l’armée américaine a effectué des frappes sur l’île de Qeshm, selon le « Wall Street Journal »"
     },
     {
-     "source": "The National",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOR1YtZVpYb1lJeUVSMXFnakU1dlI2bW5DZlExMnZGTk5CTUNJV3JhX2d1T1U0SnJxbS1Gb0J4NzBQRmpNUDB0cHFsdTRzWm43NjBWNURaWFVyY1VvVDhlRUU1eThHNVdrTEhyYUI4cU5WemNCTmV4Z01pdkdqaXl6cmZOTDhwbUxjVkxBR1k2T2U?oc=5",
-     "titre": "Middle East latest: Iran offers to open strait in two days if US meets demands"
+     "source": "CBS News",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5TeXlqY01ONURoNE53TFo3aGpqX3lyTE5yeTUxcUpoUGoyMEVPa0dvZ2wwVkFaNy16R1kxRTFWUXltOEVPUjJBR2pNS2dFQmNjZ3c3UXJ5RUhHRGsyTEMxb1FJOGM?oc=5",
+     "titre": "U.S. strikes Iranian targets"
     },
     {
-     "source": "Al-Monitor",
-     "url": "https://www.al-monitor.com/originals/2026/11/iran-warns-new-war-could-last-longer-after-trump-threatens-strikes",
-     "titre": "Iran warns new war could last longer after Trump threatens strikes"
+     "source": "CNBC",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5oVkhVTWNlZWlkazhuT2Fvd2tnNjYyeXBJQkVLb3ZDbEZDbUxtWnNvX3pmSW13SDdOX1hJZV9oX1RYZVFHdC1jY3pxY3A5V1Q3WW1sdUtxZnRidDdMQXdmSWZ2T3VZT2NvUlNtLTdsRDE1d9IBd0FVX3lxTE5haElDNDVjaFNhV1V4d3U5OTNVcWZtREJsOU5FN2lYZUszSGNkUEc5UC1YZUVoX3d4TjRORFFIMWxYcjNROWZSUE9XXzRjbFR1UXJXbzcwSjdsZmtvQUZvV2k3dnpNR2Q2Tk84T1Z2M3BRVmdoOU9F?oc=5",
+     "titre": "U.S. reportedly strikes Iran's Qeshm Island as Vance hopes for ‘negotiated settlement’ with Tehran"
     },
     {
-     "source": "The Times of Israel",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPc0lMRlVva0JjWlN1Y1JZcFloZHZ0Z1VVX1VYTWhldDVNbldlQlJDbWNfRE8zOEEzdU82R3gyZzZjZUNRVWREZ2FxM1lHemhSbUlQeXVqT1hiUHZMS3RPUHQwejZGQ18zZ294bWJSbEJvR05KSmZhcnRja3VzSC1NTldFNjl5Rm9RRjBhQkJWTVRHUFZtR1A0S3hvb0tRVzRMRG9ScTUxM1FlUVZaaW9ZbThmZ9IBuAFBVV95cUxNel80bFpSYVhEZF9MbUtDSi1vVFlGNVZqMDkzMWJlTTRVOEg3LThxTHljVU5oMjQwTzhxdXVyaWNBQlM2OThVZmw4M2VjbGp4YjQ5RHVwU3JpTzFYejM2eXhwNEFkd2FiNkk2aTNCVUhaNHFQY09rNkhySVdORWlTV0hiWnBBdERwQ3JTcWlVMkh5TTd6QUxBSnFjemxWYTltM2RFNTNwMGZLR2NBMTRPM2FLbFN6aWJS?oc=5",
-     "titre": "Iranian army: War could be longer than previous one, Trump won’t dictate its duration"
+     "source": "WSJ",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbmVhWVpoUFY5Q2J4OGY3SlRPdnpxbFhHaWlOT2V6NUdXaXl0SjVQWnNMVXdIQV9KaFdfY3dOMFpqRFF5VzF6WWh4dnNERlJidUVhbEliWmt6ZVhuUThYN1pac2NHWTR4MnE2Q2JPLWVJVkFzckZucFNMRWFHQ3RkU1JwdTBGM1B0X0dEckpoRHFzSG5Mb0V1MkF1M2hHSW1obXZuSGhGQ0dodEk?oc=5",
+     "titre": "Exclusive | U.S. Strikes Iran’s Qeshm Island as Trump Talks Down War Risks"
     }
    ],
-   "id": "2026-11-02|Tehran and Washington trade warnings as Doha mediation continues"
+   "id": "2026-11-03|US launches strikes on Iran's Qeshm Island"
   },
   {
-   "suite": false,
-   "remplace": null,
-   "emoji": "🗳️",
-   "titre": "Acting President Iotova takes lead in Bulgarian presidential runoff",
-   "resume": "Exit polls showed acting President Iliana Iotova leading the second round of Bulgaria's presidential election on Sunday. If confirmed, she will become the country's first elected female head of state amid acute regional security concerns.",
+   "suite": true,
+   "remplace": "2026-11-01|North Korea tests cluster warhead missile",
+   "emoji": "🚀",
+   "titre": "North Korea tests cruise missile cluster warhead",
+   "resume": "Pyongyang test-fired strategic cruise missiles equipped with dispersal warheads and demonstrated vertical strike capabilities, claiming destruction across seven football pitches. South Korea's military said it tracked the test, noting it had mastered equivalent technology decades ago.",
    "pourquoi": "",
    "pays": [
-    "Bulgaria"
+    "North Korea",
+    "South Korea"
    ],
-   "region": "Europe",
-   "rubrique": "elections",
+   "region": "North-East Asia",
+   "rubrique": "defense_aerienne",
    "liens": [
     {
-     "source": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/1/bulgarian-president-yotova-leads-runoff-exit-polls-show?traffic_source=rss",
-     "titre": "Initial results indicate victory for Iotova in Bulgarian presidential vote"
+     "source": "동아일보",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1kYkF2d2RuTjlnZzhfM2k3Vk5pcGt6TW15NVVGeEtMaUZMeUtyVGd2OVZycWFXNkZUYlZoUDh0UzV3S0tEZXRLVEExaW1pbWZSNFV4OEtLejZJek52cU1HTXdXell3N0xldXlhV2dMTGo1TlpaN3BV0gFmQVVfeXFMTWEtY2FZYUFVZko0U3NrMWNEMS11eFVsc19aWWh6UDBoSUlUNnBsemNpZXlNMEV0dDJVYmhvZHlZQ19iNnVyVnptUFJxNkVLVml0VFpWbV9XYUdFWXNJM0M3alFzMVh3?oc=5",
+     "titre": "北 이번엔 ‘순항미사일 폭탄비’ 시험…남측 軍기지 노린다"
     },
     {
-     "source": "Le Grand Continent",
-     "url": "https://legrandcontinent.eu/fr/2026/11/01/avec-la-victoire-diliana-yotova-a-la-presidentielle-la-bulgarie-bascule-t-elle-dans-le-camp-de-moscou/",
-     "titre": "Avec la victoire d’Iliana Yotova à la présidentielle, la Bulgarie bascule-t-elle dans le camp de Moscou ?"
+     "source": "뉴스1",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE90MnpHMFVDOHd2SUlUS1Z5Zk4wY09aNjQ4empkbmhVeFNOVGhZTGFBYUNaSnVteHNqbjVfMGl1azQ2WUlBZVJ3ZkIzb3RweF9ydkNYMXNzVXhJcFpNeUVITVZ3bW9NUnc?oc=5",
+     "titre": "軍 \"北 순항미사일 집속탄두 실험 주시…20년 전에 관련 기술 완비\""
     },
     {
-     "source": "Le Monde International",
-     "url": "https://www.lemonde.fr/international/article/2026/11/01/presidentielle-en-bulgarie-iliana-iotova-remporte-l-election-selon-plusieurs-sondages-a-la-sortie-des-urnes_6804603_3210.html",
-     "titre": "Présidentielle en Bulgarie : Iliana Iotova remporte l’élection, selon plusieurs sondages à la sortie des urnes"
+     "source": "연합뉴스",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KS3JPcXNCMko4UGZ6Q1V6Zm9sODAxeG5kMEIydnhBaUU3ZXdSbDEwaWdIcEh1dUlROW14alFzLXJ2aFNWaG95MnhQblVuTHpId3FBT3U1WUFUVFHSAWBBVV95cUxNZVk4LWQ5cjFaY2p3VHlJR2c1aVczQktkd1lOSzM2WS15emNfbW5FdjZZOGZ4NFhkdXpEbzNNWmg3VFRWWVc2RGc3RGdwaVpSUG02UURsZ0JmVENPZnlHa00?oc=5",
+     "titre": "北, 또 집속탄 시험…이번엔 순항미사일 '수직타격' 능력도 과시(종합)"
     },
     {
-     "source": "Reuters",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUWVuZkFvVFlJOEJiem9lZWhrb1hTLXVaS1ZyWnhwLUZpNUpUcm9VM3JYb1BLeGxxUTZ3NXVkWWVMOGNKQUVtdFNZNWFnajRrdi1uYWdKRUFyRjltZVZsTUdQdDBpdFFoX0dseVJTY3UxMzlOeTRNUjY1b3pqZGE1YXRjWmZNRExQUjYyNXJwZTBXbGRvbWNjdl95U1U4WHF1b1E?oc=5",
-     "titre": "Bulgaria's acting President Iotova takes lead in presidential runoff vote, exit polls show"
+     "source": "뉴시스",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE02V2JIQVFtMmNpU200U2hJMjVuMkM0TDBCTzFjelBzLWJfMHVobC1vNEhmV3oweHBvbFRhdmVRdHNpdDNfMFplUzNySkM3Y0tFVzBITWpIYWhOaHZ6QUcxYg?oc=5",
+     "titre": "北, 순항미사일 집속탄두 위력평가…\"축구장 7개 면적 초토화 확증\" 주장(종합)"
     }
    ],
-   "id": "2026-11-02|Acting President Iotova takes lead in Bulgarian presidential runoff"
+   "id": "2026-11-03|North Korea tests cruise missile cluster warhead"
   },
   {
    "suite": true,
    "remplace": "2026-11-01|US midterm election campaigns enter final weekend",
    "emoji": "🗳️",
-   "titre": "Democratic split in Michigan and Trump legal loss in Alaska",
-   "resume": "Outgoing Democratic representative Haley Stevens endorsed Republican Senate nominee Mike Rogers in Michigan, causing severe internal party turmoil. Separately, a federal judge dismissed the Trump administration's lawsuit seeking to block Alaska's election certification.",
+   "titre": "US midterms open after Supreme Court ruling on California ballots",
+   "resume": "The US Supreme Court rejected an administration request to disqualify mail-in ballots in California on the eve of voting. Americans head to the polls with control of Congress at stake and President Trump's approval near record lows.",
    "pourquoi": "",
    "pays": [
     "United States"
    ],
    "region": "Americas",
-   "rubrique": "monde",
+   "rubrique": "elections",
    "liens": [
     {
      "source": "BBC World",
-     "url": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
-     "titre": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts"
+     "url": "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko?at_medium=RSS&at_campaign=rss",
+     "titre": "Supreme Court rejects Trump's request to stop California counting disputed votes"
+    },
+    {
+     "source": "Japan Times",
+     "url": "https://www.japantimes.co.jp/news/2026/11/03/world/trump-washington-makeover-midterm/",
+     "titre": "Trump touts Washington makeover as midterm campaign nears end"
+    },
+    {
+     "source": "Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tTWNNRkFpSGJONmdZckNUQ2NaSXBjc21LSklDTUNiM2tFQm9wS3pwNnNGdFJhM1NzYllHWnBJdzgtcUtuWFV1dmlHZ1NYNjUtbDNNWUZ6MXV4R3p4enlpTW5IQVVrU2pxam1YVQ?oc=5",
+     "titre": "Live Results and Map: 2026 US Midterm Elections | Key Races to Watch"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSzVUWUtYdDBTSkRpU2xDeTNEck1fOVVySkVPRG9UbFpwMlNBbWZsdkFyTkhLdGpEellfclFEdlRhbzZsaGFweENuQ1JaeWZ2akJSel90cGlUTWlQWWx5WklVeENZMk9UZWpUZC1idV9TNG9MRG5lckRLLTI0Zmp6NnA2WGtuOFdxcTlLOUNjblJfUFNIZkxEdQ?oc=5",
+     "titre": "The races that will decide control of the US Senate"
+    }
+   ],
+   "id": "2026-11-03|US midterms open after Supreme Court ruling on California ballots"
+  },
+  {
+   "suite": false,
+   "remplace": null,
+   "emoji": "⚠️",
+   "titre": "Russian strike kills 26 in Ukraine amid Abu Dhabi peace push",
+   "resume": "Russian aerial bombing killed at least 26 civilians at a school serving as an aid centre in southern Ukraine after a local ceasefire expired. Meanwhile, Washington announced US-mediated trilateral talks with Kyiv and Moscow in Abu Dhabi.",
+   "pourquoi": "",
+   "pays": [
+    "Ukraine",
+    "Russia",
+    "United States",
+    "United Arab Emirates"
+   ],
+   "region": "Russia-Ukraine",
+   "rubrique": "ukraine",
+   "liens": [
+    {
+     "source": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+     "titre": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says"
     },
     {
      "source": "Al Jazeera",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/trump-invites-michigan-democrat-stevens-to-join-the-republican-party?traffic_source=rss",
-     "titre": "Trump invites Michigan Democrat Stevens to join the Republican Party"
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/multiple-russian-strikes-kill-at-least-26-at-ukraine-aid-centre?traffic_source=rss",
+     "titre": "Multiple Russian strikes kill at least 26 at Ukraine aid centre"
     },
     {
-     "source": "CNA Monde",
-     "url": "https://www.channelnewsasia.com/world/democratic-michigan-senate-race-abdul-el-sayed-haley-stevens-6511826",
-     "titre": "Democratic divisions shake up key Michigan Senate race"
+     "source": "Al-Monitor",
+     "url": "https://www.al-monitor.com/originals/2026/11/us-mediate-trilateral-talks-ukraine-russia-abu-dhabi-next-week-us-envoy-says",
+     "titre": "US to mediate trilateral talks with Ukraine, Russia in Abu Dhabi next week, US envoy says"
     },
     {
      "source": "Le Monde International",
-     "url": "https://www.lemonde.fr/international/live/2026/11/02/en-direct-midterms-2026-stupefaction-et-colere-au-sein-des-democrates-apres-le-soutien-de-l-elue-haley-stevens-au-republicain-mike-rogers-dans-le-michigan_6801590_3210.html",
-     "titre": "EN DIRECT, midterms 2026 : stupéfaction et colère au sein des démocrates après le soutien de l’élue Haley Stevens au républicain Mike Rogers dans le Michigan"
+     "url": "https://www.lemonde.fr/international/live/2026/11/03/en-direct-guerre-en-ukraine-le-bilan-des-bombardements-russes-dans-l-oblast-de-zaporijia-passe-a-26-morts-annonce-volodymyr-zelensky_6803934_3210.html",
+     "titre": "EN DIRECT, guerre en Ukraine : l’émissaire américain annonce des négociations entre Moscou et Kiev la semaine prochaine à Abou Dhabi, sous médiation de Washington"
     }
    ],
-   "id": "2026-11-02|Democratic split in Michigan and Trump legal loss in Alaska"
+   "id": "2026-11-03|Russian strike kills 26 in Ukraine amid Abu Dhabi peace push"
   }
  ],
  "rubriques": [
   {
    "id": "monde",
    "titre": "World",
-   "items": [
-    {
-     "suite": false,
-     "remplace": null,
-     "emoji": "🤝",
-     "titre": "Carney signals progress in Canada-US trade talks",
-     "resume": "Canadian Prime Minister Mark Carney reported positive discussions with Donald Trump regarding bilateral trade relations. The talks aim to prevent new tariffs as US congressional elections approach.",
-     "pourquoi": "",
-     "pays": [
-      "Canada",
-      "United States"
-     ],
-     "region": "Americas",
-     "rubrique": "monde",
-     "liens": [
-      {
-       "source": "CNA Monde",
-       "url": "https://www.channelnewsasia.com/world/canada-mark-carney-trade-talk-donald-trump-6511851",
-       "titre": "Canada's Carney hails 'good conversation' on trade with Trump"
-      },
-      {
-       "source": "Al Jazeera",
-       "url": "https://www.aljazeera.com/news/2026/11/1/carney-signals-progress-on-canada-us-trade-deal-talks-as-midterms-loom?traffic_source=rss",
-       "titre": "Carney signals progress on Canada-US trade deal talks as midterms loom"
-      }
-     ],
-     "id": "2026-11-02|Carney signals progress in Canada-US trade talks"
-    }
-   ]
+   "items": []
   },
   {
    "id": "asie",
@@ -201,120 +174,81 @@
      "suite": false,
      "remplace": null,
      "emoji": "🇸🇬",
-     "titre": "Singapore defence minister of state stresses maritime waterway security",
-     "resume": "Senior Minister of State for Defence Zaqy Mohamad addressed the 22nd Manama Dialogue, warning that maritime insecurity in vital sea lanes must not become the new normal. He urged international stakeholders to collaborate on securing global maritime routes.",
+     "titre": "Johor-Singapore SEZ secures S$28bn in approved projects",
+     "resume": "The Johor-Singapore Special Economic Zone registered 88.83 billion ringgit in approved investments across 28,700 projected jobs during the first ministerial committee meeting. Singapore and Malaysian ministers commended steady progress across cross-border economic workstreams.",
      "pourquoi": "",
      "pays": [
       "Singapore",
-      "Bahrain"
+      "Malaysia"
      ],
      "region": "South-East Asia",
      "rubrique": "asie",
      "liens": [
       {
-       "source": "Straits Times Singapour",
-       "url": "https://www.straitstimes.com/singapore/beyond-war-key-maritime-nations-grope-for-solutions-to-keep-waterways-open",
-       "titre": "Beyond war, key maritime nations grope for solutions to keep waterways open"
+       "source": "CNA Asie",
+       "url": "https://www.channelnewsasia.com/singapore/johor-singapore-cooperation-special-economic-zone-meeting-6512446",
+       "titre": "Johor-Singapore SEZ records RM88.83 billion in approved investments"
       },
       {
-       "source": "www.mindef.gov.sg",
-       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBDWm05VDFwVU9uUDVLOVNXSC0yZ016NDZpRDlxU1VvRkZtXzRWV3JDanVYbEtrVC1XWGxvODM3VFN2Z0w1UnM1ck5CRUhOUWRUdEdVUmtCWkwxYllpR3BRM2FicUExNjBxdlYtUE05OUszVVExSFE?oc=5",
-       "titre": "Senior Minister of State for Defence Zaqy Mohamad Attends the 22nd Manama Dialogue"
+       "source": "Straits Times Singapour",
+       "url": "https://www.straitstimes.com/singapore/johor-spore-sez-records-28b-of-approved-projects-ministers-note-good-progress-on-various-fronts",
+       "titre": "Johor-S’pore SEZ records $28b of approved projects, ministers note ‘good progress’ on various fronts"
       }
      ],
-     "id": "2026-11-02|Singapore defence minister of state stresses maritime waterway security"
+     "id": "2026-11-03|Johor-Singapore SEZ secures S$28bn in approved projects"
     },
     {
      "suite": false,
      "remplace": null,
-     "emoji": "🇸🇬",
-     "titre": "Singapore activates response contractors after southern oil spill",
-     "resume": "The Maritime and Port Authority of Singapore deployed containment craft after spotting oil patches off Pulau Sebarok, Pulau Semakau, and Selat Pauh. Aerial surveillance confirmed no oil had reached resort islands or mainland shores.",
+     "emoji": "⚡",
+     "titre": "Indonesia ties Singapore power exports to pricing terms",
+     "resume": "Indonesian Energy Minister Bahlil Lahadalia stated Jakarta will not export electricity to Singapore unless purchasing prices are advantageous. The stance introduces uncertainty over bilateral plans to supply 3.4 gigawatts of low-carbon electricity by 2035.",
      "pourquoi": "",
      "pays": [
+      "Indonesia",
       "Singapore"
      ],
      "region": "South-East Asia",
      "rubrique": "asie",
      "liens": [
       {
-       "source": "Straits Times Singapour",
-       "url": "https://www.straitstimes.com/singapore/oil-patches-spotted-off-pulau-sebarok-pulau-semakau-and-selat-pauh-mpa",
-       "titre": "Oil patches spotted in S’pore’s southern waters off Pulau Sebarok, Pulau Semakau and Selat Pauh: MPA"
-      },
-      {
-       "source": "CNA Singapour",
-       "url": "https://www.channelnewsasia.com/singapore/oil-patches-singapore-southern-waters-mpa-6510686",
-       "titre": "Oil patches spotted in Singapore's southern waters; source under investigation: MPA"
+       "source": "Straits Times Asie",
+       "url": "https://www.straitstimes.com/asia/se-asia/indonesia-will-not-export-electricity-to-singapore-unless-price-is-right-says-bahlil",
+       "titre": "Indonesia will not export electricity to Singapore unless price is right, says Bahlil"
       }
      ],
-     "id": "2026-11-02|Singapore activates response contractors after southern oil spill"
-    },
-    {
-     "suite": false,
-     "remplace": null,
-     "emoji": "⚓",
-     "titre": "Marcos confirms new joint military sites scattered across Philippines",
-     "resume": "President Ferdinand Marcos Jr stated that new military sites developed with the United States will be dispersed across the archipelago. Defence Secretary Gilberto Teodoro also condemned aggressive diplomatic language from Chinese officials regarding maritime claims.",
-     "pourquoi": "",
-     "pays": [
-      "Philippines",
-      "United States",
-      "China"
-     ],
-     "region": "South-East Asia",
-     "rubrique": "asie",
-     "liens": [
-      {
-       "source": "Rappler",
-       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeTNJRWc4M3RUb1ppMWh1cFl3akgtVXlhVEN6emtERlFhQkNYZHpEWmRTZnNNOGlZVW9HaXBwanhDaXlwb1RTUnJkZzA3MVc4TWJHcDdZR01QenU0WUZXYlZfWTAwNnBhaUpvZkJoRVdPMlJMNW4tTnRWZnhzNmJYNTZhWUdzYmdYNFVxbTlsUFNMYVRrYTRFQ1lkTTdnSXRSQUZxSXI3c3VkZw?oc=5",
-       "titre": "Marcos says new military bases with US to be ‘scattered’ around PH"
-      }
-     ],
-     "id": "2026-11-02|Marcos confirms new joint military sites scattered across Philippines"
-    },
-    {
-     "suite": false,
-     "remplace": null,
-     "emoji": "🛡️",
-     "titre": "Japan deploys Type 16 combat vehicles to Southwest Islands",
-     "resume": "The Japan Ground Self-Defense Force deployed Type 16 Maneuver Combat Vehicles to the Nansei Islands for the first time. The deployment marks a key milestone in upgrading the 15th Brigade into a full division.",
-     "pourquoi": "",
-     "pays": [
-      "Japan"
-     ],
-     "region": "North-East Asia",
-     "rubrique": "asie",
-     "liens": [
-      {
-       "source": "読売新聞",
-       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9oZmZXM2VMMXlrM1FoZ1hhWHJ4WG81bFhaNnZ1MF9VMGVuMXg5cUFxV3E3QVh5b1laWUtod2RLb3FQZTNkTzJfekhVeGExblo3LWkxb0Z4UWo3TlprU1RhUEVLb00xTXJEa09SQTZQTUpsUQ?oc=5",
-       "titre": "陸上自衛隊第１５旅団の師団格上げで「１６式機動戦闘車」配備…南西諸島で初、防衛の主要装備に"
-      }
-     ],
-     "id": "2026-11-02|Japan deploys Type 16 combat vehicles to Southwest Islands"
+     "id": "2026-11-03|Indonesia ties Singapore power exports to pricing terms"
     },
     {
      "suite": false,
      "remplace": null,
      "emoji": "🛩️",
-     "titre": "Taiwan affirms steady US arms sales and F-16 production",
-     "resume": "Defence Minister Wellington Koo affirmed that United States arms sales policies toward Taiwan remain unchanged. He confirmed that production of F-16 Block 70 combat aircraft is proceeding without disruption.",
+     "titre": "South Korea launches Defense Drone Headquarters",
+     "resume": "South Korea's military established a dedicated Defense Drone Headquarters to accelerate operational capability development and counter hostile unmanned aerial threats. Operational execution will remain decentralised across the individual armed service branches.",
      "pourquoi": "",
      "pays": [
-      "Taiwan",
-      "United States"
+      "South Korea"
      ],
      "region": "North-East Asia",
      "rubrique": "asie",
      "liens": [
       {
-       "source": "中華民國國防部- 全球資訊網",
-       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pUGFqUHF6SEFvZmlsMTJYSjNjX3ZicVNiaTdPWkNYTlBLczRzeXFPWTVrWF9JRllVVjJ3dXRBbmU4dFVBU2UwWS1seWRmTnduS0E?oc=5",
-       "titre": "Minister Koo: U.S. Arms Sales Policy Toward Taiwan Unchanged; F-16 Block 70 Production Continues"
+       "source": "Yonhap News Agency",
+       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2UDh2UUtMTGJzYnlHd2FzNmowWlNCd3pLTk50clljZjdsQjRGN2J6QUc2clR3MjhQSzFKR0pFQ2NnT1NkVmRNUFBkX0NBS1dxa3ZaSGZpcFNJZw?oc=5",
+       "titre": "Gov't launches drone strategy team to boost industry competitiveness, cope with drone threats"
+      },
+      {
+       "source": "韓聯社",
+       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNmwwZGNrZEVoLS1nWlZmeXdWbDRYMlZjZDE1cWdQU205WlFvay11ZENLRGlIM0FEbmtJSXRQeE9nSDUyWDBjM3dkT3lFZ2V5U3JldmZBUTRhSlhwZXdDcDFxZnd1c1hHb1NFLTN4bC1NWk4yTXNVWXdQZTV5UDd1R1MzYWZQakdyUkwza1JsSjdIZEEzR2dv?oc=5",
+       "titre": "南韓國防無人機本部成立 主管作戰能力建設"
+      },
+      {
+       "source": "조선일보",
+       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbE5QNkJJM0xWWFdFMWY0N2VwSEU0SkctMFN1aFMxVnR3OU1fMW90ejVEbTgwNzVvbDQ2WEF2YVUzWmo5MHJINHRjbmlQcFRUWS1qLWRKWE1rc0h5RHMzYkxvc2ZHbWdVb3UxTUlsSFN0bUJfVkZwMVFrN0NRTkphdTJKalJCTGRi?oc=5",
+       "titre": "Defense Drone Headquarters Established, Operations Decentralized to Military Branches"
       }
      ],
-     "id": "2026-11-02|Taiwan affirms steady US arms sales and F-16 production"
+     "id": "2026-11-03|South Korea launches Defense Drone Headquarters"
     }
    ]
   },
@@ -326,37 +260,37 @@
      "suite": false,
      "remplace": null,
      "emoji": "🗳️",
-     "titre": "Tens of thousands protest in New Delhi demanding election chief resign",
-     "resume": "Indian opposition parties and civil groups staged a massive rally in New Delhi demanding the resignation of the Chief Election Commissioner over alleged voter roll irregularities. The protest is one of the largest mobilisations against the government.",
+     "titre": "Israeli opposition mobilises behind Eisenkot",
+     "resume": "Opposition parties met to endorse centrist Gadi Eisenkot's bloc of 48 seats following inconclusive legislative elections. Prime Minister Benjamin Netanyahu, whose camp secured 53 seats, rejected opposition moves and demanded a broad coalition under his leadership.",
      "pourquoi": "",
      "pays": [
-      "India"
+      "Israel"
      ],
-     "region": "South Asia",
+     "region": "Middle East",
      "rubrique": "elections",
      "liens": [
       {
        "source": "Japan Times",
-       "url": "https://www.japantimes.co.jp/news/2026/11/02/asia-pacific/politics/india-protest-new-delhi-modi/",
-       "titre": "India’s protest movements unite in New Delhi to challenge Modi"
+       "url": "https://www.japantimes.co.jp/news/2026/11/03/world/politics/israel-opposition-eisenkot-netanyahu/",
+       "titre": "Israel opposition meets to back Eisenkot, but Netanyahu says voters chose him"
       },
       {
-       "source": "Reuters",
-       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zcjFtSWVPN0Z6UjdUUmVDaEpaMXlYSzZrS2VyVC1IcWl4eUlLdXoyd3d3VGhWeXpYUEstUVc3ejlYUGJsYXpLWUlJWERyY2lpaDJXZEFVY2NWakh5WGJ0LWhic3ZQa1k?oc=5",
-       "titre": "Thousands join Indian opposition protest demanding election chief resign"
+       "source": "The Times of Israel",
+       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNzdONVFyYWRKN192RmNwYXJlNnUyQzJIRUh0NDNHR3hXelZvUnoydFQ1bk04MjVpbFNKVjB2WnFVTW9pdm03cW0xXzFYNmxTZlh6YlkySVdteWFqS2xxOWhKNWo4dFNDZS01Q1dVQXl5NzZ0MmRDQW9PMjJuX1lmekM1WjU5STlGSUgzVm56ckdleFQ1ZmdpdXAzLTVOQm9PSUdnMkpPQ3FCcUd4UGp0N9IBtgFBVV95cUxNQzF0cnVJRWkxNWtBcGdGbTA5bVc1azQzX3V4eEZ4NHBLMjFCNnJjQ21FZXBrS1RzVzJvOWFxcHp4WUNJeTFNSFg0LWt2QnRJb2xtQUpaNkxWTzV5c0FNN0JkRERab0JsTTNXeXI1c2FJcW9lRVRyWVZZSU8xNFVXYzZLRTl1MGVNS21VLW5qTER1NzJCZXNhUWhNYzdnRlhsN2Y2Smh6YVhUVVd2ZHE1TGZPUUxfUQ?oc=5",
+       "titre": "Likud seeks to delay election certification over interference probe — and is rebuffed"
       },
       {
-       "source": "AP News",
-       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQX083V3gwMU1WcFdtN25FbDB0TVNXZFNoUmJOdVN5TlBqQUdVSHh5ZHI2S1lweF9pNjN4YldFQmZJZ0ttRjA3MGx5bzYyaUQ2MXRmV2dVZXQ4QjNFZE0xQnpWZGFlNjEzWWVzMWk3RVluUXdlZjkxRy1acHh2SHU4Wm5vazlUN0gwM2V2bmxoWUJGZ25RUk8wRFkwbHJQRUJXNU9ERXpiQ3lRS3UySGRfRExxYzdzLWVyeHc?oc=5",
-       "titre": "India’s opposition parties stage new protest against the country’s election chief"
+       "source": "Le Monde International",
+       "url": "https://www.lemonde.fr/international/article/2026/11/02/legislatives-en-israel-benyamin-netanyahou-appelle-a-une-large-coalition-sous-sa-direction-et-sans-les-partis-arabes-l-opposition-doit-se-reunir-pour-tenter-de-constituer-une-majorite_6805316_3210.html",
+       "titre": "Législatives en Israël : Benyamin Nétanyahou appelle à une large coalition, sous sa direction et sans les partis arabes ; l’opposition doit se réunir pour tenter de constituer une majorité"
       },
       {
-       "source": "Al Jazeera",
-       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaEJGakE4ZlNYaXByY2pYS1R3SnN0b0l5OTM4TU55RnJnUWxXYTF4enp4VUU1VVZuNnBqSW9ybldsZ01OVnlPcnZ1Y2FKTktIcklLdEZjTHJVNlVmakFUWnFNZFFDdnpQNmo1cHNqVnp4M3ZTb0tKRy13dFN1aFVfRHQzTVZzM0VpZ1cwbGU4aWZfOE01cFdhcW42UUNJRUthcFHSAacBQVVfeXFMTjFCdFN5Mm5PcV9Kb3pUODcyUy1GeVR6X0JSY0tybjJBXzkyVlFuVFJXNGxHNG1oMFdVazFXa0NneVpUc0IzTU1WTWdaWnlMWUNKYkszalRUcEJmdGdoc19SSk1vQlJ6RnR6NWtuZ25oNWV4M1czZFpSTmc3bkxEZGdsUm1FTFp6QlJhVllmR1lybG84WUQzSlRiWnd4enFTbVRmbFJ0VHM?oc=5",
-       "titre": "Photos: Thousands join India’s opposition rally against election chief"
+       "source": "Al-Monitor",
+       "url": "https://www.al-monitor.com/originals/2026/11/top-arab-israeli-leader-tells-afp-opposition-must-join-oust-netanyahu",
+       "titre": "Top Arab-Israeli leader tells AFP opposition must join to oust Netanyahu"
       }
      ],
-     "id": "2026-11-02|Tens of thousands protest in New Delhi demanding election chief resign"
+     "id": "2026-11-03|Israeli opposition mobilises behind Eisenkot"
     }
    ]
   },
@@ -367,12 +301,36 @@
     {
      "suite": false,
      "remplace": null,
-     "emoji": "🛡️",
-     "titre": "France develops LADAC laser-guided rockets for low-cost counter-drone defence",
-     "resume": "France is developing the LADAC laser-guided rocket system to provide armed forces with an affordable surface-to-air weapon to counter uncrewed aerial systems. The programme seeks to replicate the operational concept of the American APKWS.",
+     "emoji": "🇸🇬",
+     "titre": "Singapore evaluates Shield AI V-BAT uncrewed system",
+     "resume": "Singapore is conducting flight tests of the Shield AI V-BAT vertical take-off uncrewed aircraft alongside ongoing evaluations of the Orbiter 4. The trials support Singapore's efforts to enhance intelligence, surveillance, and tactical operational capability.",
      "pourquoi": "",
      "pays": [
-      "France",
+      "Singapore",
+      "United States",
+      "Israel"
+     ],
+     "region": "South-East Asia",
+     "rubrique": "defense_aerienne",
+     "liens": [
+      {
+       "source": "Aviation Week",
+       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTzlGQmZTcnRYaDF1MFBMRFZUcTdXUDdLNWt0OGVETjAyVExtQmxyTzV2VExYRlBSeHZlT0RhQU1qZFV5cC0ydDhwbVQ2bVo3X2haMzZDSkc3LXdBR01ZVDI5MlZPcmN2elJqaDhCRkFGSVV5NlFwT3lmeVdKRW9kMlBkNHZSMHJlQXcwUmlNYi1kUFhHakw4Q3lqXzBaZkhyeG5zZFloaUpSRjZZYldBVEVPUmlwSWhCU05Maw?oc=5",
+       "titre": "Singapore Tests Shield AI V-BAT As Orbiter 4 Validations Progress"
+      }
+     ],
+     "id": "2026-11-03|Singapore evaluates Shield AI V-BAT uncrewed system"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🛡️",
+     "titre": "Germany procures two Patriot systems to replenish stocks",
+     "resume": "Germany placed an order for two Patriot air defence fire units to replace systems previously transferred to Ukraine. The contract aims to restore Bundeswehr ground-based air defence capacity amid ongoing European rearmament efforts.",
+     "pourquoi": "",
+     "pays": [
+      "Germany",
+      "Ukraine",
       "United States"
      ],
      "region": "Europe",
@@ -380,55 +338,73 @@
      "liens": [
       {
        "source": "Defence Industry Europe",
-       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQanc2eDdaZkJBRUNSQkRfMVVOZnBoNVB5QlVONGlxbDBBZFVwOFJCYjNhcWpxb3JZQkFZVVpYai01S3hZWW4xR0prRVZhcmJobmxscm1laWk5NkE0RTlvUXFLYTNjWUJpRlRvQll6ck9xNm55TmZ0ZmppenVGd0ZYZHZfYkc3TFk4b0QxWnQ5N2p3eTJVZXNsbGhaX2JuWW4wRTNJc2I1cnViWjdoZjJpMEJiZkpnWk0?oc=5",
-       "titre": "From APKWS to LADAC: France joins the race for cheap laser-guided rockets to down drones"
+       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORksxZ0xjRVdRWXhmMHFhNHpwNlJKQjA0aENjbTZZQWFqLVRJZHFKOTFuN2NMTElGNDBTbDJmYmEyNFRnX0NEUlJHeXNMNmFDWHJKcWRSaWxsR25LUVZUb2lEU1JtbGdvLWVQN0FRbm5XYW83RkE0bXdmZVprbXhQa0FRSXY0dVRxMk5UWTA2OGo4UmM5WERQOEp1ZzFVd0FUWkgzcWNKR3JPeEcxdW1xdWhaQWxGaHhq?oc=5",
+       "titre": "Germany orders two Patriot fire units to replace air defence systems supplied to Ukraine"
       }
      ],
-     "id": "2026-11-02|France develops LADAC laser-guided rockets for low-cost counter-drone defence"
+     "id": "2026-11-03|Germany procures two Patriot systems to replenish stocks"
     },
     {
      "suite": false,
      "remplace": null,
-     "emoji": "🚀",
-     "titre": "IAF Chief directs air defence units to maintain immediate readiness",
-     "resume": "Indian Air Force Chief Air Chief Marshal Dixit ordered all combat squadrons and ground-based air defence units to maintain constant operational preparedness. He emphasised the necessity to intercept potential aerial threats at a moment's notice.",
+     "emoji": "🚢",
+     "titre": "Saab unveils CB90 CX combat boat with air defence role",
+     "resume": "Saab revealed the CB90 Capability X optionally crewed fast assault craft, now in production for the Swedish Navy. The vessel offers modular configurations including intelligence surveillance reconnaissance, anti-ship strike, and short-range air defence.",
      "pourquoi": "",
      "pays": [
-      "India"
-     ],
-     "region": "South Asia",
-     "rubrique": "defense_aerienne",
-     "liens": [
-      {
-       "source": "ThePrint",
-       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNX3ZjNlkwUDNOVU5OWlJrYnZMa3FfT01yUl9MWElhdWJlMWYwaDFFcG5rUzdMYVZHNVpsRVFLazFaanJXUkZhYU80a0FRQUw1Qi1vcTB5YnMtSzVfZXZUSFE1RVN1aWNSaTBiNE9aTTIzWmUxOWpSaFpLUEo3elBNMGhyaHB6QURoMkU1NDNYeTRRYzQ4NlNFc2c3ZmdrTElPbXRCckwwUGJMdDFOWUNkQWdHeGhnSFRYZ285WHBlcGhsOE8xLWpWNlRqNFk3bS1VREN0WWtEY1NwcFIxN3NwUENId1JXcTBQ0gHoAUFVX3lxTE1fdmM2WTBQM05VTk5aUmtidkxrcV9PTXJSX0xYSWF1YmUxZjBoMUVwbmtTN0xhVkc1WmxFUUtrMVpqcldSRmFhTzRrQVFBTDVCLW9xMHlicy1LNV9ldlRIUTVFU3VpY1JpMGI0T1pNMjNaZTE5alJoWktQSjd6UE0waHJocHpBRGgyRTU0M1h5NFFjNDg2U0VzZzdmZ2tMSU9tdEJyTDBQYkx0MU5ZQ2RBZ0d4aGdIVFhnbzlYcGVwaGw4TzEtalY2VGo0WTdtLVVEQ3RZa0RjU3BwUjE3c3BQQ0h3UldxMFA?oc=5",
-       "titre": "Every squadron, every air defence unit, every air warrior must be ready to respond at moment’s notice: IAF Chief Dixit"
-      }
-     ],
-     "id": "2026-11-02|IAF Chief directs air defence units to maintain immediate readiness"
-    },
-    {
-     "suite": false,
-     "remplace": null,
-     "emoji": "📡",
-     "titre": "Suspected Russian early-warning radar in Kaliningrad triggers Western concern",
-     "resume": "Western analysts reported that Russia is deploying a suspected over-the-horizon radar installation in Kaliningrad capable of monitoring deep into European airspace. The sensor would bolster Moscow's air surveillance and early warning against NATO aircraft.",
-     "pourquoi": "",
-     "pays": [
-      "Russia",
-      "Germany",
-      "Poland"
+      "Sweden"
      ],
      "region": "Europe",
      "rubrique": "defense_aerienne",
      "liens": [
       {
-       "source": "DW.com",
-       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdFI1cnhfdFhUQnRHcUVLVld4WWx3Mm9jUVBwVDRvQTlhRUJGalNiaURNS3FWMWhiaGZ2UjNOT251cXA1WkhULWNib3NTeFpZelB2bXhfTDV6M0cweUI4UjFiN2k3STJrMnpHRzRGYXJsSm11dXVFUkhuVEMyYjBlSnJHZ0Zid0hrdEJQRHJGbzZ6WlBhSzlV0gGXAUFVX3lxTE1LMVhVYm9ZbVAwams1enBvZGZqTWZoYlk0bmgxMUM2Ul9FaHhsLThmdnNQSUpqTk8tTDZEQnpla0pTTlNacFZzUEV2WmhoUE1FUlV5ZnhYcDhUTFFOTXhjVkNWeU5WY3NBQWNtYVE2eEllbUJnVGVqTHZ1SUxOZE5jTmxXWXNTZFlsYnNXd3c2ZVd2TDF3aWc?oc=5",
-       "titre": "Russia's new suspected radar in Kaliningrad could spy deep into Europe"
+       "source": "The War Zone",
+       "url": "https://www.twz.com/sea/new-cb90-cx-is-bigger-optionally-crewed-evolution-of-saabs-proven-combat-boat",
+       "titre": "New CB90 CX Is Bigger, Optionally Crewed Evolution Of Saab’s Proven Combat Boat"
+      },
+      {
+       "source": "Opex360",
+       "url": "https://www.opex360.com/2026/11/02/saab-etend-les-capacites-de-sa-vedette-rapide-de-combat-cb90-a-la-lutte-antinavire-et-a-la-defense-aerienne/",
+       "titre": "Saab étend les capacités de sa vedette rapide de combat CB90 à la lutte antinavire et à la défense aérienne"
+      },
+      {
+       "source": "Breaking Defense",
+       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSi1TRVB6cmtKYldFbV9XT1VOOHNLZWo1TU80MXA3SzVCQlZHTk50ZTZIbC1FckctZUZ4b2ZwMGNwVDZGWE9lTkpwSkJYdzhTQ0JqZ2xUckR0blhHbjd0VU1aVVBWQkd0VXlsQlI1enZGREZueVVVUUJKOVVseXV6UThLaVpJeG05UDFOTzJsRVQzWVU?oc=5",
+       "titre": "Saab unveils new speed assault boat for Swedish Navy"
+      },
+      {
+       "source": "Defence Industry Europe",
+       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQV9sODdxbTZEQ1VLc1JaOUQ4WHdheTZqcVNtazNfMzNkN182MXNNcFZ6cHY4SzdzLXRCMy1VdEFWSHNiaXdJQ1RVTTcxb3JjYXRxRXpmS3B3ZDJEWGRmcFhHVjRPblhvUFV2aFgzdnJ2VmUzR3h1ZVEtY1lLdUI4eloxaUJmV21xekhJWEUtS2Zzbk84VUF6dUxDQVFhaGMzUnBYTS1YTXdEaUdVaFpxZkxvLTZSM2xyRldXbXl6OURidw?oc=5",
+       "titre": "Saab says new CB90 CX combat boat is in production for Sweden with strike and air defence roles"
       }
      ],
-     "id": "2026-11-02|Suspected Russian early-warning radar in Kaliningrad triggers Western concern"
+     "id": "2026-11-03|Saab unveils CB90 CX combat boat with air defence role"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🛡️",
+     "titre": "LOCUST counter-drone laser deployed at Mar-a-Lago",
+     "resume": "The US military deployed an AeroVironment LOCUST high-energy laser weapon alongside surface-to-air missiles to defend Donald Trump's Mar-a-Lago estate. Meanwhile, Leonardo DRS agreed to support scaled production of the LOCUST X3 system.",
+     "pourquoi": "",
+     "pays": [
+      "United States"
+     ],
+     "region": "Americas",
+     "rubrique": "defense_aerienne",
+     "liens": [
+      {
+       "source": "The War Zone",
+       "url": "https://www.twz.com/news-features/laser-weapon-now-guarding-trumps-mar-a-lago-estate",
+       "titre": "Counter-Drone Laser Weapon Now Guarding Trump’s Mar-a-Lago Alongside SAMs"
+      },
+      {
+       "source": "Defence Industry Europe",
+       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPajRtekhlZkRaU0RXUDhGQUppNkNWRzhfaWpveFNndTduY182MlZKQ05LQVlKMzR0Sl9KZXNVVi1aUFUzN3VBajlqUXNnZWZOSFVSZVl1WGdGWk9WVTZFSVhvYkNwODFIa1A2UTUxWDQ0ZVJ4eU9CS0VvNUphZ1k0NTRPWkhKbS1xVFVxd21PSklBVkhKRU0wWkZnb256RWRNZWljbU9ZRmVPUTI5VWtobE5xRmdKOTZhbGUyU0R1SFVxbzE1T2hIQnZ0dFBjWW1oY3ZuOXJPaUVuX3VEX01IUVNPZHRTbEU?oc=5",
+       "titre": "Leonardo DRS to support AeroVironment’s LOCUST X3 production for U.S. Army’s first high-energy laser weapon production program"
+      }
+     ],
+     "id": "2026-11-03|LOCUST counter-drone laser deployed at Mar-a-Lago"
     }
    ]
   },
@@ -439,46 +415,45 @@
     {
      "suite": false,
      "remplace": null,
-     "emoji": "💰",
-     "titre": "UK boosts nuclear defence spending by over £20 billion",
-     "resume": "The British government announced an increase of over £20 billion in defence investment dedicated to its nuclear enterprise. The funding will accelerate construction of Dreadnought-class ballistic missile submarines and development of next-generation sovereign warheads.",
+     "emoji": "📝",
+     "titre": "France and MBDA formalise VL MICA framework agreement",
+     "resume": "The French armed forces concluded a multi-billion-euro framework agreement with MBDA for the VL MICA surface-to-air missile system. The contract establishes a procurement vehicle allowing France and international partner nations to acquire the system.",
      "pourquoi": "",
      "pays": [
-      "United Kingdom"
+      "France"
      ],
      "region": "Europe",
      "rubrique": "industrie",
      "liens": [
       {
-       "source": "Defence Industry Europe",
-       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVDBlckNnLUhURDRDOFZQcGR2SGQyRzB6dUJPTURlQzJvUTJjVjZjZ3ZHM29oVFpsWGFMaHBsMktMUnNSVjFSUlduT084Y2J0VFJPWDRsdUNQMGYxVDdjT2ZGbTNiQUxUZ09lVjRxX3pZYWhBOFliTi0xZWIyZFgxa3pJX3NEYTg0V0FRLWNOVC1rdmhfUDVTQmRCMVowLVhhdGdfbGNEdEVlYWVNNFZYempYeTUyM3VEVnNEOFpEcUo?oc=5",
-       "titre": "UK nuclear defence investment to rise by over £20 billion as submarine and warhead work expands"
+       "source": "FOB",
+       "url": "https://forcesoperations.com/un-accord-cadre-et-de-la-visibilite-pour-le-vl-mica-de-mbda/",
+       "titre": "Un accord-cadre et de la visibilité pour le VL MICA de MBDA"
       }
      ],
-     "id": "2026-11-02|UK boosts nuclear defence spending by over £20 billion"
+     "id": "2026-11-03|France and MBDA formalise VL MICA framework agreement"
     },
     {
      "suite": false,
      "remplace": null,
      "emoji": "🛩️",
-     "titre": "Italian Air Force documents confirm interest in Airbus A400M",
-     "resume": "Official planning documents confirmed the Italian Air Force is evaluating the acquisition of Airbus A400M Atlas military transport aircraft. The development offers a boost for Airbus following recent European contract wins by Embraer's C-390.",
+     "titre": "Rafale M conducts maiden trials on INS Vikrant",
+     "resume": "A French Navy Dassault Rafale M strike fighter successfully executed maiden landing and take-off trials aboard India's aircraft carrier INS Vikrant. The test demonstrates interoperability as India evaluates naval combat aircraft procurement options.",
      "pourquoi": "",
      "pays": [
-      "Italy",
-      "France",
-      "Germany"
+      "India",
+      "France"
      ],
-     "region": "Europe",
+     "region": "South Asia",
      "rubrique": "industrie",
      "liens": [
       {
-       "source": "Opex360",
-       "url": "https://www.opex360.com/2026/11/01/un-document-confirme-linteret-de-la-force-aerienne-italienne-pour-lavion-de-transport-a400m-atlas-dairbus/",
-       "titre": "Un document confirme l’intérêt de la force aérienne italienne pour l’avion de transport A400M «Atlas» d’Airbus"
+       "source": "Naval News",
+       "url": "https://www.navalnews.com/naval-news/2026/11/rafale-m-conducts-maiden-trials-onboard-indian-aircraft-carrier-ins-vikrant/",
+       "titre": "Rafale M Conducts Maiden Trials onboard Indian Aircraft Carrier INS Vikrant"
       }
      ],
-     "id": "2026-11-02|Italian Air Force documents confirm interest in Airbus A400M"
+     "id": "2026-11-03|Rafale M conducts maiden trials on INS Vikrant"
     }
    ]
   },
@@ -488,65 +463,47 @@
    "items": [
     {
      "suite": true,
-     "remplace": "2026-11-01|Ukraine targets Russian refineries as grid attacks continue",
-     "emoji": "🚀",
-     "titre": "Zelensky offers to halt Russian refinery strikes in exchange for missiles",
-     "resume": "President Volodymyr Zelenskyy indicated Ukraine would cease deep strikes against Russian oil refineries if the United States supplies requested long-range missiles. Ukrainian forces recently resumed attacks on Russian energy infrastructure despite Washington's objections.",
+     "remplace": "2026-11-02|Ukraine air raid alert app disrupted by suspected cyberattack",
+     "emoji": "⚠️",
+     "titre": "Hackers broadcast fake nuclear warnings via air alert apps",
+     "resume": "Public emergency alert applications in both Ukraine and Russia were compromised by cyberattacks, broadcasting fabricated warnings of imminent nuclear and chemical strikes. Civil defence authorities moved swiftly to reassure the public and dismiss the false alarms.",
      "pourquoi": "",
      "pays": [
       "Ukraine",
-      "Russia",
-      "United States"
+      "Russia"
      ],
      "region": "Russia-Ukraine",
      "rubrique": "ukraine",
      "liens": [
       {
-       "source": "The Guardian",
-       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZ19rWVE2TGotNE9jeVFKZnFoaEpZaDRlTHVjZVhPcks0am5ieVl2ck9MaTYxR25CQXVvcDNfZ1FibEo3QjRIRWRjcno1eXRGVTlkT0FmVmZLYkNYYm12akswdFBHNGRMOXdiTEQyb01rLW5NWFZJMGU5QjRMV3p4MjE0aC01Skx6UXAzWTktVVl3UC1VZXA0SGFn?oc=5",
-       "titre": "Ukraine defies Trump to resume attacks on Russian oil refineries"
+       "source": "BBC World",
+       "url": "https://www.bbc.co.uk/news/articles/cwx28mngxz8do?at_medium=RSS&at_campaign=rss",
+       "titre": "Fake nuclear warning from hacked app sparks unease but not panic in Ukraine"
       },
       {
-       "source": "The Straits Times",
-       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdjl5NlpKemhqZkZwUklrT2RtZ2w2T0pfdWRSVDRIYWNUS2E5dEJyb0xWOGRwbmZ0STJMWXdzc1hGMGhSWUh6bTFJNHg3Y2ZuSkJOSmxGLVFsdmJqRHFXaHJpNXB0X09YNDQ3ZzdjUGJKQXZDSG9fOVNyZTJPZmhJd3pyc040NkFWd3FrdC1CRGthdTh4UUJvV1UtMW1wRlhEV1BPQjhsd09VSTBZdlBrNFNkZUNQdWpONk5uaGRzemxkUQ?oc=5",
-       "titre": "Zelensky says Ukraine will stop hitting Russia’s refineries if US provides missiles"
+       "source": "CBS News",
+       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMFVBYnZvb3ZDNlg5V3o4TUlJaXVHVFRmT1VPWmkweTJ5aTRtdURObGtqZjdtUTJtTlpVR3RiUjQ2MmtTMzNTOUtYYUR6Z1ZxbWE1MExwZG4za244THlzVkQ5SzhzTHpfaXFRTllvbmYzMUExOHZVM25HZ1hqdEd5czlMaVY4NmpEdXFqZC01aEZ1dFlKZW14SmxxSnl1STQ?oc=5",
+       "titre": "Ukraine and Russia's emergency alert apps both hacked, residents warned of fake nuclear, chemical strikes"
       },
       {
-       "source": "ABC News & Headlines",
-       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQa2pBdjRDa3Vwb2lLQ2ZpUzVWSTRIVlhPN3Fka1FJeGRuaUQ5VjZZMk5JUHJHVU1fRDJpSFNrNXlvY2JkTV92MnpvNUhlS1BXbmZwSEVWTDFCeE53T0F5dmpHMnBKVjdJZU9nOWZfQkxpaXVaSG1kbVFfVVJRUnhjX3pWSTkyY09DbE8ydlNJNU1Bb1E3MTVDWWZpQVdkcFBmbTJZMmZ3RHFDSWhfNnc?oc=5",
-       "titre": "Russia opens terrorism case over Ukraine oil refinery attack"
+       "source": "BBC",
+       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1URnRWSXh1UnA2ckptNEdJd2VGVVU4N2FKYUxjanpWWVpsRDRUVWNpYXFtV3JFSWdlLUdwUVdWVXgzd09UTjRuQ2ljcnIySF9lWjhEbVFpSks1MHM?oc=5",
+       "titre": "Fake nuclear warnings issued after Ukrainian and Russian air alert apps hacked"
+      },
+      {
+       "source": "CNN",
+       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPS3VKNzBYUk8yYXJEZF9MX01wVEtHZFljV0ZDdnEyR1lKUlFRMnBmbjVrdkg5Y2FpTE4xdmpmVHJfakpOZ1lLaTRvdXVvZEVLZzc3amxIQ21SNVUzVXNqakdrdTQ2SjNwcDMxYlhKXzVPTWFlcTkzZkRoNUthMnNGeV9DazF0ODE5Qnc?oc=5",
+       "titre": "Fake warnings of nuclear attack posted on hacked Russian and Ukrainian emergency apps"
       }
      ],
-     "id": "2026-11-02|Zelensky offers to halt Russian refinery strikes in exchange for missiles"
+     "id": "2026-11-03|Hackers broadcast fake nuclear warnings via air alert apps"
     }
    ]
   },
   {
    "id": "moyen_orient",
    "titre": "Middle East",
-   "items": [
-    {
-     "suite": false,
-     "remplace": null,
-     "emoji": "⚠️",
-     "titre": "UN reports 300,000 displaced as fighting escalates in western Yemen",
-     "resume": "The United Nations announced that more than 300,000 civilians have been displaced by renewed combat in western Yemen since July. Hostilities intensified following a Houthi offensive aimed at strengthening control over the Red Sea coast.",
-     "pourquoi": "",
-     "pays": [
-      "Yemen"
-     ],
-     "region": "Middle East",
-     "rubrique": "moyen_orient",
-     "liens": [
-      {
-       "source": "Le Monde International",
-       "url": "https://www.lemonde.fr/international/article/2026/11/01/au-yemen-plus-de-300-000-personnes-deplacees-a-cause-des-combats-dans-l-ouest-du-pays-selon-l-onu_6804527_3210.html",
-       "titre": "Au Yémen, plus de 300 000 personnes déplacées à cause des combats dans l’ouest du pays, selon l’ONU"
-      }
-     ],
-     "id": "2026-11-02|UN reports 300,000 displaced as fighting escalates in western Yemen"
-    }
-   ]
+   "items": []
   },
   {
    "id": "europe",
@@ -555,53 +512,70 @@
     {
      "suite": false,
      "remplace": null,
-     "emoji": "🚢",
-     "titre": "Russian Navy cancels modernisation of nuclear battlecruiser Pyotr Velikiy",
-     "resume": "The Russian Navy has formally cancelled modernisation plans for the Kirov-class nuclear-powered battlecruiser Pyotr Velikiy due to acute budget constraints. The decision highlights ongoing financial pressures reshaping Russia's surface fleet priorities.",
+     "emoji": "💻",
+     "titre": "Coordinated cyberattack hits European supermarket freezers",
+     "resume": "Supermarkets across eight European nations suffered temperature spikes and massive food spoilage after hackers breached internet-connected refrigeration control systems manufactured by Danfoss. The incident highlighted critical vulnerabilities in commercial supply-chain infrastructure.",
      "pourquoi": "",
      "pays": [
-      "Russia"
+      "Belgium",
+      "Sweden",
+      "Finland",
+      "Estonia"
      ],
      "region": "Europe",
      "rubrique": "europe",
      "liens": [
       {
-       "source": "Naval News",
-       "url": "https://www.navalnews.com/naval-news/2026/11/pyotr-velikiy-modernization-canceled/",
-       "titre": "Russian Navy Cancels Modernization of Kirov-Class Battlecruiser Pyotr Velikiy"
+       "source": "Japan Times",
+       "url": "https://www.japantimes.co.jp/news/2026/11/03/world/supermarkets-europe-freezer-hack/",
+       "titre": "Supermarkets across Europe report new suspected freezer hack"
+      },
+      {
+       "source": "CNA Monde",
+       "url": "https://www.channelnewsasia.com/world/fridge-cyberattack-hits-supermarkets-across-europe-6513981",
+       "titre": "Fridge cyberattack hits supermarkets across Europe"
+      },
+      {
+       "source": "BBC World",
+       "url": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss",
+       "titre": "If hackers can take control of a supermarket freezer, how vulnerable is other tech?"
+      },
+      {
+       "source": "Le Monde International",
+       "url": "https://www.lemonde.fr/international/article/2026/11/02/des-cyberattaques-contre-des-refrigerateurs-et-des-congelateurs-visent-plusieurs-supermarches-en-europe_6805296_3210.html",
+       "titre": "Des cyberattaques contre des réfrigérateurs et des congélateurs visent plusieurs supermarchés en Europe"
       }
      ],
-     "id": "2026-11-02|Russian Navy cancels modernisation of nuclear battlecruiser Pyotr Velikiy"
+     "id": "2026-11-03|Coordinated cyberattack hits European supermarket freezers"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🤝",
+     "titre": "UK and Germany partner on military AI development",
+     "resume": "Britain and Germany agreed to jointly develop military artificial intelligence capabilities beginning in 2027. The bilateral initiative aims to integrate autonomous systems and software architectures into frontline armed forces.",
+     "pourquoi": "",
+     "pays": [
+      "United Kingdom",
+      "Germany"
+     ],
+     "region": "Europe",
+     "rubrique": "europe",
+     "liens": [
+      {
+       "source": "Euronews.com",
+       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZjRMUlhkdFBSNjl3Q1hHU3p2YTBWeV9JRnVQeEtYV3pwV2hqdzZIQmZQaTJRQlJVX3Fkc3F3NzViaGViX21acDZxUWhGY2lkOHd0ZFg2OHVOa0txQ0Zza2p1cnhwM3c3RnFMaVpWZnEyWFFhSS15U1Vva01LSjVoWTg5dU9ISjVKVXF6WXpMcDNEdGs?oc=5",
+       "titre": "UK and Germany to jointly develop military AI in 2027"
+      }
+     ],
+     "id": "2026-11-03|UK and Germany partner on military AI development"
     }
    ]
   },
   {
    "id": "espace",
    "titre": "Space & Satellites",
-   "items": [
-    {
-     "suite": false,
-     "remplace": null,
-     "emoji": "🛰️",
-     "titre": "South Korean Air Force joins US-led space exercise for first time",
-     "resume": "The Republic of Korea Air Force will take part in a US-led multilateral space warfare exercise for the first time. The training focuses on space domain awareness and defending orbital assets against hostile disruption.",
-     "pourquoi": "",
-     "pays": [
-      "South Korea",
-      "United States"
-     ],
-     "region": "North-East Asia",
-     "rubrique": "espace",
-     "liens": [
-      {
-       "source": "Yonhap News Agency",
-       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5SzBqWHc2eEpCd09BY083QVJxY0VaZ2tlNFh3cW5TbWlMVm9DYnZ4RWJSZ3hISEhQSkU5ckFEOUtMc2hWVk9ybFU2bVNhYU9weld5MkJEbDZoUQ?oc=5",
-       "titre": "S. Korea's Air Force to participate in U.S.-led space war game for 1st time"
-      }
-     ],
-     "id": "2026-11-02|South Korean Air Force joins US-led space exercise for first time"
-    }
-   ]
+   "items": []
   },
   {
    "id": "tech",
@@ -610,23 +584,30 @@
     {
      "suite": false,
      "remplace": null,
-     "emoji": "🇸🇬",
-     "titre": "Singapore cyber research shows AI attack models prone to deception",
-     "resume": "Cybersecurity research in Singapore revealed that autonomous AI-powered attack tools fall for defensive decoys 78.5% of the time, compared to 37% for human hackers. The findings suggest automated cyber threats can be effectively countered using strategic deception.",
+     "emoji": "🚀",
+     "titre": "Hypersonica secures €100m for deep-strike missile development",
+     "resume": "European defence technology start-up Hypersonica raised €100 million in private funding to accelerate development of sovereign hypersonic deep-strike missile systems. The investment seeks to bolster European strategic deterrence and long-range strike autonomy.",
      "pourquoi": "",
      "pays": [
-      "Singapore"
+      "Germany",
+      "France",
+      "United Kingdom"
      ],
-     "region": "South-East Asia",
+     "region": "Europe",
      "rubrique": "tech",
      "liens": [
       {
-       "source": "Straits Times Singapour",
-       "url": "https://www.straitstimes.com/tech/decoys-safe-ai-hacking-help-cyberdefenders-counter-ai-powered-attacks",
-       "titre": "Decoys, safe AI hacking help cyberdefenders counter AI-powered attacks"
+       "source": "Defence Industry Europe",
+       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZThreEIwckx3STJhT2NUbjlqU010SmU1NjY3alVVMFNVQXFwLUdJVmVwN01EYXNaZmFZeUtWQnU4OUs0eXE4WVBlYUpPT1BMM29IaHozNHdJVXdZWVQtU04tVVNlXzdTbGgxcGJZS2pSN2o3bHg0WDNWVThLeEdqRXpKT211RG5HeHdzb2t6WnJBTU1yM19aRWVCb2xjbDFZbFlMb3hySzNwbmdDTlZBRVBldjZrcXBzeUZ6SkVkNmdvMjVUMnpxYQ?oc=5",
+       "titre": "Hypersonica raises €100 million to accelerate development of European hypersonic deep-strike systems"
+      },
+      {
+       "source": "Financial Times",
+       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVkxFR0U0cmJiOGtpdmJGUXdZX1VHSktKeWhIcGJpYTBkNC0tR1pEWlRDemIzRVhvc04yNUl3Zk5pYkNjSUUtNURFUVI1cVFWbGExUGQ5V2NNWjV0U3Rhb21hZnlOVWlKVlpMU1hibVAzQjlRYzUwMHZyTFJFTzVLWW9pNDg?oc=5",
+       "titre": "Hypersonic missile start-up secures funds to boost Europe’s deep-strike capability"
       }
      ],
-     "id": "2026-11-02|Singapore cyber research shows AI attack models prone to deception"
+     "id": "2026-11-03|Hypersonica secures €100m for deep-strike missile development"
     }
    ]
   },
@@ -637,23 +618,24 @@
     {
      "suite": false,
      "remplace": null,
-     "emoji": "⛏️",
-     "titre": "Friedland announces US-backed rare earths mining project",
-     "resume": "Mining financier Robert Friedland unveiled plans to build a major rare earths mine backed by the United States government. The initiative aims to reduce Western reliance on Chinese critical mineral supplies for high-technology and defence manufacturing.",
+     "emoji": "⚠️",
+     "titre": "US weapon programmes face acute rare earths supply risks",
+     "resume": "A defence analysis warned that thousands of critical US weapon systems remain dangerously reliant on Chinese-sourced rare earth elements. Analysts underscored that escalating trade tensions could trigger supply cut-offs across guided munitions and radar programmes.",
      "pourquoi": "",
      "pays": [
-      "United States"
+      "United States",
+      "China"
      ],
-     "region": "Americas",
+     "region": "Global",
      "rubrique": "economie",
      "liens": [
       {
-       "source": "Bloomberg.com",
-       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQWhiSzA0bTYzV3Q0N29JVDZrMHdQVTVYYzJSbjFiazZfbllGRjZKc3FCUmtOcVFQTGIyX25RZGVzRVVZdWg5OXVqOUVza1hzMmszRzVYYmxqejdlc3p5aVpXbzJQY2FrU2dubUUxRnhYN0MyNG95MFdnbjk2VUx1Q2FwUnJjYTJXSzhkZzlob3VZYTZFR1VEZFJXbEFlcDFjVXVhal9VVEdNYktpdmhwNFo5U0s?oc=5",
-       "titre": "Billionaire Friedland to Build Major US-Backed Rare Earths Mine"
+       "source": "The War Zone",
+       "url": "https://www.twz.com/news-features/these-are-the-u-s-weapons-most-at-risk-in-the-looming-rare-earths-supply-crisis",
+       "titre": "These Are The U.S. Weapons Most At Risk In The Looming Rare Earths Supply Crisis"
       }
      ],
-     "id": "2026-11-02|Friedland announces US-backed rare earths mining project"
+     "id": "2026-11-03|US weapon programmes face acute rare earths supply risks"
     }
    ]
   }
@@ -661,236 +643,103 @@
  "a_surveiller": [
   {
    "quand": "November 3",
-   "quoi": "US midterm elections determine control of Congress and key state governorships",
+   "quoi": "US midterm elections voting takes place across all 50 states to determine control of the Senate and House",
    "liens": [
+    {
+     "source": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko?at_medium=RSS&at_campaign=rss",
+     "titre": "Supreme Court rejects Trump's request to stop California counting disputed votes"
+    },
     {
      "source": "Bloomberg.com",
      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tTWNNRkFpSGJONmdZckNUQ2NaSXBjc21LSklDTUNiM2tFQm9wS3pwNnNGdFJhM1NzYllHWnBJdzgtcUtuWFV1dmlHZ1NYNjUtbDNNWUZ6MXV4R3p4enlpTW5IQVVrU2pxam1YVQ?oc=5",
      "titre": "Live Results and Map: 2026 US Midterm Elections | Key Races to Watch"
     },
     {
-     "source": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/1/carney-signals-progress-on-canada-us-trade-deal-talks-as-midterms-loom?traffic_source=rss",
-     "titre": "Carney signals progress on Canada-US trade deal talks as midterms loom"
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSzVUWUtYdDBTSkRpU2xDeTNEck1fOVVySkVPRG9UbFpwMlNBbWZsdkFyTkhLdGpEellfclFEdlRhbzZsaGFweENuQ1JaeWZ2akJSel90cGlUTWlQWWx5WklVeENZMk9UZWpUZC1idV9TNG9MRG5lckRLLTI0Zmp6NnA2WGtuOFdxcTlLOUNjblJfUFNIZkxEdQ?oc=5",
+     "titre": "The races that will decide control of the US Senate"
+    },
+    {
+     "source": "CNA Monde",
+     "url": "https://www.channelnewsasia.com/world/us-midterms-campaign-ends-congress-house-senate-6514236",
+     "titre": "Tensions rise as midterm campaign ends with control of Congress at stake"
+    }
+   ]
+  },
+  {
+   "quand": "November 3",
+   "quoi": "UN General Assembly and Security Council hold elections for five International Court of Justice seats, including Singapore's candidate Rena Lee",
+   "liens": [
+    {
+     "source": "Straits Times Singapour",
+     "url": "https://www.straitstimes.com/singapore/politics/un-top-court-to-hold-elections-for-5-seats-singapore-fields-candidate-for-first-time",
+     "titre": "UN top court to hold election for 5 seats; Singapore fields candidate for first time"
+    },
+    {
+     "source": "CNA Singapour",
+     "url": "https://www.channelnewsasia.com/singapore/singapore-icj-judge-rena-lee-international-court-justice-6507386",
+     "titre": "CNA Explains: Could Singapore get its first World Court judge? What is at stake in the Nov 3 UN vote"
+    }
+   ]
+  },
+  {
+   "quand": "November 7",
+   "quoi": "New Zealand holds general election",
+   "liens": [
+    {
+     "source": "Straits Times Asie",
+     "url": "https://www.straitstimes.com/asia/australianz/how-living-costs-jobs-and-housing-are-shaping-new-zealands-election",
+     "titre": "How living costs, jobs and housing are shaping New Zealand’s election"
+    },
+    {
+     "source": "Lowy Interpreter",
+     "url": "https://www.lowyinstitute.org/the-interpreter/the-power-broker-in-new-zealand-s-election-has-no-foreign-policy",
+     "titre": "The power broker in New Zealand’s election has no foreign policy"
+    }
+   ]
+  },
+  {
+   "quand": "November 10-11",
+   "quoi": "US mediates trilateral talks between Ukrainian and Russian delegations in Abu Dhabi on post-war security and de-escalation",
+   "liens": [
+    {
+     "source": "Al-Monitor",
+     "url": "https://www.al-monitor.com/originals/2026/11/us-mediate-trilateral-talks-ukraine-russia-abu-dhabi-next-week-us-envoy-says",
+     "titre": "US to mediate trilateral talks with Ukraine, Russia in Abu Dhabi next week, US envoy says"
     },
     {
      "source": "Le Monde International",
-     "url": "https://www.lemonde.fr/idees/article/2026/11/01/reedition-de-de-la-democratie-en-amerique-de-tocqueville-devrions-nous-nous-pencher-sur-l-evolution-recente-de-la-societe-etats-unienne-pour-analyser-comment-meurent-les-democraties_6804534_3232.html",
-     "titre": "Réédition de « De la démocratie en Amérique » de Tocqueville : « Devrions-nous nous pencher sur l’évolution récente de la société états-unienne pour analyser comment meurent les démocraties ? »"
+     "url": "https://www.lemonde.fr/international/live/2026/11/03/en-direct-guerre-en-ukraine-le-bilan-des-bombardements-russes-dans-l-oblast-de-zaporijia-passe-a-26-morts-annonce-volodymyr-zelensky_6803934_3210.html",
+     "titre": "EN DIRECT, guerre en Ukraine : l’émissaire américain annonce des négociations entre Moscou et Kiev la semaine prochaine à Abou Dhabi, sous médiation de Washington"
     }
    ]
   },
   {
-   "quand": "this week",
-   "quoi": "Expiry of Tehran's two-day offer to reopen the Strait of Hormuz if US demands are met",
+   "quand": "November 2026",
+   "quoi": "Multinational Force for Ukraine holds its inaugural military deployment exercise in Poland",
    "liens": [
     {
-     "source": "The National",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOR1YtZVpYb1lJeUVSMXFnakU1dlI2bW5DZlExMnZGTk5CTUNJV3JhX2d1T1U0SnJxbS1Gb0J4NzBQRmpNUDB0cHFsdTRzWm43NjBWNURaWFVyY1VvVDhlRUU1eThHNVdrTEhyYUI4cU5WemNCTmV4Z01pdkdqaXl6cmZOTDhwbUxjVkxBR1k2T2U?oc=5",
-     "titre": "Middle East latest: Iran offers to open strait in two days if US meets demands"
-    }
-   ]
-  },
-  {
-   "quand": "November 6 to November 9",
-   "quoi": "Heavy cross-border traffic expected across Singapore-Malaysia land checkpoints for Deepavali",
-   "liens": [
+     "source": "France 24",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSDBXOWhLY29tZmEtTXdhclZENVQwTkkzSjc1Qnh4alFvWEg4SEYtSzdGZ1loTlhJVHFrSU0xWXRiejEtR0FsTzdpZ2E5S3JFb2lBS2VzaG51WkMtcmxQbFVfa1FPWnZJc0tMQk9FX3ZpbksyWExKNmRkMFZ4T2o3TlRWMkc4WTBjRmpQdVB1UDg3Z1RZYUZ5R0xLV1ozcTRpbnRDcklzSXh1QXNlZUlmYlBlQXE1c09Ec2ZkQ2p0MEVjaG96ODJSd3NoSQ?oc=5",
+     "titre": "La Force multinationale pour l'Ukraine tiendra son pemier exercice en Pologne en novembre"
+    },
     {
-     "source": "CNA Singapour",
-     "url": "https://www.channelnewsasia.com/singapore/heavy-traffic-woodlands-tuas-checkpoints-6510666",
-     "titre": "Heavy traffic expected at Singapore-Malaysia land checkpoints during Deepavali long weekend"
+     "source": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss",
+     "titre": "Thousands of European troops to rehearse Ukraine deployment in event of peace"
+    },
+    {
+     "source": "l'Opinion",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQU1RRMHpEZ3lvTGJHeG9QeW9WMFJ2dVJidmRYSENfTksxX2xZbmNSNDNMcU5ldXQ3dldBZkltcUkwNjlaakpNTnF3aFVfdFJrZmRIbzhSNEVEakswWlU0QTBCVDV4Q21YV3kzZzFWcXROc3VGaThFWGVXYkVDQk05MWxhem1LNDFMYlc5N0tIOUxqaklfZ3FPLVVOR3hvZlpEVUx6RkxyM0VQSmc?oc=5",
+     "titre": "« Koalicja » : la « Coalition des volontaires » teste sa future force militaire"
     }
    ]
   }
  ],
- "hebdo": {
-  "periode": "2026-10-26 → 2026-11-01",
-  "accroche": "This week saw significant operational and industrial momentum in integrated air and missile defence across Europe and the Indo-Pacific alongside mounting geopolitical friction. Tensions surged in the Middle East around the Strait of Hormuz, while major powers accelerated hypersonic deployments, naval unmanned trials, and sovereign air defence architectures.",
-  "tendances": [
-   {
-    "emoji": "⚔️",
-    "titre": "Hypersonic and deep-strike weapons shift rapidly from testing to serial procurement",
-    "resume": "Major powers are consolidating operational hypersonic strike capabilities. The US Air Force formally put the AGM-183A ARRW into production, expanding facilities in Alabama, while the US Navy broke ground on a dedicated Conventional Prompt Strike support depot at Yorktown. In Europe, the HYDEF interceptor programme expanded to 16 partner nations, and France committed to additional SAMP/T NG batteries equipped with Aster 30 Block 1NT interceptors.",
-    "liens": [
-     {
-      "source": "The War Zone",
-      "url": "https://www.twz.com/air/usaf-orders-arrw-hypersonic-missile-into-production-the-same-weapon-it-nearly-cancelled",
-      "titre": "USAF Orders ARRW Hypersonic Missile Into Production, The Same Weapon It Nearly Cancelled"
-     },
-     {
-      "source": "Naval News",
-      "url": "https://www.navalnews.com/naval-news/2026/10/us-navy-hypersonic-facility-nws-yorktown/",
-      "titre": "U.S. Navy to Build Hypersonic Weapon Facility at NWS Yorktown for Zumwalt and Virginia Classes"
-     },
-     {
-      "source": "The Defense Post",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1aazF2TF93czRlOVptMDE2T3RBRjgzNkdlRHVsQ3g3NzZnRDg5WDMycWx3S1JUT0hUakl4NWRIcHptckhtN2d3RkxSRzJKRWdEMWlza0U0cUp2SUFsUV92Q0FBVWcwd2w30gFuQVVfeXFMT0VOLVFjbkZKOERUbHhOcGl4Z3B0NlZnR05GUXpxdURCM2J1NWgzN3QyZzVfd3ZydktJOVpma2NLZllaRmFHQlE3YkMtR0lXZTYxNVZpMVJ6a1M2cGZ1QXplTnRjQXhxYWJOb2ZYLXc?oc=5",
-      "titre": "France Orders More SAMP/T NG Systems With Hypersonic Interception Capability"
-     },
-     {
-      "source": "Defence Industry Europe",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNb1FWeVBENTJMN2tGQ1NyMGxWRnYzYlVtZGpzLW12VUhhRHFtUXpJREZyMmE5LUFZQ3hRbWRuVDdGaFBsUG5XRFg5dl83TjEwa2xxRG4yTDdOSmpVcjNyWVFYS0ZLRFZyLXhGb0hxTzNSYTQ1dVBxblgwMWJYTFJ2QkktY1k1LXg0YlZibklsMjkwdlRSVmh6VjhxM0VpcGNLZkhyUlItNldvdDFpM0ZqcE53Q04?oc=5",
-      "titre": "Lockheed Martin expands Alabama plant to produce hypersonic missiles for B-52 bombers"
-     }
-    ]
-   },
-   {
-    "emoji": "🛰️",
-    "titre": "Accelerated integration of autonomous and lower-tier counter-drone architectures",
-    "resume": "Militaries are urgently bridging the cost-per-kill gap against low-altitude drone saturation. Initiatives ranged from German AI-driven interceptors (Helsing Contra) and Rheinmetall Skynex passive sensor upgrades to Danish XENTA-M5 radars for Poland and rifle-mounted optical sights in Thailand. Concurrently, navies are moving counter-UAS capabilities onto uncrewed platforms, illustrated by US maritime sprint programmes and UAE EDGE trials.",
-    "liens": [
-     {
-      "source": "Defence Industry Europe",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQjlBQkZOeDhsTmFsQ0otdzJWMkxybWY5T2lMVkNEWS1RSGp0MEozbGJvM1Zvd0dEX2NmV1dnMHNudXBaUUhtb1drbGI0UFRlTVZRbWVtZDllTEtlZ0E5QVRydnRYbjRsVXd2Y0xZUEFlU3dEMlZWM3lJQUN5b1dUcWtzc1JMYkJ6VzJiVnF2dWh6TGV4RTdFUkUtQ3JpRnlMX3AxQ3ViSFJLMDdjS2dGVkdBWXpsR2ExMkVVbVB3?oc=5",
-      "titre": "EDGE integrates autonomous vessels and counter-drone systems in demo with UAE and US navies"
-     },
-     {
-      "source": "Zone Militaire",
-      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNSnNPbDZ3NzgyQkVMTncwaDBJX1FXdGdURXNyX3NobFl1NVBGd05ZRVFlak92QzJmMUFNcGk1TTJWTmpWajJ2aTFDQmFweGJnRi1EZEo5R3M1N2Y0eXh0WFVMVEt3TmYtSGtJaXpVY2UxMTJETENXajExRlEyU3dsUkhYUnRRVzUxX29Lal9sMFp2X254cE45Uy1jNm9IVElqencxSzBnSVZDQkxyNFFxbl8yeGpRR3I5S3ZzajJLWUxENWVhSnU3YlVuNGVhQjhwbUZBdS1aNkNBenh1bWpzVzZhWUJuQ01VR3RFNm9hMVQ4eWQ0S3NpMnNmY05RN2RWVnA3SF9PWi1sSFNOTjlOaQ?oc=5",
-      "titre": "contra-helsing-20261026"
-     },
-     {
-      "source": "The Defense Post",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1vTS1Jek5iY0pLVEdDbTlvUmI0MjVjQVB4WWVHM3V0am45NktiUkRCaDNfZ0t0RDRwUmxDRTNvOUY3M28xYnctV1hpcGxfdE1Qdk85ajlGYVp2OGo4Wmt3YjFZQjU1Y21jSXJQbXpjYzltUmk1TXQ2Q0pSdk0?oc=5",
-      "titre": "Thailand Equips Rifles With Israeli Anti-Drone Fire Control Kits"
-     },
-     {
-      "source": "Unmanned airspace",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRTlkdC0xdEVEV19CTVV6cGlVX3hHWU1YMy1oRnN4QjBSTHV4d2RLb1Byek1VRDFqRUdaSnNBUUFJNnhCcFhtYkNxNHAteGNmX0N4Tk1YdUhmanU0RldHNFp0RzE5RnpGemZseWVvZUhBWnAxRk4xcE5oQUowdHRaVEF3NEFhOW9MYzd1dEFMQUNtaHlNUDdEWU9sOGRMUk9Ga1prcEtoTm52bHBlSUZFNkhNZXBQS3o1VGtVM25aLWIwbThHemw5NA?oc=5",
-      "titre": "US seeks production-ready maritime counter-drone capabilities"
-     }
-    ]
-   },
-   {
-    "emoji": "🛡️",
-    "titre": "Allied sovereign air and missile defence networks adapt to high-intensity attrition",
-    "resume": "Facing persistent missile barrages in Ukraine and the Gulf, allied planners are overhauling production and forward basing. The US established a permanent THAAD battery on Guam and selected Poland as a European Patriot PAC-3 maintenance hub, while approving 500 PAC-3 MSE missiles for Kyiv. Concurrently, regional players like Ukraine (Freyja) and Switzerland are pushing forward next-generation surface-to-air programmes.",
-    "liens": [
-     {
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUXJJOHhnVndTbW9OV2NxczlQdElkQzVNazlPdHR2Q3UweGpCVGM4ZEJTNEhvMlh1ZDJHZjlBY0NtTmhsVUhETXFGTEk3eHdZNGFPX3lUazk5Y1Y3TGRCMUtwTWRlQ3MtVXhHb291X3FSVFdueHdiWVdiUFB1UkU4aTF0bmxfZw?oc=5",
-      "titre": "ゼレンスキー氏「米の早期警告が完全再開」、弾道ミサイル防衛に不可欠"
-     },
-     {
-      "source": "Breaking Defense",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOV3o3UGRUV2hjdmhlRkdTYjZLTHk2clp3cHYyejk3QVhmVlZjSDI5c0xqbmV2ZWh5aF9leW02X2FiOU42YlFDMDVmMHJleTdxa2YzNUliZlZtQkx1Qy05Q0pHUXdwRkxNRmo5eXprdlFzOHpBM0Y3VmVoMVVtOF8xSGRYMlNJSlVnWGRTREJIWlBVaGxsT216aTVSY280T3ltbzdOS2FaOGY?oc=5",
-      "titre": "Defense Department selects Poland for new PAC-3 maintenance facility"
-     },
-     {
-      "source": "Defence Industry Europe",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS3NRR2dxQnF3WDlVWmRfV2dlU1hFV3J3YVFOTzZPZ3l4ME56T1QtYTJ6eXR2cFdOTjNPX0dQVFBvdXB4dzVqN19aeFc2QVc2S0NtZ25WRVZaRUtBQnVkZ3pwWWcxenAtQzVtWmJ3UlA3STc2MDVyeFY0R091R1VzYUdZajVsZ20wOFJDSWhNOER3Z3NDQVJ6LW12LWF4OTdsU2gtTTV5UUJ1Znhh?oc=5",
-      "titre": "Switzerland shortlists Barak MX and SAMP/T NG for additional air defence system"
-     },
-     {
-      "source": "Korea JoongAng Daily",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVURXSk1oQjgyNFBPb0xKd0g5NE5iMXFDckNualZZR3lTc3ozbDBZaEFBTjdzTGdiTTZoQ2Jrcm4wOVEwdl9TMTRrX1lKb0t5WDRsUnlSN1ZzWmNOcHk5bGlUQ3V5RE9RQ3FsWllWSl9CcXBxVHN0X3BlVWJSMGlRX0xFeXY1ZUlsZ2ZHQWdhd1hySVpsaUY0T0ZLUlIydEgxVnIxV3M2V0pPWk9VeWhUWnk5cEVYbE10SGhXTWtR?oc=5",
-      "titre": "U.S. makes Thaad unit in Guam permanent as North Korea, China threats grow"
-     }
-    ]
-   },
-   {
-    "emoji": "🌏",
-    "titre": "Indo-Pacific defence posture deepens via dispersed infrastructure and joint testing",
-    "resume": "Allies in the Indo-Pacific are enhancing deterrence through operational dispersal and overseas testing agreements. Japan deployed its domestic Type-25 long-range missile launcher and secured missile firing access in Australia and India to bypass domestic space constraints. Simultaneously, the Philippines confirmed dispersed US access sites, AUKUS deployed USS Colorado to Western Australia, and China expanded power projection via a new 3,000-metre runway on Antelope Reef.",
-    "liens": [
-     {
-      "source": "Straits Times Asie",
-      "url": "https://www.straitstimes.com/asia/east-asia/japan-deploys-long-range-missile-launcher-during-major-drill-with-us",
-      "titre": "Japan deploys long-range missile launcher during major drill with US"
-     },
-     {
-      "source": "조선일보",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVlVMLWs5Y2lDZkVSYkxYN3VZU3hWSVBZNlVRWFVMSzZKby1vUi01dzRQb2xSN1ZPWmdHNEkyWGQ1Wk9rRnlhOUNLYWhjM3ZlTi1QTU85NVU5VW8zZG54T1JnUU5oWTN1U1FjT0lCVVVveGZMeUtQcTZoUmdwXzZvMjQtVUY?oc=5",
-      "titre": "China Builds 3km Runway on Antelope Reef in Paracel Islands"
-     },
-     {
-      "source": "Rappler",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeTNJRWc4M3RUb1ppMWh1cFl3akgtVXlhVEN6emtERlFhQkNYZHpEWmRTZnNNOGlZVW9HaXBwanhDaXlwb1RTUnJkZzA3MVc4TWJHcDdZR01QenU0WUZXYlZfWTAwNnBhaUpvZkJoRVdPMlJMNW4tTnRWZnhzNmJYNTZhWUdzYmdYNFVxbTlsUFNMYVRrYTRFQ1lkTTdnSXRSQUZxSXI3c3VkZw?oc=5",
-      "titre": "Marcos says new military bases with US to be ‘scattered’ around PH"
-     },
-     {
-      "source": "Naval News",
-      "url": "https://www.navalnews.com/naval-news/2026/10/aukus-uss-colorado-announced-as-first-submarine-for-srf-west/",
-      "titre": "AUKUS: USS Colorado Announced as First Submarine for SRF – West"
-     }
-    ]
-   },
-   {
-    "emoji": "🔥",
-    "titre": "Hormuz flashpoint and Gulf escalation strain maritime security",
-    "resume": "The Middle East edged closer to broader regional conflict following mine explosions against commercial tankers in the Strait of Hormuz and cross-border missile exchanges. Iranian air defences downed a US drone over Bandar Abbas, prompting US military strike briefings and an Iranian supreme command directive preparing unrestricted retaliatory measures. Despite parallel diplomatic mediation in Doha and Tehran, Houthi strikes into Saudi Arabia prompted Egypt to authorise defensive military support.",
-    "liens": [
-     {
-      "source": "CNN Indonesia",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRkJXdThRa19CS09XMEJnQWhSWGVZQk9hMGJwR3RwRG9weEtNM2tqMDJaZFB3UHprU1BOUnFtWkNIUlVjTkhKYVFxX0RKMFZVYmczazJoWDdYZkF4SktfV2IwWmlnZnI0UVMtN2c4S3ZxRUNIS09pNmUwdWd1Q1B2dk4zRnBjU3pLdm9uUEpWbm1qWVd2MnRKcHR6clJrOWl4LUpuWVRGWHFTSkRhbE9SRDB4cWpfdGJYU0VSWNIBwgFBVV95cUxPbjRqc1FSb1JhMHdaWHRrUHNiblYzQlJ3M1N6NFU4S242QVhXeXhLSkg0Y2pZQXJEZzBPSFJLT05LTTRBenVobmp3UmpuSVNYT1ZaUXp4QUNLM1J5M3A1UURLUGdTNV9OVmR3aUVwTjlSRHdlZld4cW9YRmZPWmhWZ1A4c3BNR1hPdkVZeTZSeG5MTnFrUDRXaV96Z0VfRjRTRGItLUpSSG5JSHpDUjhKdG5LWHpvQnY3WFJCZzJSSi02Zw?oc=5",
-      "titre": "Militer Iran Tembak Jatuh Drone AS di Bandar Abbas"
-     },
-     {
-      "source": "The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUW9UZ0JLbE5OTy1EYlY0RTdEVS1iZm81X241Nk5GRVFLYzhzbVdOR0drbHZZeU44M3JiV1RqaW1aWVNjdWZUQ1A4dFZKakp2UjFyd1hvdXFhLXBQY2VkT0V2ZmtQaGZ4dGYzZktvT01LTWZmNnJudFNRZXdUbk42WTk5a193ZngzMFU3eXJPeFdhNUplRmxN?oc=5",
-      "titre": "Saudi Arabia Reopens Riyadh Airport Even as Houthis Threaten Further Strikes"
-     },
-     {
-      "source": "Malay Mail",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdmdvOTlFTm04SHVJaGJucnZxN1dTbFhiVjhCNXpmNVVmWVhoSGpPUDcwZFoyeVlQTmZXaHF1ZGdmWHdFQVFRS0RHV0t1NC1yeHhqanZzWnpyazk0RDJsTnlMdEttR2hOVHhpcTg1MFRscDhRLWtYcjJ2QkxPR2llVlBRY1c3MDhXRzFhQW8xd1pIaVFYSXBnWjc5RUtueTE5Yko4cVFVVGVNc0RHeXctYzBMa1ZoWm9QRGJHYl8yQzNULXc0UTA2T2ZDdWdTdWvSAdQBQVVfeXFMTzBfYUNCZHBlRUFGY3hVSVZZa0g5MjlManZ6Y05CRGxfcWxTODMyRWJiZTBNNVNxM1BwVEdQal9wN0RXZTlpaUNjZ2dTX1hhSWl4cUNYSTZCcE1scHBHd3hfdS14cjR1RXlFMkN5NEliOGhWOWczZG1WNW9iamRjeEhxVjh3a3JZWFdfTFprWC1RelN4UUtCOVdMMzczWTRoakp3aXBROTRGSjhwSVZmWUM3WjZxcFBfdXFhb2JqLXV6cnVoR2NwTHMxZFhfWUw3bF9mN0Y?oc=5",
-      "titre": "Egypt parliament authorises military support to Saudi Arabia amid Houthi attacks"
-     },
-     {
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-iran-says-us-not-serious-on-talks-ship-on-fire-off-iraq?traffic_source=rss",
-      "titre": "Iran war live: Iran says US ‘not serious’ about talks; ship ablaze off Iraq"
-     }
-    ]
-   },
-   {
-    "emoji": "🇸🇬",
-    "titre": "Singapore scales unmanned doctrines and regional C2 while navigating cross-border frictions",
-    "resume": "Singapore advanced tactical transformation by reorganising infantry battalions with organic UAV units, testing airborne 5G nodes, and trialling mobile C-UAS systems in Australia. On the regional stage, the Republic assumed the ADMM chairmanship amid South China Sea disputes. Bilaterally, Singapore managed acute resource frictions with Jakarta over peatland haze investigations and piped gas commitments.",
-    "liens": [
-     {
-      "source": "Straits Times Singapour",
-      "url": "https://www.straitstimes.com/singapore/politics/wp-regrets-indonesias-move-to-cut-gas-exports-to-spore-stresses-importance-of-honouring-contracts",
-      "titre": "WP regrets Indonesia’s move to cut gas exports to S’pore, stresses importance of honouring contracts"
-     },
-     {
-      "source": "Aviation Week",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWlh3bGFodWtNNmg1bkRxcVBkQnlBa2tVVW1QaFU3dG9GOUt6QXVfaTJPTmJEQ2U5VFRKdnZtYmlRY3ZNNHZCU2FuVXdCY2FwSkxwSWxPTFpJdlhYN3JSWWNSMzhfSWc1TW1nVFhCWTRsb3UzUTVjSThaME1vdTlYQ2FxOWE5ZjBxQWo0WUNzZ2dxcXV2OG10bmhZSDZjNVl1Uk9tbmpCOWVJTHJ2?oc=5",
-      "titre": "Debrief: How RSAF Is Keeping Helicopters Relevant In The Drone Age"
-     },
-     {
-      "source": "CNA Asie",
-      "url": "https://www.channelnewsasia.com/asia/indonesia-gas-cut-singapore-energy-minister-bahlil-lahadalia-6492401",
-      "titre": "Indonesia says gas export cuts to Singapore within contractual limits, pledges to honour obligations"
-     },
-     {
-      "source": "Straits Times Singapour",
-      "url": "https://www.straitstimes.com/singapore/singapore-indonesia-committed-at-highest-level-to-resolving-bilateral-issues-vivian-balakrishnan",
-      "titre": "Singapore, Indonesia committed at highest level to resolving bilateral issues: Vivian Balakrishnan"
-     }
-    ]
-   }
-  ],
-  "a_suivre": [
-   {
-    "quand": "3 November 2026",
-    "quoi": "US midterm elections amid contested rhetoric and security implications for foreign defence funding."
-   },
-   {
-    "quand": "7 November 2026",
-    "quoi": "New Zealand general election with polling indicating potential hung parliament dynamics."
-   },
-   {
-    "quand": "10 November 2026",
-    "quoi": "Swearing-in of the Israeli Knesset following deadlocked general election results."
-   },
-   {
-    "quand": "19 November 2026",
-    "quoi": "US FCC scheduled vote to ban Chinese telecommunications operators from direct access to US phone numbers."
-   }
-  ]
- },
+ "hebdo": null,
  "stats": {
-  "articles": 311,
+  "articles": 428,
   "sources": 52
  }
 }
