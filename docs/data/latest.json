@@ -1,118 +1,197 @@
 {
- "date": "2026-11-05",
- "date_label": "Thursday, November 5, 2026",
- "genere_le": "2026-11-05T10:53:41+08:00",
- "mode": "brut",
- "modele": null,
- "erreur": "Gemini indisponible : gemini-3.6-flash: HTTP 503 {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n | gemini-3.5-flash-lite: HTTP 503 {\n  \"error\": {\n   ",
- "accroche": [],
- "essentiel": [],
+ "date": "2026-11-06",
+ "date_label": "Friday, November 6, 2026",
+ "genere_le": "2026-11-06T10:53:04+08:00",
+ "mode": "ia",
+ "modele": "gemini-3.6-flash",
+ "accroche": [
+  "US Democratic midterm victory triggers tech market sell-off",
+  "North Korea test-fires new S-400-like air defence system",
+  "Joshua Wong sentenced to 10 additional years in Hong Kong"
+ ],
+ "essentiel": [
+  {
+   "suite": true,
+   "remplace": "2026-11-04|US Midterm Elections Underway with Control of Congress at Stake",
+   "emoji": "🗳️",
+   "titre": "US Democratic Midterm Victory Triggers $2.5tn Tech Sell-Off",
+   "resume": "A sweeping Democratic win in the US midterms sparked a massive tech stock plunge over fears of increased AI and data centre regulation. The sell-off wiped $2.5 trillion off the Nasdaq index.",
+   "pourquoi": "",
+   "pays": [
+    "United States"
+   ],
+   "region": "Americas",
+   "rubrique": "elections",
+   "liens": [
+    {
+     "source": "Japan Times",
+     "url": "https://www.japantimes.co.jp/business/2026/11/06/markets/market-nov-6/",
+     "titre": "Nikkei 225 falls more than 7% following AI-related declines on Wall Street"
+    },
+    {
+     "source": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+     "titre": "Major tech stocks plunge as US midterms add to fears of AI slowdown"
+    },
+    {
+     "source": "CNA Monde",
+     "url": "https://www.channelnewsasia.com/world/wall-street-selloff-ai-stocks-6529101",
+     "titre": "Brutal sell-off for AI stocks sends Wall Street reeling"
+    },
+    {
+     "source": "Le Monde International",
+     "url": "https://www.lemonde.fr/economie/article/2026/11/05/a-wall-street-la-victoire-democrate-aux-midterms-a-fait-exploser-la-bulle-de-l-ia_6807339_3234.html",
+     "titre": "A Wall Street, la victoire démocrate aux midterms a fait exploser la bulle de l’IA"
+    }
+   ],
+   "id": "2026-11-06|US Democratic Midterm Victory Triggers $2.5tn Tech Sell-Off"
+  },
+  {
+   "suite": true,
+   "remplace": "2026-11-04|North Korea Tests Cruise Missile Dispersal Warheads and Rejects Dialogue",
+   "emoji": "🚀",
+   "titre": "North Korea Tests Newly Designed Air Defence Missile System",
+   "resume": "Pyongyang conducted a test-firing of a new surface-to-air missile system reportedly resembling Russia's S-400. The test comes alongside strategic cruise missile drills aimed at enhancing North Korean interception capabilities.",
+   "pourquoi": "",
+   "pays": [
+    "North Korea",
+    "Russia"
+   ],
+   "region": "North-East Asia",
+   "rubrique": "defense_aerienne",
+   "liens": [
+    {
+     "source": "NHKニュース",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBRQUFZUFV2QWJVbFVUY3hCZEhLZUlmT0I4VDhGcktKaEZlMzdYQVBCSEpUZnhmU1FDVll4dnUta3pfM0xYRm1SbHpHMV9GRjRIb0lmd0pZT1h5OTdtNE9aV1dtanE?oc=5",
+     "titre": "Korut Uji Sistem Rudal Pertahanan Udara Baru"
+    },
+    {
+     "source": "CNN Indonesia",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTGFGblJqc1VqTThEV19adGhFYkJyeFJaclRGb1JPdjIzeHFaZXVkU0Zrd0d4Q1F6QjFNUjIybnZPdVNOeEJMbFJjVGJkQ0VZN0RWRUlWSmJ6TDZJYnhDYXZ5SFpUZW1TLWoybmpXdGxDNXhMcHNmOHdpaUVJVm80LS1ndW9faHg3YklyWG9lb0xJajlTcnhfNTJfSTBDZ0VLekVLaExVU1k4UkdPdUlGQXQwVVFmNGwySzhqem1NRFM0MlU?oc=5",
+     "titre": "Korea Utara Uji Coba Sistem Rudal Pertahanan Udara Baru"
+    },
+    {
+     "source": "Janes Defence Intelligence",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOE1UbDlFd2kyUEZKWmxtOXRRQm9PTFltVTFmTEJjZ0NwYVphOEJJQWszT2x4eEZuemthYmpHSHpzUkNuNXFMYWxqRHJ3MUxLU0ozUDREV3JjRnhqbEpkNlIyQlJZd0xHbWpRTkM3eFNYRzZIX0RwcWI0VjExUExTcTFmREd0QzR6VXZ0N2hJOGNCVDdQOFF6X2hDNFlMUk1haWltWUtSbTM5akVObFY5UFk4SWVHQm1jU0plX1JGdGhzbHB2dHlNTk4xbWU?oc=5",
+     "titre": "North Korea tests ‘newly designed' air-defence missile system"
+    },
+    {
+     "source": "The Star",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQazduRGhKYkdySjRvNEYyWnIyd1lCUEZfaFdpS1pLR3hQZUlKWE85XzdzelhGMFBTMVRFc1FOWmFOb2xTOHRaZzdfOGlSMGxUNEh3Q042ejRqLTNYaU1yNkRiN3luVmtOTnpZSHB6LVd4NnFOWlVsbmlwS2I2VXdwN213ZTVmQnhBbDdRcmR3MnhpYmtSRlMyczdqZnV5MkZ1aUtjV1ppcnNvVVBYTGdPUkRTazhLejhnZkZQd2VNb0VGSU5GTHdkTEdYcWo3UQ?oc=5",
+     "titre": "North Korea tests new air defence system and long-range cruise missile"
+    }
+   ],
+   "id": "2026-11-06|North Korea Tests Newly Designed Air Defence Missile System"
+  },
+  {
+   "suite": false,
+   "remplace": null,
+   "emoji": "⚖️",
+   "titre": "Hong Kong Sentences Joshua Wong to 10 Additional Years",
+   "resume": "Pro-democracy activist Joshua Wong was sentenced to ten further years in prison for foreign collusion under Hong Kong's National Security Law. Already detained since 2020, Wong will be 40 upon release.",
+   "pourquoi": "",
+   "pays": [
+    "Hong Kong",
+    "China"
+   ],
+   "region": "North-East Asia",
+   "rubrique": "asie",
+   "liens": [
+    {
+     "source": "SCMP",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQjhRUU1IOTcwdHRsa1lyVTNJRVhPcHdybTFLZng5UGE3UzRBNlBESWdOV2RsengyMHRwb0xISmlBVEZlalE2aXRRNXdybHUzekNLbURpb3hSaTJWNE8wYmdIOFBjNnV0aW9vOFdrck5LdDhfNmNQODhURDRyaE1SNmY5VVdoSE40NWVIVWE3RVk1SEtIS2hVZlFDMFdJV1RDOXd5NUJ2aVZOTk1xTmdsQ0JENDVqRU1VOUxxeXNLTW5jQ0FuTTZ4TjBzRmpDVVVvaXBXTlZ3c9IB1wFBVV95cUxPUlJ3YzdLam1hU1pSb2Q5QmYwdHNaUXJNQnpFckFyTXVxS0RZUW00OG5ReTFyY2hlRzJXemd3Vkk0TlhQLVI5OVpUZVplUGVTaklCTWVrRE1TandWU0ZmT2RkLUZkb3MteGZaaDJUSkhJaGo3U1lkUTNyYmtsN3RFS0pLVDZZUkE0RHNNWm9PYU91OHZKakhkT2pIdlBtUFpoejNKVngwMzJoM2Fwc25ySm1ZN3RISE9KZTliNEhMd1NVUzlXZHlqeVBuXy1iQmdWUzdmR01kRQ?oc=5",
+     "titre": "Hong Kong activist Joshua Wong jailed for 10 years in foreign collusion case"
+    },
+    {
+     "source": "BBC Asia",
+     "url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
+     "titre": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years"
+    },
+    {
+     "source": "France 24 Asie",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20261105-chine-le-prod%C3%A9mocratie-joshua-wong-condamn%C3%A9-%C3%A0-10-ans-de-prison-suppl%C3%A9mentaire",
+     "titre": "Chine : le prodémocrate Joshua Wong condamné à 10 ans de prison supplémentaire"
+    },
+    {
+     "source": "CNA Asie",
+     "url": "https://www.channelnewsasia.com/asia/hong-kong-joshua-wong-teenage-protest-leader-jail-6526956",
+     "titre": "Hong Kong's Joshua Wong: From teenage protest leader to a decade behind bars"
+    }
+   ],
+   "id": "2026-11-06|Hong Kong Sentences Joshua Wong to 10 Additional Years"
+  },
+  {
+   "suite": true,
+   "remplace": "2026-11-04|Israeli President Opens Deliberations to Form Next Coalition Government",
+   "emoji": "🤝",
+   "titre": "Opposition Leader Eisenkot Secures Support to Form Israeli Government",
+   "resume": "Former military chief Gadi Eisenkot received backing from 67 Knesset members, including two Arab-majority parties, to form Israel's next government. President Isaac Herzog will announce his formal decision on Sunday.",
+   "pourquoi": "",
+   "pays": [
+    "Israel"
+   ],
+   "region": "Middle East",
+   "rubrique": "moyen_orient",
+   "liens": [
+    {
+     "source": "Japan Times",
+     "url": "https://www.japantimes.co.jp/news/2026/11/06/world/politics/eisenkot-israel-government/",
+     "titre": "Eisenkot tipped to seek Israel government with backing of Arab lists"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONXl2TW1pRDd2eEFya2FTU0pkOWJWd3lFZG1PdUdSNlBWTVR5VGp3UWtLb2E0Ri1iTmt1SWhRckdOVVhkN2ItZ1Y2QlhjT2NrcGR0ZTg3MklhcENpZUFOM0I1SDRYdTZwMFlYeGMwMTM1SWF5ZzNnd2h4ZnJ1bC1BZWhlNDlYUXM3S3FRdXVyR1p3SE5GYUFoMm1wSWRYSlBYY3NkcTBpVklrTnZibm51eURCWkszdHBtdU9vYQ?oc=5",
+     "titre": "Israel's president pledges to pick candidate on Sunday to form government"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/arab-party-backs-eisenkot-in-bid-to-form-israels-next-government?traffic_source=rss",
+     "titre": "Arab party backs Eisenkot in bid to form Israel’s next government"
+    },
+    {
+     "source": "Le Monde International",
+     "url": "https://www.lemonde.fr/international/article/2026/11/05/israel-gadi-eisenkot-l-ancien-chef-d-etat-major-israelien-en-mission-pour-remplacer-benyamin-netanyahou_6807323_3210.html",
+     "titre": "Israël : Gadi Eisenkot, l’ancien chef d’état-major israélien, en bonne position pour remplacer Benyamin Nétanyahou à la tête du gouvernement"
+    }
+   ],
+   "id": "2026-11-06|Opposition Leader Eisenkot Secures Support to Form Israeli Government"
+  }
+ ],
  "rubriques": [
   {
    "id": "monde",
    "titre": "World",
    "items": [
     {
-     "emoji": "",
-     "titre": "Trump says Hegseth doing 'a very good job' as questions swirl about his future",
-     "resume": "",
+     "suite": false,
+     "remplace": null,
+     "emoji": "🏛️",
+     "titre": "Paraguayan President Santiago Peña Resigns Following Bank Collapse",
+     "resume": "Paraguayan President Santiago Peña announced his resignation after a major central bank crisis triggered impeachment proceedings in congress. Peña will technically remain in office until parliament confirms his successor.",
      "pourquoi": "",
-     "pays": [],
-     "region": "",
+     "pays": [
+      "Paraguay"
+     ],
+     "region": "Americas",
      "rubrique": "monde",
      "liens": [
       {
-       "source": "CNA Monde",
-       "url": "https://www.channelnewsasia.com/world/trump-hegseth-defense-secretary-us-midterms-6526151",
-       "titre": "Trump says Hegseth doing 'a very good job' as questions swirl about his future"
-      }
-     ],
-     "id": "2026-11-05|Trump says Hegseth doing 'a very good job' as questions swirl about his future"
-    },
-    {
-     "emoji": "",
-     "titre": "El Salvador’s Bukele touts military intervention in Haiti",
-     "resume": "Haitian police have found a vehicle used by four missing Salvadoran technicians as Salvadoran troops deploy to Haiti.",
-     "pourquoi": "",
-     "pays": [],
-     "region": "",
-     "rubrique": "monde",
-     "liens": [
-      {
-       "source": "Al Jazeera",
-       "url": "https://www.aljazeera.com/news/2026/11/5/el-salvadors-bukele-touts-military-intervention-in-haiti?traffic_source=rss",
-       "titre": "El Salvador’s Bukele touts military intervention in Haiti"
-      }
-     ],
-     "id": "2026-11-05|El Salvador’s Bukele touts military intervention in Haiti"
-    },
-    {
-     "emoji": "",
-     "titre": "Wall Street ends higher after Democrats win Congress; data center stocks tumble",
-     "resume": "",
-     "pourquoi": "",
-     "pays": [],
-     "region": "",
-     "rubrique": "monde",
-     "liens": [
-      {
-       "source": "Reuters",
-       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbWpBY1VHMFd5a2tJXzM1RFFFQTl5Y09aVDgza095UkJKVzNnQ3F4VW1pMzBEazJKMGhlS21zUEdCLXJPOVhWdXRnZmlLRHliMDdqYmt2b2ZWYk5FeW85VnBSalpRd1E5b3BVSUZDU2VLMUNiQm41YWw1SUgxV2dWaUFZUkI2MllhY0Z5ZkZHcWNuQmdCaHBKbVRhck1meTRz?oc=5",
-       "titre": "Wall Street ends higher after Democrats win Congress; data center stocks tumble"
-      }
-     ],
-     "id": "2026-11-05|Wall Street ends higher after Democrats win Congress; data center stocks tumble"
-    },
-    {
-     "emoji": "",
-     "titre": "Google turns off AI for schoolchildren by default",
-     "resume": "Google said the new controls would be rolled out worldwide, beginning in the United States, but that it had not yet set a date.",
-     "pourquoi": "",
-     "pays": [],
-     "region": "",
-     "rubrique": "monde",
-     "liens": [
-      {
-       "source": "CNA Monde",
-       "url": "https://www.channelnewsasia.com/world/google-ai-children-turn-default-6525746",
-       "titre": "Google turns off AI for schoolchildren by default"
-      }
-     ],
-     "id": "2026-11-05|Google turns off AI for schoolchildren by default"
-    },
-    {
-     "emoji": "",
-     "titre": "Republicans call for Trump to change course after midterm drubbing",
-     "resume": "",
-     "pourquoi": "",
-     "pays": [],
-     "region": "",
-     "rubrique": "monde",
-     "liens": [
-      {
-       "source": "Reuters",
-       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQamFhVEozSjRLb3lJNlFlTTZ4dmtZbjBGdTJHOGNXdmZqXzh6VGhqN3Z2czQ5VUdTaE5KeTMwdHNtUWhVRldhb2hhbGJMNUhDR3NfbF9sOWYyWHVFZHdPeU43OElBMzhnQnQzenpkdzJlQWVya0tMQUhaV1pPN1UwWlVlMXZpMXQxa191LVN5SEZSdWh5T21jcXRycHpOUkI5ZWhhZm4xSktCQnRfRnFhcDZn?oc=5",
-       "titre": "Republicans call for Trump to change course after midterm drubbing"
-      }
-     ],
-     "id": "2026-11-05|Republicans call for Trump to change course after midterm drubbing"
-    },
-    {
-     "emoji": "",
-     "titre": "EN DIRECT, midterms 2026 : dans son premier discours après une défaite historique, Trump parle de sa salle de bal à la Maison Blanche",
-     "resume": "Le président américain a réservé ses premières remarques, mercredi, à son projet de rénovation. Quelques heures avant, son vice-président a déclaré que « la véritable raison pour laquelle nous avons perdu est évidente pour presque tout le…",
-     "pourquoi": "",
-     "pays": [],
-     "region": "",
-     "rubrique": "monde",
-     "liens": [
+       "source": "Japan Times",
+       "url": "https://www.japantimes.co.jp/news/2026/11/06/world/politics/paraguay-president-collapse/",
+       "titre": "Bank collapse takes down a president and Trump ally in Paraguay"
+      },
       {
        "source": "Le Monde International",
-       "url": "https://www.lemonde.fr/international/live/2026/11/04/en-direct-midterms-2026-dans-son-premier-discours-apres-une-defaite-historique-trump-parle-de-sa-salle-de-bal-a-la-maison-blanche_6805528_3210.html",
-       "titre": "EN DIRECT, midterms 2026 : dans son premier discours après une défaite historique, Trump parle de sa salle de bal à la Maison Blanche"
+       "url": "https://www.lemonde.fr/international/article/2026/11/05/paraguay-le-president-santiago-pena-annonce-sa-demission_6807257_3210.html",
+       "titre": "Crise politique au Paraguay après l’annonce de la démission du président Santiago Peña"
+      },
+      {
+       "source": "BBC World",
+       "url": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss",
+       "titre": "Paraguay President Santiago Peña resigns after bank collapse"
       }
      ],
-     "id": "2026-11-05|EN DIRECT, midterms 2026 : dans son premier discours après une défaite historique, Trump parle de sa salle de bal à la Maison Blanche"
+     "id": "2026-11-06|Paraguayan President Santiago Peña Resigns Following Bank Collapse"
     }
    ]
   },
@@ -121,106 +200,111 @@
    "titre": "APAC",
    "items": [
     {
-     "emoji": "",
-     "titre": "Drug trafficking suspect bites CNB officer’s thigh during arrest",
-     "resume": "The 64-year-old also spat at two other officers during his arrest.",
+     "suite": false,
+     "remplace": null,
+     "emoji": "🇸🇬",
+     "titre": "Singapore and Indonesia Air Forces Conduct Joint F-16 Patrols",
+     "resume": "The Republic of Singapore Air Force and the Indonesian Air Force carried out joint bilateral fighter patrols utilizing F-16 jets. The exercise aimed to reinforce regional air security and interoperability.",
      "pourquoi": "",
-     "pays": [],
-     "region": "",
+     "pays": [
+      "Singapore",
+      "Indonesia"
+     ],
+     "region": "South-East Asia",
      "rubrique": "asie",
      "liens": [
       {
-       "source": "CNA Singapour",
-       "url": "https://www.channelnewsasia.com/singapore/man-bite-cnb-officer-spit-drugs-arrest-6526036",
-       "titre": "Drug trafficking suspect bites CNB officer’s thigh during arrest"
+       "source": "Tempo.co English",
+       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOelRZUVhNT2l4ZjlXOURicUN0a08ydWJPZTZpZFpvR2VzU3ZRYlhXNjI3NkFJazMwc2ctYkNwVGI2ckxPTkMtSXdQeVpWREpaTURrUFhqTUFkNUd1SkpyUG9pc3VZSVJuRlZtRlVrODRteUZmSGtUNzFJZWh3Ul9FU2dQRXZ6ZlhqMl9rWVg0Y0ZsQQ?oc=5",
+       "titre": "Indonesia, Singapore Air Forces Conduct Joint F-16 Patrol"
       }
      ],
-     "id": "2026-11-05|Drug trafficking suspect bites CNB officer’s thigh during arrest"
+     "id": "2026-11-06|Singapore and Indonesia Air Forces Conduct Joint F-16 Patrols"
     },
     {
-     "emoji": "",
-     "titre": "China keeps faith in Trump even as ‘total defeat’ adds new risks",
-     "resume": "Donald Trump and Xi Jinping's third summit of the year unfolds in just two weeks.",
+     "suite": true,
+     "remplace": "2026-11-04|Indonesian Police Arrest Senior Officials Over Alleged Presidential Wiretapping",
+     "emoji": "⚠️",
+     "titre": "Troops Deployed in Jakarta Amid Wiretapping Scandal Inquiry",
+     "resume": "Thousands of troops secured Jakarta as Indonesian lawmakers evaluated legislative action against the vice-president following a presidential wiretapping scandal. President Prabowo Subianto previously dismissed an aide linked to the operation.",
      "pourquoi": "",
-     "pays": [],
-     "region": "",
+     "pays": [
+      "Indonesia"
+     ],
+     "region": "South-East Asia",
      "rubrique": "asie",
      "liens": [
       {
-       "source": "Japan Times",
-       "url": "https://www.japantimes.co.jp/news/2026/11/05/asia-pacific/china-trump-defeat-risks/",
-       "titre": "China keeps faith in Trump even as ‘total defeat’ adds new risks"
-      }
-     ],
-     "id": "2026-11-05|China keeps faith in Trump even as ‘total defeat’ adds new risks"
-    },
-    {
-     "emoji": "",
-     "titre": "26 people taken to hospital after three-vehicle incident in Tuas",
-     "resume": "A 69-year-old male tipper truck driver is assisting with investigations.",
-     "pourquoi": "",
-     "pays": [],
-     "region": "",
-     "rubrique": "asie",
-     "liens": [
-      {
-       "source": "Straits Times Singapour",
-       "url": "https://www.straitstimes.com/singapore/26-people-taken-to-hospital-after-three-vehicle-incident-in-tuas",
-       "titre": "26 people taken to hospital after three-vehicle incident in Tuas"
-      }
-     ],
-     "id": "2026-11-05|26 people taken to hospital after three-vehicle incident in Tuas"
-    },
-    {
-     "emoji": "",
-     "titre": "South Korea to deploy military mission to help keep Hormuz open",
-     "resume": "Seoul maintains it will not deploy troops to intervene militarily in the Iran war.",
-     "pourquoi": "",
-     "pays": [],
-     "region": "",
-     "rubrique": "asie",
-     "liens": [
+       "source": "The Washington Post",
+       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbjdkNjhSTzllaTJkbVd6ekpLY0hZUXd2cFV4bWg1ZnpnQ1l2eEpzV3F1YWsyYThzaVNIV1dDSTA1OWFZOHJlZFNXQ0Fzb1k2eEhNT0pKTV90Ry1zejNyMnRmTUpGbllWRFQ2VjQ5XzVjYXZqLTBzalpSQTU3bVZ5OVo4ODE5NHlLVUN0LUxWZlFNdTF6WHkyWjBGY0gwZzlBMU4tVE9hT0t4M183WDFBZzRJMGZCTE9yWTBrb2lGSUcyMU51Y2pwaFl5bm1JcnQ2aEhxeFRldlZPZmQ5?oc=5",
+       "titre": "Thousands of troops secure Indonesia trial as tensions run high over wiretap scandal"
+      },
       {
        "source": "CNA Asie",
-       "url": "https://www.channelnewsasia.com/east-asia/south-korea-deploy-mission-strait-hormuz-6526131",
-       "titre": "South Korea to deploy military mission to help keep Hormuz open"
+       "url": "https://www.channelnewsasia.com/asia/indonesia-surveillance-wiretapping-involving-presidents-6527026",
+       "titre": "From Habibie to Prabowo: A history of wiretapping controversies involving Indonesian presidents"
+      },
+      {
+       "source": "Straits Times Asie",
+       "url": "https://www.straitstimes.com/asia/se-asia/jokowi-testifies-in-fake-diploma-trial-as-supporters-throng-jakarta-court",
+       "titre": "Jokowi testifies in fake diploma trial as supporters throng Jakarta court"
+      },
+      {
+       "source": "The Star",
+       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPT2lZWU5RNFlVejJ6U3F4RmpvM0JBZWRFd0cxaWZoa1cxZGhSMmhsRktLNXdxUXBWd2VCY1owLWhOOGFHMllDS3VoNnFxZjlPTXp2UmY2MXFtX1JaQm94VWxnZmFROEFPVFhpTENmWmNialF4eEhpVEM1R2Q1UU1ReTZuQ0JiM3Ayelh4UjFObWwyc3RyaEExdjBCeUoxQXVtT1NNUERUMThjcmxnLXhYS0RmYUJXY1BDaEdCM3VKLVdXb09naEhBcU1vWGJTSFlkTnVfa0ZxYnh0dllERzhkUU0xTnBYQQ?oc=5",
+       "titre": "Troops deployed in Jakarta amid scandal over alleged wiretapping of Indonesian president"
       }
      ],
-     "id": "2026-11-05|South Korea to deploy military mission to help keep Hormuz open"
+     "id": "2026-11-06|Troops Deployed in Jakarta Amid Wiretapping Scandal Inquiry"
     },
     {
-     "emoji": "",
-     "titre": "합참 \"北 미사일 종류 특정 안 한 건 감시정찰 능력 노출 때문\"",
-     "resume": "",
+     "suite": false,
+     "remplace": null,
+     "emoji": "🤝",
+     "titre": "Vietnam Army Chief Makes Introductory Visit to Singapore",
+     "resume": "Senior Lieutenant General Huynh Chien Thang, Chief of the General Staff of the Vietnam People's Army, made an official visit to Singapore. He met senior MINDEF officials to deepen bilateral defence cooperation.",
      "pourquoi": "",
-     "pays": [],
-     "region": "",
+     "pays": [
+      "Singapore",
+      "Vietnam"
+     ],
+     "region": "South-East Asia",
      "rubrique": "asie",
      "liens": [
       {
-       "source": "뉴스1",
-       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE80ODEtSjktaTJMZXlTLU15dFBNVDR1czNTTFBWd25SM25yeXpqX1dfdkRkMmtYZngzblBnS1Z2QjhXVWJtWlB4Q1g1ZFhLVngzd1dqT1FlREpqUjI2enMtVlBRdDlfbmc?oc=5",
-       "titre": "합참 \"北 미사일 종류 특정 안 한 건 감시정찰 능력 노출 때문\""
+       "source": "MINDEF Singapore",
+       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5UYzZSRXp2S2RWWWtNUG9ySGdvYVhSbkNHN214N1Q3b1U5VlJic0xrbDV1a0wyMEMyTDU2TEZuNHRlMVh5SURRRXRqX3lRb2dUd092QVVfQ3puelh3blZJZm9wQW40R1pPYTlIVHF6MWFRMG9wX0hN?oc=5",
+       "titre": "Chief of the General Staff of the Vietnam People’s Army and Vietnam Vice Minister of National Defence Makes Introductory Visit to Singapore"
       }
      ],
-     "id": "2026-11-05|합참 \"北 미사일 종류 특정 안 한 건 감시정찰 능력 노출 때문\""
+     "id": "2026-11-06|Vietnam Army Chief Makes Introductory Visit to Singapore"
     },
     {
-     "emoji": "",
-     "titre": "Taiwan sees continued US arms sale support after midterm election",
-     "resume": "TAIPEI, Nov 5 - Taiwan has always enjoyed cross-party US support and Congress will continue to help in strengthening Taipei's defence capabilities, Defence Minister Wellington Koo said on Thursday when asked about arms sales following the…",
+     "suite": false,
+     "remplace": null,
+     "emoji": "🚀",
+     "titre": "India and Philippines Negotiate Expansion of BrahMos Missile Deal",
+     "resume": "India is in final-stage talks with the Philippines to sell additional units of the supersonic BrahMos cruise missile. The system was co-developed by India and Russia to enhance coastal defence capabilities.",
      "pourquoi": "",
-     "pays": [],
-     "region": "",
+     "pays": [
+      "India",
+      "Philippines"
+     ],
+     "region": "South Asia",
      "rubrique": "asie",
      "liens": [
       {
        "source": "Straits Times Asie",
-       "url": "https://www.straitstimes.com/asia/taiwan-sees-continued-us-arms-sale-support-after-midterm-election",
-       "titre": "Taiwan sees continued US arms sale support after midterm election"
+       "url": "https://www.straitstimes.com/asia/south-asia/india-in-final-stage-talks-to-expand-brahmos-missile-sale-to-philippines-sources-say",
+       "titre": "India in final-stage talks to expand BrahMos missile sale to Philippines, sources say"
+      },
+      {
+       "source": "Reuters",
+       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNV000QWU5a0lPSXVaZDVhb0pJOXkzUjN0MWVXMVNZemNfS2E3SFhXMEdwNzVyLWw5UGU4dlFaYzVlUzkwQ0RGUlgxZUg1ZEJQTWd0aDdLWlpza2hZR1NMZzRJTEV5U1U2cjZ3bnVpZUtjc3lKdzZKd3dDY2VscFk1ejhiTHNJYWIxdm01SV85YzBxU0dnWHB6c1ROd01wZURpSE5MQnVLVThUbnlRSXNHR0dDZWIzSmRjRXRjZWFuTQ?oc=5",
+       "titre": "India in final-stage talks to expand missile sale to Philippines, sources say"
       }
      ],
-     "id": "2026-11-05|Taiwan sees continued US arms sale support after midterm election"
+     "id": "2026-11-06|India and Philippines Negotiate Expansion of BrahMos Missile Deal"
     }
    ]
   },
@@ -229,106 +313,35 @@
    "titre": "Elections & Politics",
    "items": [
     {
-     "emoji": "",
-     "titre": "Election deniers lose races for governor in key US swing states",
-     "resume": "State leaders can hold significant sway over election administration, with implications for the 2028 presidential race.",
+     "suite": false,
+     "remplace": null,
+     "emoji": "🗳️",
+     "titre": "New Zealand Campaigns End Ahead of Tight General Election",
+     "resume": "Political parties in New Zealand concluded campaigning ahead of Saturday's national election. Polling shows a close race between Prime Minister Christopher Luxon's conservative coalition and the opposition Labour Party.",
      "pourquoi": "",
-     "pays": [],
-     "region": "",
-     "rubrique": "elections",
-     "liens": [
-      {
-       "source": "Al Jazeera",
-       "url": "https://www.aljazeera.com/news/2026/11/5/election-deniers-lose-races-for-governor-in-key-us-swing-states?traffic_source=rss",
-       "titre": "Election deniers lose races for governor in key US swing states"
-      }
+     "pays": [
+      "New Zealand"
      ],
-     "id": "2026-11-05|Election deniers lose races for governor in key US swing states"
-    },
-    {
-     "emoji": "",
-     "titre": "5 takeaways on what the election results could mean for immigration",
-     "resume": "",
-     "pourquoi": "",
-     "pays": [],
-     "region": "",
-     "rubrique": "elections",
-     "liens": [
-      {
-       "source": "The Washington Post",
-       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUGJiUU1CMlNTTnl1bk53QVFfa09LOXF5dUttZjlVaGZOOWdrNE5VTzlNVjRhRGVLeVFPTEpydzNqbjBNY3hOeTdMQ2JTQ0ZPcHB0Y19jUno5UjBsYVUxMjE0QUNuOHR0UDBTRFEyN0lMeTlsekktdEl5dGZLVUNYc2o1YW9DX0lrdW5HRjhfaHFUZVFQNEIwYTFBYktkUF82djkyYi1oZGNrQVkteTh5TQ?oc=5",
-       "titre": "5 takeaways on what the election results could mean for immigration"
-      }
-     ],
-     "id": "2026-11-05|5 takeaways on what the election results could mean for immigration"
-    },
-    {
-     "emoji": "",
-     "titre": "Israel’s Herzog accepts vote results, opens talks on forming a government",
-     "resume": "Move deals blow to Netanyahu's efforts to discredit the elections, in which he and his allies lost their majority.",
-     "pourquoi": "",
-     "pays": [],
-     "region": "",
-     "rubrique": "elections",
-     "liens": [
-      {
-       "source": "Al Jazeera",
-       "url": "https://www.aljazeera.com/news/2026/11/5/israels-herzog-accepts-vote-results-opens-talks-on-forming-a-government?traffic_source=rss",
-       "titre": "Israel’s Herzog accepts vote results, opens talks on forming a government"
-      }
-     ],
-     "id": "2026-11-05|Israel’s Herzog accepts vote results, opens talks on forming a government"
-    },
-    {
-     "emoji": "",
-     "titre": "Democrats gain influence over trade agenda, but tariff repeals to hit Trump veto wall",
-     "resume": "HOUSTON, Nov 4 - Democrats' resounding sweep to a majority in Congress gives them a big microphone and spotlight to scrutinize President Donald Trump's trade policies, but largely leaves them unable to override his veto on any vote to…",
-     "pourquoi": "",
-     "pays": [],
-     "region": "",
+     "region": "Oceania",
      "rubrique": "elections",
      "liens": [
       {
        "source": "Straits Times Asie",
-       "url": "https://www.straitstimes.com/asia/democrats-gain-influence-over-trade-agenda-but-tariff-repeals-to-hit-trump-veto-wall",
-       "titre": "Democrats gain influence over trade agenda, but tariff repeals to hit Trump veto wall"
-      }
-     ],
-     "id": "2026-11-05|Democrats gain influence over trade agenda, but tariff repeals to hit Trump veto wall"
-    },
-    {
-     "emoji": "",
-     "titre": "Ohio’s voters tell Republicans: don’t take us for granted",
-     "resume": "Democrats flipped a Senate seat and recaptured the governor’s mansion in Ohio.",
-     "pourquoi": "",
-     "pays": [],
-     "region": "",
-     "rubrique": "elections",
-     "liens": [
+       "url": "https://www.straitstimes.com/asia/explainer-what-you-need-to-know-ahead-of-new-zealands-election",
+       "titre": "Explainer-What you need to know ahead of New Zealand's election"
+      },
       {
-       "source": "Al Jazeera",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/ohios-voters-tell-republicans-dont-take-us-for-granted?traffic_source=rss",
-       "titre": "Ohio’s voters tell Republicans: don’t take us for granted"
-      }
-     ],
-     "id": "2026-11-05|Ohio’s voters tell Republicans: don’t take us for granted"
-    },
-    {
-     "emoji": "",
-     "titre": "Israel's president takes first steps on building new government after accepting election results",
-     "resume": "",
-     "pourquoi": "",
-     "pays": [],
-     "region": "",
-     "rubrique": "elections",
-     "liens": [
+       "source": "BBC World",
+       "url": "https://www.bbc.co.uk/news/videos/cr86zxe1q5j3o?at_medium=RSS&at_campaign=rss",
+       "titre": "Chris vs Chris: Who's running and what's at stake this New Zealand election"
+      },
       {
-       "source": "CNA Monde",
-       "url": "https://www.channelnewsasia.com/world/israel-president-herzog-accepts-election-results-netanyahu-eisenkot-6525906",
-       "titre": "Israel's president takes first steps on building new government after accepting election results"
+       "source": "Le Monde International",
+       "url": "https://www.lemonde.fr/international/article/2026/11/05/en-nouvelle-zelande-les-maoris-tres-critiques-vis-a-vis-du-bilan-du-gouvernement-en-trois-ans-il-a-detruit-cinquante-ans-d-acquis_6807328_3210.html",
+       "titre": "En Nouvelle-Zélande, les Maoris très critiques vis-à-vis du bilan du gouvernement : « En trois ans, il a détruit cinquante ans d’acquis »"
       }
      ],
-     "id": "2026-11-05|Israel's president takes first steps on building new government after accepting election results"
+     "id": "2026-11-06|New Zealand Campaigns End Ahead of Tight General Election"
     }
    ]
   },
@@ -337,106 +350,82 @@
    "titre": "Air & Missile Defence",
    "items": [
     {
-     "emoji": "",
-     "titre": "NASA Announces X-70 “Fractal” Experimental Aircraft",
-     "resume": "The X-70 will be able to test new flight control capabilities and will push the bounds of maneuverability. The post NASA Announces X-70 “Fractal” Experimental Aircraft appeared first on TWZ .",
+     "suite": false,
+     "remplace": null,
+     "emoji": "🚀",
+     "titre": "India Test-Fires Indigenous Pralay Quasi-Ballistic Missile",
+     "resume": "India's DRDO successfully executed a flight-test of the indigenously developed Pralay quasi-ballistic missile off the coast of Odisha. The surface-to-surface missile features high manoeuvrability and precision targeting.",
      "pourquoi": "",
-     "pays": [],
-     "region": "",
+     "pays": [
+      "India"
+     ],
+     "region": "South Asia",
      "rubrique": "defense_aerienne",
      "liens": [
       {
-       "source": "The War Zone",
-       "url": "https://www.twz.com/space/nasa-announces-x-70-fractal-experimental-aircraft",
-       "titre": "NASA Announces X-70 “Fractal” Experimental Aircraft"
+       "source": "The Indian Express",
+       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYmNQOEdOakhYSlhtMGZfdXJ0b3hJYzR1VDE1ZkpXNTJIYy1aWUVWbmdKaGNxSHFSOG9LZzUwZkxXN1N1eEgyQjBVaGdCc3N2YU1jRVZRZ3Y1b1V6a1cySWU4MGRydFJLOUxoQzRFQk5sMktPQkpGYmdzTjNkVzR6OE1sTndFbkJqeXZISHlSQUxBUl9H0gGbAUFVX3lxTE5xQklxbm4wVVpFekYzalRvcVhVeUt5dFlTeXJQalhYalJPb0F2c2J3Qk5UeW5iaXEtOUFld2tXLXZ2MFVQVHZaLUdxSDFMY3FrQVhNZ0FrME5vNkx1SDhfQTR4Q3NYLThEcnprQldJU0xFZUxRUjc2cG9pZExRcVNEeUNDQ0VGTGdBZ1FzSElYbVR5X3pudlphdmlB?oc=5",
+       "titre": "DRDO tests quasi-ballistic missile"
+      },
+      {
+       "source": "Hindustan Times",
+       "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPU2Jjc2NOdVVGU1ZncDBsMk5mWWZfUVF2Z01TZmRYb0J2ZHdyM0k0S2FpcmtzMXI0bVhJb2NuNl8teW1wTC04X3Nrb21wRWxOSUNFdWF1QmkxdHkwdnVFY2FxN25PNXQ5b0VaaWc1blZLMGV3d2ZqamZ1b1V3cmFNV3FxZlNmVEMzRFVUdXItSThSMWl3bGJxQm40TnRaTVlLeGtRaHUyQzZLV3loMjdicS1xdlp0WW5oZlktREU5SlpuaFRDdGx6SEk5UUs3cTZQZWZfZ0VGcXNpUDNjVHNtZUx2MFlabE5PN19hbVhWczktaldhX2F0TzQ1cmh3QUNr0gGGAkFVX3lxTFBqdFNEU0x6MWJBVmxDSmFmbXpjOVpZcmNESXdDMUMzdmZtMXRzbUJtMGgtUHVPT3NFMk9kN3djazJYYWlWd1V6Sk93UWN1LXROamdaTHlhaEQ0TklNRm96RjZ2OWprOVo0WEhwR2lVWmdMVFVld2hFMGdsSlZKYUtnbmh1MXAybHNVM3ZfaFlpbmdZOGRxN0JaZGFKUlNwb1RZQnFRUVJvT2x4QlRuYmgzMVhuTkJPMnRoc1ZsM3VsS0RiSU5fNnVNRmFFcFRxYTFRWmRES2ZKQ3lrTFBIajA0dnhReHRkT3hVNEsxU1BJVnFvN2RQclIzRjBpakdOajFXdDl4OGc?oc=5",
+       "titre": "India successfully test-fires indigenously developed quasi-ballistic missile Pralay | Watch | India News"
+      },
+      {
+       "source": "ThePrint",
+       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNM2puRTRIMy04bFJNWHZKSmFOV0Nqa2Nrc29pUm5GYjkzWVNmNGt1WHh0bjBXeFprbW9WUXdia1dsc29RMHJTMjBreHZsUVhoYlBnb0k2aXh6X0VIdFJZal9qRzFvSk1HWEFRdGIzX0I0eGRfc293b0tsRlZIcFU4cDA5bDlaazZteVlGWkdVMW5iWjFfYU95UmFWVjJmNk04Z1Uyb0RZNy13S0JqbmtVblhQRFNuVS1wYko4M3V6R3h5d0ZW0gHEAUFVX3lxTE0zam5FNEgzLThsUk1YdkpKYU5XQ2prY2tzb2lSbkZiOTNZU2Y0a3VYeHRuMFd4Wmttb1ZRd2JrV2xzb1EwclMyMGt4dmxRWGhiUGdvSTZpeHpfRUh0UllqX2pHMW9KTUdYQVF0YjNfQjR4ZF9zb3dvS2xGVkhwVThwMDlsOVprNm15WUZaR1UxbmJaMV9hT3lSYVZWMmY2TThnVTJvRFk3LXdLQmpua1VuWFBEU25VLXBiSjgzdXpHeHl3RlY?oc=5",
+       "titre": "India test-fires indigenously developed quasi-ballistic missile Pralay off Odisha coast"
+      },
+      {
+       "source": "The Hindu",
+       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcGgxNGlTNk0xeUJkeGFBTFREeEd3R3RreTFPc3lxV25PTU5IU0lhRjNnMmtxSFJkZm9LRUxNelRsc3ZLVGg4aUJXNERrdFhlekRDNkV3SUVDVHR4aFlSZEZ1bjMwN1lCQVlZa3hsMEc0OU5BQ2tic0JieHRYMG1pdXdtWFJoNTE0MGRMNWFFR0trWFc5WTlnSkIwN2FpYTRieWhhVEtUS1JuUFhMNUFGV09JeC05cmdEUG5CN2tkWEc4cU5vbXJPb1N5Qmw0VzlaRVlUWnc2V2h4YmI1VFd0RzdFRl_SAeQBQVVfeXFMT3BoMTRpUzZNMXlCZHhhQUxURHhHd0d0a3kxT3N5cVduT01OSFNJYUYzZzJrcUhSZGZvS0VMTXpUbHN2S1RoOGlCVzREa3RYZXpEQzZFd0lFQ1R0eGhZUmRGdW4zMDdZQkFZWWt4bDBHNDlOQUNrYnNCYnh0WDBtaXV3bVhSaDUxNDBkTDVhRUdLa1hXOVk5Z0pCMDdhaWE0YnloYVRLVEtSblBYTDVBRldPSXgtOXJnRFBuQjdrZFhHOHFOb21yT29TeUJsNFc5WkVZVFp3NldoeGJiNVRXdEc3RUZf?oc=5",
+       "titre": "DRDO conducts flight-test of ‘Pralay’, the indigenously developed quasi-ballistic missile"
       }
      ],
-     "id": "2026-11-05|NASA Announces X-70 “Fractal” Experimental Aircraft"
+     "id": "2026-11-06|India Test-Fires Indigenous Pralay Quasi-Ballistic Missile"
     },
     {
-     "emoji": "",
-     "titre": "Floor leaders of rival parties",
-     "resume": "",
+     "suite": false,
+     "remplace": null,
+     "emoji": "🛡️",
+     "titre": "MBDA Targets Pre-2029 Flight for Hydis Hypersonic Interceptor",
+     "resume": "MBDA confirmed plans to fly a demonstrator of its Hydis hypersonic missile interceptor before the end of 2029. The system is designed to intercept high-speed threats operating above Mach 5.",
      "pourquoi": "",
-     "pays": [],
-     "region": "",
+     "pays": [
+      "France"
+     ],
+     "region": "Europe",
      "rubrique": "defense_aerienne",
      "liens": [
       {
-       "source": "Yonhap News Agency",
-       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5zMzFGVWR2OGtRdWxxdlEzSVZQTWFuS2w4WFJYOV9IeVJYXzhmM1NhX2FBMlUzRzI0TVd4a1FLMnVPXzNQMWpZUld5ek9tU002aUN1eGNvcXlDeFZfUktIVEhWNUE1RU9XeUxfTlZodVdmcVN3M3A4?oc=5",
-       "titre": "Floor leaders of rival parties"
+       "source": "Defense News",
+       "url": "https://www.defensenews.com/global/europe/2026/11/05/mbda-plans-to-fly-fat-hypersonic-interceptor-demonstrator-before-end-2029/",
+       "titre": "MBDA plans to fly ‘fat’ hypersonic interceptor demonstrator before end-2029"
       }
      ],
-     "id": "2026-11-05|Floor leaders of rival parties"
+     "id": "2026-11-06|MBDA Targets Pre-2029 Flight for Hydis Hypersonic Interceptor"
     },
     {
-     "emoji": "",
-     "titre": "NK air defense missile",
-     "resume": "",
+     "suite": false,
+     "remplace": null,
+     "emoji": "🛡️",
+     "titre": "France Contracts MBDA and Naval Group to Double FDI Frigate Firepower",
+     "resume": "France's DGA awarded a contract to equip Defence and Intervention Frigates with 32 Aster 30 B1 surface-to-air missiles. The upgrade doubles the long-range air defence loadout of the FDI class.",
      "pourquoi": "",
-     "pays": [],
-     "region": "",
+     "pays": [
+      "France"
+     ],
+     "region": "Europe",
      "rubrique": "defense_aerienne",
      "liens": [
       {
-       "source": "Yonhap News Agency",
-       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9meVo2dmdoRnMyT0JoYWd6QnhWbmRidENFOTctQTRSYUs4ZDFGXy1Mbl9ja0xzZ3o0V3RSRlN5RFdwTXFCNjI0OHJpc3p2VF8zTEV0TXY5RzNZc3BVS0k1a0NSM1dyYWVhRVZFNzd6aEZzU1I3UE5Z?oc=5",
-       "titre": "NK air defense missile"
+       "source": "Opex360",
+       "url": "https://www.opex360.com/2026/11/05/la-dga-notifie-a-naval-group-et-a-mbda-un-contrat-pour-doubler-la-puissance-de-feu-des-fregates-de-defense-et-dintervention/",
+       "titre": "La DGA notifie à Naval Group et à MBDA un contrat pour doubler la puissance de feu des frégates de défense et d’intervention"
       }
      ],
-     "id": "2026-11-05|NK air defense missile"
-    },
-    {
-     "emoji": "",
-     "titre": "北朝鮮、4日に新型の先進防空ミサイルシステムの発射実験＝ＫＣＮＡ",
-     "resume": "",
-     "pourquoi": "",
-     "pays": [],
-     "region": "",
-     "rubrique": "defense_aerienne",
-     "liens": [
-      {
-       "source": "Reuters",
-       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSFhjY2JlMzhiN0dOVDNfRVBBTnZvNmh1RVd1aDgxMFo2S004SnpwWnAzaXc3aWtqQ29uWWRPRVUzUXpBNVUtelZ6bnYyTkZSclMxT3RadGVldnRhYVZQRHgxdGJxX3JMQzNKVzF0N1hYS1hyVkkzNXNQMnhKTktfLTRsUjI4bVU?oc=5",
-       "titre": "北朝鮮、4日に新型の先進防空ミサイルシステムの発射実験＝ＫＣＮＡ"
-      }
-     ],
-     "id": "2026-11-05|北朝鮮、4日に新型の先進防空ミサイルシステムの発射実験＝ＫＣＮＡ"
-    },
-    {
-     "emoji": "",
-     "titre": "朝鮮：試射新型防空導彈 驗證技術可靠性",
-     "resume": "",
-     "pourquoi": "",
-     "pays": [],
-     "region": "",
-     "rubrique": "defense_aerienne",
-     "liens": [
-      {
-       "source": "韓聯社",
-       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZ3F0ZTYxN213QmJ0SHM3a21DaVFxcWJGemM4V3VMX210SHJ6TWxDcWpkQzZheDlkUFk0TURCcTE1c2F6anpFUjJ3OXhiRmZpLTR0d2pQZW9XNTAwQWR3MnVrT0tpYnM1UG5yOXVxN29vUGNES19FdFRZWWpiQjdDLUZ1VDNUSjFaV1hTVjNrUQ?oc=5",
-       "titre": "朝鮮：試射新型防空導彈 驗證技術可靠性"
-      }
-     ],
-     "id": "2026-11-05|朝鮮：試射新型防空導彈 驗證技術可靠性"
-    },
-    {
-     "emoji": "",
-     "titre": "朝鮮試射新型防空導彈",
-     "resume": "",
-     "pourquoi": "",
-     "pays": [],
-     "region": "",
-     "rubrique": "defense_aerienne",
-     "liens": [
-      {
-       "source": "韓聯社",
-       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOTl2ZmJ0MkFEM3lobzBkMC1KdFJrMUdyZ2U0d3JlMTVmc2FXNVQ5OUw4TWlJMzRUZmdXclM1Sml6TEMxVW5GTXNxZU9IaE5fZEpSZDJkOGtvQ094YzlhOFBoQ09NYi1lTFlhaG5qOGE5Wmk2dkJuUElUQnVDTWRHb0p6bHRhMW5FcWE4cGx0eDZKLW9K?oc=5",
-       "titre": "朝鮮試射新型防空導彈"
-      }
-     ],
-     "id": "2026-11-05|朝鮮試射新型防空導彈"
+     "id": "2026-11-06|France Contracts MBDA and Naval Group to Double FDI Frigate Firepower"
     }
    ]
   },
@@ -445,106 +434,74 @@
    "titre": "Defence Industry & Contracts",
    "items": [
     {
-     "emoji": "",
-     "titre": "X-BAT Coverage",
-     "resume": "",
+     "suite": false,
+     "remplace": null,
+     "emoji": "📝",
+     "titre": "Shield AI Acquires Radar Manufacturer Echodyne in $5.3bn Deal",
+     "resume": "Autonomous defence firm Shield AI acquired radar maker Echodyne to integrate advanced radar sensors into uncrewed aerial systems. The acquisition aims to strengthen drone detection and counter-UAS offerings.",
      "pourquoi": "",
-     "pays": [],
-     "region": "",
-     "rubrique": "industrie",
-     "liens": [
-      {
-       "source": "Breaking Defense",
-       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5QTkFwMF9CeVlvQmJJMHJhSkZpS3ZId2k5bVlRblhPM2RMUF83UExjYXRvWVZkUjVPd3FOX1NmVXhrR0tVRXUwNUswdm1MZFk?oc=5",
-       "titre": "X-BAT Coverage"
-      }
+     "pays": [
+      "United States"
      ],
-     "id": "2026-11-05|X-BAT Coverage"
-    },
-    {
-     "emoji": "",
-     "titre": "Navy unfairly evaluated Saildrone MUSV proposal, court finds",
-     "resume": "",
-     "pourquoi": "",
-     "pays": [],
-     "region": "",
-     "rubrique": "industrie",
-     "liens": [
-      {
-       "source": "Breaking Defense",
-       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVTBuOGp4SDFpQUZnNE9kbTZ5bnlNOVVYMkZtYnlMR0dqeVJXNnhVeXowY3VQVGJBNE1LWEFPWi1OalJmbDdhZzVxY2s5OHJ2d3p5ZktwS1FzNm51cGpVSXZwM2lubi1CNERsVXhuQlFiMUdDVlcyc0pCRThaRGt5S09vWkl3aDRJRUdoRUFJQ1lraEVkVU41SlJCUVY?oc=5",
-       "titre": "Navy unfairly evaluated Saildrone MUSV proposal, court finds"
-      }
-     ],
-     "id": "2026-11-05|Navy unfairly evaluated Saildrone MUSV proposal, court finds"
-    },
-    {
-     "emoji": "",
-     "titre": "What now? Budget fight, Hegseth impeachment on deck for defense-focused lawmakers after midterms",
-     "resume": "",
-     "pourquoi": "",
-     "pays": [],
-     "region": "",
-     "rubrique": "industrie",
-     "liens": [
-      {
-       "source": "Breaking Defense",
-       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPT3NrMFYxa2ZIYVp2MzI4QXBLWmZWUGtueVZDd3BOQm9GVy1MQnNWdzBYYjRjWWxCZUQ5d3RDT2ZDTDBnbkxnVWszekw3Z3ducUgyaUs0YXdNdGdwemE4WlljdnNQR1VfaUV1S0UwZGtfRkY3YkEyMmNBSUZGc014VlJwaUViSHlraV9hQkd2bW9TQU1ialh6dnZuV1lVR01Hcm9qcllxQ2lrTnY0N2ZjRDE4SEpSMUxrbUpsRWx1OV8xTVFfSkNGeVdBRQ?oc=5",
-       "titre": "What now? Budget fight, Hegseth impeachment on deck for defense-focused lawmakers after midterms"
-      }
-     ],
-     "id": "2026-11-05|What now? Budget fight, Hegseth impeachment on deck for defense-focused lawmakers after midterms"
-    },
-    {
-     "emoji": "",
-     "titre": "Fincantieri, Navantia and Naval Group sign EPC2 Consortium Agreement at Euronaval 2026",
-     "resume": "Fincantieri, Navantia and Naval Group have signed the consortium agreement for the second phase of EPC (EPC2) during Euronaval 2026. The ceremony, held in the presence of representatives from OCCAR (Organization for Joint Armament…",
-     "pourquoi": "",
-     "pays": [],
-     "region": "",
-     "rubrique": "industrie",
-     "liens": [
-      {
-       "source": "Naval News",
-       "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/fincantieri-navantia-and-naval-group-sign-epc2-consortium-agreement-at-euronaval-2026/",
-       "titre": "Fincantieri, Navantia and Naval Group sign EPC2 Consortium Agreement at Euronaval 2026"
-      }
-     ],
-     "id": "2026-11-05|Fincantieri, Navantia and Naval Group sign EPC2 Consortium Agreement at Euronaval 2026"
-    },
-    {
-     "emoji": "",
-     "titre": "Under threat of air strikes, US looks to bolster base infrastructure with 3D printing",
-     "resume": "U.S. Air Force officials conceded that troop housing at Middle East bases was \"never designed for the threat environment now arriving overhead.\"",
-     "pourquoi": "",
-     "pays": [],
-     "region": "",
+     "region": "Americas",
      "rubrique": "industrie",
      "liens": [
       {
        "source": "Defense News",
-       "url": "https://www.defensenews.com/global/mideast-africa/2026/11/04/under-threat-of-air-strikes-us-looks-to-bolster-base-infrastructure-with-3d-printing/",
-       "titre": "Under threat of air strikes, US looks to bolster base infrastructure with 3D printing"
+       "url": "https://www.defensenews.com/industry/techwatch/2026/11/05/shield-ai-to-acquire-radar-maker-echodyne-to-bust-drones/",
+       "titre": "Shield AI to acquire radar maker Echodyne to bust drones"
+      },
+      {
+       "source": "Breaking Defense",
+       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNc0oyckdaOGFhZU5nc0lhQTJwaTgweC1PaWhYaTBfUkU1WmZXaEVqNUthRTZiVkFPR0FKLUx6ay03ZU1GSUVrRXRhQWtLbVJDREJla2t5YndjajJBdWNYbWN2M05lNkdNeGdfa0tBUVpfTTAxak9UMjNXLUZIbURUN3VlR09CS21UejlPTTAzT1JaUQ?oc=5",
+       "titre": "Shield AI acquires radar firm Echodyne in $5.3B deal"
       }
      ],
-     "id": "2026-11-05|Under threat of air strikes, US looks to bolster base infrastructure with 3D printing"
+     "id": "2026-11-06|Shield AI Acquires Radar Manufacturer Echodyne in $5.3bn Deal"
     },
     {
-     "emoji": "",
-     "titre": "Lockheed Martin and U.S. Air Force test Mk21A reentry vehicle for next-generation nuclear missile system",
-     "resume": "",
+     "suite": false,
+     "remplace": null,
+     "emoji": "🛩️",
+     "titre": "Malaysia Receives First Batch of KAI FA-50 Light Combat Aircraft",
+     "resume": "The Royal Malaysian Air Force took delivery of its first two FA-50M light combat aircraft from Korea Aerospace Industries at Kuantan Air Base. Malaysia ordered 18 aircraft under its air force modernisation programme.",
      "pourquoi": "",
-     "pays": [],
-     "region": "",
+     "pays": [
+      "Malaysia",
+      "South Korea"
+     ],
+     "region": "South-East Asia",
      "rubrique": "industrie",
      "liens": [
       {
-       "source": "Defence Industry Europe",
-       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPd0M2SGd4bFZLbnZsSE1vSTVGZ3FnN0tDRHRhMWY3VURua1Z0Zmt3Tlp1QmhLcGRfZWI4TGVmWXFrY0FnVF9CLXRIcXYtZFNka0UwdDFBRWdVc3VHZG13VkJEbWRIQ21IX1phaUFYMnlaNkpfZktXUC1rZ3AtOHBzcmUtdV9ET1ZqWk9NaV9kX2VFdV9JV19Mc2s1ZHg1a3RQVWN6NXNxdWtKc1NHYWpvaU1aZHlWb2I0ODJGMGJkQVpkX0czNDU1cU80SFo?oc=5",
-       "titre": "Lockheed Martin and U.S. Air Force test Mk21A reentry vehicle for next-generation nuclear missile system"
+       "source": "Asian Military Review",
+       "url": "https://www.asianmilitaryreview.com/2026/11/malaysia-receives-first-pair-of-fa-50-light-combat-aircraft-foc/",
+       "titre": "Malaysia receives first pair of FA-50 light combat aircraft"
       }
      ],
-     "id": "2026-11-05|Lockheed Martin and U.S. Air Force test Mk21A reentry vehicle for next-generation nuclear missile system"
+     "id": "2026-11-06|Malaysia Receives First Batch of KAI FA-50 Light Combat Aircraft"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🚢",
+     "titre": "South Korea Deploys Naval Assets to Strait of Hormuz",
+     "resume": "South Korea announced the deployment of a maritime patrol aircraft and a naval mine clearance team to the Strait of Hormuz. The force aims to protect commercial shipping routes amid ongoing maritime security threats.",
+     "pourquoi": "",
+     "pays": [
+      "South Korea",
+      "Iran"
+     ],
+     "region": "Middle East",
+     "rubrique": "industrie",
+     "liens": [
+      {
+       "source": "RFI Asie-Pacifique",
+       "url": "https://www.rfi.fr/fr/asie-pacifique/20261105-la-cor%C3%A9e-du-sud-annonce-d%C3%A9ployer-sa-marine-pr%C3%A8s-du-d%C3%A9troit-d-ormuz-pour-aider-%C3%A0-garantir-la-circulation-maritime",
+       "titre": "La Corée du Sud annonce déployer sa marine près du détroit d'Ormuz pour aider à garantir la circulation maritime"
+      }
+     ],
+     "id": "2026-11-06|South Korea Deploys Naval Assets to Strait of Hormuz"
     }
    ]
   },
@@ -553,322 +510,84 @@
    "titre": "Ukraine / Russia",
    "items": [
     {
-     "emoji": "",
-     "titre": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky s’est entretenu avec les émissaires américains Steve Witkoff et Jared Kushner",
-     "resume": "Actuellement en visite à Madrid, le président ukrainien a eu un entretien téléphonique, mercredi, avec MM. Witkoff et Kushner. Un échange avant plusieurs rencontres entre représentants de Kiev et Moscou, à commencer par une réunion, jeudi…",
+     "suite": true,
+     "remplace": "2026-11-04|US to Mediate Trilateral Talks with Ukraine and Russia in Abu Dhabi",
+     "emoji": "🤝",
+     "titre": "Melania Trump Hosts Trilateral Ukraine-Russia Truce Discussions",
+     "resume": "US First Lady Melania Trump hosted Russian and Ukrainian envoys at the White House to encourage a lasting truce. The talks follow a recent localized ceasefire agreement in Oleshky.",
      "pourquoi": "",
-     "pays": [],
-     "region": "",
-     "rubrique": "ukraine",
-     "liens": [
-      {
-       "source": "Le Monde International",
-       "url": "https://www.lemonde.fr/international/live/2026/11/05/en-direct-guerre-en-ukraine-volodymyr-zelensky-a-madrid-avec-l-intention-d-obtenir-un-renfort-de-la-defense-antiaerienne-ukrainienne_6803934_3210.html",
-       "titre": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky s’est entretenu avec les émissaires américains Steve Witkoff et Jared Kushner"
-      }
+     "pays": [
+      "Ukraine",
+      "Russia",
+      "United States"
      ],
-     "id": "2026-11-05|EN DIRECT, guerre en Ukraine : Volodymyr Zelensky s’est entretenu avec les émissaires américains Steve Witkoff et Jared Kushner"
-    },
-    {
-     "emoji": "",
-     "titre": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
-     "resume": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.",
-     "pourquoi": "",
-     "pays": [],
-     "region": "",
-     "rubrique": "ukraine",
-     "liens": [
-      {
-       "source": "BBC World",
-       "url": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
-       "titre": "Ukraine says bodycam video shows deadly Russian double-tap bombing"
-      }
-     ],
-     "id": "2026-11-05|Ukraine says bodycam video shows deadly Russian double-tap bombing"
-    },
-    {
-     "emoji": "",
-     "titre": "European troops prepare for a postwar Ukraine mission that's fraught with challenges",
-     "resume": "",
-     "pourquoi": "",
-     "pays": [],
-     "region": "",
-     "rubrique": "ukraine",
-     "liens": [
-      {
-       "source": "ABC News",
-       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNUROTGVid0Ftc3Ffajc1a0NTckphRG1ENkVUS3hsYjFVSjFrNGx2eGJaUGx1TTBjTUFuZWJuTkhaT2ItSzVMNXJpdVhFeW54V3ltMWQyTUR0b09hSnhQN0pzelhsM0FlLUM5T1k3cXlXSzBqWVJmSmhuZk5ueVhMOTFnbkFKaUtxMUg5SEVyZUNxTlJKTFFvQldQQzRGX2VpeElZWGY2anc3RmQ2T1BkLUpjQmZXamJiZy1ldNIBwgFBVV95cUxQeXNsUFNLdmZGR0t1UHhRYUFsUnY0bU1JWnlHVV8wN2llRGNiR1REWnpiUHNSV0J2YlROWEZVckNyWFlrM2VqaTRqTjFhWUZkZXp0X1ZnbEEtM1N2M0oybHdSZkdPSGxsckJEZTlWQVlrMWZlX0ZFQzh2MXI5bTNwemd4NDAyclNFZlQxNG4yQm5fMnNMaXBiclJ4c1RmU3FlOElCcG9TRExaYW5lalZXR0t6V2FxbGdIWEdGcGdmRUY2dw?oc=5",
-       "titre": "European troops prepare for a postwar Ukraine mission that's fraught with challenges"
-      }
-     ],
-     "id": "2026-11-05|European troops prepare for a postwar Ukraine mission that's fraught with challenges"
-    },
-    {
-     "emoji": "",
-     "titre": "Death toll in Russian attack on aid centre up to 40: Zelenskyy",
-     "resume": "Ukraine's President Volodymyr Zelenskyy also warned that \"more than 30 people may still be under the rubble\".",
-     "pourquoi": "",
-     "pays": [],
-     "region": "",
-     "rubrique": "ukraine",
-     "liens": [
-      {
-       "source": "CNA Monde",
-       "url": "https://www.channelnewsasia.com/world/ukraine-russia-war-aid-centre-attack-40-killed-6525456",
-       "titre": "Death toll in Russian attack on aid centre up to 40: Zelenskyy"
-      }
-     ],
-     "id": "2026-11-05|Death toll in Russian attack on aid centre up to 40: Zelenskyy"
-    },
-    {
-     "emoji": "",
-     "titre": "Ukraine raises death toll from Russian strike on Zaporizhia to 40 people",
-     "resume": "Dozens may still be under the rubble in Komyshuvakha. Rescue efforts ongoing despite interruptions by Russian drones.",
-     "pourquoi": "",
-     "pays": [],
-     "region": "",
+     "region": "Russia-Ukraine",
      "rubrique": "ukraine",
      "liens": [
       {
        "source": "Al Jazeera",
-       "url": "https://www.aljazeera.com/news/2026/11/4/ukraine-raises-death-toll-from-russian-strike-on-zaporizhia-to-40-people?traffic_source=rss",
-       "titre": "Ukraine raises death toll from Russian strike on Zaporizhia to 40 people"
-      }
-     ],
-     "id": "2026-11-05|Ukraine raises death toll from Russian strike on Zaporizhia to 40 people"
-    },
-    {
-     "emoji": "",
-     "titre": "CIA director warned Russia not to attack NATO countries during Moscow trip: Sources",
-     "resume": "",
-     "pourquoi": "",
-     "pays": [],
-     "region": "",
-     "rubrique": "ukraine",
-     "liens": [
+       "url": "https://www.aljazeera.com/news/2026/11/6/trump-met-russian-envoy-after-he-appeared-with-melania-trump-and-ukrainians?traffic_source=rss",
+       "titre": "Trump says Russia-Ukraine deal is near after meeting Putin’s envoy"
+      },
       {
-       "source": "ABC News",
-       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNLXd4Q2JzaWFyWGRmN0txLW14TXMwUWJBSFE4MVFFTlNIeGN5X3RDejkzckVJODBIV1BZZHdFdlE5c096ZllNam9UeFphMVVTcVBPWElhRFZiZ1I5aEF5bTRfVXBGSTMxa1kyUHMteUpSYlFEUTlUeTVvR3B1dmpwaWk3S21BQTMxd0hkWXpMR2doSVkwYlpFelpiRTNjSVA0RlZ0ZjNmRDRJVmpB0gGyAUFVX3lxTE1kcU9zaG9mT0NINEVxZG9ZUTRxRXFFYjZWa3Jial9zSnM3ckJGLW05SnoyNl9fYUpYSWpjcUFsWnRQOXg5MW12MnVDOWc0Zjc0dFAzbzRlakdFLTB5a1lqaHctTXFtc252NEJpSHlKc1pJTkZIY0lLcWRyaW9ZVm1WcUdlN1M5NEU1TER1MjdyVUtxRjVzb0hHRE9kOWRWQ1VBN1lWcVM5UHowb2tXUTVHYnc?oc=5",
-       "titre": "CIA director warned Russia not to attack NATO countries during Moscow trip: Sources"
+       "source": "BBC World",
+       "url": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss",
+       "titre": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials"
+      },
+      {
+       "source": "CNA Monde",
+       "url": "https://www.channelnewsasia.com/world/melania-trump-host-ukrainian-russian-officials-white-house-6526616",
+       "titre": "Melania Trump calls for 'enduring' Ukraine truce as rivals meet at White House"
       }
      ],
-     "id": "2026-11-05|CIA director warned Russia not to attack NATO countries during Moscow trip: Sources"
+     "id": "2026-11-06|Melania Trump Hosts Trilateral Ukraine-Russia Truce Discussions"
     }
    ]
   },
   {
    "id": "moyen_orient",
    "titre": "Middle East",
-   "items": [
-    {
-     "emoji": "",
-     "titre": "‘Knives out’ at Pentagon after unpopular Iran war dooms GOP in midterms",
-     "resume": "",
-     "pourquoi": "",
-     "pays": [],
-     "region": "",
-     "rubrique": "moyen_orient",
-     "liens": [
-      {
-       "source": "The Washington Post",
-       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZm1ZY2VpaEM0QzJDeEwxbkt6ZjkyWUdjb3A4bEN0MWZjcDhJeVp0cDJnNlFBMVRuUlY0NXZPSXRqVXQwM0VwWHkyMlNGaW40bjZfZXY1V1U1aHhLZkdHU1ZjYW9JelpkcmpNXzRzaXBKU21McldHSkdUbDVQNUlxUE5Eel9yUDBSMmdueUNyMDFGNEpvamVsUW5velF2SGpmTm13RFZneG5hR3EzLUNZeEJQZUU0bTRfZ3kzYm50TllEdw?oc=5",
-       "titre": "‘Knives out’ at Pentagon after unpopular Iran war dooms GOP in midterms"
-      }
-     ],
-     "id": "2026-11-05|‘Knives out’ at Pentagon after unpopular Iran war dooms GOP in midterms"
-    },
-    {
-     "emoji": "",
-     "titre": "Opinion | The apocalypse came early – and Israel may be better off for it",
-     "resume": "",
-     "pourquoi": "",
-     "pays": [],
-     "region": "",
-     "rubrique": "moyen_orient",
-     "liens": [
-      {
-       "source": "Haaretz",
-       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOaTFMeVZ1bHBMVlZmcFFYdEU1YWxDaXozQjlJTTNxV0FXTm5zdERpSi1oNF9VYUVfOXJGY0ppT0FZQTB3V0g4ZEJxWHVFa0prb1VoaEMtaEhWaXZnTGFadk5ydWtMdzgtOUl0TE5yeGJZZkY1RWNoQi0tblpMbmpNSHJNMTFmSjRLajFGUUozUFBQZ0pzVm5uU3E4ajBKeWpka1JwMHFEWU5Ua0J6eXp1cUdXNy1MaWVsaXNnVklGM1dRSnQ5WS1KaERWcWc1RVdfV2dscmRUdFdydHFGaS1sSktNZkJIdFR3SGtmUVhuOFVxbEtqWkRQTHY0R0hadw?oc=5",
-       "titre": "Opinion | The apocalypse came early – and Israel may be better off for it"
-      }
-     ],
-     "id": "2026-11-05|Opinion | The apocalypse came early – and Israel may be better off for it"
-    },
-    {
-     "emoji": "",
-     "titre": "Trump says US will cut military aid to Israel: Why now, and what can actually happen?",
-     "resume": "",
-     "pourquoi": "",
-     "pays": [],
-     "region": "",
-     "rubrique": "moyen_orient",
-     "liens": [
-      {
-       "source": "The Indian Express",
-       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSGgzRFg4OVhWQnFDT1RSaHVMaTFzX0Zlb192eV80a253a3JTZ2NkLUFqMDhfQXJYR3p3d3BJZGh2Y3ZtNVdHOGlWSExXNkxhR2ViejdBbndvUllWdnVTb3RDZ2xpb2Z6LXJtVU1vWlJKUEFBaEsxSHZIQU1qTWY2SUZOWEszVm5nR1RNS2tOWFlTdGI0OGFGcWM4TG5DSmpac1NLSUx2ONIBrgFBVV95cUxOOHVmRVRUWkxnU1lfZVB6aVRib0JycDZuejhHcGhJUWV1MFVha1RmREIxaHFpV1ZfcXczQXFhVHlqclhUQVpUVkZLYUJVX212ZzlJX0tMSWFVRzlJTHE0UzY0WlBiZVc3N1liLVVsNU11aVc3aVpCV3FmVk1qY2pCMzdPYVBSNWtBQnQzMW9FYzgwaHVjUlJuSWY0VTFEYVlKcGxsTVlYbEJOeGt5Y2c?oc=5",
-       "titre": "Trump says US will cut military aid to Israel: Why now, and what can actually happen?"
-      }
-     ],
-     "id": "2026-11-05|Trump says US will cut military aid to Israel: Why now, and what can actually happen?"
-    },
-    {
-     "emoji": "",
-     "titre": "Amid Iran conflict, ‘non-hostile’ deaths of 2 US airmen raise overseas toll",
-     "resume": "Two U.S. airmen supporting operations against Iran died last week in \"non-hostile\" incidents, raising the death toll to 23 since the war began.",
-     "pourquoi": "",
-     "pays": [],
-     "region": "",
-     "rubrique": "moyen_orient",
-     "liens": [
-      {
-       "source": "Defense News",
-       "url": "https://www.defensenews.com/news/pentagon-congress/2026/11/04/amid-iran-conflict-non-hostile-deaths-of-2-us-airmen-raise-overseas-toll-to-23/",
-       "titre": "Amid Iran conflict, ‘non-hostile’ deaths of 2 US airmen raise overseas toll"
-      }
-     ],
-     "id": "2026-11-05|Amid Iran conflict, ‘non-hostile’ deaths of 2 US airmen raise overseas toll"
-    },
-    {
-     "emoji": "",
-     "titre": "Beaten at home, Trump faces stark choice on Iran: deal or escalation",
-     "resume": "Facing a Democratic Congress able to constrain his military options, Trump has a greater incentive to seek a deal.",
-     "pourquoi": "",
-     "pays": [],
-     "region": "",
-     "rubrique": "moyen_orient",
-     "liens": [
-      {
-       "source": "Japan Times",
-       "url": "https://www.japantimes.co.jp/news/2026/11/05/world/politics/trump-midterms-iran-deal/",
-       "titre": "Beaten at home, Trump faces stark choice on Iran: deal or escalation"
-      }
-     ],
-     "id": "2026-11-05|Beaten at home, Trump faces stark choice on Iran: deal or escalation"
-    },
-    {
-     "emoji": "",
-     "titre": "Israel restricting treatment for 1,100 child amputees in Gaza: NGO",
-     "resume": "Israeli restrictions on travel and medical evacuations prevent children in Gaza from being treated abroad.",
-     "pourquoi": "",
-     "pays": [],
-     "region": "",
-     "rubrique": "moyen_orient",
-     "liens": [
-      {
-       "source": "Al Jazeera",
-       "url": "https://www.aljazeera.com/news/2026/11/4/israel-restricting-treatment-for-1100-child-amputees-in-gaza-ngo?traffic_source=rss",
-       "titre": "Israel restricting treatment for 1,100 child amputees in Gaza: NGO"
-      }
-     ],
-     "id": "2026-11-05|Israel restricting treatment for 1,100 child amputees in Gaza: NGO"
-    }
-   ]
+   "items": []
   },
   {
    "id": "europe",
    "titre": "Europe",
    "items": [
     {
-     "emoji": "",
-     "titre": "Les Alliés discutent de l’importance du fonds OTAN pour l'innovation (NIF)",
-     "resume": "",
+     "suite": true,
+     "remplace": "2026-11-04|European Airports and Flights Disrupted by Coordinated Bomb Threats",
+     "emoji": "⚠️",
+     "titre": "Second Wave of Hoax Bomb Threats Disrupts European Aviation",
+     "resume": "Over 27 commercial flights across Europe faced emergency diversions and delays due to malicious bomb hoaxes. European authorities are investigating the origin of the coordinated threats targeting multiple airlines.",
      "pourquoi": "",
-     "pays": [],
-     "region": "",
+     "pays": [
+      "Europe"
+     ],
+     "region": "Europe",
      "rubrique": "europe",
      "liens": [
       {
-       "source": "North Atlantic Treaty Organization",
-       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNa3FTakJ3S3EwWm9TWE11RGVvN0paRmFiRnJueDlDREtmbndLU3JfcmlIWG9oeHBYeEg0aDdoSFpjY1VoaTd4bHpsbEtvRU5hYnZmT3RURk1kZHIyY1hYcFlJX2ZGR1RFcUNuZno4UmRMYnRLeUVxRF9SdnBlR3VIRGl1dWVxNnFKN0tyR0NmS21lbHpreFVwRE1yZzZTNnhiOFpRXzlyMHc2blpBZHdlbGh0TmhncWlOQU1oNF8wWQ?oc=5",
-       "titre": "Les Alliés discutent de l’importance du fonds OTAN pour l'innovation (NIF)"
-      }
-     ],
-     "id": "2026-11-05|Les Alliés discutent de l’importance du fonds OTAN pour l'innovation (NIF)"
-    },
-    {
-     "emoji": "",
-     "titre": "Democratic progressive wing notches win in California Central Valley",
-     "resume": "Campaign focused on cost of living issues and backlash over ICE raids pays dividends for progressive Randy Villegas.",
-     "pourquoi": "",
-     "pays": [],
-     "region": "",
-     "rubrique": "europe",
-     "liens": [
+       "source": "Japan Times",
+       "url": "https://www.japantimes.co.jp/news/2026/11/06/world/crime-legal/europe-bomb-hoaxes-second-wave/",
+       "titre": "New wave of bomb hoaxes hits dozens of flights across Europe"
+      },
       {
        "source": "Al Jazeera",
-       "url": "https://www.aljazeera.com/news/2026/11/4/democratic-progressive-wing-notches-win-in-california-central-valley?traffic_source=rss",
-       "titre": "Democratic progressive wing notches win in California Central Valley"
-      }
-     ],
-     "id": "2026-11-05|Democratic progressive wing notches win in California Central Valley"
-    },
-    {
-     "emoji": "",
-     "titre": "US lawmakers will go to UN climate talks in Turkey",
-     "resume": "An American congressional delegation will travel to Turkey for the annual UN climate summit, a Democratic lawmaker said Wednesday, a day after his party's landslide midterm victory. The United States is not taking part in the negotiations…",
-     "pourquoi": "",
-     "pays": [],
-     "region": "",
-     "rubrique": "europe",
-     "liens": [
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/hoax-bomb-threats-force-emergency-landings-evacuations-across-europe?traffic_source=rss",
+       "titre": "Hoax bomb threats force emergency landings, evacuations across Europe"
+      },
       {
-       "source": "Al-Monitor",
-       "url": "https://www.al-monitor.com/originals/2026/11/us-lawmakers-will-go-un-climate-talks-turkey",
-       "titre": "US lawmakers will go to UN climate talks in Turkey"
-      }
-     ],
-     "id": "2026-11-05|US lawmakers will go to UN climate talks in Turkey"
-    },
-    {
-     "emoji": "",
-     "titre": "Le ministère des Armées lance la réalisation d’un démonstrateur du drone sous-marin de combat UCUV",
-     "resume": "Le projet de doter la Marine nationale d’une drone sous-marin armé est déjà assez ancien puisqu’il figurait dans le document de référence de l’orientation de l’innovation de défense [DrOID] publié en 2022 par l’Agence de l’innovation de…",
-     "pourquoi": "",
-     "pays": [],
-     "region": "",
-     "rubrique": "europe",
-     "liens": [
+       "source": "BBC World",
+       "url": "https://www.bbc.co.uk/news/articles/cx8dzzjg3g9zo?at_medium=RSS&at_campaign=rss",
+       "titre": "Who could be behind hoax bomb threats to European air travel?"
+      },
       {
-       "source": "Opex360",
-       "url": "https://www.opex360.com/2026/11/04/le-ministere-des-armees-lance-la-realisation-dun-demonstrateur-du-drone-sous-marin-de-combat-ucuv/",
-       "titre": "Le ministère des Armées lance la réalisation d’un démonstrateur du drone sous-marin de combat UCUV"
+       "source": "CNA Monde",
+       "url": "https://www.channelnewsasia.com/world/european-airlines-bomb-threats-hoax-6526981",
+       "titre": "New wave of bomb hoaxes hits at least 27 passenger flights across Europe"
       }
      ],
-     "id": "2026-11-05|Le ministère des Armées lance la réalisation d’un démonstrateur du drone sous-marin de combat UCUV"
-    },
-    {
-     "emoji": "",
-     "titre": "Safran va fournir les turboréacteurs du drone de combat supersonique canadien Falcon",
-     "resume": "Créée dans les années 2000 et spécialisée dans le développement d’applications civiles avant de s’orienter vers le marché de la défense il y a maintenant cinq ans, la société UVAD Technologies développe le Falcon, drone de combat…",
-     "pourquoi": "",
-     "pays": [],
-     "region": "",
-     "rubrique": "europe",
-     "liens": [
-      {
-       "source": "Opex360",
-       "url": "https://www.opex360.com/2026/11/04/safran-va-fournir-les-turboreacteurs-du-drone-de-combat-supersonique-canadien-falcon/",
-       "titre": "Safran va fournir les turboréacteurs du drone de combat supersonique canadien Falcon"
-      }
-     ],
-     "id": "2026-11-05|Safran va fournir les turboréacteurs du drone de combat supersonique canadien Falcon"
-    },
-    {
-     "emoji": "",
-     "titre": "Grand reportage - La brigade allemande de Lituanie, ou comment l'Allemagne renforce la frontière orientale de l’Otan",
-     "resume": "",
-     "pourquoi": "",
-     "pays": [],
-     "region": "",
-     "rubrique": "europe",
-     "liens": [
-      {
-       "source": "RFI",
-       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNU1ZjNks1ZW03bkhERHBVcGtrTExYbm5Yc1JBY1E1eElhZnRSSmo0ZFd3OWkzOEtzbVUxZnFXeXpfeXk5SldROEZXcDlhdDVOelJUZmFVNHNLVlRsOWZMRFNIVl8xajdqUlV2cVMySFlUbjV4LVppeUlNMHRSOWRyU0Zjb3ZNQkMxQVBYTlY4SFU4T2J0Sld1c3JTVEdHUFAtTmZrS01DSm5zNXZTQURuMkU1UVNDV081V2FuX3pwMC1LbXh3R0FORWVacHN6aC1MUXFGc01TeWRaMmtSWHRadk9KbHBGemlJR3M0VEQ0aw?oc=5",
-       "titre": "Grand reportage - La brigade allemande de Lituanie, ou comment l'Allemagne renforce la frontière orientale de l’Otan"
-      }
-     ],
-     "id": "2026-11-05|Grand reportage - La brigade allemande de Lituanie, ou comment l'Allemagne renforce la frontière orientale de l’Otan"
+     "id": "2026-11-06|Second Wave of Hoax Bomb Threats Disrupts European Aviation"
     }
    ]
   },
@@ -877,262 +596,117 @@
    "titre": "Space & Satellites",
    "items": [
     {
-     "emoji": "",
-     "titre": "Africa’s richest man launches mega oil tank farm in Namibia",
-     "resume": "Nigerian billionaire Aliko Dangote launched a fuel storage facility in Namibia to future-proof Southern Africa's supply.",
+     "suite": false,
+     "remplace": null,
+     "emoji": "🛰️",
+     "titre": "CesiumAstro Raises $730m Series D for Satellite Constellation",
+     "resume": "Space communications company CesiumAstro secured $730 million in funding at a $4.5 billion valuation. The capital will fund the rollout of its Synchronicity satellite constellation for defence and commercial connectivity.",
      "pourquoi": "",
-     "pays": [],
-     "region": "",
+     "pays": [
+      "United States"
+     ],
+     "region": "Americas",
      "rubrique": "espace",
      "liens": [
       {
-       "source": "Al Jazeera",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/africas-richest-man-launches-mega-oil-tank-farm-in-namibia?traffic_source=rss",
-       "titre": "Africa’s richest man launches mega oil tank farm in Namibia"
+       "source": "SpaceNews",
+       "url": "https://spacenews.com/cesiumastro-secures-730-million-in-janus-henderson-led-series-d-at-a-valuation-above-4-5-billion-unveils-synchronicity-satellite-constellation-following-fully-successful-element-1-mission/",
+       "titre": "CesiumAstro Secures $730 Million in Janus Henderson-Led Series D at a Valuation Above $4.5 Billion; Unveils Synchronicity Satellite Constellation Following Fully Successful Element-1 Mission"
       }
      ],
-     "id": "2026-11-05|Africa’s richest man launches mega oil tank farm in Namibia"
-    },
-    {
-     "emoji": "",
-     "titre": "NASA’s 22-year-old Swift satellite telescope falls from orbit in fiery finale",
-     "resume": "",
-     "pourquoi": "",
-     "pays": [],
-     "region": "",
-     "rubrique": "espace",
-     "liens": [
-      {
-       "source": "The Straits Times",
-       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVDRsZkFETEY3YUdWMmR5NHVMMDRVU3pDd0ZHaDlyU0RJbUpBUEdUblFCd0pBWi1rbEZHLTZSSXpYbGdpWGVIaU1DM0tuRk40UmFfQk5nM3ViMUdZVXhtaXpkV1BJamhWcG15aDNiRE1HU0J2bllqTzRjdlN1Z1hkX3VnUm5sQ01PcGc1ZnpMS1ZxRTJBMEpiMklaei15enlISmpGUW1wSmJkWElMSTdIUXp3VkR4eF9QaHZQVGFidw?oc=5",
-       "titre": "NASA’s 22-year-old Swift satellite telescope falls from orbit in fiery finale"
-      }
-     ],
-     "id": "2026-11-05|NASA’s 22-year-old Swift satellite telescope falls from orbit in fiery finale"
-    },
-    {
-     "emoji": "",
-     "titre": "Zodiac Milpro Unveils Equinox 930, Its First Autonomous, Modular, And Multi-mission USV",
-     "resume": "Zodiac Milpro announces the launch of the EQUINOX 930 USV, its first Uncrewed Surface Vessel (USV), at Euronaval 2026. Zodiac Milpro press release Building on its recognised expertise in the design and production of military and…",
-     "pourquoi": "",
-     "pays": [],
-     "region": "",
-     "rubrique": "espace",
-     "liens": [
-      {
-       "source": "Naval News",
-       "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/zodiac-milpro-unveils-equinox-930-its-first-autonomous-modular-and-multi-mission-usv/",
-       "titre": "Zodiac Milpro Unveils Equinox 930, Its First Autonomous, Modular, And Multi-mission USV"
-      }
-     ],
-     "id": "2026-11-05|Zodiac Milpro Unveils Equinox 930, Its First Autonomous, Modular, And Multi-mission USV"
-    },
-    {
-     "emoji": "",
-     "titre": "Air Force and Space Force meet recruiting goals months before target date",
-     "resume": "",
-     "pourquoi": "",
-     "pays": [],
-     "region": "",
-     "rubrique": "espace",
-     "liens": [
-      {
-       "source": "ABC News",
-       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTVhkVUlxM0ZBWS0yOTVxQ09jNU5wU2M2WnlpWWduVDhKay1MVHlCd0F4cFZmM050bTVKZFVpVS03UUhMbFBpenkwbjMxZnVhNkNGQTJCU0hRTVpQR2lwbEVoRWdfNVJ4MFJvbVhuVmh6bk9HTWR4enlrZTZNRWFMZFJOY3p1ek5xQ1JBTTduUnNqYjhmQ3ltSndfTlpiUknSAaQBQVVfeXFMT2FoQlVXeXdIWDkzU3ByaXhtZW1xY2pocGhmQktTdXhLd2h2Mk1DSk5WQ3IzSVN1SlB3UVVVSHFhcG93d0prS24zajRkcWVJbHNjRTNNdVhjcGJ3Q1UyX19wQWR2NjM0MU9vSkFLdUlTUVlLQnk1eUI4cmRWaEFadURHZ3ZDWmJ5Y2NtSi04MEI4R3JrZ2o3dnZLRmZrM0o5X1lLWG8?oc=5",
-       "titre": "Air Force and Space Force meet recruiting goals months before target date"
-      }
-     ],
-     "id": "2026-11-05|Air Force and Space Force meet recruiting goals months before target date"
-    },
-    {
-     "emoji": "",
-     "titre": "Tokyo police to introduce AI-based accident reconstruction system",
-     "resume": "The system will combine AI with 3D spatial data from accident sites and footage from security cameras, reducing the need for on-site inspections.",
-     "pourquoi": "",
-     "pays": [],
-     "region": "",
-     "rubrique": "espace",
-     "liens": [
-      {
-       "source": "Japan Times",
-       "url": "https://www.japantimes.co.jp/news/2026/11/04/japan/crime-legal/tokyo-police-ai-reconstruction/",
-       "titre": "Tokyo police to introduce AI-based accident reconstruction system"
-      }
-     ],
-     "id": "2026-11-05|Tokyo police to introduce AI-based accident reconstruction system"
-    },
-    {
-     "emoji": "",
-     "titre": "EDGE Launches Second Corvette for Angolan Navy, First of Its Class Built in UAE",
-     "resume": "EDGE has launched NRA Nimi-ya-Lukeni (F301), the second BR71 MK II multi-mission corvette for the Angolan Navy, at the Abu Dhabi shipyard of its naval shipbuilding entity, Abu Dhabi Ship Building (ADSB), on 29 October 2026. Edge press…",
-     "pourquoi": "",
-     "pays": [],
-     "region": "",
-     "rubrique": "espace",
-     "liens": [
-      {
-       "source": "Naval News",
-       "url": "https://www.navalnews.com/naval-news/2026/11/edge-launches-second-corvette-for-angolan-navy-first-of-its-class-built-in-uae/",
-       "titre": "EDGE Launches Second Corvette for Angolan Navy, First of Its Class Built in UAE"
-      }
-     ],
-     "id": "2026-11-05|EDGE Launches Second Corvette for Angolan Navy, First of Its Class Built in UAE"
+     "id": "2026-11-06|CesiumAstro Raises $730m Series D for Satellite Constellation"
     }
    ]
   },
   {
    "id": "tech",
    "titre": "Emerging Tech",
-   "items": [
-    {
-     "emoji": "",
-     "titre": "Trump’s midterm drubbing demonstrates the power of data center opponents",
-     "resume": "Investors say the artificial intelligence boom that has propelled U.S. economic growth and stock markets could slow down.",
-     "pourquoi": "",
-     "pays": [],
-     "region": "",
-     "rubrique": "tech",
-     "liens": [
-      {
-       "source": "Japan Times",
-       "url": "https://www.japantimes.co.jp/business/2026/11/05/markets/trump-midterms-data-center-opponents/",
-       "titre": "Trump’s midterm drubbing demonstrates the power of data center opponents"
-      }
-     ],
-     "id": "2026-11-05|Trump’s midterm drubbing demonstrates the power of data center opponents"
-    },
-    {
-     "emoji": "",
-     "titre": "Babcock assembles industry-leading ecosystem to deliver the Hybrid Navy of the future",
-     "resume": "Babcock International Group (Babcock), the defence company, has announced that seven leading technology and defence partners have joined its ARMOR Force (Autonomous and Remote Maritime Operational Response – Force) Framework, creating the…",
-     "pourquoi": "",
-     "pays": [],
-     "region": "",
-     "rubrique": "tech",
-     "liens": [
-      {
-       "source": "Naval News",
-       "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/babcock-assembles-industry-leading-ecosystem-to-deliver-the-hybrid-navy-of-the-future/",
-       "titre": "Babcock assembles industry-leading ecosystem to deliver the Hybrid Navy of the future"
-      }
-     ],
-     "id": "2026-11-05|Babcock assembles industry-leading ecosystem to deliver the Hybrid Navy of the future"
-    },
-    {
-     "emoji": "",
-     "titre": "General Atomics to supply key components for U.S. Army and Navy hypersonic weapon systems",
-     "resume": "",
-     "pourquoi": "",
-     "pays": [],
-     "region": "",
-     "rubrique": "tech",
-     "liens": [
-      {
-       "source": "Defence Industry Europe",
-       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYURuZV9xNjlxRjBtUVlsZ0dsY0ZEa0pXVk9RT29oYWx2UEhVekpTQXdVejhMcUllOVBPYnZyMHJkckQ0T2dmWFNvcDRHa1Uxa1BhRWd0cTJ6aDcyOGw1ZDFqSDVnX1pWS2NIZUpTS0tHbi1aZERUZ3hzWTVqdC16SnBZbktwRzI5R2ZPTnhNcEpOeHp6Q1paR2RHcnBoS1FoTWlDd3hJR3V6eEFMcEtCTm1Qazh5NTMy?oc=5",
-       "titre": "General Atomics to supply key components for U.S. Army and Navy hypersonic weapon systems"
-      }
-     ],
-     "id": "2026-11-05|General Atomics to supply key components for U.S. Army and Navy hypersonic weapon systems"
-    }
-   ]
+   "items": []
   },
   {
    "id": "economie",
    "titre": "Economy & Sanctions",
    "items": [
     {
-     "emoji": "",
-     "titre": "Trump says he'll consider giving Turkey F-35 jets, adds that US will lift sanctions",
-     "resume": "",
+     "suite": false,
+     "remplace": null,
+     "emoji": "💰",
+     "titre": "US Sanctions Chinese Firms Over Military Exports and AI Hacking",
+     "resume": "The US imposed sanctions on Chinese companies accused of supplying military goods to Cuba and deploying AI tools for cyber operations. India also raised alerts regarding Chinese AI-driven cyber threats against financial institutions.",
      "pourquoi": "",
-     "pays": [],
-     "region": "",
+     "pays": [
+      "United States",
+      "China",
+      "Cuba",
+      "India"
+     ],
+     "region": "Global",
      "rubrique": "economie",
      "liens": [
       {
-       "source": "ABC News",
-       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZkVXSVdMWjlXRUlidzI2bVhDaE5JUHcxcHZWV3NPWkRLZkozSGl1c083OUw4eGNya2IzOWJ0SkQxQmpJSm9UdUdhdS1qNG5OTlRtUjJKc1M2U183TlRULTRVT2dXS2JRXzE2SktaRk4xcUlObkFFR2taeVhmQm9zak40OTN4eEF6MUZJeVB3elc5QdIBlwFBVV95cUxOaGI1aXdhOTBKeXBMbUVkR015RDVITy1vcXgwZkpkMmdRS3lpWUxYUU1XZWk0dGYxZGtyRlVhTUkzVVp1d2dhU09hOWlhdHEzc1ZoNm1nVWRpMmJEemNONWwwbXhUZnUzNmRpd0kwS0k4aFBCZHNvOFhzanpnMFJOXy0yX1NiWGFTUFJaUlhCSi14dzRycnNV?oc=5",
-       "titre": "Trump says he'll consider giving Turkey F-35 jets, adds that US will lift sanctions"
-      }
-     ],
-     "id": "2026-11-05|Trump says he'll consider giving Turkey F-35 jets, adds that US will lift sanctions"
-    },
-    {
-     "emoji": "",
-     "titre": "« Donald Trump prend vraiment une claque » : ce qu’il faut retenir des résultats des midterms 2026",
-     "resume": "Avec la vague démocrate qui a déferlé sur le Congrès américain à l’issue des midterms, c’est la politique du second mandat de Donald Trump à la Maison Blanche qui a été sanctionnée.",
-     "pourquoi": "",
-     "pays": [],
-     "region": "",
-     "rubrique": "economie",
-     "liens": [
+       "source": "SCMP",
+       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZ2JTLXRkU2VVQWZkTXYya3VPSllnczhIQng1bnk2bkc4clgxRjFvdGdUVlVaOGQwQTg1M3FkbGQtUGtUY3BuVjNuek1nRl9KVVN3RGZIQ0tiYWhuSTAxd1hTM2d2YlNZSGtha3dqRUQyZG1ILWZxM1VVZkt1UUQwbjQtOVVpcWhZUkJwZ3BIRWJmMHJfQjY1dkhuam1BUG9qdjFjcmhicDlVeUlrbjVaMVZFRF9xMGZXS2owedIBvAFBVV95cUxPSy1yaUVJQm0tUkttZVFvWmdrRVl3VmtWc3IxN09XTDdjcHNaay00Rnl4LTZYdDZVOWJldnp3QklZMXNfMTdMYVhOQUxSSV9sYTFDdlB0eDFQQjZYX2twdzcxZFpjcEFMX2gwVk50RTdfVkxDa29tbFM2TFBkaWprcTZZTXhkc29sM0NyQnFlSWM1Y3FuSVhKNDhLNmVQSXFHVEQ5dkFLUG5TVVE0cld5ZmlKVV9MZ2tJb1VTeQ?oc=5",
+       "titre": "US sanctions Chinese firms over alleged military supplies to Cuba"
+      },
       {
-       "source": "Le Monde International",
-       "url": "https://www.lemonde.fr/videos/video/2026/11/04/donald-trump-prend-vraiment-une-claque-ce-qu-il-faut-retenir-des-resultats-des-midterms-2026_6806417_1669088.html",
-       "titre": "« Donald Trump prend vraiment une claque » : ce qu’il faut retenir des résultats des midterms 2026"
+       "source": "CNA Asie",
+       "url": "https://www.channelnewsasia.com/asia/india-flags-chinese-linked-ai-tools-hacking-campaign-financial-firms-6526931",
+       "titre": "India flags Chinese-linked AI tools in hacking campaign against financial firms"
       }
      ],
-     "id": "2026-11-05|« Donald Trump prend vraiment une claque » : ce qu’il faut retenir des résultats des midterms 2026"
-    },
-    {
-     "emoji": "",
-     "titre": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
-     "resume": "With Canada-US trade talks back on, Tuesday’s midterm Democratic wave puts pressure on the White House to come to a deal.",
-     "pourquoi": "",
-     "pays": [],
-     "region": "",
-     "rubrique": "economie",
-     "liens": [
-      {
-       "source": "BBC World",
-       "url": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss",
-       "titre": "US midterm results a 'victory' for Canadians hopeful of tariff relief"
-      }
-     ],
-     "id": "2026-11-05|US midterm results a 'victory' for Canadians hopeful of tariff relief"
-    },
-    {
-     "emoji": "",
-     "titre": "US Export Controls Stall SK Hynix's New York Semiconductor Investment",
-     "resume": "",
-     "pourquoi": "",
-     "pays": [],
-     "region": "",
-     "rubrique": "economie",
-     "liens": [
-      {
-       "source": "조선일보",
-       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdmhnT2dBYmo1eHlhRmYwdHlBVHVvWHdjY0V1eUZ1U0h1VXAyVFJjdDRJZkVkX3ktblBTc1JlbjdSWGdxS0RQOWpzRXFONGdzaFNfTGF6Y2hoSnE2ZkRkWFlSYlBJbzJUTXMyV3N6Sm5rQmhPWFpRMkYwNW41TlF5VlhpOHVCVTcxVmxJWEZB?oc=5",
-       "titre": "US Export Controls Stall SK Hynix's New York Semiconductor Investment"
-      }
-     ],
-     "id": "2026-11-05|US Export Controls Stall SK Hynix's New York Semiconductor Investment"
-    },
-    {
-     "emoji": "",
-     "titre": "Rwanda's army team removed from Africa league after US sanctions, NBA says",
-     "resume": "The US imposed sanctions on Rwanda's army over its role in the conflict in DR Congo.",
-     "pourquoi": "",
-     "pays": [],
-     "region": "",
-     "rubrique": "economie",
-     "liens": [
-      {
-       "source": "BBC World",
-       "url": "https://www.bbc.co.uk/news/articles/c699zdx9knmpo?at_medium=RSS&at_campaign=rss",
-       "titre": "Rwanda's army team removed from Africa league after US sanctions, NBA says"
-      }
-     ],
-     "id": "2026-11-05|Rwanda's army team removed from Africa league after US sanctions, NBA says"
+     "id": "2026-11-06|US Sanctions Chinese Firms Over Military Exports and AI Hacking"
     }
    ]
   }
  ],
- "a_surveiller": [],
+ "a_surveiller": [
+  {
+   "quand": "November 7",
+   "quoi": "New Zealand general election voting closes.",
+   "liens": [
+    {
+     "source": "Straits Times Asie",
+     "url": "https://www.straitstimes.com/asia/explainer-what-you-need-to-know-ahead-of-new-zealands-election",
+     "titre": "Explainer-What you need to know ahead of New Zealand's election"
+    },
+    {
+     "source": "BBC World",
+     "url": "https://www.bbc.co.uk/news/videos/cr86zxe1q5j3o?at_medium=RSS&at_campaign=rss",
+     "titre": "Chris vs Chris: Who's running and what's at stake this New Zealand election"
+    }
+   ]
+  },
+  {
+   "quand": "November 8",
+   "quoi": "Israeli President Isaac Herzog announces candidate tasked with forming government.",
+   "liens": [
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONXl2TW1pRDd2eEFya2FTU0pkOWJWd3lFZG1PdUdSNlBWTVR5VGp3UWtLb2E0Ri1iTmt1SWhRckdOVVhkN2ItZ1Y2QlhjT2NrcGR0ZTg3MklhcENpZUFOM0I1SDRYdTZwMFlYeGMwMTM1SWF5ZzNnd2h4ZnJ1bC1BZWhlNDlYUXM3S3FRdXVyR1p3SE5GYUFoMm1wSWRYSlBYY3NkcTBpVklrTnZibm51eURCWkszdHBtdU9vYQ?oc=5",
+     "titre": "Israel's president pledges to pick candidate on Sunday to form government"
+    },
+    {
+     "source": "Le Monde International",
+     "url": "https://www.lemonde.fr/international/article/2026/11/05/israel-gadi-eisenkot-l-ancien-chef-d-etat-major-israelien-en-mission-pour-remplacer-benyamin-netanyahou_6807323_3210.html",
+     "titre": "Israël : Gadi Eisenkot, l’ancien chef d’état-major israélien, en bonne position pour remplacer Benyamin Nétanyahou à la tête du gouvernement"
+    }
+   ]
+  },
+  {
+   "quand": "November 8",
+   "quoi": "Turkish President Recep Tayyip Erdogan visits Baku, Azerbaijan.",
+   "liens": [
+    {
+     "source": "Straits Times Asie",
+     "url": "https://www.straitstimes.com/asia/erdogan-says-turkey-azerbaijan-ties-can-overcome-all-obstacles-amid-growing-tensions",
+     "titre": "Erdogan says Turkey-Azerbaijan ties can overcome all obstacles amid growing tensions"
+    }
+   ]
+  }
+ ],
  "hebdo": null,
  "stats": {
-  "articles": 454,
-  "sources": 52
+  "articles": 418,
+  "sources": 51
  }
 }

@@ -1,0 +1,712 @@
+{
+ "date": "2026-11-06",
+ "date_label": "Friday, November 6, 2026",
+ "genere_le": "2026-11-06T10:53:04+08:00",
+ "mode": "ia",
+ "modele": "gemini-3.6-flash",
+ "accroche": [
+  "US Democratic midterm victory triggers tech market sell-off",
+  "North Korea test-fires new S-400-like air defence system",
+  "Joshua Wong sentenced to 10 additional years in Hong Kong"
+ ],
+ "essentiel": [
+  {
+   "suite": true,
+   "remplace": "2026-11-04|US Midterm Elections Underway with Control of Congress at Stake",
+   "emoji": "🗳️",
+   "titre": "US Democratic Midterm Victory Triggers $2.5tn Tech Sell-Off",
+   "resume": "A sweeping Democratic win in the US midterms sparked a massive tech stock plunge over fears of increased AI and data centre regulation. The sell-off wiped $2.5 trillion off the Nasdaq index.",
+   "pourquoi": "",
+   "pays": [
+    "United States"
+   ],
+   "region": "Americas",
+   "rubrique": "elections",
+   "liens": [
+    {
+     "source": "Japan Times",
+     "url": "https://www.japantimes.co.jp/business/2026/11/06/markets/market-nov-6/",
+     "titre": "Nikkei 225 falls more than 7% following AI-related declines on Wall Street"
+    },
+    {
+     "source": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+     "titre": "Major tech stocks plunge as US midterms add to fears of AI slowdown"
+    },
+    {
+     "source": "CNA Monde",
+     "url": "https://www.channelnewsasia.com/world/wall-street-selloff-ai-stocks-6529101",
+     "titre": "Brutal sell-off for AI stocks sends Wall Street reeling"
+    },
+    {
+     "source": "Le Monde International",
+     "url": "https://www.lemonde.fr/economie/article/2026/11/05/a-wall-street-la-victoire-democrate-aux-midterms-a-fait-exploser-la-bulle-de-l-ia_6807339_3234.html",
+     "titre": "A Wall Street, la victoire démocrate aux midterms a fait exploser la bulle de l’IA"
+    }
+   ],
+   "id": "2026-11-06|US Democratic Midterm Victory Triggers $2.5tn Tech Sell-Off"
+  },
+  {
+   "suite": true,
+   "remplace": "2026-11-04|North Korea Tests Cruise Missile Dispersal Warheads and Rejects Dialogue",
+   "emoji": "🚀",
+   "titre": "North Korea Tests Newly Designed Air Defence Missile System",
+   "resume": "Pyongyang conducted a test-firing of a new surface-to-air missile system reportedly resembling Russia's S-400. The test comes alongside strategic cruise missile drills aimed at enhancing North Korean interception capabilities.",
+   "pourquoi": "",
+   "pays": [
+    "North Korea",
+    "Russia"
+   ],
+   "region": "North-East Asia",
+   "rubrique": "defense_aerienne",
+   "liens": [
+    {
+     "source": "NHKニュース",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBRQUFZUFV2QWJVbFVUY3hCZEhLZUlmT0I4VDhGcktKaEZlMzdYQVBCSEpUZnhmU1FDVll4dnUta3pfM0xYRm1SbHpHMV9GRjRIb0lmd0pZT1h5OTdtNE9aV1dtanE?oc=5",
+     "titre": "Korut Uji Sistem Rudal Pertahanan Udara Baru"
+    },
+    {
+     "source": "CNN Indonesia",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTGFGblJqc1VqTThEV19adGhFYkJyeFJaclRGb1JPdjIzeHFaZXVkU0Zrd0d4Q1F6QjFNUjIybnZPdVNOeEJMbFJjVGJkQ0VZN0RWRUlWSmJ6TDZJYnhDYXZ5SFpUZW1TLWoybmpXdGxDNXhMcHNmOHdpaUVJVm80LS1ndW9faHg3YklyWG9lb0xJajlTcnhfNTJfSTBDZ0VLekVLaExVU1k4UkdPdUlGQXQwVVFmNGwySzhqem1NRFM0MlU?oc=5",
+     "titre": "Korea Utara Uji Coba Sistem Rudal Pertahanan Udara Baru"
+    },
+    {
+     "source": "Janes Defence Intelligence",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOE1UbDlFd2kyUEZKWmxtOXRRQm9PTFltVTFmTEJjZ0NwYVphOEJJQWszT2x4eEZuemthYmpHSHpzUkNuNXFMYWxqRHJ3MUxLU0ozUDREV3JjRnhqbEpkNlIyQlJZd0xHbWpRTkM3eFNYRzZIX0RwcWI0VjExUExTcTFmREd0QzR6VXZ0N2hJOGNCVDdQOFF6X2hDNFlMUk1haWltWUtSbTM5akVObFY5UFk4SWVHQm1jU0plX1JGdGhzbHB2dHlNTk4xbWU?oc=5",
+     "titre": "North Korea tests ‘newly designed' air-defence missile system"
+    },
+    {
+     "source": "The Star",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQazduRGhKYkdySjRvNEYyWnIyd1lCUEZfaFdpS1pLR3hQZUlKWE85XzdzelhGMFBTMVRFc1FOWmFOb2xTOHRaZzdfOGlSMGxUNEh3Q042ejRqLTNYaU1yNkRiN3luVmtOTnpZSHB6LVd4NnFOWlVsbmlwS2I2VXdwN213ZTVmQnhBbDdRcmR3MnhpYmtSRlMyczdqZnV5MkZ1aUtjV1ppcnNvVVBYTGdPUkRTazhLejhnZkZQd2VNb0VGSU5GTHdkTEdYcWo3UQ?oc=5",
+     "titre": "North Korea tests new air defence system and long-range cruise missile"
+    }
+   ],
+   "id": "2026-11-06|North Korea Tests Newly Designed Air Defence Missile System"
+  },
+  {
+   "suite": false,
+   "remplace": null,
+   "emoji": "⚖️",
+   "titre": "Hong Kong Sentences Joshua Wong to 10 Additional Years",
+   "resume": "Pro-democracy activist Joshua Wong was sentenced to ten further years in prison for foreign collusion under Hong Kong's National Security Law. Already detained since 2020, Wong will be 40 upon release.",
+   "pourquoi": "",
+   "pays": [
+    "Hong Kong",
+    "China"
+   ],
+   "region": "North-East Asia",
+   "rubrique": "asie",
+   "liens": [
+    {
+     "source": "SCMP",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQjhRUU1IOTcwdHRsa1lyVTNJRVhPcHdybTFLZng5UGE3UzRBNlBESWdOV2RsengyMHRwb0xISmlBVEZlalE2aXRRNXdybHUzekNLbURpb3hSaTJWNE8wYmdIOFBjNnV0aW9vOFdrck5LdDhfNmNQODhURDRyaE1SNmY5VVdoSE40NWVIVWE3RVk1SEtIS2hVZlFDMFdJV1RDOXd5NUJ2aVZOTk1xTmdsQ0JENDVqRU1VOUxxeXNLTW5jQ0FuTTZ4TjBzRmpDVVVvaXBXTlZ3c9IB1wFBVV95cUxPUlJ3YzdLam1hU1pSb2Q5QmYwdHNaUXJNQnpFckFyTXVxS0RZUW00OG5ReTFyY2hlRzJXemd3Vkk0TlhQLVI5OVpUZVplUGVTaklCTWVrRE1TandWU0ZmT2RkLUZkb3MteGZaaDJUSkhJaGo3U1lkUTNyYmtsN3RFS0pLVDZZUkE0RHNNWm9PYU91OHZKakhkT2pIdlBtUFpoejNKVngwMzJoM2Fwc25ySm1ZN3RISE9KZTliNEhMd1NVUzlXZHlqeVBuXy1iQmdWUzdmR01kRQ?oc=5",
+     "titre": "Hong Kong activist Joshua Wong jailed for 10 years in foreign collusion case"
+    },
+    {
+     "source": "BBC Asia",
+     "url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
+     "titre": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years"
+    },
+    {
+     "source": "France 24 Asie",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20261105-chine-le-prod%C3%A9mocratie-joshua-wong-condamn%C3%A9-%C3%A0-10-ans-de-prison-suppl%C3%A9mentaire",
+     "titre": "Chine : le prodémocrate Joshua Wong condamné à 10 ans de prison supplémentaire"
+    },
+    {
+     "source": "CNA Asie",
+     "url": "https://www.channelnewsasia.com/asia/hong-kong-joshua-wong-teenage-protest-leader-jail-6526956",
+     "titre": "Hong Kong's Joshua Wong: From teenage protest leader to a decade behind bars"
+    }
+   ],
+   "id": "2026-11-06|Hong Kong Sentences Joshua Wong to 10 Additional Years"
+  },
+  {
+   "suite": true,
+   "remplace": "2026-11-04|Israeli President Opens Deliberations to Form Next Coalition Government",
+   "emoji": "🤝",
+   "titre": "Opposition Leader Eisenkot Secures Support to Form Israeli Government",
+   "resume": "Former military chief Gadi Eisenkot received backing from 67 Knesset members, including two Arab-majority parties, to form Israel's next government. President Isaac Herzog will announce his formal decision on Sunday.",
+   "pourquoi": "",
+   "pays": [
+    "Israel"
+   ],
+   "region": "Middle East",
+   "rubrique": "moyen_orient",
+   "liens": [
+    {
+     "source": "Japan Times",
+     "url": "https://www.japantimes.co.jp/news/2026/11/06/world/politics/eisenkot-israel-government/",
+     "titre": "Eisenkot tipped to seek Israel government with backing of Arab lists"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONXl2TW1pRDd2eEFya2FTU0pkOWJWd3lFZG1PdUdSNlBWTVR5VGp3UWtLb2E0Ri1iTmt1SWhRckdOVVhkN2ItZ1Y2QlhjT2NrcGR0ZTg3MklhcENpZUFOM0I1SDRYdTZwMFlYeGMwMTM1SWF5ZzNnd2h4ZnJ1bC1BZWhlNDlYUXM3S3FRdXVyR1p3SE5GYUFoMm1wSWRYSlBYY3NkcTBpVklrTnZibm51eURCWkszdHBtdU9vYQ?oc=5",
+     "titre": "Israel's president pledges to pick candidate on Sunday to form government"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/arab-party-backs-eisenkot-in-bid-to-form-israels-next-government?traffic_source=rss",
+     "titre": "Arab party backs Eisenkot in bid to form Israel’s next government"
+    },
+    {
+     "source": "Le Monde International",
+     "url": "https://www.lemonde.fr/international/article/2026/11/05/israel-gadi-eisenkot-l-ancien-chef-d-etat-major-israelien-en-mission-pour-remplacer-benyamin-netanyahou_6807323_3210.html",
+     "titre": "Israël : Gadi Eisenkot, l’ancien chef d’état-major israélien, en bonne position pour remplacer Benyamin Nétanyahou à la tête du gouvernement"
+    }
+   ],
+   "id": "2026-11-06|Opposition Leader Eisenkot Secures Support to Form Israeli Government"
+  }
+ ],
+ "rubriques": [
+  {
+   "id": "monde",
+   "titre": "World",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🏛️",
+     "titre": "Paraguayan President Santiago Peña Resigns Following Bank Collapse",
+     "resume": "Paraguayan President Santiago Peña announced his resignation after a major central bank crisis triggered impeachment proceedings in congress. Peña will technically remain in office until parliament confirms his successor.",
+     "pourquoi": "",
+     "pays": [
+      "Paraguay"
+     ],
+     "region": "Americas",
+     "rubrique": "monde",
+     "liens": [
+      {
+       "source": "Japan Times",
+       "url": "https://www.japantimes.co.jp/news/2026/11/06/world/politics/paraguay-president-collapse/",
+       "titre": "Bank collapse takes down a president and Trump ally in Paraguay"
+      },
+      {
+       "source": "Le Monde International",
+       "url": "https://www.lemonde.fr/international/article/2026/11/05/paraguay-le-president-santiago-pena-annonce-sa-demission_6807257_3210.html",
+       "titre": "Crise politique au Paraguay après l’annonce de la démission du président Santiago Peña"
+      },
+      {
+       "source": "BBC World",
+       "url": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss",
+       "titre": "Paraguay President Santiago Peña resigns after bank collapse"
+      }
+     ],
+     "id": "2026-11-06|Paraguayan President Santiago Peña Resigns Following Bank Collapse"
+    }
+   ]
+  },
+  {
+   "id": "asie",
+   "titre": "APAC",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🇸🇬",
+     "titre": "Singapore and Indonesia Air Forces Conduct Joint F-16 Patrols",
+     "resume": "The Republic of Singapore Air Force and the Indonesian Air Force carried out joint bilateral fighter patrols utilizing F-16 jets. The exercise aimed to reinforce regional air security and interoperability.",
+     "pourquoi": "",
+     "pays": [
+      "Singapore",
+      "Indonesia"
+     ],
+     "region": "South-East Asia",
+     "rubrique": "asie",
+     "liens": [
+      {
+       "source": "Tempo.co English",
+       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOelRZUVhNT2l4ZjlXOURicUN0a08ydWJPZTZpZFpvR2VzU3ZRYlhXNjI3NkFJazMwc2ctYkNwVGI2ckxPTkMtSXdQeVpWREpaTURrUFhqTUFkNUd1SkpyUG9pc3VZSVJuRlZtRlVrODRteUZmSGtUNzFJZWh3Ul9FU2dQRXZ6ZlhqMl9rWVg0Y0ZsQQ?oc=5",
+       "titre": "Indonesia, Singapore Air Forces Conduct Joint F-16 Patrol"
+      }
+     ],
+     "id": "2026-11-06|Singapore and Indonesia Air Forces Conduct Joint F-16 Patrols"
+    },
+    {
+     "suite": true,
+     "remplace": "2026-11-04|Indonesian Police Arrest Senior Officials Over Alleged Presidential Wiretapping",
+     "emoji": "⚠️",
+     "titre": "Troops Deployed in Jakarta Amid Wiretapping Scandal Inquiry",
+     "resume": "Thousands of troops secured Jakarta as Indonesian lawmakers evaluated legislative action against the vice-president following a presidential wiretapping scandal. President Prabowo Subianto previously dismissed an aide linked to the operation.",
+     "pourquoi": "",
+     "pays": [
+      "Indonesia"
+     ],
+     "region": "South-East Asia",
+     "rubrique": "asie",
+     "liens": [
+      {
+       "source": "The Washington Post",
+       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbjdkNjhSTzllaTJkbVd6ekpLY0hZUXd2cFV4bWg1ZnpnQ1l2eEpzV3F1YWsyYThzaVNIV1dDSTA1OWFZOHJlZFNXQ0Fzb1k2eEhNT0pKTV90Ry1zejNyMnRmTUpGbllWRFQ2VjQ5XzVjYXZqLTBzalpSQTU3bVZ5OVo4ODE5NHlLVUN0LUxWZlFNdTF6WHkyWjBGY0gwZzlBMU4tVE9hT0t4M183WDFBZzRJMGZCTE9yWTBrb2lGSUcyMU51Y2pwaFl5bm1JcnQ2aEhxeFRldlZPZmQ5?oc=5",
+       "titre": "Thousands of troops secure Indonesia trial as tensions run high over wiretap scandal"
+      },
+      {
+       "source": "CNA Asie",
+       "url": "https://www.channelnewsasia.com/asia/indonesia-surveillance-wiretapping-involving-presidents-6527026",
+       "titre": "From Habibie to Prabowo: A history of wiretapping controversies involving Indonesian presidents"
+      },
+      {
+       "source": "Straits Times Asie",
+       "url": "https://www.straitstimes.com/asia/se-asia/jokowi-testifies-in-fake-diploma-trial-as-supporters-throng-jakarta-court",
+       "titre": "Jokowi testifies in fake diploma trial as supporters throng Jakarta court"
+      },
+      {
+       "source": "The Star",
+       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPT2lZWU5RNFlVejJ6U3F4RmpvM0JBZWRFd0cxaWZoa1cxZGhSMmhsRktLNXdxUXBWd2VCY1owLWhOOGFHMllDS3VoNnFxZjlPTXp2UmY2MXFtX1JaQm94VWxnZmFROEFPVFhpTENmWmNialF4eEhpVEM1R2Q1UU1ReTZuQ0JiM3Ayelh4UjFObWwyc3RyaEExdjBCeUoxQXVtT1NNUERUMThjcmxnLXhYS0RmYUJXY1BDaEdCM3VKLVdXb09naEhBcU1vWGJTSFlkTnVfa0ZxYnh0dllERzhkUU0xTnBYQQ?oc=5",
+       "titre": "Troops deployed in Jakarta amid scandal over alleged wiretapping of Indonesian president"
+      }
+     ],
+     "id": "2026-11-06|Troops Deployed in Jakarta Amid Wiretapping Scandal Inquiry"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🤝",
+     "titre": "Vietnam Army Chief Makes Introductory Visit to Singapore",
+     "resume": "Senior Lieutenant General Huynh Chien Thang, Chief of the General Staff of the Vietnam People's Army, made an official visit to Singapore. He met senior MINDEF officials to deepen bilateral defence cooperation.",
+     "pourquoi": "",
+     "pays": [
+      "Singapore",
+      "Vietnam"
+     ],
+     "region": "South-East Asia",
+     "rubrique": "asie",
+     "liens": [
+      {
+       "source": "MINDEF Singapore",
+       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5UYzZSRXp2S2RWWWtNUG9ySGdvYVhSbkNHN214N1Q3b1U5VlJic0xrbDV1a0wyMEMyTDU2TEZuNHRlMVh5SURRRXRqX3lRb2dUd092QVVfQ3puelh3blZJZm9wQW40R1pPYTlIVHF6MWFRMG9wX0hN?oc=5",
+       "titre": "Chief of the General Staff of the Vietnam People’s Army and Vietnam Vice Minister of National Defence Makes Introductory Visit to Singapore"
+      }
+     ],
+     "id": "2026-11-06|Vietnam Army Chief Makes Introductory Visit to Singapore"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🚀",
+     "titre": "India and Philippines Negotiate Expansion of BrahMos Missile Deal",
+     "resume": "India is in final-stage talks with the Philippines to sell additional units of the supersonic BrahMos cruise missile. The system was co-developed by India and Russia to enhance coastal defence capabilities.",
+     "pourquoi": "",
+     "pays": [
+      "India",
+      "Philippines"
+     ],
+     "region": "South Asia",
+     "rubrique": "asie",
+     "liens": [
+      {
+       "source": "Straits Times Asie",
+       "url": "https://www.straitstimes.com/asia/south-asia/india-in-final-stage-talks-to-expand-brahmos-missile-sale-to-philippines-sources-say",
+       "titre": "India in final-stage talks to expand BrahMos missile sale to Philippines, sources say"
+      },
+      {
+       "source": "Reuters",
+       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNV000QWU5a0lPSXVaZDVhb0pJOXkzUjN0MWVXMVNZemNfS2E3SFhXMEdwNzVyLWw5UGU4dlFaYzVlUzkwQ0RGUlgxZUg1ZEJQTWd0aDdLWlpza2hZR1NMZzRJTEV5U1U2cjZ3bnVpZUtjc3lKdzZKd3dDY2VscFk1ejhiTHNJYWIxdm01SV85YzBxU0dnWHB6c1ROd01wZURpSE5MQnVLVThUbnlRSXNHR0dDZWIzSmRjRXRjZWFuTQ?oc=5",
+       "titre": "India in final-stage talks to expand missile sale to Philippines, sources say"
+      }
+     ],
+     "id": "2026-11-06|India and Philippines Negotiate Expansion of BrahMos Missile Deal"
+    }
+   ]
+  },
+  {
+   "id": "elections",
+   "titre": "Elections & Politics",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🗳️",
+     "titre": "New Zealand Campaigns End Ahead of Tight General Election",
+     "resume": "Political parties in New Zealand concluded campaigning ahead of Saturday's national election. Polling shows a close race between Prime Minister Christopher Luxon's conservative coalition and the opposition Labour Party.",
+     "pourquoi": "",
+     "pays": [
+      "New Zealand"
+     ],
+     "region": "Oceania",
+     "rubrique": "elections",
+     "liens": [
+      {
+       "source": "Straits Times Asie",
+       "url": "https://www.straitstimes.com/asia/explainer-what-you-need-to-know-ahead-of-new-zealands-election",
+       "titre": "Explainer-What you need to know ahead of New Zealand's election"
+      },
+      {
+       "source": "BBC World",
+       "url": "https://www.bbc.co.uk/news/videos/cr86zxe1q5j3o?at_medium=RSS&at_campaign=rss",
+       "titre": "Chris vs Chris: Who's running and what's at stake this New Zealand election"
+      },
+      {
+       "source": "Le Monde International",
+       "url": "https://www.lemonde.fr/international/article/2026/11/05/en-nouvelle-zelande-les-maoris-tres-critiques-vis-a-vis-du-bilan-du-gouvernement-en-trois-ans-il-a-detruit-cinquante-ans-d-acquis_6807328_3210.html",
+       "titre": "En Nouvelle-Zélande, les Maoris très critiques vis-à-vis du bilan du gouvernement : « En trois ans, il a détruit cinquante ans d’acquis »"
+      }
+     ],
+     "id": "2026-11-06|New Zealand Campaigns End Ahead of Tight General Election"
+    }
+   ]
+  },
+  {
+   "id": "defense_aerienne",
+   "titre": "Air & Missile Defence",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🚀",
+     "titre": "India Test-Fires Indigenous Pralay Quasi-Ballistic Missile",
+     "resume": "India's DRDO successfully executed a flight-test of the indigenously developed Pralay quasi-ballistic missile off the coast of Odisha. The surface-to-surface missile features high manoeuvrability and precision targeting.",
+     "pourquoi": "",
+     "pays": [
+      "India"
+     ],
+     "region": "South Asia",
+     "rubrique": "defense_aerienne",
+     "liens": [
+      {
+       "source": "The Indian Express",
+       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYmNQOEdOakhYSlhtMGZfdXJ0b3hJYzR1VDE1ZkpXNTJIYy1aWUVWbmdKaGNxSHFSOG9LZzUwZkxXN1N1eEgyQjBVaGdCc3N2YU1jRVZRZ3Y1b1V6a1cySWU4MGRydFJLOUxoQzRFQk5sMktPQkpGYmdzTjNkVzR6OE1sTndFbkJqeXZISHlSQUxBUl9H0gGbAUFVX3lxTE5xQklxbm4wVVpFekYzalRvcVhVeUt5dFlTeXJQalhYalJPb0F2c2J3Qk5UeW5iaXEtOUFld2tXLXZ2MFVQVHZaLUdxSDFMY3FrQVhNZ0FrME5vNkx1SDhfQTR4Q3NYLThEcnprQldJU0xFZUxRUjc2cG9pZExRcVNEeUNDQ0VGTGdBZ1FzSElYbVR5X3pudlphdmlB?oc=5",
+       "titre": "DRDO tests quasi-ballistic missile"
+      },
+      {
+       "source": "Hindustan Times",
+       "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPU2Jjc2NOdVVGU1ZncDBsMk5mWWZfUVF2Z01TZmRYb0J2ZHdyM0k0S2FpcmtzMXI0bVhJb2NuNl8teW1wTC04X3Nrb21wRWxOSUNFdWF1QmkxdHkwdnVFY2FxN25PNXQ5b0VaaWc1blZLMGV3d2ZqamZ1b1V3cmFNV3FxZlNmVEMzRFVUdXItSThSMWl3bGJxQm40TnRaTVlLeGtRaHUyQzZLV3loMjdicS1xdlp0WW5oZlktREU5SlpuaFRDdGx6SEk5UUs3cTZQZWZfZ0VGcXNpUDNjVHNtZUx2MFlabE5PN19hbVhWczktaldhX2F0TzQ1cmh3QUNr0gGGAkFVX3lxTFBqdFNEU0x6MWJBVmxDSmFmbXpjOVpZcmNESXdDMUMzdmZtMXRzbUJtMGgtUHVPT3NFMk9kN3djazJYYWlWd1V6Sk93UWN1LXROamdaTHlhaEQ0TklNRm96RjZ2OWprOVo0WEhwR2lVWmdMVFVld2hFMGdsSlZKYUtnbmh1MXAybHNVM3ZfaFlpbmdZOGRxN0JaZGFKUlNwb1RZQnFRUVJvT2x4QlRuYmgzMVhuTkJPMnRoc1ZsM3VsS0RiSU5fNnVNRmFFcFRxYTFRWmRES2ZKQ3lrTFBIajA0dnhReHRkT3hVNEsxU1BJVnFvN2RQclIzRjBpakdOajFXdDl4OGc?oc=5",
+       "titre": "India successfully test-fires indigenously developed quasi-ballistic missile Pralay | Watch | India News"
+      },
+      {
+       "source": "ThePrint",
+       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNM2puRTRIMy04bFJNWHZKSmFOV0Nqa2Nrc29pUm5GYjkzWVNmNGt1WHh0bjBXeFprbW9WUXdia1dsc29RMHJTMjBreHZsUVhoYlBnb0k2aXh6X0VIdFJZal9qRzFvSk1HWEFRdGIzX0I0eGRfc293b0tsRlZIcFU4cDA5bDlaazZteVlGWkdVMW5iWjFfYU95UmFWVjJmNk04Z1Uyb0RZNy13S0JqbmtVblhQRFNuVS1wYko4M3V6R3h5d0ZW0gHEAUFVX3lxTE0zam5FNEgzLThsUk1YdkpKYU5XQ2prY2tzb2lSbkZiOTNZU2Y0a3VYeHRuMFd4Wmttb1ZRd2JrV2xzb1EwclMyMGt4dmxRWGhiUGdvSTZpeHpfRUh0UllqX2pHMW9KTUdYQVF0YjNfQjR4ZF9zb3dvS2xGVkhwVThwMDlsOVprNm15WUZaR1UxbmJaMV9hT3lSYVZWMmY2TThnVTJvRFk3LXdLQmpua1VuWFBEU25VLXBiSjgzdXpHeHl3RlY?oc=5",
+       "titre": "India test-fires indigenously developed quasi-ballistic missile Pralay off Odisha coast"
+      },
+      {
+       "source": "The Hindu",
+       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcGgxNGlTNk0xeUJkeGFBTFREeEd3R3RreTFPc3lxV25PTU5IU0lhRjNnMmtxSFJkZm9LRUxNelRsc3ZLVGg4aUJXNERrdFhlekRDNkV3SUVDVHR4aFlSZEZ1bjMwN1lCQVlZa3hsMEc0OU5BQ2tic0JieHRYMG1pdXdtWFJoNTE0MGRMNWFFR0trWFc5WTlnSkIwN2FpYTRieWhhVEtUS1JuUFhMNUFGV09JeC05cmdEUG5CN2tkWEc4cU5vbXJPb1N5Qmw0VzlaRVlUWnc2V2h4YmI1VFd0RzdFRl_SAeQBQVVfeXFMT3BoMTRpUzZNMXlCZHhhQUxURHhHd0d0a3kxT3N5cVduT01OSFNJYUYzZzJrcUhSZGZvS0VMTXpUbHN2S1RoOGlCVzREa3RYZXpEQzZFd0lFQ1R0eGhZUmRGdW4zMDdZQkFZWWt4bDBHNDlOQUNrYnNCYnh0WDBtaXV3bVhSaDUxNDBkTDVhRUdLa1hXOVk5Z0pCMDdhaWE0YnloYVRLVEtSblBYTDVBRldPSXgtOXJnRFBuQjdrZFhHOHFOb21yT29TeUJsNFc5WkVZVFp3NldoeGJiNVRXdEc3RUZf?oc=5",
+       "titre": "DRDO conducts flight-test of ‘Pralay’, the indigenously developed quasi-ballistic missile"
+      }
+     ],
+     "id": "2026-11-06|India Test-Fires Indigenous Pralay Quasi-Ballistic Missile"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🛡️",
+     "titre": "MBDA Targets Pre-2029 Flight for Hydis Hypersonic Interceptor",
+     "resume": "MBDA confirmed plans to fly a demonstrator of its Hydis hypersonic missile interceptor before the end of 2029. The system is designed to intercept high-speed threats operating above Mach 5.",
+     "pourquoi": "",
+     "pays": [
+      "France"
+     ],
+     "region": "Europe",
+     "rubrique": "defense_aerienne",
+     "liens": [
+      {
+       "source": "Defense News",
+       "url": "https://www.defensenews.com/global/europe/2026/11/05/mbda-plans-to-fly-fat-hypersonic-interceptor-demonstrator-before-end-2029/",
+       "titre": "MBDA plans to fly ‘fat’ hypersonic interceptor demonstrator before end-2029"
+      }
+     ],
+     "id": "2026-11-06|MBDA Targets Pre-2029 Flight for Hydis Hypersonic Interceptor"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🛡️",
+     "titre": "France Contracts MBDA and Naval Group to Double FDI Frigate Firepower",
+     "resume": "France's DGA awarded a contract to equip Defence and Intervention Frigates with 32 Aster 30 B1 surface-to-air missiles. The upgrade doubles the long-range air defence loadout of the FDI class.",
+     "pourquoi": "",
+     "pays": [
+      "France"
+     ],
+     "region": "Europe",
+     "rubrique": "defense_aerienne",
+     "liens": [
+      {
+       "source": "Opex360",
+       "url": "https://www.opex360.com/2026/11/05/la-dga-notifie-a-naval-group-et-a-mbda-un-contrat-pour-doubler-la-puissance-de-feu-des-fregates-de-defense-et-dintervention/",
+       "titre": "La DGA notifie à Naval Group et à MBDA un contrat pour doubler la puissance de feu des frégates de défense et d’intervention"
+      }
+     ],
+     "id": "2026-11-06|France Contracts MBDA and Naval Group to Double FDI Frigate Firepower"
+    }
+   ]
+  },
+  {
+   "id": "industrie",
+   "titre": "Defence Industry & Contracts",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "📝",
+     "titre": "Shield AI Acquires Radar Manufacturer Echodyne in $5.3bn Deal",
+     "resume": "Autonomous defence firm Shield AI acquired radar maker Echodyne to integrate advanced radar sensors into uncrewed aerial systems. The acquisition aims to strengthen drone detection and counter-UAS offerings.",
+     "pourquoi": "",
+     "pays": [
+      "United States"
+     ],
+     "region": "Americas",
+     "rubrique": "industrie",
+     "liens": [
+      {
+       "source": "Defense News",
+       "url": "https://www.defensenews.com/industry/techwatch/2026/11/05/shield-ai-to-acquire-radar-maker-echodyne-to-bust-drones/",
+       "titre": "Shield AI to acquire radar maker Echodyne to bust drones"
+      },
+      {
+       "source": "Breaking Defense",
+       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNc0oyckdaOGFhZU5nc0lhQTJwaTgweC1PaWhYaTBfUkU1WmZXaEVqNUthRTZiVkFPR0FKLUx6ay03ZU1GSUVrRXRhQWtLbVJDREJla2t5YndjajJBdWNYbWN2M05lNkdNeGdfa0tBUVpfTTAxak9UMjNXLUZIbURUN3VlR09CS21UejlPTTAzT1JaUQ?oc=5",
+       "titre": "Shield AI acquires radar firm Echodyne in $5.3B deal"
+      }
+     ],
+     "id": "2026-11-06|Shield AI Acquires Radar Manufacturer Echodyne in $5.3bn Deal"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🛩️",
+     "titre": "Malaysia Receives First Batch of KAI FA-50 Light Combat Aircraft",
+     "resume": "The Royal Malaysian Air Force took delivery of its first two FA-50M light combat aircraft from Korea Aerospace Industries at Kuantan Air Base. Malaysia ordered 18 aircraft under its air force modernisation programme.",
+     "pourquoi": "",
+     "pays": [
+      "Malaysia",
+      "South Korea"
+     ],
+     "region": "South-East Asia",
+     "rubrique": "industrie",
+     "liens": [
+      {
+       "source": "Asian Military Review",
+       "url": "https://www.asianmilitaryreview.com/2026/11/malaysia-receives-first-pair-of-fa-50-light-combat-aircraft-foc/",
+       "titre": "Malaysia receives first pair of FA-50 light combat aircraft"
+      }
+     ],
+     "id": "2026-11-06|Malaysia Receives First Batch of KAI FA-50 Light Combat Aircraft"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🚢",
+     "titre": "South Korea Deploys Naval Assets to Strait of Hormuz",
+     "resume": "South Korea announced the deployment of a maritime patrol aircraft and a naval mine clearance team to the Strait of Hormuz. The force aims to protect commercial shipping routes amid ongoing maritime security threats.",
+     "pourquoi": "",
+     "pays": [
+      "South Korea",
+      "Iran"
+     ],
+     "region": "Middle East",
+     "rubrique": "industrie",
+     "liens": [
+      {
+       "source": "RFI Asie-Pacifique",
+       "url": "https://www.rfi.fr/fr/asie-pacifique/20261105-la-cor%C3%A9e-du-sud-annonce-d%C3%A9ployer-sa-marine-pr%C3%A8s-du-d%C3%A9troit-d-ormuz-pour-aider-%C3%A0-garantir-la-circulation-maritime",
+       "titre": "La Corée du Sud annonce déployer sa marine près du détroit d'Ormuz pour aider à garantir la circulation maritime"
+      }
+     ],
+     "id": "2026-11-06|South Korea Deploys Naval Assets to Strait of Hormuz"
+    }
+   ]
+  },
+  {
+   "id": "ukraine",
+   "titre": "Ukraine / Russia",
+   "items": [
+    {
+     "suite": true,
+     "remplace": "2026-11-04|US to Mediate Trilateral Talks with Ukraine and Russia in Abu Dhabi",
+     "emoji": "🤝",
+     "titre": "Melania Trump Hosts Trilateral Ukraine-Russia Truce Discussions",
+     "resume": "US First Lady Melania Trump hosted Russian and Ukrainian envoys at the White House to encourage a lasting truce. The talks follow a recent localized ceasefire agreement in Oleshky.",
+     "pourquoi": "",
+     "pays": [
+      "Ukraine",
+      "Russia",
+      "United States"
+     ],
+     "region": "Russia-Ukraine",
+     "rubrique": "ukraine",
+     "liens": [
+      {
+       "source": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/6/trump-met-russian-envoy-after-he-appeared-with-melania-trump-and-ukrainians?traffic_source=rss",
+       "titre": "Trump says Russia-Ukraine deal is near after meeting Putin’s envoy"
+      },
+      {
+       "source": "BBC World",
+       "url": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss",
+       "titre": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials"
+      },
+      {
+       "source": "CNA Monde",
+       "url": "https://www.channelnewsasia.com/world/melania-trump-host-ukrainian-russian-officials-white-house-6526616",
+       "titre": "Melania Trump calls for 'enduring' Ukraine truce as rivals meet at White House"
+      }
+     ],
+     "id": "2026-11-06|Melania Trump Hosts Trilateral Ukraine-Russia Truce Discussions"
+    }
+   ]
+  },
+  {
+   "id": "moyen_orient",
+   "titre": "Middle East",
+   "items": []
+  },
+  {
+   "id": "europe",
+   "titre": "Europe",
+   "items": [
+    {
+     "suite": true,
+     "remplace": "2026-11-04|European Airports and Flights Disrupted by Coordinated Bomb Threats",
+     "emoji": "⚠️",
+     "titre": "Second Wave of Hoax Bomb Threats Disrupts European Aviation",
+     "resume": "Over 27 commercial flights across Europe faced emergency diversions and delays due to malicious bomb hoaxes. European authorities are investigating the origin of the coordinated threats targeting multiple airlines.",
+     "pourquoi": "",
+     "pays": [
+      "Europe"
+     ],
+     "region": "Europe",
+     "rubrique": "europe",
+     "liens": [
+      {
+       "source": "Japan Times",
+       "url": "https://www.japantimes.co.jp/news/2026/11/06/world/crime-legal/europe-bomb-hoaxes-second-wave/",
+       "titre": "New wave of bomb hoaxes hits dozens of flights across Europe"
+      },
+      {
+       "source": "Al Jazeera",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/hoax-bomb-threats-force-emergency-landings-evacuations-across-europe?traffic_source=rss",
+       "titre": "Hoax bomb threats force emergency landings, evacuations across Europe"
+      },
+      {
+       "source": "BBC World",
+       "url": "https://www.bbc.co.uk/news/articles/cx8dzzjg3g9zo?at_medium=RSS&at_campaign=rss",
+       "titre": "Who could be behind hoax bomb threats to European air travel?"
+      },
+      {
+       "source": "CNA Monde",
+       "url": "https://www.channelnewsasia.com/world/european-airlines-bomb-threats-hoax-6526981",
+       "titre": "New wave of bomb hoaxes hits at least 27 passenger flights across Europe"
+      }
+     ],
+     "id": "2026-11-06|Second Wave of Hoax Bomb Threats Disrupts European Aviation"
+    }
+   ]
+  },
+  {
+   "id": "espace",
+   "titre": "Space & Satellites",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🛰️",
+     "titre": "CesiumAstro Raises $730m Series D for Satellite Constellation",
+     "resume": "Space communications company CesiumAstro secured $730 million in funding at a $4.5 billion valuation. The capital will fund the rollout of its Synchronicity satellite constellation for defence and commercial connectivity.",
+     "pourquoi": "",
+     "pays": [
+      "United States"
+     ],
+     "region": "Americas",
+     "rubrique": "espace",
+     "liens": [
+      {
+       "source": "SpaceNews",
+       "url": "https://spacenews.com/cesiumastro-secures-730-million-in-janus-henderson-led-series-d-at-a-valuation-above-4-5-billion-unveils-synchronicity-satellite-constellation-following-fully-successful-element-1-mission/",
+       "titre": "CesiumAstro Secures $730 Million in Janus Henderson-Led Series D at a Valuation Above $4.5 Billion; Unveils Synchronicity Satellite Constellation Following Fully Successful Element-1 Mission"
+      }
+     ],
+     "id": "2026-11-06|CesiumAstro Raises $730m Series D for Satellite Constellation"
+    }
+   ]
+  },
+  {
+   "id": "tech",
+   "titre": "Emerging Tech",
+   "items": []
+  },
+  {
+   "id": "economie",
+   "titre": "Economy & Sanctions",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "💰",
+     "titre": "US Sanctions Chinese Firms Over Military Exports and AI Hacking",
+     "resume": "The US imposed sanctions on Chinese companies accused of supplying military goods to Cuba and deploying AI tools for cyber operations. India also raised alerts regarding Chinese AI-driven cyber threats against financial institutions.",
+     "pourquoi": "",
+     "pays": [
+      "United States",
+      "China",
+      "Cuba",
+      "India"
+     ],
+     "region": "Global",
+     "rubrique": "economie",
+     "liens": [
+      {
+       "source": "SCMP",
+       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZ2JTLXRkU2VVQWZkTXYya3VPSllnczhIQng1bnk2bkc4clgxRjFvdGdUVlVaOGQwQTg1M3FkbGQtUGtUY3BuVjNuek1nRl9KVVN3RGZIQ0tiYWhuSTAxd1hTM2d2YlNZSGtha3dqRUQyZG1ILWZxM1VVZkt1UUQwbjQtOVVpcWhZUkJwZ3BIRWJmMHJfQjY1dkhuam1BUG9qdjFjcmhicDlVeUlrbjVaMVZFRF9xMGZXS2owedIBvAFBVV95cUxPSy1yaUVJQm0tUkttZVFvWmdrRVl3VmtWc3IxN09XTDdjcHNaay00Rnl4LTZYdDZVOWJldnp3QklZMXNfMTdMYVhOQUxSSV9sYTFDdlB0eDFQQjZYX2twdzcxZFpjcEFMX2gwVk50RTdfVkxDa29tbFM2TFBkaWprcTZZTXhkc29sM0NyQnFlSWM1Y3FuSVhKNDhLNmVQSXFHVEQ5dkFLUG5TVVE0cld5ZmlKVV9MZ2tJb1VTeQ?oc=5",
+       "titre": "US sanctions Chinese firms over alleged military supplies to Cuba"
+      },
+      {
+       "source": "CNA Asie",
+       "url": "https://www.channelnewsasia.com/asia/india-flags-chinese-linked-ai-tools-hacking-campaign-financial-firms-6526931",
+       "titre": "India flags Chinese-linked AI tools in hacking campaign against financial firms"
+      }
+     ],
+     "id": "2026-11-06|US Sanctions Chinese Firms Over Military Exports and AI Hacking"
+    }
+   ]
+  }
+ ],
+ "a_surveiller": [
+  {
+   "quand": "November 7",
+   "quoi": "New Zealand general election voting closes.",
+   "liens": [
+    {
+     "source": "Straits Times Asie",
+     "url": "https://www.straitstimes.com/asia/explainer-what-you-need-to-know-ahead-of-new-zealands-election",
+     "titre": "Explainer-What you need to know ahead of New Zealand's election"
+    },
+    {
+     "source": "BBC World",
+     "url": "https://www.bbc.co.uk/news/videos/cr86zxe1q5j3o?at_medium=RSS&at_campaign=rss",
+     "titre": "Chris vs Chris: Who's running and what's at stake this New Zealand election"
+    }
+   ]
+  },
+  {
+   "quand": "November 8",
+   "quoi": "Israeli President Isaac Herzog announces candidate tasked with forming government.",
+   "liens": [
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONXl2TW1pRDd2eEFya2FTU0pkOWJWd3lFZG1PdUdSNlBWTVR5VGp3UWtLb2E0Ri1iTmt1SWhRckdOVVhkN2ItZ1Y2QlhjT2NrcGR0ZTg3MklhcENpZUFOM0I1SDRYdTZwMFlYeGMwMTM1SWF5ZzNnd2h4ZnJ1bC1BZWhlNDlYUXM3S3FRdXVyR1p3SE5GYUFoMm1wSWRYSlBYY3NkcTBpVklrTnZibm51eURCWkszdHBtdU9vYQ?oc=5",
+     "titre": "Israel's president pledges to pick candidate on Sunday to form government"
+    },
+    {
+     "source": "Le Monde International",
+     "url": "https://www.lemonde.fr/international/article/2026/11/05/israel-gadi-eisenkot-l-ancien-chef-d-etat-major-israelien-en-mission-pour-remplacer-benyamin-netanyahou_6807323_3210.html",
+     "titre": "Israël : Gadi Eisenkot, l’ancien chef d’état-major israélien, en bonne position pour remplacer Benyamin Nétanyahou à la tête du gouvernement"
+    }
+   ]
+  },
+  {
+   "quand": "November 8",
+   "quoi": "Turkish President Recep Tayyip Erdogan visits Baku, Azerbaijan.",
+   "liens": [
+    {
+     "source": "Straits Times Asie",
+     "url": "https://www.straitstimes.com/asia/erdogan-says-turkey-azerbaijan-ties-can-overcome-all-obstacles-amid-growing-tensions",
+     "titre": "Erdogan says Turkey-Azerbaijan ties can overcome all obstacles amid growing tensions"
+    }
+   ]
+  }
+ ],
+ "hebdo": null,
+ "stats": {
+  "articles": 418,
+  "sources": 51
+ }
+}
