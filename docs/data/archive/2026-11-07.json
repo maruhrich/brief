@@ -1,0 +1,682 @@
+{
+ "date": "2026-11-07",
+ "date_label": "Saturday, November 7, 2026",
+ "genere_le": "2026-11-07T10:25:23+08:00",
+ "mode": "ia",
+ "modele": "gemini-3.5-flash-lite",
+ "accroche": [
+  "US Democrats sweep midterms prompting major administration staff and policy shakeups",
+  "Macao court jails veteran pro-democracy politician under national security legislation",
+  "German government moves to acquire 50% stake in defence giant KNDS"
+ ],
+ "essentiel": [
+  {
+   "suite": true,
+   "remplace": "2026-11-04|US Midterm Elections Underway with Control of Congress at Stake",
+   "emoji": "🗳️",
+   "titre": "US Midterm Aftermath: Democrats Control Congress as Trump Names Stephen Miller Chief of Staff",
+   "resume": "Following a historic defeat in the US midterms that handed Democrats control of Congress, President Trump named immigration hardliner Stephen Miller as his new chief of staff. Several senior Department of Justice officials also resigned in the post-election exodus.",
+   "pourquoi": "",
+   "pays": [
+    "United States"
+   ],
+   "region": "Americas",
+   "rubrique": "elections",
+   "liens": [
+    {
+     "source": "Japan Times",
+     "url": "https://www.japantimes.co.jp/news/2026/11/07/world/politics/trump-stephen-miller-chief-of-staff/",
+     "titre": "Trump makes hard-liner Stephen Miller his chief of staff after midterm defeat"
+    },
+    {
+     "source": "Le Monde International",
+     "url": "https://www.lemonde.fr/international/article/2026/11/06/vague-de-demissions-au-ministere-de-la-justice-americain_6807868_3210.html",
+     "titre": "Vague de démissions au ministère de la justice américain"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNc3d2VFhsUzJucjhiOHdzTnBuU0VDNF9PcEV3c2VvQ2FlQ3lZM2k5VXF3TXlseFJaMDlkekVxT19GUHJvbG1VdHdfbmNRWi1MdU9zdXpGVjJCSkhXc0NOSXVseldlXzZvOU1NVlJmaFlqNUlkUkJFeHFPZ2ZIRjNkdE5vb2Ixd01LVGttWEluTTNnakkybGVtMlFfM2VHcGVqbzBFbWJWWDNFcWVTSmJGWFdmRWlVVG9tS3hpcmVtQ3Jpd04yRmdKeg?oc=5",
+     "titre": "Two top Justice Department officials resign as post-election exodus accelerates"
+    }
+   ],
+   "id": "2026-11-07|US Midterm Aftermath: Democrats Control Congress as Trump Names Stephen Miller Chief of Staff"
+  },
+  {
+   "suite": false,
+   "remplace": null,
+   "emoji": "🛡️",
+   "titre": "Germany Agrees to Acquire 50% Stake in Franco-German Armoured Vehicle Giant KNDS",
+   "resume": "Berlin has reached an agreement in principle to purchase the 50% stake held by the Bode-Wegmann family in KNDS. This move brings total state control over the land defence giant to parity between Germany and France.",
+   "pourquoi": "",
+   "pays": [
+    "Germany",
+    "France"
+   ],
+   "region": "Europe",
+   "rubrique": "industrie",
+   "liens": [
+    {
+     "source": "Le Monde International",
+     "url": "https://www.lemonde.fr/economie/article/2026/11/06/l-allemagne-va-entrer-au-capital-de-knds-et-controlera-le-geant-de-l-armement-terrestre-a-parite-avec-la-france_6807842_3234.html",
+     "titre": "L’Allemagne va entrer au capital de KNDS et contrôlera le géant de l’armement terrestre à parité avec la France"
+    }
+   ],
+   "id": "2026-11-07|Germany Agrees to Acquire 50% Stake in Franco-German Armoured Vehicle Giant KNDS"
+  },
+  {
+   "suite": false,
+   "remplace": null,
+   "emoji": "⚠️",
+   "titre": "Macao Jails Ex-Lawmaker Au Kam San for 12.5 Years in First National Security Trial",
+   "resume": "A Macao court sentenced former pro-democracy lawmaker Au Kam San to 12 and a half years in prison under the city's national security law. It marked the first such trial in the former Portuguese colony.",
+   "pourquoi": "",
+   "pays": [
+    "China"
+   ],
+   "region": "North-East Asia",
+   "rubrique": "asie",
+   "liens": [
+    {
+     "source": "RFI Asie-Pacifique",
+     "url": "https://www.rfi.fr/fr/asie-pacifique/20261106-la-chine-condamne-au-kam-san-ex-d%C3%A9put%C3%A9-pro-d%C3%A9mocratie-de-macao-%C3%A0-12-ans-et-demi-de-prison",
+     "titre": "La Chine condamne Au Kam San, ex-député pro-démocratie de Macao, à 12 ans et demi de prison"
+    },
+    {
+     "source": "CNA Asie",
+     "url": "https://www.channelnewsasia.com/asia/macau-ex-lawmaker-125-years-prison-first-national-security-trial-6530286",
+     "titre": "Macau ex-lawmaker sentenced to 12.5 years in prison in city's first national security trial"
+    }
+   ],
+   "id": "2026-11-07|Macao Jails Ex-Lawmaker Au Kam San for 12.5 Years in First National Security Trial"
+  },
+  {
+   "suite": true,
+   "remplace": "2026-11-04|Massive Russian Air Strikes Batter Ukrainian Energy Grid and Civilian Infrastructure",
+   "emoji": "🚀",
+   "titre": "Kyiv Plunged Into Darkness After Heavy Russian Missile Strikes",
+   "resume": "Russian forces launched a massive ballistic missile barrage against the Ukrainian capital, targeting energy infrastructure and plunging the city into darkness. Ukrainian intelligence reported that Moscow currently holds over 700 ballistic missiles.",
+   "pourquoi": "",
+   "pays": [
+    "Ukraine",
+    "Russia"
+   ],
+   "region": "Russia-Ukraine",
+   "rubrique": "ukraine",
+   "liens": [
+    {
+     "source": "The Straits Times",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUW9TdXhXdkNZMVo2NEVzdjFPcHZZU3diRnVYbWRELUd2d0R3ZVFBWlgtbDZHZ3p2MzVlX1dYWnZRallVVTFCUm16cktENDRYT0ZjQS1KbzAtdTh3eHFUR0ZESFB1bGY1Zl93NnQyQjVtTk5oNnBhMTZnOHpmNm9Qal92N3RTT2dRanZzTXF1R2NuZGlSVTgtVTRPRlRZWFpiamhSdmZveWtvUzA4eTlGS1NyNzg0dw?oc=5",
+     "titre": "Russian forces launch missile attack on Ukrainian capital Kyiv, mayor says"
+    },
+    {
+     "source": "Le Monde International",
+     "url": "https://www.lemonde.fr/international/live/2026/11/07/en-direct-guerre-en-ukraine-des-explosions-entendues-a-kiev-visee-par-au-moins-six-missiles-balistiques-selon-l-armee-de-l-air_6803934_3210.html",
+     "titre": "EN DIRECT, guerre en Ukraine : des explosions entendues à Kiev, visée par au moins six missiles balistiques selon l’armée de l’air"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX2FSN3lBc1IzMnh3WkpZMGVtcVFPV2g5TFRFSVJqQktoTHA2eS1LcVgwdlRlS3FCWkdVS1dBY1M4ajJvTFc5a1ZkTEh4dUcxR3Bfc01LQkpNSEptdGM4d0Q3X3lBeDhZQlY0Zl9QRWI4TzhfZlZoVWJmbUdmTW5kc0NqM2dNOG02eVotZzBvUGF5QXpncjdCcTFWMWl4YjhvNmh5TW1oWHBDVG1GVDdUQ1g3MkVzcWs?oc=5",
+     "titre": "Zelenskiy, Kyiv mayor trade blame as Russian strikes plunge city into darkness"
+    },
+    {
+     "source": "Defence Industry Europe",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTXhEci1pY2lXNlIwd3JEdlZHTW1kLS1QYk9fUVhCME9KYUJ1a0twdm5VSVVIRTRoVDdvOW9HdmR1T3pPbWRPbE1NS1NuaG5BaUFKYjN2VGFWU1daUjM0aW9uSlF6WjVXQWJTeGRGekUtZHNQWG5oOTRYYjFTQ1NmMWpVZ3lwUzNSQ09VNVV5N1QtOE5kSFlBRWtvb2NIS3g0TlJBcWgydWR6dHMxLU90cnFxSU5DeEc0bzBuNDY4OExuaFpocGc?oc=5",
+     "titre": "Ukraine’s intelligence says Russia holds over 700 ballistic missiles and produces about 110 a month"
+    }
+   ],
+   "id": "2026-11-07|Kyiv Plunged Into Darkness After Heavy Russian Missile Strikes"
+  },
+  {
+   "suite": false,
+   "remplace": null,
+   "emoji": "🤝",
+   "titre": "US and Iran Edge Toward Nuclear Deal as Washington Offers $20 Million Reward",
+   "resume": "Washington offered a $20 million reward and relocation for information on Iran's nuclear program as diplomatic contacts edge closer to a deal. Meanwhile, two missiles reportedly struck Qeshm Island.",
+   "pourquoi": "",
+   "pays": [
+    "United States",
+    "Iran"
+   ],
+   "region": "Middle East",
+   "rubrique": "moyen_orient",
+   "liens": [
+    {
+     "source": "Le Monde International",
+     "url": "https://www.lemonde.fr/international/article/2026/11/07/les-etats-unis-offrent-20-millions-de-dollars-et-un-possible-demenagement-pour-des-informations-sur-le-programme-nucleaire-iranien_6808067_3210.html",
+     "titre": "Les Etats-Unis offrent 20 millions de dollars et « un possible déménagement » pour des informations sur le programme nucléaire iranien"
+    },
+    {
+     "source": "Al-Monitor",
+     "url": "https://www.al-monitor.com/originals/2026/11/two-missiles-strike-irans-qeshm-island-tasnim-news-agency-says",
+     "titre": "Two missiles strike Iran's Qeshm Island, Tasnim news agency says"
+    },
+    {
+     "source": "Japan Times",
+     "url": "https://www.japantimes.co.jp/news/2026/11/07/world/politics/us-iran-deal-nuclear/",
+     "titre": "U.S. and Iran edge closer to deal with nuclear issue back in play"
+    }
+   ],
+   "id": "2026-11-07|US and Iran Edge Toward Nuclear Deal as Washington Offers $20 Million Reward"
+  }
+ ],
+ "rubriques": [
+  {
+   "id": "monde",
+   "titre": "World",
+   "items": []
+  },
+  {
+   "id": "asie",
+   "titre": "APAC",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🇸🇬",
+     "titre": "Singapore Cyber Agency Urges Vigilance After European Fridge Cyberattacks",
+     "resume": "Singapore's Cyber Security Agency urged local firms to restrict web access to industrial control systems following European cyberattacks. Additionally, M1 and Doctor Anywhere disclosed separate data breaches affecting customer information.",
+     "pourquoi": "",
+     "pays": [
+      "Singapore"
+     ],
+     "region": "South-East Asia",
+     "rubrique": "asie",
+     "liens": [
+      {
+       "source": "CNA Singapour",
+       "url": "https://www.channelnewsasia.com/singapore/doctor-anywhere-data-breach-6530871",
+       "titre": "M1 and Doctor Anywhere hit by data breaches; personal information compromised"
+      },
+      {
+       "source": "Straits Times Singapour",
+       "url": "https://www.straitstimes.com/singapore/m1-hit-by-data-breach",
+       "titre": "M1 hit by data breach on Oct 30, customer data exposed"
+      }
+     ],
+     "id": "2026-11-07|Singapore Cyber Agency Urges Vigilance After European Fridge Cyberattacks"
+    },
+    {
+     "suite": true,
+     "remplace": "2026-11-06|Troops Deployed in Jakarta Amid Wiretapping Scandal Inquiry",
+     "emoji": "🇮🇩",
+     "titre": "Indonesia Names Fourth Senior Police Officer as Wiretapping Scandal Widens",
+     "resume": "Indonesian authorities named a fourth senior police officer as a suspect in the presidential wiretapping scandal. The high-level political drama has heightened tensions between President Prabowo Subianto and his predecessor.",
+     "pourquoi": "",
+     "pays": [
+      "Indonesia"
+     ],
+     "region": "South-East Asia",
+     "rubrique": "asie",
+     "liens": [
+      {
+       "source": "Japan Times",
+       "url": "https://www.japantimes.co.jp/news/2026/11/06/asia-pacific/politics/indonesia-wiretap-rivalry/",
+       "titre": "Prabowo wiretap spills top Indonesia rivalry into public"
+      },
+      {
+       "source": "CNA Asie",
+       "url": "https://www.channelnewsasia.com/asia/indonesia-fourth-senior-police-officer-wiretapping-suspect-6530131",
+       "titre": "Indonesia names fourth senior police officer as wiretapping suspect amid deepening political rifts"
+      }
+     ],
+     "id": "2026-11-07|Indonesia Names Fourth Senior Police Officer as Wiretapping Scandal Widens"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🇲🇾",
+     "titre": "Malaysian UMNO Settles Najib's Fine as Cabinet Ministers Clash Over House Arrest",
+     "resume": "UMNO settled former Prime Minister Najib Razak's $12.3 million fine, paving the way for his potential house arrest. Transport Minister Anthony Loke vowed to resign immediately if the transfer takes effect.",
+     "pourquoi": "",
+     "pays": [
+      "Malaysia"
+     ],
+     "region": "South-East Asia",
+     "rubrique": "asie",
+     "liens": [
+      {
+       "source": "Straits Times Asie",
+       "url": "https://www.straitstimes.com/asia/se-asia/my-resignation-takes-effect-the-moment-najib-steps-into-his-house-malaysian-minister-anthony-loke",
+       "titre": "‘My resignation takes effect the moment Najib steps into his house’: Malaysian minister Anthony Loke"
+      },
+      {
+       "source": "CNA Asie",
+       "url": "https://www.channelnewsasia.com/asia/malaysia-anwar-ibrahim-disagrees-umno-pays-najib-razak-fine-6530656",
+       "titre": "Malaysia PM Anwar says he disagrees with UMNO paying Najib’s US$12.3 million fine"
+      }
+     ],
+     "id": "2026-11-07|Malaysian UMNO Settles Najib's Fine as Cabinet Ministers Clash Over House Arrest"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🇯🇵",
+     "titre": "Japan Announces Emergency Cyberdefence Package After Wave of Attacks",
+     "resume": "Japanese Prime Minister Sanae Takaichi announced an emergency cyberdefence package involving expert response teams and public-private cooperation. The move follows a wave of unauthorized access targeting domestic businesses.",
+     "pourquoi": "",
+     "pays": [
+      "Japan"
+     ],
+     "region": "North-East Asia",
+     "rubrique": "asie",
+     "liens": [
+      {
+       "source": "CNA Asie",
+       "url": "https://www.channelnewsasia.com/asia/japan-cybersecurity-package-hacking-attacks-6531921",
+       "titre": "Japan launches emergency cybersecurity package after wave of attacks"
+      },
+      {
+       "source": "Japan Times",
+       "url": "https://www.japantimes.co.jp/news/2026/11/06/japan/takaichi-cybersecurity-package/",
+       "titre": "Takaichi administration announces emergency cyberdefense package"
+      },
+      {
+       "source": "Straits Times Asie",
+       "url": "https://www.straitstimes.com/asia/east-asia/japan-to-set-up-rescue-team-after-wave-of-cyberattacks",
+       "titre": "Japan to set up ‘cyber rescue team’ after wave of attacks"
+      }
+     ],
+     "id": "2026-11-07|Japan Announces Emergency Cyberdefence Package After Wave of Attacks"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🇨🇳",
+     "titre": "Beijing Restricts Advanced Construction Equipment Exports and Adopts Antarctic Law",
+     "resume": "China will restrict the export of tunnel boring machines and advanced construction equipment starting November 18. Beijing also officially adopted a law to regulate its exploration and research activities in Antarctica.",
+     "pourquoi": "",
+     "pays": [
+      "China"
+     ],
+     "region": "North-East Asia",
+     "rubrique": "asie",
+     "liens": [
+      {
+       "source": "Straits Times Asie",
+       "url": "https://www.straitstimes.com/asia/south-asia/boring-war-china-cuts-tbm-exports-india-digs-in",
+       "titre": "Boring war: China cuts tunnelling machine exports, India digs in"
+      }
+     ],
+     "id": "2026-11-07|Beijing Restricts Advanced Construction Equipment Exports and Adopts Antarctic Law"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🇵🇬",
+     "titre": "Taiwan Shuts Papua New Guinea Office and Ends LNG Buying Amid Chinese Pressure",
+     "resume": "Taiwan closed its office in Papua New Guinea and halted LNG purchases due to intense pressure from Beijing. The United States expressed deep concern over the sudden closure.",
+     "pourquoi": "",
+     "pays": [
+      "Taiwan",
+      "Papua New Guinea",
+      "China"
+     ],
+     "region": "Oceania",
+     "rubrique": "asie",
+     "liens": [
+      {
+       "source": "Straits Times Asie",
+       "url": "https://www.straitstimes.com/asia/east-asia/taiwan-shuts-papua-new-guinea-office-and-ends-lng-buying-citing-chinese-pressure",
+       "titre": "Taiwan shuts Papua New Guinea office and ends LNG buying, citing Chinese pressure"
+      }
+     ],
+     "id": "2026-11-07|Taiwan Shuts Papua New Guinea Office and Ends LNG Buying Amid Chinese Pressure"
+    }
+   ]
+  },
+  {
+   "id": "elections",
+   "titre": "Elections & Politics",
+   "items": [
+    {
+     "suite": true,
+     "remplace": "2026-11-06|New Zealand Campaigns End Ahead of Tight General Election",
+     "emoji": "🇳🇿",
+     "titre": "New Zealanders Vote in Tightly Contested General Election",
+     "resume": "New Zealand voters wrapped up a closely contested general election dominated by economic concerns and the rising cost of living. Over half of the electorate cast early ballots.",
+     "pourquoi": "",
+     "pays": [
+      "New Zealand"
+     ],
+     "region": "Oceania",
+     "rubrique": "elections",
+     "liens": [
+      {
+       "source": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/6/new-zealanders-head-to-polls-on-final-day-of-voting?traffic_source=rss",
+       "titre": "New Zealanders head to polls on final day of voting"
+      },
+      {
+       "source": "Reuters",
+       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVElubklwMDN2WWExQ2RadnZ4bnJFRTFOUHlXY0lkUzdaOXBkOGdLeTh1RUxYYzJMZEdkYzJMUHhtZWRISFd1WEgyWTNCMnU2R1NnR1Q2dm93Q2JWSktlSm1kU3hqUU1HQUF4NjB6NUotNFgzMWZNLTg0a1YzQjV5M1dVcVFQd1p3c2UtTHY3MDQxa0REZXc?oc=5",
+       "titre": "New Zealanders vote in general election"
+      },
+      {
+       "source": "Straits Times Asie",
+       "url": "https://www.straitstimes.com/asia/australianz/new-zealanders-vote-in-general-election",
+       "titre": "Polls open in final day of New Zealand vote"
+      }
+     ],
+     "id": "2026-11-07|New Zealanders Vote in Tightly Contested General Election"
+    },
+    {
+     "suite": true,
+     "remplace": "2026-11-06|Paraguayan President Santiago Peña Resigns Following Bank Collapse",
+     "emoji": "🇵🇾",
+     "titre": "Paraguayan President Ousted in Senate Vote and Placed Under House Arrest",
+     "resume": "Paraguayan President Santiago Peña was ousted in a unanimous Senate vote over his links to a collapsed digital bank and placed under house arrest. Pedro Alliana was rapidly sworn in as his successor.",
+     "pourquoi": "",
+     "pays": [
+      "Paraguay"
+     ],
+     "region": "Americas",
+     "rubrique": "elections",
+     "liens": [
+      {
+       "source": "CNA Monde",
+       "url": "https://www.channelnewsasia.com/world/paraguay-president-ousted-and-placed-under-house-arrest-successor-sworn-in-6532536",
+       "titre": "Paraguay president ousted and placed under house arrest, successor sworn in"
+      },
+      {
+       "source": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/7/paraguays-santiago-pena-under-arrest-new-president-pedro-alliana-sworn-in?traffic_source=rss",
+       "titre": "Paraguay’s Santiago Pena under arrest, new president Pedro Alliana sworn in"
+      },
+      {
+       "source": "Le Monde International",
+       "url": "https://www.lemonde.fr/international/article/2026/11/07/paraguay-le-vice-president-pedro-alliana-investi-president-apres-la-destitution-de-santiago-pena-par-le-senat_6807901_3210.html",
+       "titre": "Paraguay : Pedro Alliana investi président, le président destitué Santiago Peña placé en détention à domicile"
+      }
+     ],
+     "id": "2026-11-07|Paraguayan President Ousted in Senate Vote and Placed Under House Arrest"
+    }
+   ]
+  },
+  {
+   "id": "defense_aerienne",
+   "titre": "Air & Missile Defence",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "laser",
+     "titre": "Hanwha Systems Demonstrates Cheongwang Laser Counter-Drone System",
+     "resume": "Hanwha Systems successfully completed live-fire drone intercepts using its Cheongwang laser counter-drone system and a vehicle-mounted 30kW high-energy laser. The demonstration took place during an Army TIGER+ exercise.",
+     "pourquoi": "",
+     "pays": [
+      "South Korea"
+     ],
+     "region": "North-East Asia",
+     "rubrique": "defense_aerienne",
+     "liens": [
+      {
+       "source": "Asian Military Review",
+       "url": "https://www.asianmilitaryreview.com/2026/11/hanwha-systems-perfects-laser-weapons-for-counter-drone-role-foc/",
+       "titre": "Hanwha Systems perfects laser weapons for counter-drone role"
+      }
+     ],
+     "id": "2026-11-07|Hanwha Systems Demonstrates Cheongwang Laser Counter-Drone System"
+    }
+   ]
+  },
+  {
+   "id": "industrie",
+   "titre": "Defence Industry & Contracts",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "📝",
+     "titre": "Saab to Equip Swedish Navy FDI Frigates with Advanced Naval Systems",
+     "resume": "Saab signed a contract with French shipbuilder Naval Group to equip Sweden's new FDI frigates with naval electronic and sensor systems. The agreement reinforces bilateral defence industrial cooperation.",
+     "pourquoi": "",
+     "pays": [
+      "Sweden",
+      "France"
+     ],
+     "region": "Europe",
+     "rubrique": "industrie",
+     "liens": [
+      {
+       "source": "Naval News",
+       "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/saab-receives-order-to-equip-swedens-new-frigates/",
+       "titre": "Saab receives order to equip Sweden’s new frigates"
+      }
+     ],
+     "id": "2026-11-07|Saab to Equip Swedish Navy FDI Frigates with Advanced Naval Systems"
+    }
+   ]
+  },
+  {
+   "id": "ukraine",
+   "titre": "Ukraine / Russia",
+   "items": []
+  },
+  {
+   "id": "moyen_orient",
+   "titre": "Middle East",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🤝",
+     "titre": "Syria Advises and Trains Saudi Armed Forces Amid Houthi Attacks",
+     "resume": "Syria has deployed a limited number of military personnel to Saudi Arabia to provide tactical advice and training. Riyadh faces ongoing cross-border drone and missile attacks from Yemen's Houthis.",
+     "pourquoi": "",
+     "pays": [
+      "Saudi Arabia",
+      "Syria",
+      "Yemen"
+     ],
+     "region": "Middle East",
+     "rubrique": "moyen_orient",
+     "liens": [
+      {
+       "source": "Al-Monitor",
+       "url": "https://www.al-monitor.com/originals/2026/11/syria-aids-saudi-arabia-military-advice-and-training-amid-houthi-attacks-sources",
+       "titre": "Syria aids Saudi Arabia with military advice and training amid Houthi attacks, sources say"
+      },
+      {
+       "source": "Breaking Defense",
+       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVUFmYzNOeGJYcWhFd0picURycWxJQjVrb0NLQU56U3N0UzQya045ckVseXVST3I5c093d185ZldsajM2cmhSVmVKUmtwZ2pMQXA3WTNiaE9fRW5PVlNST1NsODlVNldHUFdTVnN4bEM4eFlsWWlVeDR2OUxjeEpKRVlNQ0FMeU9QV1dSLW9QRDNyaEZJaks2Wi1PTFhHZkpSeE1hTTNPRElrSTZtWkFNajg3T0NnODhj?oc=5",
+       "titre": "Saudi Arabia inks first defense ‘cooperation’ agreement with Syria’s new leadership"
+      }
+     ],
+     "id": "2026-11-07|Syria Advises and Trains Saudi Armed Forces Amid Houthi Attacks"
+    }
+   ]
+  },
+  {
+   "id": "europe",
+   "titre": "Europe",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🛡️",
+     "titre": "German Army Deploys Troops to Estonia as Eastern Flank Reinforcements Arrive",
+     "resume": "German military units arrived in Estonia to reinforce NATO's eastern flank posture. The deployment underscores Berlin's commitment to regional deterrence against mounting hybrid threats.",
+     "pourquoi": "",
+     "pays": [
+      "Germany",
+      "Estonia",
+      "NATO"
+     ],
+     "region": "Europe",
+     "rubrique": "europe",
+     "liens": [
+      {
+       "source": "Defence24.com",
+       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTTFKbVZmenZNcHRHWmFSUENPTHRYRVpXZkw3aFB0ckdHS2VBTURZT2tpRVd1Rjh1WlhHcGswQmFFeC1wZ3UxcDJsS0prZ01ZWDRYZDk3NEJCaEdkOFNaa3VLbmR1T2lUX0d0cmJIQ081cS10YzRZbVB5QzVYWkZPbnZ2VldkWF9NeVRBZkJIZEEwVy0yajRGV0ZZUkFUd3lpWmFBRHBqYw?oc=5",
+       "titre": "US troops return to Estonia. NATO's eastern flank is getting stronger"
+      },
+      {
+       "source": "DW.com",
+       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcW15WXdsLVBKV2xoWFB5TlpDNERxMTRFMGtIQ2Fvd0FxT3Rpa21BR0VpM0NNNVdCQWZ5Q0VjcTlJUkxXN1M2Z0kzRFFzSTVoMmtHeTdDdUZyNm5zdnFIY3A0bm1HeWQ1Zy1RaFVHTEFTUWhucnM0blVvalBxZ2FDcGg4RUp3OVZ1VFIxaWZrUFnSAZABQVVfeXFMTUExcTE4VVIweG5neE9KZURYdU9xT1pLMUl3NF9PaTJ0N09MVlpuY0VUNF9HTnZleE50TGd1NDZSTDlrejBLckhleWhPUV95a3k3WnRKaUR0SEY5NFJ6bTVlREVyb01vTkdPOUhSdnNfSnFxZWwxWGFZNk5fWUtrLV9fT1R4ZGtHS2N6amIxb01s?oc=5",
+       "titre": "German army helps Poland protect itself against Russia"
+      }
+     ],
+     "id": "2026-11-07|German Army Deploys Troops to Estonia as Eastern Flank Reinforcements Arrive"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🚨",
+     "titre": "Ireland Issues Security Alerts Ahead of High-Level European Summits in Dublin",
+     "resume": "Irish authorities investigated multiple bomb threats targeting commercial flights and media outlets ahead of two European summits in Dublin. All threats proved unfounded.",
+     "pourquoi": "",
+     "pays": [
+      "Ireland"
+     ],
+     "region": "Europe",
+     "rubrique": "europe",
+     "liens": [
+      {
+       "source": "Le Monde International",
+       "url": "https://www.lemonde.fr/economie/article/2026/11/06/l-irlande-visee-par-des-alertes-a-la-bombe-une-semaine-avant-la-tenue-de-deux-sommets-europeens-a-dublin_6807865_3234.html",
+       "titre": "L’Irlande visée par des alertes à la bombe une semaine avant la tenue de deux sommets européens à Dublin"
+      }
+     ],
+     "id": "2026-11-07|Ireland Issues Security Alerts Ahead of High-Level European Summits in Dublin"
+    },
+    {
+     "suite": true,
+     "remplace": "2026-11-06|Second Wave of Hoax Bomb Threats Disrupts European Aviation",
+     "emoji": "🚨",
+     "titre": "European Aviation and Newsrooms Hit by Second Consecutive Wave of Hoax Bomb Threats",
+     "resume": "A fresh wave of malicious bomb threats disrupted European commercial flights and media outlets, triggering emergency diversions. European authorities have found no explosives or direct links to terrorist networks.",
+     "pourquoi": "",
+     "pays": [
+      "Spain",
+      "Italy",
+      "France",
+      "Poland"
+     ],
+     "region": "Europe",
+     "rubrique": "europe",
+     "liens": [
+      {
+       "source": "CNA Monde",
+       "url": "https://www.channelnewsasia.com/world/newsroom-bomb-threats-europe-flight-hoaxes-6531986",
+       "titre": "Newsroom bomb threats follow escalating European flight hoaxes"
+      },
+      {
+       "source": "BBC World",
+       "url": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss",
+       "titre": "New wave of bomb threats hit European airlines"
+      }
+     ],
+     "id": "2026-11-07|European Aviation and Newsrooms Hit by Second Consecutive Wave of Hoax Bomb Threats"
+    }
+   ]
+  },
+  {
+   "id": "espace",
+   "titre": "Space & Satellites",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🛰️",
+     "titre": "US Space Force Partners with Viasat to Integrate Satellite Data Relay Network",
+     "resume": "The U.S. Space Force awarded Viasat a contract worth up to $450 million to manage network operations for the Golden Dome satellite data relay architecture. The initiative aims to bridge disjointed military satellite constellations.",
+     "pourquoi": "",
+     "pays": [
+      "United States"
+     ],
+     "region": "Americas",
+     "rubrique": "espace",
+     "liens": [
+      {
+       "source": "Defence Industry Europe",
+       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeW4yNlpqMVJTSEJNcWNhOTRwWlJKazJZQzFWX1RLb1E3UkVwb0dnLV9CUy11dFBaQW4yLTB2RzdwOGZNZXdFRktMLUkwQWE3X3BmczZiOWJWcHpqckx5VjQ5a0Q4dURITHBfampzMnJMdmRfaUhEelpidHJWemhYeEwwb3JWVzk5TVZoM081cGJsWC13RXJIWmdRRmpha1pqYkoxLTI1OW03VEtLSnFUNnhfTzBvNUFRekI2cFJHQU1mZ29yLWRScnZWMXc1VENkOXBrQw?oc=5",
+       "titre": "U.S. Space Force says it will work with Golden Dome to integrate satellite networks at a new operations center"
+      },
+      {
+       "source": "Breaking Defense",
+       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTWZ0dHIzMlZ2OHFMS2RjRUN2WGdjMUMyZmJ6TnN6OVh2M2RONUlDcGpNeERjWkRySHhkcFltYjFQTndtWU1FYzA1cDFQM3lYa2VFWGlhVXlrSm5fMzVfREpLZDlGd3dzbjJJV09OS2dvY2VPbi1XQ1Y5cHB0TVVSODhPM1FacS13STE4LTRqeFVpQWFPbmYwZjJWSWxLUXVjMnBUQ0NyMmwzVzBudThtYXF4NGpFQUhZQU1WYVAwNzZTZw?oc=5",
+       "titre": "DoD taps Viasat to field operations ‘center’ for Golden Dome satellite data relay network"
+      },
+      {
+       "source": "SpaceNews",
+       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMFU5Y1FxZktOdDYtWmI1Ql9COXdHV2pGWHdESGRFTDl6elNBTElEMUdfUDNhTnh1Qy0zSXBlX2FUOS1DRnhwX3hka181aWh5REF0UllVRjJ2UUx3ZUhsbmJJRGo2ZHBxZ0Q1cE9Ta1dZcXNMTXY5YUVfMHZJbFp0bkRTVk9WSHloRXBjSEs4b0xJZEMtQVp0SUs0MkprTk0?oc=5",
+       "titre": "Viasat wins Space Force network operations contract worth up to $450 million"
+      }
+     ],
+     "id": "2026-11-07|US Space Force Partners with Viasat to Integrate Satellite Data Relay Network"
+    }
+   ]
+  },
+  {
+   "id": "tech",
+   "titre": "Emerging Tech",
+   "items": []
+  },
+  {
+   "id": "economie",
+   "titre": "Economy & Sanctions",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "💰",
+     "titre": "Global Markets and Tech Stocks Rebound Partially Following Robust US Jobs Report",
+     "resume": "Global financial markets staged a partial rebound as U.S. job growth surged and unemployment dropped to 4.1% in October. The positive macroeconomic data helped offset earlier panic from technology stock sell-offs.",
+     "pourquoi": "",
+     "pays": [
+      "United States"
+     ],
+     "region": "Americas",
+     "rubrique": "economie",
+     "liens": [
+      {
+       "source": "Reuters",
+       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPakNLaDVCMElHQkc5cjV5SmVJcFNPdVpMbnZHRmVFMkoxR3hhbERYTnBZcUlmQVZBanhMeVhEZHpsN3JxM0xrUHNsYVZPWW1EdXBWam1pNk5lSEZVNHkwcUV1VG9xbmVYek80a3JXelRIcW9fQjQ3TUljTUdpZkhYWUJaZHhxNTUybWQwME81bUtPTmJ4UUg4ZjVrZjVlLUx2azFkWjhmeThDWkp2MHJwdTVR?oc=5",
+       "titre": "US labor market regains ground as job growth surges, unemployment rate falls to 4.1%"
+      },
+      {
+       "source": "CNA Monde",
+       "url": "https://www.channelnewsasia.com/world/tech-stocks-wall-street-ai-markets-6532311",
+       "titre": "Tech stocks stage partial rebound while dollar gains after US jobs data"
+      },
+      {
+       "source": "Le Monde International",
+       "url": "https://www.lemonde.fr/economie/article/2026/11/06/aux-etats-unis-l-acceleration-inattendue-des-creations-d-emplois_6807852_3234.html",
+       "titre": "Aux Etats-Unis, l’accélération inattendue des créations d’emplois"
+      }
+     ],
+     "id": "2026-11-07|Global Markets and Tech Stocks Rebound Partially Following Robust US Jobs Report"
+    }
+   ]
+  }
+ ],
+ "a_surveiller": [
+  {
+   "quand": "November 16",
+   "quoi": "Singapore and Malaysia to expand cross-border taxi quota and introduce new ride-hailing operators",
+   "liens": [
+    {
+     "source": "CNA Singapour",
+     "url": "https://www.channelnewsasia.com/singapore/cross-border-taxi-quota-increase-singapore-malaysia-6529936",
+     "titre": "Singapore, Malaysia to expand cross-border taxi quota to 500 each, add two ride-hailing operators from Nov 16"
+    }
+   ]
+  },
+  {
+   "quand": "January 30, 2027",
+   "quoi": "German Federal Convention to elect the next President of the Federal Republic",
+   "liens": [
+    {
+     "source": "Le Monde International",
+     "url": "https://www.lemonde.fr/international/article/2026/11/06/allemagne-ilse-aigner-conservatrice-bavaroise-pourrait-devenir-la-premiere-femme-presidente-de-la-republique-federale_6807858_3210.html",
+     "titre": "Allemagne : Ilse Aigner, conservatrice bavaroise, pourrait devenir la première femme présidente de la République fédérale"
+    }
+   ]
+  }
+ ],
+ "hebdo": null,
+ "stats": {
+  "articles": 391,
+  "sources": 52
+ }
+}
