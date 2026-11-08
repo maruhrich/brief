@@ -1,7 +1,8 @@
 // Garde l'app et le dernier brief en cache pour pouvoir les lire hors connexion.
 // Toujours la version en ligne d'abord : le cache ne sert que sans réseau.
-const VERSION = 'brief-v13';
-const SHELL = ['./', 'index.html', 'style.css?v=13', 'app.js?v=13', 'manifest.webmanifest',
+const VERSION = 'brief-v14';
+const FAV_IMAGES = 'fav-images'; // copies des photos des favoris, jamais effacées
+const SHELL = ['./', 'index.html', 'style.css?v=14', 'app.js?v=14', 'manifest.webmanifest',
   'icons/icon-192.png', 'icons/apple-touch-icon.png'];
 
 self.addEventListener('install', (event) => {
@@ -11,12 +12,20 @@ self.addEventListener('install', (event) => {
 self.addEventListener('activate', (event) => {
   event.waitUntil(
     caches.keys()
-      .then((keys) => Promise.all(keys.filter((k) => k !== VERSION).map((k) => caches.delete(k))))
+      .then((keys) => Promise.all(keys.filter((k) => k !== VERSION && k !== FAV_IMAGES).map((k) => caches.delete(k))))
       .then(() => self.clients.claim()));
 });
 
 self.addEventListener('fetch', (event) => {
   const url = new URL(event.request.url);
+  // Photos Wikipédia : en ligne d'abord, sinon la copie gardée pour les favoris
+  if (url.hostname === 'upload.wikimedia.org') {
+    event.respondWith(
+      fetch(event.request)
+        .then((res) => (res.ok ? res : caches.open(FAV_IMAGES).then((c) => c.match(url.href)).then((hit) => hit || res)))
+        .catch(() => caches.open(FAV_IMAGES).then((c) => c.match(url.href)).then((hit) => hit || Response.error())));
+    return;
+  }
   if (event.request.method !== 'GET' || url.origin !== location.origin) return;
   const key = url.pathname + url.search;
   event.respondWith(

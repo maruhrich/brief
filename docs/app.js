@@ -145,11 +145,23 @@ function onCheck(id, btn) {
 const favs = () => store('favs') || [];
 const isFav = (id) => favs().some((f) => f.id === id);
 
+// Garde une copie de la photo d'un favori sur le téléphone (Wikipédia autorise la copie)
+async function keepFavImage(url, keep) {
+  if (!url || !('caches' in window)) return;
+  try {
+    const cache = await caches.open(FAV_IMAGES);
+    if (keep) await cache.add(new Request(url, { mode: 'cors' }));
+    else if (!favs().some((f) => f.item.visuel?.image === url)) await cache.delete(url);
+  } catch (e) { /* hors connexion : la photo reste chargée depuis Wikipédia */ }
+}
+
 function toggleFav(date, it, btn) {
   const id = itemId(it, date);
   const list = favs();
-  const next = isFav(id) ? list.filter((f) => f.id !== id) : [{ id, date, item: it }, ...list];
+  const adding = !isFav(id);
+  const next = adding ? [{ id, date, item: it }, ...list] : list.filter((f) => f.id !== id);
   store('favs', next);
+  keepFavImage(it.visuel?.image, adding);
   if (btn) {
     btn.classList.toggle('on', isFav(id));
     btn.setAttribute('aria-label', isFav(id) ? 'Remove from favourites' : 'Add to favourites');
@@ -175,6 +187,16 @@ function sources(links) {
   }, `${l.source} ↗`));
 }
 
+// Photo d'identification (plateforme ou personne) tirée de Wikipédia, seulement sur certains sujets
+const FAV_IMAGES = 'fav-images';
+
+function visuelEl(v) {
+  if (!v || !v.image) return null;
+  return h('a', { class: `visuel ${v.type === 'person' ? 'person' : ''}`, href: safeUrl(v.page), target: '_blank', rel: 'noopener' },
+    h('img', { src: v.image, alt: v.nom, loading: 'lazy', referrerpolicy: 'no-referrer', onerror: (e) => e.currentTarget.parentElement.remove() }),
+    h('span', { class: 'visuel-cap' }, h('b', null, v.nom), v.description && h('span', null, v.description)));
+}
+
 function itemBody(it, date, opts = {}) {
   const id = itemId(it, date);
   const check = iconBtn(ICON_CHECK, 'Mark as read', (e) => onCheck(id, e.currentTarget), 'check');
@@ -186,8 +208,10 @@ function itemBody(it, date, opts = {}) {
     opts.day && h('span', { class: `badge-day ${opts.day === 'New' ? 'new' : ''}` }, opts.day),
     it.suite && h('span', { class: 'badge-suite' }, '🔄 Update'),
   ].filter(Boolean);
+  const vis = visuelEl(it.visuel);
   return [
     labels.length && h('p', { class: 'item-label', style: rubColor(it.rubrique) }, labels),
+    vis,
     h('h3', null, it.emoji && h('span', { class: 'emoji', 'aria-hidden': 'true' }, it.emoji), it.titre),
     it.resume && h('p', { class: 'resume' }, it.resume),
     h('div', { class: 'item-foot' },

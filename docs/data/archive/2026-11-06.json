@@ -44,7 +44,8 @@
      "titre": "A Wall Street, la victoire démocrate aux midterms a fait exploser la bulle de l’IA"
     }
    ],
-   "id": "2026-11-06|US Democratic Midterm Victory Triggers $2.5tn Tech Sell-Off"
+   "id": "2026-11-06|US Democratic Midterm Victory Triggers $2.5tn Tech Sell-Off",
+   "visuel": null
   },
   {
    "suite": true,
@@ -81,7 +82,8 @@
      "titre": "North Korea tests new air defence system and long-range cruise missile"
     }
    ],
-   "id": "2026-11-06|North Korea Tests Newly Designed Air Defence Missile System"
+   "id": "2026-11-06|North Korea Tests Newly Designed Air Defence Missile System",
+   "visuel": null
   },
   {
    "suite": false,
@@ -118,7 +120,14 @@
      "titre": "Hong Kong's Joshua Wong: From teenage protest leader to a decade behind bars"
     }
    ],
-   "id": "2026-11-06|Hong Kong Sentences Joshua Wong to 10 Additional Years"
+   "id": "2026-11-06|Hong Kong Sentences Joshua Wong to 10 Additional Years",
+   "visuel": {
+    "nom": "Joshua Wong",
+    "description": "Hong Kong activist (born 1996)",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Joshua_Wong_%282019%29.jpg/960px-Joshua_Wong_%282019%29.jpg",
+    "page": "https://en.wikipedia.org/wiki/Joshua_Wong",
+    "type": "person"
+   }
   },
   {
    "suite": true,
@@ -154,7 +163,14 @@
      "titre": "Israël : Gadi Eisenkot, l’ancien chef d’état-major israélien, en bonne position pour remplacer Benyamin Nétanyahou à la tête du gouvernement"
     }
    ],
-   "id": "2026-11-06|Opposition Leader Eisenkot Secures Support to Form Israeli Government"
+   "id": "2026-11-06|Opposition Leader Eisenkot Secures Support to Form Israeli Government",
+   "visuel": {
+    "nom": "Gadi Eisenkot",
+    "description": "Israeli general and politician (born 1960)",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Gadi_Eisenkot_2_%28cropped%29.jpg/960px-Gadi_Eisenkot_2_%28cropped%29.jpg",
+    "page": "https://en.wikipedia.org/wiki/Gadi_Eisenkot",
+    "type": "person"
+   }
   }
  ],
  "rubriques": [
@@ -191,7 +207,14 @@
        "titre": "Paraguay President Santiago Peña resigns after bank collapse"
       }
      ],
-     "id": "2026-11-06|Paraguayan President Santiago Peña Resigns Following Bank Collapse"
+     "id": "2026-11-06|Paraguayan President Santiago Peña Resigns Following Bank Collapse",
+     "visuel": {
+      "nom": "Santiago Peña",
+      "description": "President of Paraguay from 2023 to 2026",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Santiago_Pe%C3%B1a_junio_2026.jpg/960px-Santiago_Pe%C3%B1a_junio_2026.jpg",
+      "page": "https://en.wikipedia.org/wiki/Santiago_Pe%C3%B1a",
+      "type": "person"
+     }
     }
    ]
   },
@@ -219,7 +242,14 @@
        "titre": "Indonesia, Singapore Air Forces Conduct Joint F-16 Patrol"
       }
      ],
-     "id": "2026-11-06|Singapore and Indonesia Air Forces Conduct Joint F-16 Patrols"
+     "id": "2026-11-06|Singapore and Indonesia Air Forces Conduct Joint F-16 Patrols",
+     "visuel": {
+      "nom": "General Dynamics F-16 Fighting Falcon",
+      "description": "American multi-role fighter aircraft",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/F-16_June_2008.jpg/960px-F-16_June_2008.jpg",
+      "page": "https://en.wikipedia.org/wiki/General_Dynamics_F-16_Fighting_Falcon",
+      "type": "platform"
+     }
     },
     {
      "suite": true,
@@ -255,7 +285,8 @@
        "titre": "Troops deployed in Jakarta amid scandal over alleged wiretapping of Indonesian president"
       }
      ],
-     "id": "2026-11-06|Troops Deployed in Jakarta Amid Wiretapping Scandal Inquiry"
+     "id": "2026-11-06|Troops Deployed in Jakarta Amid Wiretapping Scandal Inquiry",
+     "visuel": null
     },
     {
      "suite": false,
@@ -277,7 +308,8 @@
        "titre": "Chief of the General Staff of the Vietnam People’s Army and Vietnam Vice Minister of National Defence Makes Introductory Visit to Singapore"
       }
      ],
-     "id": "2026-11-06|Vietnam Army Chief Makes Introductory Visit to Singapore"
+     "id": "2026-11-06|Vietnam Army Chief Makes Introductory Visit to Singapore",
+     "visuel": null
     },
     {
      "suite": false,
@@ -304,7 +336,14 @@
        "titre": "India in final-stage talks to expand missile sale to Philippines, sources say"
       }
      ],
-     "id": "2026-11-06|India and Philippines Negotiate Expansion of BrahMos Missile Deal"
+     "id": "2026-11-06|India and Philippines Negotiate Expansion of BrahMos Missile Deal",
+     "visuel": {
+      "nom": "BrahMos",
+      "description": "Cruise missile",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/The_Brahmos_Missile_system_passes_through_the_Rajpath_during_the_full_dress_rehearsal_for_the_Republic_Day_Parade_in_New_Delhi_on_January_23%2C2006.jpg/960px-The_Brahmos_Missile_system_passes_through_the_Rajpath_during_the_full_dress_rehearsal_for_the_Republic_Day_Parade_in_New_Delhi_on_January_23%2C2006.jpg",
+      "page": "https://en.wikipedia.org/wiki/BrahMos",
+      "type": "platform"
+     }
     }
    ]
   },
@@ -341,7 +380,8 @@
        "titre": "En Nouvelle-Zélande, les Maoris très critiques vis-à-vis du bilan du gouvernement : « En trois ans, il a détruit cinquante ans d’acquis »"
       }
      ],
-     "id": "2026-11-06|New Zealand Campaigns End Ahead of Tight General Election"
+     "id": "2026-11-06|New Zealand Campaigns End Ahead of Tight General Election",
+     "visuel": null
     }
    ]
   },
@@ -383,7 +423,14 @@
        "titre": "DRDO conducts flight-test of ‘Pralay’, the indigenously developed quasi-ballistic missile"
       }
      ],
-     "id": "2026-11-06|India Test-Fires Indigenous Pralay Quasi-Ballistic Missile"
+     "id": "2026-11-06|India Test-Fires Indigenous Pralay Quasi-Ballistic Missile",
+     "visuel": {
+      "nom": "Pralay (missile)",
+      "description": "Indian tactical to short-range ballistic missile",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Launch_of_indigenously_developed_surface-to-surface_missile_Pralay_%28cropped%29.jpg/960px-Launch_of_indigenously_developed_surface-to-surface_missile_Pralay_%28cropped%29.jpg",
+      "page": "https://en.wikipedia.org/wiki/Pralay_(missile)",
+      "type": "platform"
+     }
     },
     {
      "suite": false,
@@ -404,7 +451,8 @@
        "titre": "MBDA plans to fly ‘fat’ hypersonic interceptor demonstrator before end-2029"
       }
      ],
-     "id": "2026-11-06|MBDA Targets Pre-2029 Flight for Hydis Hypersonic Interceptor"
+     "id": "2026-11-06|MBDA Targets Pre-2029 Flight for Hydis Hypersonic Interceptor",
+     "visuel": null
     },
     {
      "suite": false,
@@ -425,7 +473,8 @@
        "titre": "La DGA notifie à Naval Group et à MBDA un contrat pour doubler la puissance de feu des frégates de défense et d’intervention"
       }
      ],
-     "id": "2026-11-06|France Contracts MBDA and Naval Group to Double FDI Frigate Firepower"
+     "id": "2026-11-06|France Contracts MBDA and Naval Group to Double FDI Frigate Firepower",
+     "visuel": null
     }
    ]
   },
@@ -457,7 +506,8 @@
        "titre": "Shield AI acquires radar firm Echodyne in $5.3B deal"
       }
      ],
-     "id": "2026-11-06|Shield AI Acquires Radar Manufacturer Echodyne in $5.3bn Deal"
+     "id": "2026-11-06|Shield AI Acquires Radar Manufacturer Echodyne in $5.3bn Deal",
+     "visuel": null
     },
     {
      "suite": false,
@@ -479,7 +529,14 @@
        "titre": "Malaysia receives first pair of FA-50 light combat aircraft"
       }
      ],
-     "id": "2026-11-06|Malaysia Receives First Batch of KAI FA-50 Light Combat Aircraft"
+     "id": "2026-11-06|Malaysia Receives First Batch of KAI FA-50 Light Combat Aircraft",
+     "visuel": {
+      "nom": "KAI T-50 Golden Eagle",
+      "description": "Family of South Korean jet aircraft",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Philippine_Air_Force_FA-50PH.jpg/960px-Philippine_Air_Force_FA-50PH.jpg",
+      "page": "https://en.wikipedia.org/wiki/KAI_T-50_Golden_Eagle",
+      "type": "platform"
+     }
     },
     {
      "suite": false,
@@ -501,7 +558,8 @@
        "titre": "La Corée du Sud annonce déployer sa marine près du détroit d'Ormuz pour aider à garantir la circulation maritime"
       }
      ],
-     "id": "2026-11-06|South Korea Deploys Naval Assets to Strait of Hormuz"
+     "id": "2026-11-06|South Korea Deploys Naval Assets to Strait of Hormuz",
+     "visuel": null
     }
    ]
   },
@@ -540,7 +598,8 @@
        "titre": "Melania Trump calls for 'enduring' Ukraine truce as rivals meet at White House"
       }
      ],
-     "id": "2026-11-06|Melania Trump Hosts Trilateral Ukraine-Russia Truce Discussions"
+     "id": "2026-11-06|Melania Trump Hosts Trilateral Ukraine-Russia Truce Discussions",
+     "visuel": null
     }
    ]
   },
@@ -587,7 +646,8 @@
        "titre": "New wave of bomb hoaxes hits at least 27 passenger flights across Europe"
       }
      ],
-     "id": "2026-11-06|Second Wave of Hoax Bomb Threats Disrupts European Aviation"
+     "id": "2026-11-06|Second Wave of Hoax Bomb Threats Disrupts European Aviation",
+     "visuel": null
     }
    ]
   },
@@ -614,7 +674,8 @@
        "titre": "CesiumAstro Secures $730 Million in Janus Henderson-Led Series D at a Valuation Above $4.5 Billion; Unveils Synchronicity Satellite Constellation Following Fully Successful Element-1 Mission"
       }
      ],
-     "id": "2026-11-06|CesiumAstro Raises $730m Series D for Satellite Constellation"
+     "id": "2026-11-06|CesiumAstro Raises $730m Series D for Satellite Constellation",
+     "visuel": null
     }
    ]
   },
@@ -654,7 +715,8 @@
        "titre": "India flags Chinese-linked AI tools in hacking campaign against financial firms"
       }
      ],
-     "id": "2026-11-06|US Sanctions Chinese Firms Over Military Exports and AI Hacking"
+     "id": "2026-11-06|US Sanctions Chinese Firms Over Military Exports and AI Hacking",
+     "visuel": null
     }
    ]
   }

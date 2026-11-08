@@ -39,7 +39,14 @@
      "titre": "Two top Justice Department officials resign as post-election exodus accelerates"
     }
    ],
-   "id": "2026-11-07|US Midterm Aftermath: Democrats Control Congress as Trump Names Stephen Miller Chief of Staff"
+   "id": "2026-11-07|US Midterm Aftermath: Democrats Control Congress as Trump Names Stephen Miller Chief of Staff",
+   "visuel": {
+    "nom": "Stephen Miller",
+    "description": "American political advisor (born 1985)",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Stephen_Miller_July_2025.jpg",
+    "page": "https://en.wikipedia.org/wiki/Stephen_Miller",
+    "type": "person"
+   }
   },
   {
    "suite": false,
@@ -61,7 +68,8 @@
      "titre": "L’Allemagne va entrer au capital de KNDS et contrôlera le géant de l’armement terrestre à parité avec la France"
     }
    ],
-   "id": "2026-11-07|Germany Agrees to Acquire 50% Stake in Franco-German Armoured Vehicle Giant KNDS"
+   "id": "2026-11-07|Germany Agrees to Acquire 50% Stake in Franco-German Armoured Vehicle Giant KNDS",
+   "visuel": null
   },
   {
    "suite": false,
@@ -87,7 +95,14 @@
      "titre": "Macau ex-lawmaker sentenced to 12.5 years in prison in city's first national security trial"
     }
    ],
-   "id": "2026-11-07|Macao Jails Ex-Lawmaker Au Kam San for 12.5 Years in First National Security Trial"
+   "id": "2026-11-07|Macao Jails Ex-Lawmaker Au Kam San for 12.5 Years in First National Security Trial",
+   "visuel": {
+    "nom": "Au Kam San",
+    "description": "Member of Legislative Assembly of Macau",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Au_Kam_San.JPG/960px-Au_Kam_San.JPG",
+    "page": "https://en.wikipedia.org/wiki/Au_Kam_San",
+    "type": "person"
+   }
   },
   {
    "suite": true,
@@ -124,7 +139,8 @@
      "titre": "Ukraine’s intelligence says Russia holds over 700 ballistic missiles and produces about 110 a month"
     }
    ],
-   "id": "2026-11-07|Kyiv Plunged Into Darkness After Heavy Russian Missile Strikes"
+   "id": "2026-11-07|Kyiv Plunged Into Darkness After Heavy Russian Missile Strikes",
+   "visuel": null
   },
   {
    "suite": false,
@@ -156,7 +172,8 @@
      "titre": "U.S. and Iran edge closer to deal with nuclear issue back in play"
     }
    ],
-   "id": "2026-11-07|US and Iran Edge Toward Nuclear Deal as Washington Offers $20 Million Reward"
+   "id": "2026-11-07|US and Iran Edge Toward Nuclear Deal as Washington Offers $20 Million Reward",
+   "visuel": null
   }
  ],
  "rubriques": [
@@ -193,7 +210,8 @@
        "titre": "M1 hit by data breach on Oct 30, customer data exposed"
       }
      ],
-     "id": "2026-11-07|Singapore Cyber Agency Urges Vigilance After European Fridge Cyberattacks"
+     "id": "2026-11-07|Singapore Cyber Agency Urges Vigilance After European Fridge Cyberattacks",
+     "visuel": null
     },
     {
      "suite": true,
@@ -219,7 +237,8 @@
        "titre": "Indonesia names fourth senior police officer as wiretapping suspect amid deepening political rifts"
       }
      ],
-     "id": "2026-11-07|Indonesia Names Fourth Senior Police Officer as Wiretapping Scandal Widens"
+     "id": "2026-11-07|Indonesia Names Fourth Senior Police Officer as Wiretapping Scandal Widens",
+     "visuel": null
     },
     {
      "suite": false,
@@ -245,7 +264,14 @@
        "titre": "Malaysia PM Anwar says he disagrees with UMNO paying Najib’s US$12.3 million fine"
       }
      ],
-     "id": "2026-11-07|Malaysian UMNO Settles Najib's Fine as Cabinet Ministers Clash Over House Arrest"
+     "id": "2026-11-07|Malaysian UMNO Settles Najib's Fine as Cabinet Ministers Clash Over House Arrest",
+     "visuel": {
+      "nom": "Najib Razak",
+      "description": "Prime Minister of Malaysia from 2009 to 2018",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Najib_Razak_2008-08-21.jpg/960px-Najib_Razak_2008-08-21.jpg",
+      "page": "https://en.wikipedia.org/wiki/Najib_Razak",
+      "type": "person"
+     }
     },
     {
      "suite": false,
@@ -276,7 +302,14 @@
        "titre": "Japan to set up ‘cyber rescue team’ after wave of attacks"
       }
      ],
-     "id": "2026-11-07|Japan Announces Emergency Cyberdefence Package After Wave of Attacks"
+     "id": "2026-11-07|Japan Announces Emergency Cyberdefence Package After Wave of Attacks",
+     "visuel": {
+      "nom": "Sanae Takaichi",
+      "description": "Prime Minister of Japan since 2025",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Sanae_Takaichi_portrait_%28HD%29_%28cropped_1%29.jpg/960px-Sanae_Takaichi_portrait_%28HD%29_%28cropped_1%29.jpg",
+      "page": "https://en.wikipedia.org/wiki/Sanae_Takaichi",
+      "type": "person"
+     }
     },
     {
      "suite": false,
@@ -297,7 +330,8 @@
        "titre": "Boring war: China cuts tunnelling machine exports, India digs in"
       }
      ],
-     "id": "2026-11-07|Beijing Restricts Advanced Construction Equipment Exports and Adopts Antarctic Law"
+     "id": "2026-11-07|Beijing Restricts Advanced Construction Equipment Exports and Adopts Antarctic Law",
+     "visuel": null
     },
     {
      "suite": false,
@@ -320,7 +354,8 @@
        "titre": "Taiwan shuts Papua New Guinea office and ends LNG buying, citing Chinese pressure"
       }
      ],
-     "id": "2026-11-07|Taiwan Shuts Papua New Guinea Office and Ends LNG Buying Amid Chinese Pressure"
+     "id": "2026-11-07|Taiwan Shuts Papua New Guinea Office and Ends LNG Buying Amid Chinese Pressure",
+     "visuel": null
     }
    ]
   },
@@ -357,7 +392,8 @@
        "titre": "Polls open in final day of New Zealand vote"
       }
      ],
-     "id": "2026-11-07|New Zealanders Vote in Tightly Contested General Election"
+     "id": "2026-11-07|New Zealanders Vote in Tightly Contested General Election",
+     "visuel": null
     },
     {
      "suite": true,
@@ -388,7 +424,14 @@
        "titre": "Paraguay : Pedro Alliana investi président, le président destitué Santiago Peña placé en détention à domicile"
       }
      ],
-     "id": "2026-11-07|Paraguayan President Ousted in Senate Vote and Placed Under House Arrest"
+     "id": "2026-11-07|Paraguayan President Ousted in Senate Vote and Placed Under House Arrest",
+     "visuel": {
+      "nom": "Santiago Peña",
+      "description": "President of Paraguay from 2023 to 2026",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Santiago_Pe%C3%B1a_junio_2026.jpg/960px-Santiago_Pe%C3%B1a_junio_2026.jpg",
+      "page": "https://en.wikipedia.org/wiki/Santiago_Pe%C3%B1a",
+      "type": "person"
+     }
     }
    ]
   },
@@ -415,7 +458,8 @@
        "titre": "Hanwha Systems perfects laser weapons for counter-drone role"
       }
      ],
-     "id": "2026-11-07|Hanwha Systems Demonstrates Cheongwang Laser Counter-Drone System"
+     "id": "2026-11-07|Hanwha Systems Demonstrates Cheongwang Laser Counter-Drone System",
+     "visuel": null
     }
    ]
   },
@@ -443,7 +487,8 @@
        "titre": "Saab receives order to equip Sweden’s new frigates"
       }
      ],
-     "id": "2026-11-07|Saab to Equip Swedish Navy FDI Frigates with Advanced Naval Systems"
+     "id": "2026-11-07|Saab to Equip Swedish Navy FDI Frigates with Advanced Naval Systems",
+     "visuel": null
     }
    ]
   },
@@ -482,7 +527,8 @@
        "titre": "Saudi Arabia inks first defense ‘cooperation’ agreement with Syria’s new leadership"
       }
      ],
-     "id": "2026-11-07|Syria Advises and Trains Saudi Armed Forces Amid Houthi Attacks"
+     "id": "2026-11-07|Syria Advises and Trains Saudi Armed Forces Amid Houthi Attacks",
+     "visuel": null
     }
    ]
   },
@@ -516,7 +562,8 @@
        "titre": "German army helps Poland protect itself against Russia"
       }
      ],
-     "id": "2026-11-07|German Army Deploys Troops to Estonia as Eastern Flank Reinforcements Arrive"
+     "id": "2026-11-07|German Army Deploys Troops to Estonia as Eastern Flank Reinforcements Arrive",
+     "visuel": null
     },
     {
      "suite": false,
@@ -537,7 +584,8 @@
        "titre": "L’Irlande visée par des alertes à la bombe une semaine avant la tenue de deux sommets européens à Dublin"
       }
      ],
-     "id": "2026-11-07|Ireland Issues Security Alerts Ahead of High-Level European Summits in Dublin"
+     "id": "2026-11-07|Ireland Issues Security Alerts Ahead of High-Level European Summits in Dublin",
+     "visuel": null
     },
     {
      "suite": true,
@@ -566,7 +614,8 @@
        "titre": "New wave of bomb threats hit European airlines"
       }
      ],
-     "id": "2026-11-07|European Aviation and Newsrooms Hit by Second Consecutive Wave of Hoax Bomb Threats"
+     "id": "2026-11-07|European Aviation and Newsrooms Hit by Second Consecutive Wave of Hoax Bomb Threats",
+     "visuel": null
     }
    ]
   },
@@ -603,7 +652,8 @@
        "titre": "Viasat wins Space Force network operations contract worth up to $450 million"
       }
      ],
-     "id": "2026-11-07|US Space Force Partners with Viasat to Integrate Satellite Data Relay Network"
+     "id": "2026-11-07|US Space Force Partners with Viasat to Integrate Satellite Data Relay Network",
+     "visuel": null
     }
    ]
   },
@@ -645,7 +695,8 @@
        "titre": "Aux Etats-Unis, l’accélération inattendue des créations d’emplois"
       }
      ],
-     "id": "2026-11-07|Global Markets and Tech Stocks Rebound Partially Following Robust US Jobs Report"
+     "id": "2026-11-07|Global Markets and Tech Stocks Rebound Partially Following Robust US Jobs Report",
+     "visuel": null
     }
    ]
   }

@@ -39,7 +39,8 @@
      "titre": "Voting enters final hours with Trump’s grip on US Congress at stake"
     }
    ],
-   "id": "2026-11-04|US Midterm Elections Underway with Control of Congress at Stake"
+   "id": "2026-11-04|US Midterm Elections Underway with Control of Congress at Stake",
+   "visuel": null
   },
   {
    "suite": false,
@@ -71,7 +72,8 @@
      "titre": "Trump says US ending $3.8 bn in annual aid for Israel"
     }
    ],
-   "id": "2026-11-04|Trump Announces Termination of US$3.8 Billion Annual Military Aid to Israel"
+   "id": "2026-11-04|Trump Announces Termination of US$3.8 Billion Annual Military Aid to Israel",
+   "visuel": null
   },
   {
    "suite": true,
@@ -98,7 +100,14 @@
      "titre": "(LEAD) N. Korea tests 'dispersal warhead' for cruise missiles following cluster bomb test"
     }
    ],
-   "id": "2026-11-04|North Korea Tests Cruise Missile Dispersal Warheads and Rejects Dialogue"
+   "id": "2026-11-04|North Korea Tests Cruise Missile Dispersal Warheads and Rejects Dialogue",
+   "visuel": {
+    "nom": "Kim Yo Jong",
+    "description": "North Korean politician (born 1987)",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Kim_Yo-jong_%282018%29_%28cropped%29.png",
+    "page": "https://en.wikipedia.org/wiki/Kim_Yo_Jong",
+    "type": "person"
+   }
   },
   {
    "suite": true,
@@ -130,7 +139,8 @@
      "titre": "Russia says it struck Ukrainian electricity grid facilities in massive overnight attack"
     }
    ],
-   "id": "2026-11-04|Massive Russian Air Strikes Batter Ukrainian Energy Grid and Civilian Infrastructure"
+   "id": "2026-11-04|Massive Russian Air Strikes Batter Ukrainian Energy Grid and Civilian Infrastructure",
+   "visuel": null
   }
  ],
  "rubriques": [
@@ -168,7 +178,14 @@
        "titre": "Rena Lee becomes first S’porean elected as International Court of Justice judge"
       }
      ],
-     "id": "2026-11-04|UN General Assembly Elects Five Judges to International Court of Justice"
+     "id": "2026-11-04|UN General Assembly Elects Five Judges to International Court of Justice",
+     "visuel": {
+      "nom": "Rena Lee",
+      "description": "Singaporean ambassador",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Rena_Lee_Delegate_of_Singapore_%2852213973551%29_%28cropped%29.jpg/960px-Rena_Lee_Delegate_of_Singapore_%2852213973551%29_%28cropped%29.jpg",
+      "page": "https://en.wikipedia.org/wiki/Rena_Lee",
+      "type": "person"
+     }
     }
    ]
   },
@@ -205,7 +222,14 @@
        "titre": "Former Indonesian national police chief among three arrested for the alleged illegal wiretapping of Prabowo"
       }
      ],
-     "id": "2026-11-04|Indonesian Police Arrest Senior Officials Over Alleged Presidential Wiretapping"
+     "id": "2026-11-04|Indonesian Police Arrest Senior Officials Over Alleged Presidential Wiretapping",
+     "visuel": {
+      "nom": "Listyo Sigit Prabowo",
+      "description": "Indonesian police general",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/KAPOLRI%2CJenderal_POL_Listyo_Sigit_Prabowo.jpg/960px-KAPOLRI%2CJenderal_POL_Listyo_Sigit_Prabowo.jpg",
+      "page": "https://en.wikipedia.org/wiki/Listyo_Sigit_Prabowo",
+      "type": "person"
+     }
     },
     {
      "suite": false,
@@ -226,7 +250,14 @@
        "titre": "South Korea Launches Second KSS-III Batch-II Submarine, ROKS Seo Hui"
       }
      ],
-     "id": "2026-11-04|South Korea Launches Second KSS-III Batch-II Submarine"
+     "id": "2026-11-04|South Korea Launches Second KSS-III Batch-II Submarine",
+     "visuel": {
+      "nom": "Dosan Ahn Changho-class submarine",
+      "description": "South Korean submarine class",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/ROKS_Dosan_Ahn_Changho_class_submarine.png/960px-ROKS_Dosan_Ahn_Changho_class_submarine.png",
+      "page": "https://en.wikipedia.org/wiki/Dosan_Ahn_Changho-class_submarine",
+      "type": "platform"
+     }
     }
    ]
   },
@@ -263,7 +294,8 @@
        "titre": "Democrats gain ground in battle for Congress with North Carolina flip"
       }
      ],
-     "id": "2026-11-04|Democrats Gain Ground in Early Midterm Congressional Contests"
+     "id": "2026-11-04|Democrats Gain Ground in Early Midterm Congressional Contests",
+     "visuel": null
     }
    ]
   },
@@ -300,7 +332,8 @@
        "titre": "Indian Navy Places Orders for Eight Next Generation Corvettes"
       }
      ],
-     "id": "2026-11-04|India Places $5.7 Billion Order for Eight Next-Generation Corvettes"
+     "id": "2026-11-04|India Places $5.7 Billion Order for Eight Next-Generation Corvettes",
+     "visuel": null
     }
    ]
   },
@@ -330,7 +363,8 @@
        "titre": "US to mediate trilateral talks with Ukraine, Russia in Abu Dhabi next week, US envoy says"
       }
      ],
-     "id": "2026-11-04|US to Mediate Trilateral Talks with Ukraine and Russia in Abu Dhabi"
+     "id": "2026-11-04|US to Mediate Trilateral Talks with Ukraine and Russia in Abu Dhabi",
+     "visuel": null
     }
    ]
   },
@@ -368,7 +402,8 @@
        "titre": "Exclusive | U.S. Strikes Iran’s Qeshm Island as Trump Talks Down War Risks"
       }
      ],
-     "id": "2026-11-04|US Military Conducts Defensive Strikes on Iran's Qeshm Island"
+     "id": "2026-11-04|US Military Conducts Defensive Strikes on Iran's Qeshm Island",
+     "visuel": null
     },
     {
      "suite": true,
@@ -394,7 +429,8 @@
        "titre": "Israeli opposition bloc gathers to see how to oust Netanyahu"
       }
      ],
-     "id": "2026-11-04|Israeli President Opens Deliberations to Form Next Coalition Government"
+     "id": "2026-11-04|Israeli President Opens Deliberations to Form Next Coalition Government",
+     "visuel": null
     }
    ]
   },
@@ -434,7 +470,8 @@
        "titre": "Bomb threats disrupt Europe flights"
       }
      ],
-     "id": "2026-11-04|European Airports and Flights Disrupted by Coordinated Bomb Threats"
+     "id": "2026-11-04|European Airports and Flights Disrupted by Coordinated Bomb Threats",
+     "visuel": null
     },
     {
      "suite": false,
@@ -461,7 +498,8 @@
        "titre": "La Pologne lance une opération de sécurité à la frontière avec l'enclave russe de Kaliningrad"
       }
      ],
-     "id": "2026-11-04|Poland Launches Major Border Security Operation Near Kaliningrad"
+     "id": "2026-11-04|Poland Launches Major Border Security Operation Near Kaliningrad",
+     "visuel": null
     }
    ]
   },
@@ -504,7 +542,8 @@
        "titre": "North Korea denies being behind record $6.3bn Binance hack"
       }
      ],
-     "id": "2026-11-04|Binance Attributes $6.3 Billion Crypto Heist to North Korean Hackers"
+     "id": "2026-11-04|Binance Attributes $6.3 Billion Crypto Heist to North Korean Hackers",
+     "visuel": null
     }
    ]
   },
@@ -538,7 +577,8 @@
        "titre": "Trump to remove Rwanda and South Africa from US trade deal"
       }
      ],
-     "id": "2026-11-04|US to Remove South Africa and Rwanda from AGOA Trade Agreement"
+     "id": "2026-11-04|US to Remove South Africa and Rwanda from AGOA Trade Agreement",
+     "visuel": null
     }
    ]
   }

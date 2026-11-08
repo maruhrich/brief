@@ -45,7 +45,8 @@
      "titre": "Exclusive | U.S. Strikes Iran’s Qeshm Island as Trump Talks Down War Risks"
     }
    ],
-   "id": "2026-11-03|US launches strikes on Iran's Qeshm Island"
+   "id": "2026-11-03|US launches strikes on Iran's Qeshm Island",
+   "visuel": null
   },
   {
    "suite": true,
@@ -82,7 +83,8 @@
      "titre": "北, 순항미사일 집속탄두 위력평가…\"축구장 7개 면적 초토화 확증\" 주장(종합)"
     }
    ],
-   "id": "2026-11-03|North Korea tests cruise missile cluster warhead"
+   "id": "2026-11-03|North Korea tests cruise missile cluster warhead",
+   "visuel": null
   },
   {
    "suite": true,
@@ -118,7 +120,8 @@
      "titre": "The races that will decide control of the US Senate"
     }
    ],
-   "id": "2026-11-03|US midterms open after Supreme Court ruling on California ballots"
+   "id": "2026-11-03|US midterms open after Supreme Court ruling on California ballots",
+   "visuel": null
   },
   {
    "suite": false,
@@ -157,7 +160,8 @@
      "titre": "EN DIRECT, guerre en Ukraine : l’émissaire américain annonce des négociations entre Moscou et Kiev la semaine prochaine à Abou Dhabi, sous médiation de Washington"
     }
    ],
-   "id": "2026-11-03|Russian strike kills 26 in Ukraine amid Abu Dhabi peace push"
+   "id": "2026-11-03|Russian strike kills 26 in Ukraine amid Abu Dhabi peace push",
+   "visuel": null
   }
  ],
  "rubriques": [
@@ -195,7 +199,8 @@
        "titre": "Johor-S’pore SEZ records $28b of approved projects, ministers note ‘good progress’ on various fronts"
       }
      ],
-     "id": "2026-11-03|Johor-Singapore SEZ secures S$28bn in approved projects"
+     "id": "2026-11-03|Johor-Singapore SEZ secures S$28bn in approved projects",
+     "visuel": null
     },
     {
      "suite": false,
@@ -217,7 +222,8 @@
        "titre": "Indonesia will not export electricity to Singapore unless price is right, says Bahlil"
       }
      ],
-     "id": "2026-11-03|Indonesia ties Singapore power exports to pricing terms"
+     "id": "2026-11-03|Indonesia ties Singapore power exports to pricing terms",
+     "visuel": null
     },
     {
      "suite": false,
@@ -248,7 +254,8 @@
        "titre": "Defense Drone Headquarters Established, Operations Decentralized to Military Branches"
       }
      ],
-     "id": "2026-11-03|South Korea launches Defense Drone Headquarters"
+     "id": "2026-11-03|South Korea launches Defense Drone Headquarters",
+     "visuel": null
     }
    ]
   },
@@ -290,7 +297,14 @@
        "titre": "Top Arab-Israeli leader tells AFP opposition must join to oust Netanyahu"
       }
      ],
-     "id": "2026-11-03|Israeli opposition mobilises behind Eisenkot"
+     "id": "2026-11-03|Israeli opposition mobilises behind Eisenkot",
+     "visuel": {
+      "nom": "Gadi Eisenkot",
+      "description": "Israeli general and politician (born 1960)",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Gadi_Eisenkot_2_%28cropped%29.jpg/960px-Gadi_Eisenkot_2_%28cropped%29.jpg",
+      "page": "https://en.wikipedia.org/wiki/Gadi_Eisenkot",
+      "type": "person"
+     }
     }
    ]
   },
@@ -319,7 +333,8 @@
        "titre": "Singapore Tests Shield AI V-BAT As Orbiter 4 Validations Progress"
       }
      ],
-     "id": "2026-11-03|Singapore evaluates Shield AI V-BAT uncrewed system"
+     "id": "2026-11-03|Singapore evaluates Shield AI V-BAT uncrewed system",
+     "visuel": null
     },
     {
      "suite": false,
@@ -342,7 +357,14 @@
        "titre": "Germany orders two Patriot fire units to replace air defence systems supplied to Ukraine"
       }
      ],
-     "id": "2026-11-03|Germany procures two Patriot systems to replenish stocks"
+     "id": "2026-11-03|Germany procures two Patriot systems to replenish stocks",
+     "visuel": {
+      "nom": "MIM-104 Patriot",
+      "description": "American surface-to-air missile system since 1981",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/U-s-service-members-stand-by-a-patriot-missile-battery-in-gaziantep-turkey.jpg/960px-U-s-service-members-stand-by-a-patriot-missile-battery-in-gaziantep-turkey.jpg",
+      "page": "https://en.wikipedia.org/wiki/MIM-104_Patriot",
+      "type": "platform"
+     }
     },
     {
      "suite": false,
@@ -378,7 +400,14 @@
        "titre": "Saab says new CB90 CX combat boat is in production for Sweden with strike and air defence roles"
       }
      ],
-     "id": "2026-11-03|Saab unveils CB90 CX combat boat with air defence role"
+     "id": "2026-11-03|Saab unveils CB90 CX combat boat with air defence role",
+     "visuel": {
+      "nom": "CB90-class fast assault craft",
+      "description": "Ship class",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Stridsb%C3%A5t_90.jpg/960px-Stridsb%C3%A5t_90.jpg",
+      "page": "https://en.wikipedia.org/wiki/CB90-class_fast_assault_craft",
+      "type": "platform"
+     }
     },
     {
      "suite": false,
@@ -404,7 +433,8 @@
        "titre": "Leonardo DRS to support AeroVironment’s LOCUST X3 production for U.S. Army’s first high-energy laser weapon production program"
       }
      ],
-     "id": "2026-11-03|LOCUST counter-drone laser deployed at Mar-a-Lago"
+     "id": "2026-11-03|LOCUST counter-drone laser deployed at Mar-a-Lago",
+     "visuel": null
     }
    ]
   },
@@ -431,7 +461,14 @@
        "titre": "Un accord-cadre et de la visibilité pour le VL MICA de MBDA"
       }
      ],
-     "id": "2026-11-03|France and MBDA formalise VL MICA framework agreement"
+     "id": "2026-11-03|France and MBDA formalise VL MICA framework agreement",
+     "visuel": {
+      "nom": "MICA (missile)",
+      "description": "*Beyond-visual-range air-to-air missile *Short range surface-to-air missile (VL MICA)",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/MICA_P6230072.JPG/960px-MICA_P6230072.JPG",
+      "page": "https://en.wikipedia.org/wiki/MICA_(missile)",
+      "type": "platform"
+     }
     },
     {
      "suite": false,
@@ -453,7 +490,14 @@
        "titre": "Rafale M Conducts Maiden Trials onboard Indian Aircraft Carrier INS Vikrant"
       }
      ],
-     "id": "2026-11-03|Rafale M conducts maiden trials on INS Vikrant"
+     "id": "2026-11-03|Rafale M conducts maiden trials on INS Vikrant",
+     "visuel": {
+      "nom": "Dassault Rafale",
+      "description": "Multi-role combat aircraft family by Dassault",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Rafale_-_RIAT_2009_%283751416421%29.jpg/960px-Rafale_-_RIAT_2009_%283751416421%29.jpg",
+      "page": "https://en.wikipedia.org/wiki/Dassault_Rafale",
+      "type": "platform"
+     }
     }
    ]
   },
@@ -496,7 +540,8 @@
        "titre": "Fake warnings of nuclear attack posted on hacked Russian and Ukrainian emergency apps"
       }
      ],
-     "id": "2026-11-03|Hackers broadcast fake nuclear warnings via air alert apps"
+     "id": "2026-11-03|Hackers broadcast fake nuclear warnings via air alert apps",
+     "visuel": null
     }
    ]
   },
@@ -546,7 +591,8 @@
        "titre": "Des cyberattaques contre des réfrigérateurs et des congélateurs visent plusieurs supermarchés en Europe"
       }
      ],
-     "id": "2026-11-03|Coordinated cyberattack hits European supermarket freezers"
+     "id": "2026-11-03|Coordinated cyberattack hits European supermarket freezers",
+     "visuel": null
     },
     {
      "suite": false,
@@ -568,7 +614,8 @@
        "titre": "UK and Germany to jointly develop military AI in 2027"
       }
      ],
-     "id": "2026-11-03|UK and Germany partner on military AI development"
+     "id": "2026-11-03|UK and Germany partner on military AI development",
+     "visuel": null
     }
    ]
   },
@@ -607,7 +654,8 @@
        "titre": "Hypersonic missile start-up secures funds to boost Europe’s deep-strike capability"
       }
      ],
-     "id": "2026-11-03|Hypersonica secures €100m for deep-strike missile development"
+     "id": "2026-11-03|Hypersonica secures €100m for deep-strike missile development",
+     "visuel": null
     }
    ]
   },
@@ -635,7 +683,8 @@
        "titre": "These Are The U.S. Weapons Most At Risk In The Looming Rare Earths Supply Crisis"
       }
      ],
-     "id": "2026-11-03|US weapon programmes face acute rare earths supply risks"
+     "id": "2026-11-03|US weapon programmes face acute rare earths supply risks",
+     "visuel": null
     }
    ]
   }

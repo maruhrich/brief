@@ -600,3 +600,16 @@ body.sheet-open { overflow: hidden; }
 #chips .chip.active, #chips .chip.current { color: var(--text); font-weight: 600; box-shadow: inset 0 -2px 0 var(--text); }
 #chips.has-current .chip.active:not(.current) { color: var(--muted); font-weight: 400; box-shadow: none; }
 .rubrique { scroll-margin-top: calc(var(--header-h, 64px) + 60px); }
+
+/* ── Photo d'identification (Wikipédia) ── */
+.visuel { display: block; color: inherit; text-decoration: none; }
+.visuel img { display: block; background: var(--line); }
+.visuel-cap { display: block; font-size: 12.5px; line-height: 1.35; color: var(--muted); }
+.visuel-cap b { color: var(--text); font-weight: 600; }
+.visuel-cap span::before { content: " · "; }
+
+/* Grande photo au-dessus du titre */
+.visuel { margin: 4px 0 10px; }
+.visuel img { width: 100%; aspect-ratio: 16 / 10; object-fit: cover; border-radius: 12px; }
+.visuel.person img { object-position: 50% 22%; }
+.visuel .visuel-cap { margin-top: 5px; }

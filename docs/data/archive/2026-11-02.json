@@ -45,7 +45,8 @@
      "titre": "Ukrainian air force says public air raid alert app sent erroneous alerts after being hacked"
     }
    ],
-   "id": "2026-11-02|Ukraine air raid alert app disrupted by suspected cyberattack"
+   "id": "2026-11-02|Ukraine air raid alert app disrupted by suspected cyberattack",
+   "visuel": null
   },
   {
    "suite": true,
@@ -84,7 +85,8 @@
      "titre": "Iranian army: War could be longer than previous one, Trump won’t dictate its duration"
     }
    ],
-   "id": "2026-11-02|Tehran and Washington trade warnings as Doha mediation continues"
+   "id": "2026-11-02|Tehran and Washington trade warnings as Doha mediation continues",
+   "visuel": null
   },
   {
    "suite": false,
@@ -120,7 +122,14 @@
      "titre": "Bulgaria's acting President Iotova takes lead in presidential runoff vote, exit polls show"
     }
    ],
-   "id": "2026-11-02|Acting President Iotova takes lead in Bulgarian presidential runoff"
+   "id": "2026-11-02|Acting President Iotova takes lead in Bulgarian presidential runoff",
+   "visuel": {
+    "nom": "Iliana Iotova",
+    "description": "President of Bulgaria since 2026",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/President_Iliyana_Yotova_%283x4_cropped%29.jpg/960px-President_Iliyana_Yotova_%283x4_cropped%29.jpg",
+    "page": "https://en.wikipedia.org/wiki/Iliana_Iotova",
+    "type": "person"
+   }
   },
   {
    "suite": true,
@@ -156,7 +165,8 @@
      "titre": "EN DIRECT, midterms 2026 : stupéfaction et colère au sein des démocrates après le soutien de l’élue Haley Stevens au républicain Mike Rogers dans le Michigan"
     }
    ],
-   "id": "2026-11-02|Democratic split in Michigan and Trump legal loss in Alaska"
+   "id": "2026-11-02|Democratic split in Michigan and Trump legal loss in Alaska",
+   "visuel": null
   }
  ],
  "rubriques": [
@@ -189,7 +199,14 @@
        "titre": "Carney signals progress on Canada-US trade deal talks as midterms loom"
       }
      ],
-     "id": "2026-11-02|Carney signals progress in Canada-US trade talks"
+     "id": "2026-11-02|Carney signals progress in Canada-US trade talks",
+     "visuel": {
+      "nom": "Mark Carney",
+      "description": "Prime Minister of Canada since 2025",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Mark_Carney_Argentina_v_Spain_19_July_2026-303_%283x4_close_up_cropped%29.jpg/960px-Mark_Carney_Argentina_v_Spain_19_July_2026-303_%283x4_close_up_cropped%29.jpg",
+      "page": "https://en.wikipedia.org/wiki/Mark_Carney",
+      "type": "person"
+     }
     }
    ]
   },
@@ -222,7 +239,14 @@
        "titre": "Senior Minister of State for Defence Zaqy Mohamad Attends the 22nd Manama Dialogue"
       }
      ],
-     "id": "2026-11-02|Singapore defence minister of state stresses maritime waterway security"
+     "id": "2026-11-02|Singapore defence minister of state stresses maritime waterway security",
+     "visuel": {
+      "nom": "Zaqy Mohamad",
+      "description": "Singaporean politician (born 1974)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/Zaqy_Mohamad_%28cropped%29.jpg",
+      "page": "https://en.wikipedia.org/wiki/Zaqy_Mohamad",
+      "type": "person"
+     }
     },
     {
      "suite": false,
@@ -248,7 +272,8 @@
        "titre": "Oil patches spotted in Singapore's southern waters; source under investigation: MPA"
       }
      ],
-     "id": "2026-11-02|Singapore activates response contractors after southern oil spill"
+     "id": "2026-11-02|Singapore activates response contractors after southern oil spill",
+     "visuel": null
     },
     {
      "suite": false,
@@ -271,7 +296,14 @@
        "titre": "Marcos says new military bases with US to be ‘scattered’ around PH"
       }
      ],
-     "id": "2026-11-02|Marcos confirms new joint military sites scattered across Philippines"
+     "id": "2026-11-02|Marcos confirms new joint military sites scattered across Philippines",
+     "visuel": {
+      "nom": "Bongbong Marcos",
+      "description": "President of the Philippines since 2022",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Portrait_of_President_Ferdinand_R._Marcos%2C_Jr_%28cropped2%29.jpg/960px-Portrait_of_President_Ferdinand_R._Marcos%2C_Jr_%28cropped2%29.jpg",
+      "page": "https://en.wikipedia.org/wiki/Bongbong_Marcos",
+      "type": "person"
+     }
     },
     {
      "suite": false,
@@ -292,7 +324,14 @@
        "titre": "陸上自衛隊第１５旅団の師団格上げで「１６式機動戦闘車」配備…南西諸島で初、防衛の主要装備に"
       }
      ],
-     "id": "2026-11-02|Japan deploys Type 16 combat vehicles to Southwest Islands"
+     "id": "2026-11-02|Japan deploys Type 16 combat vehicles to Southwest Islands",
+     "visuel": {
+      "nom": "Type 16 MCV",
+      "description": "Japanese wheeled armoured fighting vehicle",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/JGSDF_Type_16_Maneuver_Combat_Vehicle_%2826-7978%29_left_front_view_at_JASDF_Hamamatsu_Air_Base_October_23%2C_2022_01.jpg/960px-JGSDF_Type_16_Maneuver_Combat_Vehicle_%2826-7978%29_left_front_view_at_JASDF_Hamamatsu_Air_Base_October_23%2C_2022_01.jpg",
+      "page": "https://en.wikipedia.org/wiki/Type_16_MCV",
+      "type": "platform"
+     }
     },
     {
      "suite": false,
@@ -314,7 +353,14 @@
        "titre": "Minister Koo: U.S. Arms Sales Policy Toward Taiwan Unchanged; F-16 Block 70 Production Continues"
       }
      ],
-     "id": "2026-11-02|Taiwan affirms steady US arms sales and F-16 production"
+     "id": "2026-11-02|Taiwan affirms steady US arms sales and F-16 production",
+     "visuel": {
+      "nom": "General Dynamics F-16 Fighting Falcon",
+      "description": "American multi-role fighter aircraft",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/F-16_June_2008.jpg/960px-F-16_June_2008.jpg",
+      "page": "https://en.wikipedia.org/wiki/General_Dynamics_F-16_Fighting_Falcon",
+      "type": "platform"
+     }
     }
    ]
   },
@@ -356,7 +402,8 @@
        "titre": "Photos: Thousands join India’s opposition rally against election chief"
       }
      ],
-     "id": "2026-11-02|Tens of thousands protest in New Delhi demanding election chief resign"
+     "id": "2026-11-02|Tens of thousands protest in New Delhi demanding election chief resign",
+     "visuel": null
     }
    ]
   },
@@ -384,7 +431,8 @@
        "titre": "From APKWS to LADAC: France joins the race for cheap laser-guided rockets to down drones"
       }
      ],
-     "id": "2026-11-02|France develops LADAC laser-guided rockets for low-cost counter-drone defence"
+     "id": "2026-11-02|France develops LADAC laser-guided rockets for low-cost counter-drone defence",
+     "visuel": null
     },
     {
      "suite": false,
@@ -405,7 +453,8 @@
        "titre": "Every squadron, every air defence unit, every air warrior must be ready to respond at moment’s notice: IAF Chief Dixit"
       }
      ],
-     "id": "2026-11-02|IAF Chief directs air defence units to maintain immediate readiness"
+     "id": "2026-11-02|IAF Chief directs air defence units to maintain immediate readiness",
+     "visuel": null
     },
     {
      "suite": false,
@@ -428,7 +477,8 @@
        "titre": "Russia's new suspected radar in Kaliningrad could spy deep into Europe"
       }
      ],
-     "id": "2026-11-02|Suspected Russian early-warning radar in Kaliningrad triggers Western concern"
+     "id": "2026-11-02|Suspected Russian early-warning radar in Kaliningrad triggers Western concern",
+     "visuel": null
     }
    ]
   },
@@ -455,7 +505,14 @@
        "titre": "UK nuclear defence investment to rise by over £20 billion as submarine and warhead work expands"
       }
      ],
-     "id": "2026-11-02|UK boosts nuclear defence spending by over £20 billion"
+     "id": "2026-11-02|UK boosts nuclear defence spending by over £20 billion",
+     "visuel": {
+      "nom": "Dreadnought-class submarine",
+      "description": "Class of British nuclear-powered ballistic missile submarines",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Rendering_of_Dreadnought-class_submarine.webp/960px-Rendering_of_Dreadnought-class_submarine.webp",
+      "page": "https://en.wikipedia.org/wiki/Dreadnought-class_submarine",
+      "type": "platform"
+     }
     },
     {
      "suite": false,
@@ -478,7 +535,14 @@
        "titre": "Un document confirme l’intérêt de la force aérienne italienne pour l’avion de transport A400M «Atlas» d’Airbus"
       }
      ],
-     "id": "2026-11-02|Italian Air Force documents confirm interest in Airbus A400M"
+     "id": "2026-11-02|Italian Air Force documents confirm interest in Airbus A400M",
+     "visuel": {
+      "nom": "Airbus A400M Atlas",
+      "description": "Multi-national four-engine turboprop military transport aircraft",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/German_Air_Force_Airbus_A400M_%28out_cropped%29.jpg/960px-German_Air_Force_Airbus_A400M_%28out_cropped%29.jpg",
+      "page": "https://en.wikipedia.org/wiki/Airbus_A400M_Atlas",
+      "type": "platform"
+     }
     }
    ]
   },
@@ -517,7 +581,8 @@
        "titre": "Russia opens terrorism case over Ukraine oil refinery attack"
       }
      ],
-     "id": "2026-11-02|Zelensky offers to halt Russian refinery strikes in exchange for missiles"
+     "id": "2026-11-02|Zelensky offers to halt Russian refinery strikes in exchange for missiles",
+     "visuel": null
     }
    ]
   },
@@ -544,7 +609,8 @@
        "titre": "Au Yémen, plus de 300 000 personnes déplacées à cause des combats dans l’ouest du pays, selon l’ONU"
       }
      ],
-     "id": "2026-11-02|UN reports 300,000 displaced as fighting escalates in western Yemen"
+     "id": "2026-11-02|UN reports 300,000 displaced as fighting escalates in western Yemen",
+     "visuel": null
     }
    ]
   },
@@ -571,7 +637,14 @@
        "titre": "Russian Navy Cancels Modernization of Kirov-Class Battlecruiser Pyotr Velikiy"
       }
      ],
-     "id": "2026-11-02|Russian Navy cancels modernisation of nuclear battlecruiser Pyotr Velikiy"
+     "id": "2026-11-02|Russian Navy cancels modernisation of nuclear battlecruiser Pyotr Velikiy",
+     "visuel": {
+      "nom": "Russian battlecruiser Pyotr Velikiy",
+      "description": "Kirov-class battlecruiser",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Russian_battlecruiser_Pyotr_Velikiy-7.jpg/960px-Russian_battlecruiser_Pyotr_Velikiy-7.jpg",
+      "page": "https://en.wikipedia.org/wiki/Russian_battlecruiser_Pyotr_Velikiy",
+      "type": "platform"
+     }
     }
    ]
   },
@@ -599,7 +672,8 @@
        "titre": "S. Korea's Air Force to participate in U.S.-led space war game for 1st time"
       }
      ],
-     "id": "2026-11-02|South Korean Air Force joins US-led space exercise for first time"
+     "id": "2026-11-02|South Korean Air Force joins US-led space exercise for first time",
+     "visuel": null
     }
    ]
   },
@@ -626,7 +700,8 @@
        "titre": "Decoys, safe AI hacking help cyberdefenders counter AI-powered attacks"
       }
      ],
-     "id": "2026-11-02|Singapore cyber research shows AI attack models prone to deception"
+     "id": "2026-11-02|Singapore cyber research shows AI attack models prone to deception",
+     "visuel": null
     }
    ]
   },
@@ -653,7 +728,8 @@
        "titre": "Billionaire Friedland to Build Major US-Backed Rare Earths Mine"
       }
      ],
-     "id": "2026-11-02|Friedland announces US-backed rare earths mining project"
+     "id": "2026-11-02|Friedland announces US-backed rare earths mining project",
+     "visuel": null
     }
    ]
   }

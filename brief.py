@@ -24,6 +24,7 @@ import os
 import re
 import sys
 import time
+import unicodedata
 import urllib.parse
 from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timedelta, timezone
@@ -365,8 +366,9 @@ def links_for(refs, by_id: dict) -> list[dict]:
             a = by_id.get(int(ref))
         except (TypeError, ValueError):
             continue
-        if a and a["source"] not in seen:  # un seul lien par média
-            seen.add(a["source"])
+        key = a and unicodedata.normalize("NFKD", a["source"]).encode("ascii", "ignore").decode().lower()
+        if a and key not in seen:  # un seul lien par média
+            seen.add(key)
             links.append({"source": a["source"], "url": a["url"], "titre": a["titre"]})
     return links[:4]
 
@@ -383,7 +385,7 @@ def finalize_items(items, by_id: dict, cfg: dict, rubrique: str | None = None,
         out.append({
             "suite": bool(prev),
             "remplace": prev["id"] if prev else None,
-            "emoji": (it.get("emoji") or "").strip()[:8],
+            "emoji": "" if re.search(r"[A-Za-z0-9]", it.get("emoji") or "") else (it.get("emoji") or "").strip()[:8],
             "titre": it["titre"].strip(),
             "resume": (it.get("resume") or "").strip(),
             "pourquoi": (it.get("pourquoi") or "").strip(),
@@ -419,6 +421,82 @@ def ai_brief(cfg: dict, articles: list[dict], today: datetime, api_key: str, pre
                           "liens": links_for(w.get("refs"), by_id)}
                          for w in raw.get("a_surveiller") or [] if w.get("quoi")][:5],
     }
+
+
+# ── Photos d'identification (Wikipédia) ──────────────────────
+
+WIKI_API = "https://en.wikipedia.org/api/rest_v1/page/summary/"
+WIKI_HEADERS = {"User-Agent": "DefenceBrief/1.0 (https://github.com/maruhrich/brief)"}
+PLATFORM_WORDS = ("missile", "aircraft", "fighter", "bomber", "helicopter", "drone", "aerial", "ship", "frigate",
+                  "destroyer", "corvette", "submarine", "carrier", "vessel", "boat", "tank", "vehicle", "howitzer",
+                  "artillery", "launcher", "rocket", "radar", "system", "satellite", "weapon", "gun", "interceptor",
+                  "jet", "transport", "class", "laser")
+VISUEL_SYSTEM = """For each news story, decide whether a reference photo would help a defence professional recognise
+what the story is about: a specific military platform or system (aircraft, missile, ship, submarine, air-defence
+system, radar, armoured vehicle, drone, satellite) or a key person (head of state, minister, general, CEO).
+Only when ONE such subject is clearly central to the story, give the exact title of its English Wikipedia article
+(e.g. "Dassault Rafale", "S-400 missile system", "Type 055 destroyer", "Kim Yo-jong"). Otherwise leave it empty.
+Prefer the platform over the person when both appear. Never pick a generic topic (country, war, organisation, company).
+Skip world-famous figures everyone recognises (e.g. Donald Trump, Xi Jinping, Vladimir Putin, Volodymyr Zelenskyy, Melania Trump)."""
+VISUEL_SCHEMA = {"type": "array", "items": {"type": "object", "properties": {
+    "n": {"type": "integer"},
+    "wiki": {"type": "string", "description": "Exact English Wikipedia article title, or empty"},
+    "kind": {"type": "string", "enum": ["platform", "person", "none"]}},
+    "required": ["n", "wiki", "kind"]}}
+
+
+def wiki_photo(title: str, kind: str, cache: dict) -> dict | None:
+    """Photo principale de la fiche Wikipédia (libre de droits), avec nom et description courte."""
+    if title in cache:
+        return cache[title]
+    found = None
+    try:
+        resp = requests.get(WIKI_API + urllib.parse.quote(title.replace(" ", "_"), safe=""), headers=WIKI_HEADERS, timeout=20)
+        page = resp.json() if resp.ok else {}
+        thumb, orig = page.get("thumbnail") or {}, page.get("originalimage") or {}
+        desc = page.get("description", "")
+        relevant = kind == "person" or any(w in desc.lower() for w in PLATFORM_WORDS)
+        if page.get("type") == "standard" and thumb.get("source") and relevant:
+            if 0 < orig.get("width", 0) <= 960:
+                image = orig["source"].split("?")[0]
+            else:
+                image = re.sub(r"/\d+px-", "/960px-", thumb["source"].split("?")[0])
+            found = {"nom": page["title"], "description": desc, "image": image,
+                     "page": page["content_urls"]["desktop"]["page"], "type": kind}
+    except (requests.RequestException, ValueError, KeyError):
+        pass
+    cache[title] = found
+    return found
+
+
+def add_visuels(cfg: dict, items: list[dict], api_key: str) -> int:
+    """Ajoute une photo d'identification aux sujets qui portent sur une plateforme ou une personne précise."""
+    todo = [it for it in items if "visuel" not in it]
+    if not todo:
+        return 0
+    lines = "\n".join(f"[{n}] {it['titre']} — {it.get('resume', '')}" for n, it in enumerate(todo, 1))
+    raw, _ = call_gemini(cfg, VISUEL_SYSTEM, lines, VISUEL_SCHEMA, api_key)
+    choices = {r.get("n"): r for r in (raw if isinstance(raw, list) else [])}
+    cache, count = {}, 0
+    for n, it in enumerate(todo, 1):
+        r = choices.get(n) or {}
+        title = (r.get("wiki") or "").strip()
+        it["visuel"] = wiki_photo(title, r.get("kind", "platform"), cache) if title and r.get("kind") != "none" else None
+        count += bool(it["visuel"])
+    return count
+
+
+def backfill_visuels(cfg: dict, api_key: str) -> None:
+    """Ajoute les photos aux sujets déjà publiés de la pile (une seule fois)."""
+    files = [f for f in sorted(ARCHIVE.glob("*.json"), reverse=True)][: cfg.get("pile_jours", 7)]
+    briefs = [(f, json.loads(f.read_text())) for f in files]
+    items = [it for _, b in briefs if b.get("mode") == "ia"
+             for it in b.get("essentiel", []) + [i for r in b.get("rubriques", []) for i in r["items"]]]
+    log(f"Photos : {add_visuels(cfg, items, api_key)} trouvées sur {len(items)} sujets.")
+    for f, b in briefs:
+        f.write_text(json.dumps(b, ensure_ascii=False, indent=1))
+    latest = briefs[0][1]
+    write_outputs(latest, latest["date"], cfg)
 
 
 # ── Synthèse de la semaine ───────────────────────────────────
@@ -604,6 +682,7 @@ def main() -> int:
     parser.add_argument("--dry-run", action="store_true")
     parser.add_argument("--sources", action="store_true")
     parser.add_argument("--hebdo", action="store_true")
+    parser.add_argument("--photos", action="store_true", help="ajoute les photos aux sujets déjà publiés")
     args = parser.parse_args()
 
     load_env()
@@ -611,6 +690,10 @@ def main() -> int:
     now = datetime.now(ZoneInfo(cfg["fuseau"]))
     date_str = now.strftime("%Y-%m-%d")
     set_output(generated="false", date=date_str)
+
+    if args.photos:
+        backfill_visuels(cfg, os.environ["GEMINI_API_KEY"])
+        return 0
 
     if args.skip_if_done and (ARCHIVE / f"{date_str}.json").exists():
         log(f"Le brief du {date_str} existe déjà, rien à faire.")
@@ -636,6 +719,13 @@ def main() -> int:
         except Exception as exc:
             log(f"⚠ {exc}")
             brief = raw_brief(cfg, articles, str(exc)[:300])
+
+    if brief["mode"] == "ia":
+        try:
+            n = add_visuels(cfg, brief["essentiel"] + [i for r in brief["rubriques"] for i in r["items"]], api_key)
+            log(f"Photos d'identification : {n}")
+        except Exception as exc:  # les photos ne doivent jamais bloquer le brief
+            log(f"⚠ Photos : {exc}")
 
     hebdo = None
     if use_ai and (args.hebdo or weekly_due(cfg, now)):

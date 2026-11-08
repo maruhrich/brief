@@ -44,7 +44,14 @@
      "titre": "Israel's president tasks opposition leader Eisenkot with forming government"
     }
    ],
-   "id": "2026-11-08|Israeli president tasks opposition leader Eisenkot with forming government"
+   "id": "2026-11-08|Israeli president tasks opposition leader Eisenkot with forming government",
+   "visuel": {
+    "nom": "Gadi Eisenkot",
+    "description": "Israeli general and politician (born 1960)",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Gadi_Eisenkot_2_%28cropped%29.jpg/960px-Gadi_Eisenkot_2_%28cropped%29.jpg",
+    "page": "https://en.wikipedia.org/wiki/Gadi_Eisenkot",
+    "type": "person"
+   }
   },
   {
    "suite": true,
@@ -82,7 +89,8 @@
      "titre": "젤렌스키 \"러, 우크라 에너지 시설 공격에 북한 KN-23 미사일 사용\""
     }
    ],
-   "id": "2026-11-08|Russia targets Ukrainian energy grid with North Korean KN-23 missiles"
+   "id": "2026-11-08|Russia targets Ukrainian energy grid with North Korean KN-23 missiles",
+   "visuel": null
   },
   {
    "suite": false,
@@ -119,7 +127,8 @@
      "titre": "EXCLUSIVE: Expanding on naval blockade, US military looks to restrict Iranian land commerce"
     }
    ],
-   "id": "2026-11-08|US strikes Iranian air defence on Qeshm and expands blockade to land routes"
+   "id": "2026-11-08|US strikes Iranian air defence on Qeshm and expands blockade to land routes",
+   "visuel": null
   },
   {
    "suite": false,
@@ -142,7 +151,14 @@
      "titre": "全球資訊網- 新聞與公告- 本部新聞- 空軍伴飛首批兩架F-16 BLK 70抵臺"
     }
    ],
-   "id": "2026-11-08|Taiwan receives first batch of F-16 Block 70 fighter aircraft"
+   "id": "2026-11-08|Taiwan receives first batch of F-16 Block 70 fighter aircraft",
+   "visuel": {
+    "nom": "General Dynamics F-16 Fighting Falcon",
+    "description": "American multi-role fighter aircraft",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/F-16_June_2008.jpg/960px-F-16_June_2008.jpg",
+    "page": "https://en.wikipedia.org/wiki/General_Dynamics_F-16_Fighting_Falcon",
+    "type": "platform"
+   }
   }
  ],
  "rubriques": [
@@ -184,7 +200,14 @@
        "titre": "Trump orders DOJ to investigate Democrats for ‘threatening’ people"
       }
      ],
-     "id": "2026-11-08|Trump offers press secretary role to UFC chief Dana White"
+     "id": "2026-11-08|Trump offers press secretary role to UFC chief Dana White",
+     "visuel": {
+      "nom": "Dana White",
+      "description": "American businessman (born 1969)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/00/Ilham_Aliyev_received_Dana_White%2C_June_2025_%283x4_cropped_and_rotated_on_White%29.jpg",
+      "page": "https://en.wikipedia.org/wiki/Dana_White",
+      "type": "person"
+     }
     }
    ]
   },
@@ -221,7 +244,14 @@
        "titre": "Malaysia's attorney-general defends halting Najib's house arrest after king's rebuke"
       }
      ],
-     "id": "2026-11-08|Malaysian King affirms royal prerogative on Najib house arrest decree"
+     "id": "2026-11-08|Malaysian King affirms royal prerogative on Najib house arrest decree",
+     "visuel": {
+      "nom": "Najib Razak",
+      "description": "Prime Minister of Malaysia from 2009 to 2018",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Najib_Razak_2008-08-21.jpg/960px-Najib_Razak_2008-08-21.jpg",
+      "page": "https://en.wikipedia.org/wiki/Najib_Razak",
+      "type": "person"
+     }
     },
     {
      "suite": false,
@@ -248,7 +278,14 @@
        "titre": "Australia should deepen ties with Asia to give itself more room to pursue its interests: SM Lee"
       }
      ],
-     "id": "2026-11-08|SM Lee urges Australia to deepen economic and security ties with South-East Asia"
+     "id": "2026-11-08|SM Lee urges Australia to deepen economic and security ties with South-East Asia",
+     "visuel": {
+      "nom": "Lee Hsien Loong",
+      "description": "Prime Minister of Singapore from 2004 to 2024, Senior Minister of Singapore since 2024",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/1_lee_hsien_loong_2026.jpg/960px-1_lee_hsien_loong_2026.jpg",
+      "page": "https://en.wikipedia.org/wiki/Lee_Hsien_Loong",
+      "type": "person"
+     }
     },
     {
      "suite": false,
@@ -270,7 +307,8 @@
        "titre": "韓国陸海軍の制服組トップが月内に相次ぎ来日、自衛隊幕僚長と会談へ…「防衛協力」の推進狙い"
       }
      ],
-     "id": "2026-11-08|South Korean military chiefs to visit Japan to boost defence cooperation"
+     "id": "2026-11-08|South Korean military chiefs to visit Japan to boost defence cooperation",
+     "visuel": null
     },
     {
      "suite": false,
@@ -292,7 +330,8 @@
        "titre": "北, 韓 공군 겨냥? '집속탄 순항미사일' 비행장 타격 훈련 공개 [자막뉴스]"
       }
      ],
-     "id": "2026-11-08|North Korea reveals cluster munition cruise missile drill against airfields"
+     "id": "2026-11-08|North Korea reveals cluster munition cruise missile drill against airfields",
+     "visuel": null
     }
    ]
   },
@@ -334,7 +373,8 @@
        "titre": "New Zealand’s election results are too close to call"
       }
      ],
-     "id": "2026-11-08|New Zealand election ends in deadlock as minor parties emerge as kingmakers"
+     "id": "2026-11-08|New Zealand election ends in deadlock as minor parties emerge as kingmakers",
+     "visuel": null
     }
    ]
   },
@@ -372,7 +412,14 @@
        "titre": "L'Iran serait en pourparlers avec la Russie concernant le système de défense aérienne S-400"
       }
      ],
-     "id": "2026-11-08|IRGC lifts missile range caps as Tehran reportedly negotiates Russian S-400s"
+     "id": "2026-11-08|IRGC lifts missile range caps as Tehran reportedly negotiates Russian S-400s",
+     "visuel": {
+      "nom": "S-400 missile system",
+      "description": "Mobile surface-to-air missile air defense",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/%D0%A1-400_%C2%AB%D0%A2%D1%80%D0%B8%D1%83%D0%BC%D1%84%C2%BB.JPG/960px-%D0%A1-400_%C2%AB%D0%A2%D1%80%D0%B8%D1%83%D0%BC%D1%84%C2%BB.JPG",
+      "page": "https://en.wikipedia.org/wiki/S-400_missile_system",
+      "type": "platform"
+     }
     },
     {
      "suite": false,
@@ -393,7 +440,14 @@
        "titre": "Le chasseur-bombardier F-35B a largué un missile air-air [inerte] METEOR pour la première fois"
       }
      ],
-     "id": "2026-11-08|British F-35B conducts first release of inert MBDA Meteor missile"
+     "id": "2026-11-08|British F-35B conducts first release of inert MBDA Meteor missile",
+     "visuel": {
+      "nom": "Meteor (missile)",
+      "description": "European beyond visual range air-to-air missile",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/ILA_2008_PD_446.JPG/960px-ILA_2008_PD_446.JPG",
+      "page": "https://en.wikipedia.org/wiki/Meteor_(missile)",
+      "type": "platform"
+     }
     },
     {
      "suite": false,
@@ -414,7 +468,8 @@
        "titre": "U.S. Department of War delivers more than 25,000 unmanned and counter-drone systems to CENTCOM"
       }
      ],
-     "id": "2026-11-08|US Department of War delivers 25,000 counter-drone systems to CENTCOM"
+     "id": "2026-11-08|US Department of War delivers 25,000 counter-drone systems to CENTCOM",
+     "visuel": null
     }
    ]
   },
@@ -441,7 +496,8 @@
        "titre": "RTX ramps up Tomahawk, AMRAAM and Standard Missile production under four Pentagon contracts"
       }
      ],
-     "id": "2026-11-08|Pentagon awards RTX contracts to ramp up Tomahawk, AMRAAM and Standard Missiles"
+     "id": "2026-11-08|Pentagon awards RTX contracts to ramp up Tomahawk, AMRAAM and Standard Missiles",
+     "visuel": null
     },
     {
      "suite": false,
@@ -463,7 +519,8 @@
        "titre": "Contrat record pour les équipes belges de Thales"
       }
      ],
-     "id": "2026-11-08|Thales Belgium secures record rocket pod contract for Indian Armed Forces"
+     "id": "2026-11-08|Thales Belgium secures record rocket pod contract for Indian Armed Forces",
+     "visuel": null
     }
    ]
   },
@@ -493,7 +550,8 @@
        "titre": "European troops set to train in Poland for postwar Ukraine deployment"
       }
      ],
-     "id": "2026-11-08|European multinational force to train in Poland for post-war Ukraine mission"
+     "id": "2026-11-08|European multinational force to train in Poland for post-war Ukraine mission",
+     "visuel": null
     }
    ]
   },
@@ -537,7 +595,8 @@
        "titre": "Au Yémen, 33 morts après des frappes saoudiennes dans la région de Sanaa, annoncent les houthistes"
       }
      ],
-     "id": "2026-11-08|Deadly strikes hit near Sanaa as Syria denies troop deployment to Yemen"
+     "id": "2026-11-08|Deadly strikes hit near Sanaa as Syria denies troop deployment to Yemen",
+     "visuel": null
     }
    ]
   },
@@ -579,7 +638,8 @@
        "titre": "Gunman 'fascinated by far-right' kills six in Krakow, Poland"
       }
      ],
-     "id": "2026-11-08|Deadly mass shooting in Krakow declared act of terrorism by Polish PM"
+     "id": "2026-11-08|Deadly mass shooting in Krakow declared act of terrorism by Polish PM",
+     "visuel": null
     }
    ]
   },
@@ -606,7 +666,8 @@
        "titre": "Britain’s Titania military satellite reaches orbit to support Earth observation"
       }
      ],
-     "id": "2026-11-08|Britain's Titania military Earth observation satellite reaches orbit"
+     "id": "2026-11-08|Britain's Titania military Earth observation satellite reaches orbit",
+     "visuel": null
     }
    ]
   },
@@ -638,7 +699,8 @@
        "titre": "Le ministère des Armées accélère la mise au point d’un canon électromagnétique pour la Marine avec le projet SPALE"
       }
      ],
-     "id": "2026-11-08|France accelerates SPALE electromagnetic railgun development for naval vessels"
+     "id": "2026-11-08|France accelerates SPALE electromagnetic railgun development for naval vessels",
+     "visuel": null
     }
    ]
   },
@@ -681,7 +743,8 @@
        "titre": "Ahead of Trump-Xi meetings, US presses China on trade pledges"
       }
      ],
-     "id": "2026-11-08|US presses Beijing on rare earths commitments ahead of Trump-Xi summits"
+     "id": "2026-11-08|US presses Beijing on rare earths commitments ahead of Trump-Xi summits",
+     "visuel": null
     }
    ]
   }
