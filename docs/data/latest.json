@@ -1,137 +1,95 @@
 {
- "date": "2026-11-07",
- "date_label": "Saturday, November 7, 2026",
- "genere_le": "2026-11-07T10:25:23+08:00",
+ "date": "2026-11-08",
+ "date_label": "Sunday, November 8, 2026",
+ "genere_le": "2026-11-08T09:53:59+08:00",
  "mode": "ia",
- "modele": "gemini-3.5-flash-lite",
+ "modele": "gemini-flash-latest",
  "accroche": [
-  "US Democrats sweep midterms prompting major administration staff and policy shakeups",
-  "Macao court jails veteran pro-democracy politician under national security legislation",
-  "German government moves to acquire 50% stake in defence giant KNDS"
+  "Eisenkot tasked to form Israeli government after inconclusive general election",
+  "Russia strikes Ukrainian power grid with North Korean ballistic missiles",
+  "New Zealand election ends in deadlock with kingmakers holding parliament balance"
  ],
  "essentiel": [
   {
    "suite": true,
-   "remplace": "2026-11-04|US Midterm Elections Underway with Control of Congress at Stake",
+   "remplace": "2026-11-06|Opposition Leader Eisenkot Secures Support to Form Israeli Government",
    "emoji": "🗳️",
-   "titre": "US Midterm Aftermath: Democrats Control Congress as Trump Names Stephen Miller Chief of Staff",
-   "resume": "Following a historic defeat in the US midterms that handed Democrats control of Congress, President Trump named immigration hardliner Stephen Miller as his new chief of staff. Several senior Department of Justice officials also resigned in the post-election exodus.",
+   "titre": "Israeli president tasks opposition leader Eisenkot with forming government",
+   "resume": "President Isaac Herzog officially granted opposition leader Gadi Eisenkot 28 days to build a 61-seat coalition. The decision sidelines Prime Minister Benjamin Netanyahu following last week's inconclusive general election.",
    "pourquoi": "",
    "pays": [
-    "United States"
+    "Israel"
    ],
-   "region": "Americas",
+   "region": "Middle East",
    "rubrique": "elections",
    "liens": [
     {
+     "source": "The Washington Post",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNkNJbUh4ZFl6NzBHZjJZVU85UGhmUnIzSnBXZUhrczJyNldvUWNHYndxc293NGFwOG1Yb2JaeEdmVW1nYWU1dmdrYVJXU2NVdFZERGN6TjZSUFk3WmhzTjdHd2RZdWx5OFZQOEx6V3lOeVY5dTlwV0pidXZ6RWN3MVlPU20xQWJmcjlPdzJtSlZWMld0QkpESFVkbEpfa3k4ZzJhc2Z1QzR2OGdEdlFfQ3VBWjZvZWtDSXhuN0taZFNFU1E4?oc=5",
+     "titre": "Ex-military chief Gadi Eisenkot, opponent of Netanyahu, tapped to form government"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/eisenkot-chosen-over-netanyahu-to-form-israels-next-government?traffic_source=rss",
+     "titre": "Eisenkot chosen over Netanyahu to form Israel’s next government"
+    },
+    {
      "source": "Japan Times",
-     "url": "https://www.japantimes.co.jp/news/2026/11/07/world/politics/trump-stephen-miller-chief-of-staff/",
-     "titre": "Trump makes hard-liner Stephen Miller his chief of staff after midterm defeat"
+     "url": "https://www.japantimes.co.jp/news/2026/11/08/world/politics/israel-president-gadi-eisenkot-government/",
+     "titre": "Israeli president picks Gadi Eisenkot, Netanyahu rival, to try to form government"
     },
     {
-     "source": "Le Monde International",
-     "url": "https://www.lemonde.fr/international/article/2026/11/06/vague-de-demissions-au-ministere-de-la-justice-americain_6807868_3210.html",
-     "titre": "Vague de démissions au ministère de la justice américain"
-    },
-    {
-     "source": "Reuters",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNc3d2VFhsUzJucjhiOHdzTnBuU0VDNF9PcEV3c2VvQ2FlQ3lZM2k5VXF3TXlseFJaMDlkekVxT19GUHJvbG1VdHdfbmNRWi1MdU9zdXpGVjJCSkhXc0NOSXVseldlXzZvOU1NVlJmaFlqNUlkUkJFeHFPZ2ZIRjNkdE5vb2Ixd01LVGttWEluTTNnakkybGVtMlFfM2VHcGVqbzBFbWJWWDNFcWVTSmJGWFdmRWlVVG9tS3hpcmVtQ3Jpd04yRmdKeg?oc=5",
-     "titre": "Two top Justice Department officials resign as post-election exodus accelerates"
+     "source": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+     "titre": "Israel's president tasks opposition leader Eisenkot with forming government"
     }
    ],
-   "id": "2026-11-07|US Midterm Aftermath: Democrats Control Congress as Trump Names Stephen Miller Chief of Staff"
-  },
-  {
-   "suite": false,
-   "remplace": null,
-   "emoji": "🛡️",
-   "titre": "Germany Agrees to Acquire 50% Stake in Franco-German Armoured Vehicle Giant KNDS",
-   "resume": "Berlin has reached an agreement in principle to purchase the 50% stake held by the Bode-Wegmann family in KNDS. This move brings total state control over the land defence giant to parity between Germany and France.",
-   "pourquoi": "",
-   "pays": [
-    "Germany",
-    "France"
-   ],
-   "region": "Europe",
-   "rubrique": "industrie",
-   "liens": [
-    {
-     "source": "Le Monde International",
-     "url": "https://www.lemonde.fr/economie/article/2026/11/06/l-allemagne-va-entrer-au-capital-de-knds-et-controlera-le-geant-de-l-armement-terrestre-a-parite-avec-la-france_6807842_3234.html",
-     "titre": "L’Allemagne va entrer au capital de KNDS et contrôlera le géant de l’armement terrestre à parité avec la France"
-    }
-   ],
-   "id": "2026-11-07|Germany Agrees to Acquire 50% Stake in Franco-German Armoured Vehicle Giant KNDS"
-  },
-  {
-   "suite": false,
-   "remplace": null,
-   "emoji": "⚠️",
-   "titre": "Macao Jails Ex-Lawmaker Au Kam San for 12.5 Years in First National Security Trial",
-   "resume": "A Macao court sentenced former pro-democracy lawmaker Au Kam San to 12 and a half years in prison under the city's national security law. It marked the first such trial in the former Portuguese colony.",
-   "pourquoi": "",
-   "pays": [
-    "China"
-   ],
-   "region": "North-East Asia",
-   "rubrique": "asie",
-   "liens": [
-    {
-     "source": "RFI Asie-Pacifique",
-     "url": "https://www.rfi.fr/fr/asie-pacifique/20261106-la-chine-condamne-au-kam-san-ex-d%C3%A9put%C3%A9-pro-d%C3%A9mocratie-de-macao-%C3%A0-12-ans-et-demi-de-prison",
-     "titre": "La Chine condamne Au Kam San, ex-député pro-démocratie de Macao, à 12 ans et demi de prison"
-    },
-    {
-     "source": "CNA Asie",
-     "url": "https://www.channelnewsasia.com/asia/macau-ex-lawmaker-125-years-prison-first-national-security-trial-6530286",
-     "titre": "Macau ex-lawmaker sentenced to 12.5 years in prison in city's first national security trial"
-    }
-   ],
-   "id": "2026-11-07|Macao Jails Ex-Lawmaker Au Kam San for 12.5 Years in First National Security Trial"
+   "id": "2026-11-08|Israeli president tasks opposition leader Eisenkot with forming government"
   },
   {
    "suite": true,
-   "remplace": "2026-11-04|Massive Russian Air Strikes Batter Ukrainian Energy Grid and Civilian Infrastructure",
+   "remplace": "2026-11-07|Kyiv Plunged Into Darkness After Heavy Russian Missile Strikes",
    "emoji": "🚀",
-   "titre": "Kyiv Plunged Into Darkness After Heavy Russian Missile Strikes",
-   "resume": "Russian forces launched a massive ballistic missile barrage against the Ukrainian capital, targeting energy infrastructure and plunging the city into darkness. Ukrainian intelligence reported that Moscow currently holds over 700 ballistic missiles.",
+   "titre": "Russia targets Ukrainian energy grid with North Korean KN-23 missiles",
+   "resume": "Russian strikes battered power infrastructure across Ukraine and Kyiv, causing severe blackouts ahead of peace talks in Abu Dhabi. President Volodymyr Zelenskyy confirmed North Korean KN-23 ballistic missiles were used against a key energy facility.",
    "pourquoi": "",
    "pays": [
     "Ukraine",
-    "Russia"
+    "Russia",
+    "North Korea"
    ],
    "region": "Russia-Ukraine",
    "rubrique": "ukraine",
    "liens": [
     {
-     "source": "The Straits Times",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUW9TdXhXdkNZMVo2NEVzdjFPcHZZU3diRnVYbWRELUd2d0R3ZVFBWlgtbDZHZ3p2MzVlX1dYWnZRallVVTFCUm16cktENDRYT0ZjQS1KbzAtdTh3eHFUR0ZESFB1bGY1Zl93NnQyQjVtTk5oNnBhMTZnOHpmNm9Qal92N3RTT2dRanZzTXF1R2NuZGlSVTgtVTRPRlRZWFpiamhSdmZveWtvUzA4eTlGS1NyNzg0dw?oc=5",
-     "titre": "Russian forces launch missile attack on Ukrainian capital Kyiv, mayor says"
+     "source": "조선일보",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeEpLVlBsbUV2Y1B5a3RPTlY3TElvRnJVT2dubDh0ZlNxMkViTHhFN0NkM2VPMWREVmVnV2xOdnpxTUxyb05vcy15RE9fWjBfdTEyUTNCRk0yV3QxSGgzZFBSdGJmTGNRMzRKSlZWQ3lJaU5rOVdIWTBqWmtfWDljMWZ3bTVyQ2E2SURRbmRQQ2x3WTdzOEJVdGVsQVE4Zw?oc=5",
+     "titre": "젤렌스키 \"북한 KN-23 미사일, 우크라 에너지 시설 공격에 사용\""
     },
     {
      "source": "Le Monde International",
-     "url": "https://www.lemonde.fr/international/live/2026/11/07/en-direct-guerre-en-ukraine-des-explosions-entendues-a-kiev-visee-par-au-moins-six-missiles-balistiques-selon-l-armee-de-l-air_6803934_3210.html",
-     "titre": "EN DIRECT, guerre en Ukraine : des explosions entendues à Kiev, visée par au moins six missiles balistiques selon l’armée de l’air"
+     "url": "https://www.lemonde.fr/international/live/2026/11/07/en-direct-guerre-en-ukraine-les-dernieres-informations_6803934_3210.html",
+     "titre": "EN DIRECT, guerre en Ukraine : les dernières informations"
     },
     {
-     "source": "Reuters",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX2FSN3lBc1IzMnh3WkpZMGVtcVFPV2g5TFRFSVJqQktoTHA2eS1LcVgwdlRlS3FCWkdVS1dBY1M4ajJvTFc5a1ZkTEh4dUcxR3Bfc01LQkpNSEptdGM4d0Q3X3lBeDhZQlY0Zl9QRWI4TzhfZlZoVWJmbUdmTW5kc0NqM2dNOG02eVotZzBvUGF5QXpncjdCcTFWMWl4YjhvNmh5TW1oWHBDVG1GVDdUQ1g3MkVzcWs?oc=5",
-     "titre": "Zelenskiy, Kyiv mayor trade blame as Russian strikes plunge city into darkness"
+     "source": "CNA Monde",
+     "url": "https://www.channelnewsasia.com/world/russia-pounds-power-facilities-around-kyiv-damages-major-bridge-6533046",
+     "titre": "Russia pounds power facilities around Kyiv, damages major bridge"
     },
     {
-     "source": "Defence Industry Europe",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTXhEci1pY2lXNlIwd3JEdlZHTW1kLS1QYk9fUVhCME9KYUJ1a0twdm5VSVVIRTRoVDdvOW9HdmR1T3pPbWRPbE1NS1NuaG5BaUFKYjN2VGFWU1daUjM0aW9uSlF6WjVXQWJTeGRGekUtZHNQWG5oOTRYYjFTQ1NmMWpVZ3lwUzNSQ09VNVV5N1QtOE5kSFlBRWtvb2NIS3g0TlJBcWgydWR6dHMxLU90cnFxSU5DeEc0bzBuNDY4OExuaFpocGc?oc=5",
-     "titre": "Ukraine’s intelligence says Russia holds over 700 ballistic missiles and produces about 110 a month"
+     "source": "뉴시스",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFUldUeEVndmtoOE11VVVORDJod0Vtd1VtUV9tUWVSTTRHVXQ3bF9NRm92cnJVM09BOVFhcWdWbUgzVk5TckJpMlh6MFdIUnFhQVhIUFBWZFFtNGZQREZlcdIBeEFVX3lxTE9TZkdxWkZXRjI0aTQ5cC1qVEFxVzdKMEJzNUdQS1MyLUp3bVBvYi14UnFmWHdYelNLbF8wcHQ1OWFyN19KQ2wwcGd0bVNrRlZhenpPV2lMZDVPT3JQei1hM1FoLUFBcDFGb2YzZGxPcnkyWmFiZmtUOA?oc=5",
+     "titre": "젤렌스키 \"러, 우크라 에너지 시설 공격에 북한 KN-23 미사일 사용\""
     }
    ],
-   "id": "2026-11-07|Kyiv Plunged Into Darkness After Heavy Russian Missile Strikes"
+   "id": "2026-11-08|Russia targets Ukrainian energy grid with North Korean KN-23 missiles"
   },
   {
    "suite": false,
    "remplace": null,
-   "emoji": "🤝",
-   "titre": "US and Iran Edge Toward Nuclear Deal as Washington Offers $20 Million Reward",
-   "resume": "Washington offered a $20 million reward and relocation for information on Iran's nuclear program as diplomatic contacts edge closer to a deal. Meanwhile, two missiles reportedly struck Qeshm Island.",
+   "emoji": "⚠️",
+   "titre": "US strikes Iranian air defence on Qeshm and expands blockade to land routes",
+   "resume": "Donald Trump confirmed targeted US strikes hit an air defence installation on Iran's Qeshm Island. Concurrently, the US military launched an operational task force to intercept Tehran's overland trade and arms flows, extending its maritime blockade.",
    "pourquoi": "",
    "pays": [
     "United States",
@@ -141,92 +99,105 @@
    "rubrique": "moyen_orient",
    "liens": [
     {
-     "source": "Le Monde International",
-     "url": "https://www.lemonde.fr/international/article/2026/11/07/les-etats-unis-offrent-20-millions-de-dollars-et-un-possible-demenagement-pour-des-informations-sur-le-programme-nucleaire-iranien_6808067_3210.html",
-     "titre": "Les Etats-Unis offrent 20 millions de dollars et « un possible déménagement » pour des informations sur le programme nucléaire iranien"
+     "source": "The Washington Post",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTHJ4Z08xMkRQRml0cEZYUFhnRmJ2X294S2tERkkwNTN4MjdVVmxqcE5UOWJEZlI1eFlSSXo0RFI3Wnp2bjJlc1JiV2xNX0ljMGUxN1RRU29OV2M3VVp2OWlubzdOSlBOajE2N0h6bEVXbm9QY1lkaXNXbEV1NUdSSXEyQkFZb2VvUzVJNzYtS3pKUFVaUG1Jd0JJN3liMVFWOXJ2a2U0ZlVHY04wdVZFVk1yVzZCNm9MLW81NkNzNGE3czVXWm9HMg?oc=5",
+     "titre": "U.S. military seeks to disrupt Iran’s land routes, expanding on naval blockade"
     },
     {
-     "source": "Al-Monitor",
-     "url": "https://www.al-monitor.com/originals/2026/11/two-missiles-strike-irans-qeshm-island-tasnim-news-agency-says",
-     "titre": "Two missiles strike Iran's Qeshm Island, Tasnim news agency says"
+     "source": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/8/iran-war-live-explosions-hit-qeshm-us-moves-to-block-land-supply-routes?traffic_source=rss",
+     "titre": "Iran war live: Blasts heard in Qeshm; US moves to block land supply routes"
     },
     {
-     "source": "Japan Times",
-     "url": "https://www.japantimes.co.jp/news/2026/11/07/world/politics/us-iran-deal-nuclear/",
-     "titre": "U.S. and Iran edge closer to deal with nuclear issue back in play"
+     "source": "The Times of Israël",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWlpiRnFFaDBvOHBFd1JMMDhuaGRLU0E4d0FNU00zVHAwQlNVenpvdjd3MmVYckZnRF9fb202Z2R1UDJ1cXNwa1o3cE9GRTJLb01YNEFvamlpbC1RcTVQRlFsZDI5LUk5TEN5VTZITXZVQnJwM29QaUh0V1dHYUtScDdTdGxwNUg1R3hSQTN1QnhwUVRxNjRuemZZZEdCOUpIWldFTjZtZGU4WWY3eUphM0xpaHVnOXpwV3JkTWZBcmd6Skd5OWw2NXlIRWZsWG1FcEHSAdIBQVVfeXFMUFpaYkZxRWgwbzhwRXdSTDA4bmhkS1NBOHdBTVNNM1RwMEJTVXp6b3Y3dzJlWHJGZ0RfX29tNmdkdVAydXFzcGtaN3BPRkUyS29NWDRBb2ppaWwtUXE1UEZRbGQyOS1JOUxDeVU2SE12VUJycDNvUGlIdFdXR2FLUnA3U3RscDVINUd4UkEzdUJ4cFFUcTY0bnpmWWRHQjlKSFpXRU42bWRlOFlmN3lKYTNMaWh1Zzl6cFdyZE1mQXJnekpHeTlsNjV5SEVmbFhtRXBB?oc=5",
+     "titre": "Trump : les États-Unis ont lancé des frappes « mineures » contre l’Iran, visant « un petit dispositif antiaérien »"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTGRyZ1FFOWdNalpDbFdEeHZqc1JMNVVkekpWT3NULUU4N0hXTkN3MTQ5dlNSWjdhaUVCWlVUQVdhbkZrOEdDZ2FlNS1qOENqVnhOWGNYcmgtSU8xN3pHUjIzdDZ5akJZNzhnR3g4U0w5NjR1NUNka204MWRxak1WN056VUQ1MEhpNnpnaWVGSF90RlBMaTBWY1R5NFJDa3Q0SE1rMDhUUHRJZ01EMDJHdkhqMTY5aFU5TGd6WTNsekRoQkcyUkE?oc=5",
+     "titre": "EXCLUSIVE: Expanding on naval blockade, US military looks to restrict Iranian land commerce"
     }
    ],
-   "id": "2026-11-07|US and Iran Edge Toward Nuclear Deal as Washington Offers $20 Million Reward"
+   "id": "2026-11-08|US strikes Iranian air defence on Qeshm and expands blockade to land routes"
+  },
+  {
+   "suite": false,
+   "remplace": null,
+   "emoji": "🛩️",
+   "titre": "Taiwan receives first batch of F-16 Block 70 fighter aircraft",
+   "resume": "The Republic of China Air Force escorted the arrival of Taiwan's first two F-16 Block 70 multirole fighters. The long-awaited delivery significantly bolsters Taipei's combat aviation and air defence posture.",
+   "pourquoi": "",
+   "pays": [
+    "Taiwan",
+    "United States",
+    "China"
+   ],
+   "region": "North-East Asia",
+   "rubrique": "defense_aerienne",
+   "liens": [
+    {
+     "source": "中華民國國防部- 全球資訊網",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5ZU9ERzZTbXZGMVF3MHY3dkxYZVh0cVhKZ2lkSWc2UFJGTWVxYkpsS3ROckN1N2FhRnRhcldYeUVia3Bqb3FxV0F4U0dhYm9zQUc0MUh4M3RKbnZnOVQtMkZvMEtRbElMcHlCelhTVE0?oc=5",
+     "titre": "全球資訊網- 新聞與公告- 本部新聞- 空軍伴飛首批兩架F-16 BLK 70抵臺"
+    }
+   ],
+   "id": "2026-11-08|Taiwan receives first batch of F-16 Block 70 fighter aircraft"
   }
  ],
  "rubriques": [
   {
    "id": "monde",
    "titre": "World",
-   "items": []
+   "items": [
+    {
+     "suite": true,
+     "remplace": "2026-11-07|US Midterm Aftermath: Democrats Control Congress as Trump Names Stephen Miller Chief of Staff",
+     "emoji": "🇺🇸",
+     "titre": "Trump offers press secretary role to UFC chief Dana White",
+     "resume": "President Donald Trump has offered the post of White House press secretary to UFC chief Dana White. The move comes as Trump demands criminal investigations into congressional Democrats following their midterm victory.",
+     "pourquoi": "",
+     "pays": [
+      "United States"
+     ],
+     "region": "Americas",
+     "rubrique": "monde",
+     "liens": [
+      {
+       "source": "Japan Times",
+       "url": "https://www.japantimes.co.jp/news/2026/11/08/world/politics/trump-ufc-press-secretary/",
+       "titre": "Trump taps UFC boss as press secretary, urges criminal probes into Democrats"
+      },
+      {
+       "source": "CNA Monde",
+       "url": "https://www.channelnewsasia.com/world/trump-offers-press-secretary-role-ufc-chief-dana-white-6533481",
+       "titre": "Trump offers press secretary role to UFC chief Dana White"
+      },
+      {
+       "source": "Le Monde International",
+       "url": "https://www.lemonde.fr/international/article/2026/11/07/dana-white-le-patron-de-l-ufc-sollicite-par-donald-trump-au-poste-de-porte-parole-de-la-maison-blanche_6808316_3210.html",
+       "titre": "Dana White, le patron de l’UFC et proche de Donald Trump, sollicité pour devenir porte-parole de la Maison Blanche"
+      },
+      {
+       "source": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/7/trump-orders-doj-to-investigate-democrats-for-threatening-people?traffic_source=rss",
+       "titre": "Trump orders DOJ to investigate Democrats for ‘threatening’ people"
+      }
+     ],
+     "id": "2026-11-08|Trump offers press secretary role to UFC chief Dana White"
+    }
+   ]
   },
   {
    "id": "asie",
    "titre": "APAC",
    "items": [
     {
-     "suite": false,
-     "remplace": null,
-     "emoji": "🇸🇬",
-     "titre": "Singapore Cyber Agency Urges Vigilance After European Fridge Cyberattacks",
-     "resume": "Singapore's Cyber Security Agency urged local firms to restrict web access to industrial control systems following European cyberattacks. Additionally, M1 and Doctor Anywhere disclosed separate data breaches affecting customer information.",
-     "pourquoi": "",
-     "pays": [
-      "Singapore"
-     ],
-     "region": "South-East Asia",
-     "rubrique": "asie",
-     "liens": [
-      {
-       "source": "CNA Singapour",
-       "url": "https://www.channelnewsasia.com/singapore/doctor-anywhere-data-breach-6530871",
-       "titre": "M1 and Doctor Anywhere hit by data breaches; personal information compromised"
-      },
-      {
-       "source": "Straits Times Singapour",
-       "url": "https://www.straitstimes.com/singapore/m1-hit-by-data-breach",
-       "titre": "M1 hit by data breach on Oct 30, customer data exposed"
-      }
-     ],
-     "id": "2026-11-07|Singapore Cyber Agency Urges Vigilance After European Fridge Cyberattacks"
-    },
-    {
      "suite": true,
-     "remplace": "2026-11-06|Troops Deployed in Jakarta Amid Wiretapping Scandal Inquiry",
-     "emoji": "🇮🇩",
-     "titre": "Indonesia Names Fourth Senior Police Officer as Wiretapping Scandal Widens",
-     "resume": "Indonesian authorities named a fourth senior police officer as a suspect in the presidential wiretapping scandal. The high-level political drama has heightened tensions between President Prabowo Subianto and his predecessor.",
-     "pourquoi": "",
-     "pays": [
-      "Indonesia"
-     ],
-     "region": "South-East Asia",
-     "rubrique": "asie",
-     "liens": [
-      {
-       "source": "Japan Times",
-       "url": "https://www.japantimes.co.jp/news/2026/11/06/asia-pacific/politics/indonesia-wiretap-rivalry/",
-       "titre": "Prabowo wiretap spills top Indonesia rivalry into public"
-      },
-      {
-       "source": "CNA Asie",
-       "url": "https://www.channelnewsasia.com/asia/indonesia-fourth-senior-police-officer-wiretapping-suspect-6530131",
-       "titre": "Indonesia names fourth senior police officer as wiretapping suspect amid deepening political rifts"
-      }
-     ],
-     "id": "2026-11-07|Indonesia Names Fourth Senior Police Officer as Wiretapping Scandal Widens"
-    },
-    {
-     "suite": false,
-     "remplace": null,
+     "remplace": "2026-11-07|Malaysian UMNO Settles Najib's Fine as Cabinet Ministers Clash Over House Arrest",
      "emoji": "🇲🇾",
-     "titre": "Malaysian UMNO Settles Najib's Fine as Cabinet Ministers Clash Over House Arrest",
-     "resume": "UMNO settled former Prime Minister Najib Razak's $12.3 million fine, paving the way for his potential house arrest. Transport Minister Anthony Loke vowed to resign immediately if the transfer takes effect.",
+     "titre": "Malaysian King affirms royal prerogative on Najib house arrest decree",
+     "resume": "Sultan Ibrahim Iskandar warned that challenging his royal decree granting house arrest to former prime minister Najib Razak constitutes defiance of the throne. The Attorney-General's Chambers responded that it is seeking judicial clarity to prevent legal conflicts.",
      "pourquoi": "",
      "pays": [
       "Malaysia"
@@ -235,92 +206,93 @@
      "rubrique": "asie",
      "liens": [
       {
+       "source": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/7/malaysian-king-warns-against-defying-house-arrest-order-for-ex-pm-najib?traffic_source=rss",
+       "titre": "Malaysian king warns against defying house arrest order for ex-PM Najib"
+      },
+      {
        "source": "Straits Times Asie",
-       "url": "https://www.straitstimes.com/asia/se-asia/my-resignation-takes-effect-the-moment-najib-steps-into-his-house-malaysian-minister-anthony-loke",
-       "titre": "‘My resignation takes effect the moment Najib steps into his house’: Malaysian minister Anthony Loke"
+       "url": "https://www.straitstimes.com/asia/se-asia/malaysian-kings-warning-raises-stakes-as-najibs-house-arrest-remains-in-legal-limbo",
+       "titre": "Malaysian King’s warning raises stakes as Najib’s house arrest remains in legal limbo"
       },
       {
        "source": "CNA Asie",
-       "url": "https://www.channelnewsasia.com/asia/malaysia-anwar-ibrahim-disagrees-umno-pays-najib-razak-fine-6530656",
-       "titre": "Malaysia PM Anwar says he disagrees with UMNO paying Najib’s US$12.3 million fine"
+       "url": "https://www.channelnewsasia.com/asia/malaysias-attorney-general-defends-halting-najibs-house-arrest-after-kings-rebuke-6532961",
+       "titre": "Malaysia's attorney-general defends halting Najib's house arrest after king's rebuke"
       }
      ],
-     "id": "2026-11-07|Malaysian UMNO Settles Najib's Fine as Cabinet Ministers Clash Over House Arrest"
+     "id": "2026-11-08|Malaysian King affirms royal prerogative on Najib house arrest decree"
     },
     {
      "suite": false,
      "remplace": null,
-     "emoji": "🇯🇵",
-     "titre": "Japan Announces Emergency Cyberdefence Package After Wave of Attacks",
-     "resume": "Japanese Prime Minister Sanae Takaichi announced an emergency cyberdefence package involving expert response teams and public-private cooperation. The move follows a wave of unauthorized access targeting domestic businesses.",
+     "emoji": "🇸🇬",
+     "titre": "SM Lee urges Australia to deepen economic and security ties with South-East Asia",
+     "resume": "Senior Minister Lee Hsien Loong urged Australia to deepen economic and security cooperation with South-East Asia. He emphasised that regional engagement gives Canberra greater strategic flexibility beyond viewing ties solely through the lens of US-China rivalry.",
      "pourquoi": "",
      "pays": [
+      "Singapore",
+      "Australia"
+     ],
+     "region": "South-East Asia",
+     "rubrique": "asie",
+     "liens": [
+      {
+       "source": "CNA Singapour",
+       "url": "https://www.channelnewsasia.com/singapore/lee-hsien-loong-australia-asia-deepen-ties-6531531",
+       "titre": "Australia should deepen economic, security ties with Southeast Asia to advance national interests amid intense global rivalry: SM Lee"
+      },
+      {
+       "source": "Straits Times Singapour",
+       "url": "https://www.straitstimes.com/singapore/australia-should-deepen-ties-with-asia-to-give-itself-more-room-to-pursue-its-interests-sm-lee",
+       "titre": "Australia should deepen ties with Asia to give itself more room to pursue its interests: SM Lee"
+      }
+     ],
+     "id": "2026-11-08|SM Lee urges Australia to deepen economic and security ties with South-East Asia"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🤝",
+     "titre": "South Korean military chiefs to visit Japan to boost defence cooperation",
+     "resume": "The heads of the South Korean Army and Navy will visit Japan this month to meet their Self-Defense Forces counterparts. The meetings aim to strengthen bilateral defence cooperation and trilateral security coordination.",
+     "pourquoi": "",
+     "pays": [
+      "South Korea",
       "Japan"
      ],
      "region": "North-East Asia",
      "rubrique": "asie",
      "liens": [
       {
-       "source": "CNA Asie",
-       "url": "https://www.channelnewsasia.com/asia/japan-cybersecurity-package-hacking-attacks-6531921",
-       "titre": "Japan launches emergency cybersecurity package after wave of attacks"
-      },
-      {
-       "source": "Japan Times",
-       "url": "https://www.japantimes.co.jp/news/2026/11/06/japan/takaichi-cybersecurity-package/",
-       "titre": "Takaichi administration announces emergency cyberdefense package"
-      },
-      {
-       "source": "Straits Times Asie",
-       "url": "https://www.straitstimes.com/asia/east-asia/japan-to-set-up-rescue-team-after-wave-of-cyberattacks",
-       "titre": "Japan to set up ‘cyber rescue team’ after wave of attacks"
+       "source": "読売新聞",
+       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1RNTVPYkNnZ0hSWUFKd2ZqOFo5ZWxteHB0Q2s1OTVaOWpPZGhaa19aLWhwaWRUMUdpUG1tYjZjN1VDMW5aY3RENTdFdDZDT05FMjRNOVR5QUNhdldvMDczeDQ1bVY3Zw?oc=5",
+       "titre": "韓国陸海軍の制服組トップが月内に相次ぎ来日、自衛隊幕僚長と会談へ…「防衛協力」の推進狙い"
       }
      ],
-     "id": "2026-11-07|Japan Announces Emergency Cyberdefence Package After Wave of Attacks"
+     "id": "2026-11-08|South Korean military chiefs to visit Japan to boost defence cooperation"
     },
     {
      "suite": false,
      "remplace": null,
-     "emoji": "🇨🇳",
-     "titre": "Beijing Restricts Advanced Construction Equipment Exports and Adopts Antarctic Law",
-     "resume": "China will restrict the export of tunnel boring machines and advanced construction equipment starting November 18. Beijing also officially adopted a law to regulate its exploration and research activities in Antarctica.",
+     "emoji": "🚀",
+     "titre": "North Korea reveals cluster munition cruise missile drill against airfields",
+     "resume": "North Korea disclosed a military exercise simulating strikes on South Korean airfields using cruise missiles armed with cluster munitions. State media framed the drill as a targeted countermeasure against southern combat aviation assets.",
      "pourquoi": "",
      "pays": [
-      "China"
+      "North Korea",
+      "South Korea"
      ],
      "region": "North-East Asia",
      "rubrique": "asie",
      "liens": [
       {
-       "source": "Straits Times Asie",
-       "url": "https://www.straitstimes.com/asia/south-asia/boring-war-china-cuts-tbm-exports-india-digs-in",
-       "titre": "Boring war: China cuts tunnelling machine exports, India digs in"
+       "source": "YTN",
+       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9VemVyZDVhVjVtdTNyX0JXZERmRTBhVDBLa0FraVpDa3lkT09WclU3NzMyOHFmSjdlOFhrMDNhT21QQjlsR0xHaXNQWVpWdmlSNlRnV05sTWtQN2NnZnc?oc=5",
+       "titre": "北, 韓 공군 겨냥? '집속탄 순항미사일' 비행장 타격 훈련 공개 [자막뉴스]"
       }
      ],
-     "id": "2026-11-07|Beijing Restricts Advanced Construction Equipment Exports and Adopts Antarctic Law"
-    },
-    {
-     "suite": false,
-     "remplace": null,
-     "emoji": "🇵🇬",
-     "titre": "Taiwan Shuts Papua New Guinea Office and Ends LNG Buying Amid Chinese Pressure",
-     "resume": "Taiwan closed its office in Papua New Guinea and halted LNG purchases due to intense pressure from Beijing. The United States expressed deep concern over the sudden closure.",
-     "pourquoi": "",
-     "pays": [
-      "Taiwan",
-      "Papua New Guinea",
-      "China"
-     ],
-     "region": "Oceania",
-     "rubrique": "asie",
-     "liens": [
-      {
-       "source": "Straits Times Asie",
-       "url": "https://www.straitstimes.com/asia/east-asia/taiwan-shuts-papua-new-guinea-office-and-ends-lng-buying-citing-chinese-pressure",
-       "titre": "Taiwan shuts Papua New Guinea office and ends LNG buying, citing Chinese pressure"
-      }
-     ],
-     "id": "2026-11-07|Taiwan Shuts Papua New Guinea Office and Ends LNG Buying Amid Chinese Pressure"
+     "id": "2026-11-08|North Korea reveals cluster munition cruise missile drill against airfields"
     }
    ]
   },
@@ -330,10 +302,10 @@
    "items": [
     {
      "suite": true,
-     "remplace": "2026-11-06|New Zealand Campaigns End Ahead of Tight General Election",
-     "emoji": "🇳🇿",
-     "titre": "New Zealanders Vote in Tightly Contested General Election",
-     "resume": "New Zealand voters wrapped up a closely contested general election dominated by economic concerns and the rising cost of living. Over half of the electorate cast early ballots.",
+     "remplace": "2026-11-07|New Zealanders Vote in Tightly Contested General Election",
+     "emoji": "🗳️",
+     "titre": "New Zealand election ends in deadlock as minor parties emerge as kingmakers",
+     "resume": "New Zealand's general election ended without a clear winner, as both the governing National Party and opposition Labour polled just below 30 percent. Unaligned candidate Qiulae Wong and minor parties now hold the balance of power in coalition negotiations.",
      "pourquoi": "",
      "pays": [
       "New Zealand"
@@ -342,53 +314,27 @@
      "rubrique": "elections",
      "liens": [
       {
-       "source": "Al Jazeera",
-       "url": "https://www.aljazeera.com/news/2026/11/6/new-zealanders-head-to-polls-on-final-day-of-voting?traffic_source=rss",
-       "titre": "New Zealanders head to polls on final day of voting"
+       "source": "Straits Times Asie",
+       "url": "https://www.straitstimes.com/asia/who-is-qiulae-wong-the-outsider-who-could-decide-new-zealands-next-government",
+       "titre": "Who is Qiulae Wong, the outsider who could decide New Zealand's next government?"
       },
       {
        "source": "Reuters",
-       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVElubklwMDN2WWExQ2RadnZ4bnJFRTFOUHlXY0lkUzdaOXBkOGdLeTh1RUxYYzJMZEdkYzJMUHhtZWRISFd1WEgyWTNCMnU2R1NnR1Q2dm93Q2JWSktlSm1kU3hqUU1HQUF4NjB6NUotNFgzMWZNLTg0a1YzQjV5M1dVcVFQd1p3c2UtTHY3MDQxa0REZXc?oc=5",
-       "titre": "New Zealanders vote in general election"
+       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeXBnajlhbkZ6bEs3X2tsanJQZFhLTWpTOVYwcUpDajdySE1qTWtId1RYa1pJMF9PR2cyOGdHTlYxT3JVdFJJc0FZcDNPbU5waVJaNHRzU2lJY1RacHc0cExSRVBiN2M0N0xGbVB1eHc5NXh4WWdxazIwazBfOFRhQ1RHc0JpQ3FOU1hEX2ZNQXFkMUNpZTZOWUs0UWY?oc=5",
+       "titre": "Explainer: What happens next after New Zealand's vote?"
       },
       {
-       "source": "Straits Times Asie",
-       "url": "https://www.straitstimes.com/asia/australianz/new-zealanders-vote-in-general-election",
-       "titre": "Polls open in final day of New Zealand vote"
+       "source": "Japan Times",
+       "url": "https://www.japantimes.co.jp/news/2026/11/08/asia-pacific/politics/new-zealand-vote-unclear/",
+       "titre": "New Zealand preliminary vote leaves unclear who will govern"
+      },
+      {
+       "source": "The Washington Post",
+       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSTJja18wY0QwT2N1eVlYSUxLaHg5bkxadjEwdXQxM016SG9kR1BSc2hIbGxYMy1ZMUZUdlJ3eGN3dGhTNGIzb1FCUDFSektURGszUDlrZzhjQUpuRzRSSnhrc2JfbXExaG1PMjNXRVkxYnlhUjNlNHBQQUVmTkl5LXVhOXNJYWpCNzJ5OG5ncEQxOXNneGFmWFRYaUhGZw?oc=5",
+       "titre": "New Zealand’s election results are too close to call"
       }
      ],
-     "id": "2026-11-07|New Zealanders Vote in Tightly Contested General Election"
-    },
-    {
-     "suite": true,
-     "remplace": "2026-11-06|Paraguayan President Santiago Peña Resigns Following Bank Collapse",
-     "emoji": "🇵🇾",
-     "titre": "Paraguayan President Ousted in Senate Vote and Placed Under House Arrest",
-     "resume": "Paraguayan President Santiago Peña was ousted in a unanimous Senate vote over his links to a collapsed digital bank and placed under house arrest. Pedro Alliana was rapidly sworn in as his successor.",
-     "pourquoi": "",
-     "pays": [
-      "Paraguay"
-     ],
-     "region": "Americas",
-     "rubrique": "elections",
-     "liens": [
-      {
-       "source": "CNA Monde",
-       "url": "https://www.channelnewsasia.com/world/paraguay-president-ousted-and-placed-under-house-arrest-successor-sworn-in-6532536",
-       "titre": "Paraguay president ousted and placed under house arrest, successor sworn in"
-      },
-      {
-       "source": "Al Jazeera",
-       "url": "https://www.aljazeera.com/news/2026/11/7/paraguays-santiago-pena-under-arrest-new-president-pedro-alliana-sworn-in?traffic_source=rss",
-       "titre": "Paraguay’s Santiago Pena under arrest, new president Pedro Alliana sworn in"
-      },
-      {
-       "source": "Le Monde International",
-       "url": "https://www.lemonde.fr/international/article/2026/11/07/paraguay-le-vice-president-pedro-alliana-investi-president-apres-la-destitution-de-santiago-pena-par-le-senat_6807901_3210.html",
-       "titre": "Paraguay : Pedro Alliana investi président, le président destitué Santiago Peña placé en détention à domicile"
-      }
-     ],
-     "id": "2026-11-07|Paraguayan President Ousted in Senate Vote and Placed Under House Arrest"
+     "id": "2026-11-08|New Zealand election ends in deadlock as minor parties emerge as kingmakers"
     }
    ]
   },
@@ -399,23 +345,76 @@
     {
      "suite": false,
      "remplace": null,
-     "emoji": "laser",
-     "titre": "Hanwha Systems Demonstrates Cheongwang Laser Counter-Drone System",
-     "resume": "Hanwha Systems successfully completed live-fire drone intercepts using its Cheongwang laser counter-drone system and a vehicle-mounted 30kW high-energy laser. The demonstration took place during an Army TIGER+ exercise.",
+     "emoji": "🛡️",
+     "titre": "IRGC lifts missile range caps as Tehran reportedly negotiates Russian S-400s",
+     "resume": "The Islamic Revolutionary Guard Corps announced that Iran's self-imposed ballistic missile range restrictions have been lifted and confirmed the expansion of underground missile facilities. Concurrently, regional reports indicate Tehran is negotiating to acquire Russian S-400 air defence systems.",
      "pourquoi": "",
      "pays": [
-      "South Korea"
+      "Iran",
+      "Russia"
      ],
-     "region": "North-East Asia",
+     "region": "Middle East",
      "rubrique": "defense_aerienne",
      "liens": [
       {
-       "source": "Asian Military Review",
-       "url": "https://www.asianmilitaryreview.com/2026/11/hanwha-systems-perfects-laser-weapons-for-counter-drone-role-foc/",
-       "titre": "Hanwha Systems perfects laser weapons for counter-drone role"
+       "source": "The Times of Israel",
+       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOV2FpM1prWWlfTEtQdVR2Qk5GQWRLRHpqTjNyVTRCMVFfU05pVlI3Mk5IaThDd3RuMjhzdmUtSFh1TzRhb2FQRHEwcFFnZmNpV0tqbWplQUs5UGlfelU5OWp6UlIxUmhCVV9ORVZNOTVnMmNpckZpTTMtaFJJWW1Vd0RkczdLTUtoQTJkNjh4WGVtVDFOZmxzdEZ2bE1JWF9xTS1UOGVGNzM5QdIBrwFBVV95cUxNNjZOY0NUaW1TWlFORmdoWFdHdmU3cU9Ud2NKNnFfSWNmbGFWUVZyWWhOS3hZN3BKMWNMMHQxbFg5RVhZNDNLTllwSXNwOUpITzBFMTBZSW5RVmJXeFItblVwOWJtYVMyc1NoWktDMkpERkVYOHlSWWZLZ1U0UlJ4VFFvb09Kc0xwbXdpWU9QOWRHYVdQUjFjYWxzeldkUUctemRFbXdSSmVZcU9WNE1R?oc=5",
+       "titre": "IRGC claims a self-imposed limit on ballistic missile range ‘has been lifted’"
+      },
+      {
+       "source": "Al Jazeera",
+       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUnVtZjdfQnc2S1FwTXpEWnFWRFVxMzVDblFHdFFYaHlNenEzQjlBeGlyaW5waEhQSnJYVDh6d19nRExqTzhTT0JZSzFQUnlaRDFpcHF2dmJwd2ZDNW9uc1FqajJuNXpObEY1ZE9QX05uWndIZTJhQ1JqUWVWOTFlV2gtVWR1LUVDVWhaUWtINUstNEMtdnVCbFhPblU4X2tHR0tmMzNlU0pOVHFPbUpfXzlvMkPSAboBQVVfeXFMT24yWU5kekw4SXgtbXRBMW5IUDhkejNrbEJ2YlZZNkdNdWx5V3J1NU5GWTNHdHNBNkloSXJBTFFUZnVqdWJQaVZUZDRyVGZaY0ZtOExrMS11bW5CME13MVlDUXNUcWJYeW4wRmg4aHJoTTJ1WGVIWXlJb3JSWmZkY0Z4TEFHX0FZNTg1QnM5MWlUVmpBNmllMWFaQllEd3huX2JKZzdURzRncHBUR2ZSUDRTTGJCMmplLTln?oc=5",
+       "titre": "Iran’s IRGC says building underground sites for weapons production, storage"
+      },
+      {
+       "source": "The Times of Israël",
+       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSXhuaGJvYVVScVlYVkJlcTBSSXZwaXctMWViT0puX0FxY3Azdk1RNWRmZVlSU19KZl9tdG1nSVVybHlnYWw0RjZLbnMyX1JrNTlHM2RHOVRFUVNzZjlGcU9jalZnNks2WllDRkEwLXlOSkpLSVdTTHVXaUpIUTlSUXh0RDNLRVNkMV9fY1ZNYVZ4THlQN1J6elBmeTg4aDVxdGcySDV6QmE5ZmpobmhCWFV1X2Fxc0NjeWdoeG9rNjAwV3NfOG11cmwySjhkUzJ6?oc=5",
+       "titre": "L'Iran serait en pourparlers avec la Russie concernant le système de défense aérienne S-400"
       }
      ],
-     "id": "2026-11-07|Hanwha Systems Demonstrates Cheongwang Laser Counter-Drone System"
+     "id": "2026-11-08|IRGC lifts missile range caps as Tehran reportedly negotiates Russian S-400s"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🛩️",
+     "titre": "British F-35B conducts first release of inert MBDA Meteor missile",
+     "resume": "A British Royal Air Force F-35B stealth fighter conducted the aircraft type's first inert release of an MBDA Meteor beyond-visual-range air-to-air missile. The trial marks a milestone in integrating the ramjet-powered interceptor into the UK lightning fleet.",
+     "pourquoi": "",
+     "pays": [
+      "United Kingdom"
+     ],
+     "region": "Europe",
+     "rubrique": "defense_aerienne",
+     "liens": [
+      {
+       "source": "Opex360",
+       "url": "https://www.opex360.com/2026/11/07/le-chasseur-bombardier-f-35b-a-largue-un-missile-air-air-inerte-meteor-pour-la-premiere-fois/",
+       "titre": "Le chasseur-bombardier F-35B a largué un missile air-air [inerte] METEOR pour la première fois"
+      }
+     ],
+     "id": "2026-11-08|British F-35B conducts first release of inert MBDA Meteor missile"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🛡️",
+     "titre": "US Department of War delivers 25,000 counter-drone systems to CENTCOM",
+     "resume": "The US Department of War delivered over 25,000 uncrewed and counter-drone systems to US Central Command. The large-scale fielding aims to protect deployed personnel and critical bases from escalating regional drone threats.",
+     "pourquoi": "",
+     "pays": [
+      "United States"
+     ],
+     "region": "Middle East",
+     "rubrique": "defense_aerienne",
+     "liens": [
+      {
+       "source": "Defence Industry Europe",
+       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPanRsUDdYcVBfVUdxLUxfVmJmN0hBaHVaUExsNUNJNUhsbTROSk9oZ3ZuYW0zX2hZWnkxU042bE96QjlkZmZtcEtxdUpfZGVlaTFBZTc2ZDBsdWlQbHIwU01wajNwQ1JNNWxrNHNhYVJfcG9qZjZkV05tSFhvTFE3d21WaFFxZER5TVkyRHlSbnQzcUNSQ2JXdmhQZXRYdUdpUkVnMWM2OUtfVkxhRm44YnowQzFDMTJzNHpQZUhn?oc=5",
+       "titre": "U.S. Department of War delivers more than 25,000 unmanned and counter-drone systems to CENTCOM"
+      }
+     ],
+     "id": "2026-11-08|US Department of War delivers 25,000 counter-drone systems to CENTCOM"
     }
    ]
   },
@@ -427,30 +426,76 @@
      "suite": false,
      "remplace": null,
      "emoji": "📝",
-     "titre": "Saab to Equip Swedish Navy FDI Frigates with Advanced Naval Systems",
-     "resume": "Saab signed a contract with French shipbuilder Naval Group to equip Sweden's new FDI frigates with naval electronic and sensor systems. The agreement reinforces bilateral defence industrial cooperation.",
+     "titre": "Pentagon awards RTX contracts to ramp up Tomahawk, AMRAAM and Standard Missiles",
+     "resume": "The Pentagon awarded RTX four separate contracts to accelerate and expand production of Tomahawk cruise missiles, AMRAAM air-to-air missiles, and Standard Missile interceptors. The contracts reflect surging demand to replenish US and allied air defence stockpiles.",
      "pourquoi": "",
      "pays": [
-      "Sweden",
-      "France"
+      "United States"
      ],
-     "region": "Europe",
+     "region": "Americas",
      "rubrique": "industrie",
      "liens": [
       {
-       "source": "Naval News",
-       "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/saab-receives-order-to-equip-swedens-new-frigates/",
-       "titre": "Saab receives order to equip Sweden’s new frigates"
+       "source": "Defence Industry Europe",
+       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSTR2dm5GNjBlcjBBd3NPQ1Y0U3JPN3RkZ2NBbEVlZWVVandSOGk5cllkV3JYb0VreTBqSkdLVXV6d0JQaGttVW45YnQyVm1LSE9fczBxcDI2cUhLUlNSMy0tS2lXMjEwN0dzcV9faWxpdjROS0NQZk5xSkFUbE5YbGdFcmhMZTV6RXQ5S1BQTXNMQmxkaWtobDRRcElmUDZIbjVNVzJ4ajlLYTVfM0g2WjZhN1JFSXhnQ0E4?oc=5",
+       "titre": "RTX ramps up Tomahawk, AMRAAM and Standard Missile production under four Pentagon contracts"
       }
      ],
-     "id": "2026-11-07|Saab to Equip Swedish Navy FDI Frigates with Advanced Naval Systems"
+     "id": "2026-11-08|Pentagon awards RTX contracts to ramp up Tomahawk, AMRAAM and Standard Missiles"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "📝",
+     "titre": "Thales Belgium secures record rocket pod contract for Indian Armed Forces",
+     "resume": "Thales Belgium secured a record contract to supply several hundred additional rocket pods to the Indian Armed Forces. The agreement also provides for localising rocket pod manufacturing capabilities within India.",
+     "pourquoi": "",
+     "pays": [
+      "Belgium",
+      "India"
+     ],
+     "region": "South Asia",
+     "rubrique": "industrie",
+     "liens": [
+      {
+       "source": "FOB",
+       "url": "https://forcesoperations.com/contrat-record-pour-les-equipes-belges-de-thales/",
+       "titre": "Contrat record pour les équipes belges de Thales"
+      }
+     ],
+     "id": "2026-11-08|Thales Belgium secures record rocket pod contract for Indian Armed Forces"
     }
    ]
   },
   {
    "id": "ukraine",
    "titre": "Ukraine / Russia",
-   "items": []
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🛡️",
+     "titre": "European multinational force to train in Poland for post-war Ukraine mission",
+     "resume": "Britain and France will lead a 2,800-strong force from 11 nations in a two-week military exercise in Poland. The training focuses on protecting, sustaining, and deploying forces tasked with rebuilding Ukraine's military post-conflict.",
+     "pourquoi": "",
+     "pays": [
+      "United Kingdom",
+      "France",
+      "Poland",
+      "Ukraine"
+     ],
+     "region": "Europe",
+     "rubrique": "ukraine",
+     "liens": [
+      {
+       "source": "Defense News",
+       "url": "https://www.defensenews.com/news/2026/11/07/european-troops-set-to-train-in-poland-for-postwar-ukraine-deployment/",
+       "titre": "European troops set to train in Poland for postwar Ukraine deployment"
+      }
+     ],
+     "id": "2026-11-08|European multinational force to train in Poland for post-war Ukraine mission"
+    }
+   ]
   },
   {
    "id": "moyen_orient",
@@ -459,30 +504,40 @@
     {
      "suite": false,
      "remplace": null,
-     "emoji": "🤝",
-     "titre": "Syria Advises and Trains Saudi Armed Forces Amid Houthi Attacks",
-     "resume": "Syria has deployed a limited number of military personnel to Saudi Arabia to provide tactical advice and training. Riyadh faces ongoing cross-border drone and missile attacks from Yemen's Houthis.",
+     "emoji": "⚠️",
+     "titre": "Deadly strikes hit near Sanaa as Syria denies troop deployment to Yemen",
+     "resume": "Houthi authorities reported that Saudi-led coalition airstrikes killed at least 33 people and wounded dozens near Yemen's capital, Sanaa. Meanwhile, Damascus formally denied reports that Syrian troops would deploy to assist Saudi forces in Yemen.",
      "pourquoi": "",
      "pays": [
+      "Yemen",
       "Saudi Arabia",
-      "Syria",
-      "Yemen"
+      "Syria"
      ],
      "region": "Middle East",
      "rubrique": "moyen_orient",
      "liens": [
       {
        "source": "Al-Monitor",
-       "url": "https://www.al-monitor.com/originals/2026/11/syria-aids-saudi-arabia-military-advice-and-training-amid-houthi-attacks-sources",
-       "titre": "Syria aids Saudi Arabia with military advice and training amid Houthi attacks, sources say"
+       "url": "https://www.al-monitor.com/originals/2026/11/houthi-run-health-ministry-says-airstrikes-kill-33-near-yemen-capital",
+       "titre": "Houthi-run health ministry says airstrikes kill 33 near Yemen capital"
       },
       {
-       "source": "Breaking Defense",
-       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVUFmYzNOeGJYcWhFd0picURycWxJQjVrb0NLQU56U3N0UzQya045ckVseXVST3I5c093d185ZldsajM2cmhSVmVKUmtwZ2pMQXA3WTNiaE9fRW5PVlNST1NsODlVNldHUFdTVnN4bEM4eFlsWWlVeDR2OUxjeEpKRVlNQ0FMeU9QV1dSLW9QRDNyaEZJaks2Wi1PTFhHZkpSeE1hTTNPRElrSTZtWkFNajg3T0NnODhj?oc=5",
-       "titre": "Saudi Arabia inks first defense ‘cooperation’ agreement with Syria’s new leadership"
+       "source": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/7/yemeni-govt-forces-report-advances-as-houthis-say-deadly-strikes-hit-sanaa?traffic_source=rss",
+       "titre": "Yemeni gov’t forces report advances as Houthis say deadly strikes hit Sanaa"
+      },
+      {
+       "source": "BBC World",
+       "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+       "titre": "Houthis say at least 25 killed in Saudi air strike"
+      },
+      {
+       "source": "Le Monde International",
+       "url": "https://www.lemonde.fr/international/article/2026/11/07/au-yemen-22-morts-apres-des-frappes-saoudiennes-dans-la-region-de-sanaa-annoncent-les-houthistes_6808280_3210.html",
+       "titre": "Au Yémen, 33 morts après des frappes saoudiennes dans la région de Sanaa, annoncent les houthistes"
       }
      ],
-     "id": "2026-11-07|Syria Advises and Trains Saudi Armed Forces Amid Houthi Attacks"
+     "id": "2026-11-08|Deadly strikes hit near Sanaa as Syria denies troop deployment to Yemen"
     }
    ]
   },
@@ -493,80 +548,38 @@
     {
      "suite": false,
      "remplace": null,
-     "emoji": "🛡️",
-     "titre": "German Army Deploys Troops to Estonia as Eastern Flank Reinforcements Arrive",
-     "resume": "German military units arrived in Estonia to reinforce NATO's eastern flank posture. The deployment underscores Berlin's commitment to regional deterrence against mounting hybrid threats.",
+     "emoji": "⚠️",
+     "titre": "Deadly mass shooting in Krakow declared act of terrorism by Polish PM",
+     "resume": "A 24-year-old gunman described as fascinated by far-right ideology killed six people in Krakow's Main Market Square before three more bodies were found at his home. Polish Prime Minister Donald Tusk declared the shooting an act of terrorism.",
      "pourquoi": "",
      "pays": [
-      "Germany",
-      "Estonia",
-      "NATO"
-     ],
-     "region": "Europe",
-     "rubrique": "europe",
-     "liens": [
-      {
-       "source": "Defence24.com",
-       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTTFKbVZmenZNcHRHWmFSUENPTHRYRVpXZkw3aFB0ckdHS2VBTURZT2tpRVd1Rjh1WlhHcGswQmFFeC1wZ3UxcDJsS0prZ01ZWDRYZDk3NEJCaEdkOFNaa3VLbmR1T2lUX0d0cmJIQ081cS10YzRZbVB5QzVYWkZPbnZ2VldkWF9NeVRBZkJIZEEwVy0yajRGV0ZZUkFUd3lpWmFBRHBqYw?oc=5",
-       "titre": "US troops return to Estonia. NATO's eastern flank is getting stronger"
-      },
-      {
-       "source": "DW.com",
-       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcW15WXdsLVBKV2xoWFB5TlpDNERxMTRFMGtIQ2Fvd0FxT3Rpa21BR0VpM0NNNVdCQWZ5Q0VjcTlJUkxXN1M2Z0kzRFFzSTVoMmtHeTdDdUZyNm5zdnFIY3A0bm1HeWQ1Zy1RaFVHTEFTUWhucnM0blVvalBxZ2FDcGg4RUp3OVZ1VFIxaWZrUFnSAZABQVVfeXFMTUExcTE4VVIweG5neE9KZURYdU9xT1pLMUl3NF9PaTJ0N09MVlpuY0VUNF9HTnZleE50TGd1NDZSTDlrejBLckhleWhPUV95a3k3WnRKaUR0SEY5NFJ6bTVlREVyb01vTkdPOUhSdnNfSnFxZWwxWGFZNk5fWUtrLV9fT1R4ZGtHS2N6amIxb01s?oc=5",
-       "titre": "German army helps Poland protect itself against Russia"
-      }
-     ],
-     "id": "2026-11-07|German Army Deploys Troops to Estonia as Eastern Flank Reinforcements Arrive"
-    },
-    {
-     "suite": false,
-     "remplace": null,
-     "emoji": "🚨",
-     "titre": "Ireland Issues Security Alerts Ahead of High-Level European Summits in Dublin",
-     "resume": "Irish authorities investigated multiple bomb threats targeting commercial flights and media outlets ahead of two European summits in Dublin. All threats proved unfounded.",
-     "pourquoi": "",
-     "pays": [
-      "Ireland"
-     ],
-     "region": "Europe",
-     "rubrique": "europe",
-     "liens": [
-      {
-       "source": "Le Monde International",
-       "url": "https://www.lemonde.fr/economie/article/2026/11/06/l-irlande-visee-par-des-alertes-a-la-bombe-une-semaine-avant-la-tenue-de-deux-sommets-europeens-a-dublin_6807865_3234.html",
-       "titre": "L’Irlande visée par des alertes à la bombe une semaine avant la tenue de deux sommets européens à Dublin"
-      }
-     ],
-     "id": "2026-11-07|Ireland Issues Security Alerts Ahead of High-Level European Summits in Dublin"
-    },
-    {
-     "suite": true,
-     "remplace": "2026-11-06|Second Wave of Hoax Bomb Threats Disrupts European Aviation",
-     "emoji": "🚨",
-     "titre": "European Aviation and Newsrooms Hit by Second Consecutive Wave of Hoax Bomb Threats",
-     "resume": "A fresh wave of malicious bomb threats disrupted European commercial flights and media outlets, triggering emergency diversions. European authorities have found no explosives or direct links to terrorist networks.",
-     "pourquoi": "",
-     "pays": [
-      "Spain",
-      "Italy",
-      "France",
       "Poland"
      ],
      "region": "Europe",
      "rubrique": "europe",
      "liens": [
       {
-       "source": "CNA Monde",
-       "url": "https://www.channelnewsasia.com/world/newsroom-bomb-threats-europe-flight-hoaxes-6531986",
-       "titre": "Newsroom bomb threats follow escalating European flight hoaxes"
+       "source": "BBC World",
+       "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+       "titre": "What we know so far after Krakow gun attack"
       },
       {
-       "source": "BBC World",
-       "url": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss",
-       "titre": "New wave of bomb threats hit European airlines"
+       "source": "Al Jazeera",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/polish-pm-calls-deadly-krakow-shooting-an-act-of?traffic_source=rss",
+       "titre": "Polish PM calls deadly Krakow shooting an act of ‘terrorism’"
+      },
+      {
+       "source": "Japan Times",
+       "url": "https://www.japantimes.co.jp/news/2026/11/08/world/crime-legal/poland-krakow-mass-shooting/",
+       "titre": "Poland in shock after six die in Krakow mass shooting"
+      },
+      {
+       "source": "CNA Monde",
+       "url": "https://www.channelnewsasia.com/world/gunman-fascinated-far-right-kills-six-in-krakow-poland-6533446",
+       "titre": "Gunman 'fascinated by far-right' kills six in Krakow, Poland"
       }
      ],
-     "id": "2026-11-07|European Aviation and Newsrooms Hit by Second Consecutive Wave of Hoax Bomb Threats"
+     "id": "2026-11-08|Deadly mass shooting in Krakow declared act of terrorism by Polish PM"
     }
    ]
   },
@@ -578,39 +591,56 @@
      "suite": false,
      "remplace": null,
      "emoji": "🛰️",
-     "titre": "US Space Force Partners with Viasat to Integrate Satellite Data Relay Network",
-     "resume": "The U.S. Space Force awarded Viasat a contract worth up to $450 million to manage network operations for the Golden Dome satellite data relay architecture. The initiative aims to bridge disjointed military satellite constellations.",
+     "titre": "Britain's Titania military Earth observation satellite reaches orbit",
+     "resume": "The UK Ministry of Defence confirmed the successful orbital deployment of its Titania military satellite. The spacecraft will bolster sovereign Earth observation, laser communications, and space domain awareness capabilities.",
      "pourquoi": "",
      "pays": [
-      "United States"
+      "United Kingdom"
      ],
-     "region": "Americas",
+     "region": "Europe",
      "rubrique": "espace",
      "liens": [
       {
        "source": "Defence Industry Europe",
-       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeW4yNlpqMVJTSEJNcWNhOTRwWlJKazJZQzFWX1RLb1E3UkVwb0dnLV9CUy11dFBaQW4yLTB2RzdwOGZNZXdFRktMLUkwQWE3X3BmczZiOWJWcHpqckx5VjQ5a0Q4dURITHBfampzMnJMdmRfaUhEelpidHJWemhYeEwwb3JWVzk5TVZoM081cGJsWC13RXJIWmdRRmpha1pqYkoxLTI1OW03VEtLSnFUNnhfTzBvNUFRekI2cFJHQU1mZ29yLWRScnZWMXc1VENkOXBrQw?oc=5",
-       "titre": "U.S. Space Force says it will work with Golden Dome to integrate satellite networks at a new operations center"
-      },
-      {
-       "source": "Breaking Defense",
-       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTWZ0dHIzMlZ2OHFMS2RjRUN2WGdjMUMyZmJ6TnN6OVh2M2RONUlDcGpNeERjWkRySHhkcFltYjFQTndtWU1FYzA1cDFQM3lYa2VFWGlhVXlrSm5fMzVfREpLZDlGd3dzbjJJV09OS2dvY2VPbi1XQ1Y5cHB0TVVSODhPM1FacS13STE4LTRqeFVpQWFPbmYwZjJWSWxLUXVjMnBUQ0NyMmwzVzBudThtYXF4NGpFQUhZQU1WYVAwNzZTZw?oc=5",
-       "titre": "DoD taps Viasat to field operations ‘center’ for Golden Dome satellite data relay network"
-      },
-      {
-       "source": "SpaceNews",
-       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMFU5Y1FxZktOdDYtWmI1Ql9COXdHV2pGWHdESGRFTDl6elNBTElEMUdfUDNhTnh1Qy0zSXBlX2FUOS1DRnhwX3hka181aWh5REF0UllVRjJ2UUx3ZUhsbmJJRGo2ZHBxZ0Q1cE9Ta1dZcXNMTXY5YUVfMHZJbFp0bkRTVk9WSHloRXBjSEs4b0xJZEMtQVp0SUs0MkprTk0?oc=5",
-       "titre": "Viasat wins Space Force network operations contract worth up to $450 million"
+       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVlpaTGwzYTRlbXVJcUZ5TFloaXlpajY2Y3ZXdkE4a3kyRVVnVERoY0tqQU01R2RmM0VlRUtsMF9mNWQzdzlQbEZUX1JWZHdWUjFTeVNWTF9wRl9QZV9DdDkteEx5ZmxHeS1XTTRUeGJCLUVQazIzemtsb0lFRlVLOGNVNFVmc0I5eUYzZ2NhbW1qbVNORGdMZTVVUXJ6cE5BUXNxRE8wSC1XZzg?oc=5",
+       "titre": "Britain’s Titania military satellite reaches orbit to support Earth observation"
       }
      ],
-     "id": "2026-11-07|US Space Force Partners with Viasat to Integrate Satellite Data Relay Network"
+     "id": "2026-11-08|Britain's Titania military Earth observation satellite reaches orbit"
     }
    ]
   },
   {
    "id": "tech",
    "titre": "Emerging Tech",
-   "items": []
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "⚡",
+     "titre": "France accelerates SPALE electromagnetic railgun development for naval vessels",
+     "resume": "The French Ministry of the Armed Forces has accelerated the SPALE electromagnetic railgun programme intended for naval surface combatants. The initiative seeks to develop sovereign hypervelocity projectile technologies to defeat advanced anti-ship and aerial threats.",
+     "pourquoi": "",
+     "pays": [
+      "France"
+     ],
+     "region": "Europe",
+     "rubrique": "tech",
+     "liens": [
+      {
+       "source": "Zone Militaire",
+       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE85TVJWOU1hSTBCTVdMaG41X2JuZzVHak4yeV9rTk9XdElKYUQxRXF3T1VuWjVBcTBwcm1NSzNtQ05WNlBIeFlGMTd3?oc=5",
+       "titre": "SPALEpagesepsitename%%"
+      },
+      {
+       "source": "Opex360",
+       "url": "https://www.opex360.com/2026/11/07/le-ministere-des-armees-accelere-la-mise-au-point-dun-canon-electromagnetique-pour-la-marine-avec-le-projet-spale/",
+       "titre": "Le ministère des Armées accélère la mise au point d’un canon électromagnétique pour la Marine avec le projet SPALE"
+      }
+     ],
+     "id": "2026-11-08|France accelerates SPALE electromagnetic railgun development for naval vessels"
+    }
+   ]
   },
   {
    "id": "economie",
@@ -620,63 +650,116 @@
      "suite": false,
      "remplace": null,
      "emoji": "💰",
-     "titre": "Global Markets and Tech Stocks Rebound Partially Following Robust US Jobs Report",
-     "resume": "Global financial markets staged a partial rebound as U.S. job growth surged and unemployment dropped to 4.1% in October. The positive macroeconomic data helped offset earlier panic from technology stock sell-offs.",
+     "titre": "US presses Beijing on rare earths commitments ahead of Trump-Xi summits",
+     "resume": "The United States pressed Beijing to fully honour its commitments on rare earths and agricultural imports ahead of anticipated bilateral summits between Donald Trump and Xi Jinping. Washington warned that future diplomatic progress hinges on tangible compliance.",
      "pourquoi": "",
      "pays": [
-      "United States"
+      "United States",
+      "China"
      ],
-     "region": "Americas",
+     "region": "Global",
      "rubrique": "economie",
      "liens": [
       {
-       "source": "Reuters",
-       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPakNLaDVCMElHQkc5cjV5SmVJcFNPdVpMbnZHRmVFMkoxR3hhbERYTnBZcUlmQVZBanhMeVhEZHpsN3JxM0xrUHNsYVZPWW1EdXBWam1pNk5lSEZVNHkwcUV1VG9xbmVYek80a3JXelRIcW9fQjQ3TUljTUdpZkhYWUJaZHhxNTUybWQwME81bUtPTmJ4UUg4ZjVrZjVlLUx2azFkWjhmeThDWkp2MHJwdTVR?oc=5",
-       "titre": "US labor market regains ground as job growth surges, unemployment rate falls to 4.1%"
+       "source": "The Jakarta Post",
+       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVHhBRFRwUHdVTVJwR0lWVDlFQmFmckJzUzFQb3V3NmJNU0ZETEVIeDI5NEs3WXZEUzJua2I3c19TQ0NfdUkwTkFEeF9wTHNCOXA1amFkN09Ob1U3MDFBUndtSXNzVUxmZmtIZ29VaS1rSUtXWGhTc2gybXdKVHUxU0JjQV94WHhSX3M0bUluZUxqNGZDUHk3VHd4LXI5a29OcmpZZW40b09XYzZhVUdnZ0JOSkJjM25pcUxnZTU1dlhmUQ?oc=5",
+       "titre": "US urges China to meet rare earths commitments ahead of Trump-Xi meetings"
+      },
+      {
+       "source": "South China Morning Post",
+       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONU02TlFaYk1wWnYxdmdGT2NKX3FpM3h0VmtzZ1o5SlhZelJWZjNpVmM3MWVjMklkNlNFeFFRY1V6d2I2aVA4X3Y2cnVqVUh0NjNoc0RXdlFKR2FCRGRvV3l6RUpRUnJ5a2ItSklEVXhQZVBUd1BZdDdxOTlGR2loMWVxbTBiZlJzNkt5UEN6ZEExeWJYcEhUU0x6MXozQ3UzVVZCTU5DTE9sYlJBM2syTzhvZE5tUXp0aHR2cl9tUWhqVmNrU0VlSnpjMEh6QdIBzgFBVV95cUxNWHBVZmNpdVE0UFU2NExlQzBEUm4xVzJjMDU1VlE1OUY5VGRWU09TNnp0bzg2UDJ2WG1uZXVpc2NsRzlSLTVhVnBkMHVfRVh0cG9jWmc1QnJxa0NTd2NDcnBVREZqcUxjQ2ctNVZFakIyamNFUXdPMGZjOE9uU19uUlVZWDFudkRVaTVwdjUzdDFZOGNxZ295TDFTa1JDV2hUeHBZZjFnWEtnZkJKdXFIX0ZDMEJBTEp2TUFxM3pQb1lrRzlEb0FXVzdROTd2UQ?oc=5",
+       "titre": "China airs ‘serious concern’ over US sanctions ahead of Xi, Trump Apec meeting"
+      },
+      {
+       "source": "The Straits Times",
+       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQU1XSDlBVkw3VGVBdXBTTVAzVFJ1eGRETGpqRW9idGhEb3V5dzdYYV9pMFhMUWNVUXd0MmV4bHlKYm5kWFE3WE1HbWhPdWNYVzhiU2NoRkF4b1ZmSURDZm9kWlJ3OExvaE9YNkprTFBROXExWmZOTy05amJOeXhOYW1rQXdsSFVhT1d5SzMza0xvT2tNRFltd0xTV3RPbm8?oc=5",
+       "titre": "US raises concerns on China trade deal compliance"
       },
       {
        "source": "CNA Monde",
-       "url": "https://www.channelnewsasia.com/world/tech-stocks-wall-street-ai-markets-6532311",
-       "titre": "Tech stocks stage partial rebound while dollar gains after US jobs data"
-      },
-      {
-       "source": "Le Monde International",
-       "url": "https://www.lemonde.fr/economie/article/2026/11/06/aux-etats-unis-l-acceleration-inattendue-des-creations-d-emplois_6807852_3234.html",
-       "titre": "Aux Etats-Unis, l’accélération inattendue des créations d’emplois"
+       "url": "https://www.channelnewsasia.com/east-asia/ahead-trump-xi-meetings-us-presses-china-trade-pledges-6532561",
+       "titre": "Ahead of Trump-Xi meetings, US presses China on trade pledges"
       }
      ],
-     "id": "2026-11-07|Global Markets and Tech Stocks Rebound Partially Following Robust US Jobs Report"
+     "id": "2026-11-08|US presses Beijing on rare earths commitments ahead of Trump-Xi summits"
     }
    ]
   }
  ],
  "a_surveiller": [
   {
-   "quand": "November 16",
-   "quoi": "Singapore and Malaysia to expand cross-border taxi quota and introduce new ride-hailing operators",
+   "quand": "November 9",
+   "quoi": "Opening of COP31 UN climate conference in Antalya, Turkey",
    "liens": [
     {
-     "source": "CNA Singapour",
-     "url": "https://www.channelnewsasia.com/singapore/cross-border-taxi-quota-increase-singapore-malaysia-6529936",
-     "titre": "Singapore, Malaysia to expand cross-border taxi quota to 500 each, add two ride-hailing operators from Nov 16"
+     "source": "Le Monde International",
+     "url": "https://www.lemonde.fr/planete/article/2026/11/07/en-turquie-pays-d-accueil-de-la-cop31-les-ravages-sans-fin-de-la-double-centrale-au-charbon-d-afsin-elbistan_6808282_3244.html",
+     "titre": "En Turquie, pays d’accueil de la COP31, les ravages sans fin de la double centrale au charbon d’Afsin-Elbistan"
     }
    ]
   },
   {
-   "quand": "January 30, 2027",
-   "quoi": "German Federal Convention to elect the next President of the Federal Republic",
+   "quand": "Next week",
+   "quoi": "Trilateral Ukraine-Russia-US peace talks scheduled in Abu Dhabi",
    "liens": [
     {
-     "source": "Le Monde International",
-     "url": "https://www.lemonde.fr/international/article/2026/11/06/allemagne-ilse-aigner-conservatrice-bavaroise-pourrait-devenir-la-premiere-femme-presidente-de-la-republique-federale_6807858_3210.html",
-     "titre": "Allemagne : Ilse Aigner, conservatrice bavaroise, pourrait devenir la première femme présidente de la République fédérale"
+     "source": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
+     "titre": "Russian strikes wound nine and damage Ukraine's power network ahead of talks"
+    },
+    {
+     "source": "Politico",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSWpGcGNKTlgzQzQyUTBodEgyUE5QRk9nMExaTkJMaHpxTjY5dG9Ec29pVjRfWVRZTFR0Ymcyb1Bqcl9Ic29EMkNnclJJOGdON3FlQ0ZIeWhMWTJDa1pubFBfanFSMUlrb0s3NklXaFZJeHYxaWhIUzd2RzVwSkFmblAtakUxTk9IRUdhQVdfcWEtci05TlhBQnVNZHZxX3FpcWlkQVRlX18?oc=5",
+     "titre": "Russia hits Kyiv in overnight attack days before Abu Dhabi talks"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPckRkTENydGpmMGpDbWpfYVhKemxXQnRLcWVIU05MdHZMS2Nma2Z3UlRONVpMWkg0bFh2N2J5STdSRVRPVUZNdWQ3eTRGWVZoTm90LW9acDZaOUNLYU0xQ2FubkxtbGVDc3NidWtNbkFMM0VOQ1BPS2Nfa2ptLXBGN1NKQXlIZ0F6RE5lSWtjb0dQZHFva3N5SzM2WWZnNWIwOXZlZDhTekpIMy1pQnBpZFpQbFk4VkxOc05IWU40NFR6RS0z?oc=5",
+     "titre": "Russian diplomats and military officials to join talks with US and Ukraine, Kremlin says"
+    }
+   ]
+  },
+  {
+   "quand": "November",
+   "quoi": "South Korean Army and Navy chiefs visit Japan for bilateral talks with SDF",
+   "liens": [
+    {
+     "source": "読売新聞",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1RNTVPYkNnZ0hSWUFKd2ZqOFo5ZWxteHB0Q2s1OTVaOWpPZGhaa19aLWhwaWRUMUdpUG1tYjZjN1VDMW5aY3RENTdFdDZDT05FMjRNOVR5QUNhdldvMDczeDQ1bVY3Zw?oc=5",
+     "titre": "韓国陸海軍の制服組トップが月内に相次ぎ来日、自衛隊幕僚長と会談へ…「防衛協力」の推進狙い"
+    }
+   ]
+  },
+  {
+   "quand": "Upcoming weeks",
+   "quoi": "Anticipated Trump-Xi Jinping bilateral meetings at upcoming summits",
+   "liens": [
+    {
+     "source": "The Jakarta Post",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVHhBRFRwUHdVTVJwR0lWVDlFQmFmckJzUzFQb3V3NmJNU0ZETEVIeDI5NEs3WXZEUzJua2I3c19TQ0NfdUkwTkFEeF9wTHNCOXA1amFkN09Ob1U3MDFBUndtSXNzVUxmZmtIZ29VaS1rSUtXWGhTc2gybXdKVHUxU0JjQV94WHhSX3M0bUluZUxqNGZDUHk3VHd4LXI5a29OcmpZZW40b09XYzZhVUdnZ0JOSkJjM25pcUxnZTU1dlhmUQ?oc=5",
+     "titre": "US urges China to meet rare earths commitments ahead of Trump-Xi meetings"
+    },
+    {
+     "source": "South China Morning Post",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONU02TlFaYk1wWnYxdmdGT2NKX3FpM3h0VmtzZ1o5SlhZelJWZjNpVmM3MWVjMklkNlNFeFFRY1V6d2I2aVA4X3Y2cnVqVUh0NjNoc0RXdlFKR2FCRGRvV3l6RUpRUnJ5a2ItSklEVXhQZVBUd1BZdDdxOTlGR2loMWVxbTBiZlJzNkt5UEN6ZEExeWJYcEhUU0x6MXozQ3UzVVZCTU5DTE9sYlJBM2syTzhvZE5tUXp0aHR2cl9tUWhqVmNrU0VlSnpjMEh6QdIBzgFBVV95cUxNWHBVZmNpdVE0UFU2NExlQzBEUm4xVzJjMDU1VlE1OUY5VGRWU09TNnp0bzg2UDJ2WG1uZXVpc2NsRzlSLTVhVnBkMHVfRVh0cG9jWmc1QnJxa0NTd2NDcnBVREZqcUxjQ2ctNVZFakIyamNFUXdPMGZjOE9uU19uUlVZWDFudkRVaTVwdjUzdDFZOGNxZ295TDFTa1JDV2hUeHBZZjFnWEtnZkJKdXFIX0ZDMEJBTEp2TUFxM3pQb1lrRzlEb0FXVzdROTd2UQ?oc=5",
+     "titre": "China airs ‘serious concern’ over US sanctions ahead of Xi, Trump Apec meeting"
+    },
+    {
+     "source": "CNA Monde",
+     "url": "https://www.channelnewsasia.com/east-asia/ahead-trump-xi-meetings-us-presses-china-trade-pledges-6532561",
+     "titre": "Ahead of Trump-Xi meetings, US presses China on trade pledges"
+    },
+    {
+     "source": "Japan Times",
+     "url": "https://www.japantimes.co.jp/business/2026/11/07/economy/us-china-rare-earths-agriculture/",
+     "titre": "U.S. urges China to meet rare earths and agriculture commitments ahead of Trump-Xi meetings"
     }
    ]
   }
  ],
  "hebdo": null,
  "stats": {
-  "articles": 391,
+  "articles": 257,
   "sources": 52
  }
 }

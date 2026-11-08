@@ -1,0 +1,765 @@
+{
+ "date": "2026-11-08",
+ "date_label": "Sunday, November 8, 2026",
+ "genere_le": "2026-11-08T09:53:59+08:00",
+ "mode": "ia",
+ "modele": "gemini-flash-latest",
+ "accroche": [
+  "Eisenkot tasked to form Israeli government after inconclusive general election",
+  "Russia strikes Ukrainian power grid with North Korean ballistic missiles",
+  "New Zealand election ends in deadlock with kingmakers holding parliament balance"
+ ],
+ "essentiel": [
+  {
+   "suite": true,
+   "remplace": "2026-11-06|Opposition Leader Eisenkot Secures Support to Form Israeli Government",
+   "emoji": "🗳️",
+   "titre": "Israeli president tasks opposition leader Eisenkot with forming government",
+   "resume": "President Isaac Herzog officially granted opposition leader Gadi Eisenkot 28 days to build a 61-seat coalition. The decision sidelines Prime Minister Benjamin Netanyahu following last week's inconclusive general election.",
+   "pourquoi": "",
+   "pays": [
+    "Israel"
+   ],
+   "region": "Middle East",
+   "rubrique": "elections",
+   "liens": [
+    {
+     "source": "The Washington Post",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNkNJbUh4ZFl6NzBHZjJZVU85UGhmUnIzSnBXZUhrczJyNldvUWNHYndxc293NGFwOG1Yb2JaeEdmVW1nYWU1dmdrYVJXU2NVdFZERGN6TjZSUFk3WmhzTjdHd2RZdWx5OFZQOEx6V3lOeVY5dTlwV0pidXZ6RWN3MVlPU20xQWJmcjlPdzJtSlZWMld0QkpESFVkbEpfa3k4ZzJhc2Z1QzR2OGdEdlFfQ3VBWjZvZWtDSXhuN0taZFNFU1E4?oc=5",
+     "titre": "Ex-military chief Gadi Eisenkot, opponent of Netanyahu, tapped to form government"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/eisenkot-chosen-over-netanyahu-to-form-israels-next-government?traffic_source=rss",
+     "titre": "Eisenkot chosen over Netanyahu to form Israel’s next government"
+    },
+    {
+     "source": "Japan Times",
+     "url": "https://www.japantimes.co.jp/news/2026/11/08/world/politics/israel-president-gadi-eisenkot-government/",
+     "titre": "Israeli president picks Gadi Eisenkot, Netanyahu rival, to try to form government"
+    },
+    {
+     "source": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+     "titre": "Israel's president tasks opposition leader Eisenkot with forming government"
+    }
+   ],
+   "id": "2026-11-08|Israeli president tasks opposition leader Eisenkot with forming government"
+  },
+  {
+   "suite": true,
+   "remplace": "2026-11-07|Kyiv Plunged Into Darkness After Heavy Russian Missile Strikes",
+   "emoji": "🚀",
+   "titre": "Russia targets Ukrainian energy grid with North Korean KN-23 missiles",
+   "resume": "Russian strikes battered power infrastructure across Ukraine and Kyiv, causing severe blackouts ahead of peace talks in Abu Dhabi. President Volodymyr Zelenskyy confirmed North Korean KN-23 ballistic missiles were used against a key energy facility.",
+   "pourquoi": "",
+   "pays": [
+    "Ukraine",
+    "Russia",
+    "North Korea"
+   ],
+   "region": "Russia-Ukraine",
+   "rubrique": "ukraine",
+   "liens": [
+    {
+     "source": "조선일보",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeEpLVlBsbUV2Y1B5a3RPTlY3TElvRnJVT2dubDh0ZlNxMkViTHhFN0NkM2VPMWREVmVnV2xOdnpxTUxyb05vcy15RE9fWjBfdTEyUTNCRk0yV3QxSGgzZFBSdGJmTGNRMzRKSlZWQ3lJaU5rOVdIWTBqWmtfWDljMWZ3bTVyQ2E2SURRbmRQQ2x3WTdzOEJVdGVsQVE4Zw?oc=5",
+     "titre": "젤렌스키 \"북한 KN-23 미사일, 우크라 에너지 시설 공격에 사용\""
+    },
+    {
+     "source": "Le Monde International",
+     "url": "https://www.lemonde.fr/international/live/2026/11/07/en-direct-guerre-en-ukraine-les-dernieres-informations_6803934_3210.html",
+     "titre": "EN DIRECT, guerre en Ukraine : les dernières informations"
+    },
+    {
+     "source": "CNA Monde",
+     "url": "https://www.channelnewsasia.com/world/russia-pounds-power-facilities-around-kyiv-damages-major-bridge-6533046",
+     "titre": "Russia pounds power facilities around Kyiv, damages major bridge"
+    },
+    {
+     "source": "뉴시스",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFUldUeEVndmtoOE11VVVORDJod0Vtd1VtUV9tUWVSTTRHVXQ3bF9NRm92cnJVM09BOVFhcWdWbUgzVk5TckJpMlh6MFdIUnFhQVhIUFBWZFFtNGZQREZlcdIBeEFVX3lxTE9TZkdxWkZXRjI0aTQ5cC1qVEFxVzdKMEJzNUdQS1MyLUp3bVBvYi14UnFmWHdYelNLbF8wcHQ1OWFyN19KQ2wwcGd0bVNrRlZhenpPV2lMZDVPT3JQei1hM1FoLUFBcDFGb2YzZGxPcnkyWmFiZmtUOA?oc=5",
+     "titre": "젤렌스키 \"러, 우크라 에너지 시설 공격에 북한 KN-23 미사일 사용\""
+    }
+   ],
+   "id": "2026-11-08|Russia targets Ukrainian energy grid with North Korean KN-23 missiles"
+  },
+  {
+   "suite": false,
+   "remplace": null,
+   "emoji": "⚠️",
+   "titre": "US strikes Iranian air defence on Qeshm and expands blockade to land routes",
+   "resume": "Donald Trump confirmed targeted US strikes hit an air defence installation on Iran's Qeshm Island. Concurrently, the US military launched an operational task force to intercept Tehran's overland trade and arms flows, extending its maritime blockade.",
+   "pourquoi": "",
+   "pays": [
+    "United States",
+    "Iran"
+   ],
+   "region": "Middle East",
+   "rubrique": "moyen_orient",
+   "liens": [
+    {
+     "source": "The Washington Post",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTHJ4Z08xMkRQRml0cEZYUFhnRmJ2X294S2tERkkwNTN4MjdVVmxqcE5UOWJEZlI1eFlSSXo0RFI3Wnp2bjJlc1JiV2xNX0ljMGUxN1RRU29OV2M3VVp2OWlubzdOSlBOajE2N0h6bEVXbm9QY1lkaXNXbEV1NUdSSXEyQkFZb2VvUzVJNzYtS3pKUFVaUG1Jd0JJN3liMVFWOXJ2a2U0ZlVHY04wdVZFVk1yVzZCNm9MLW81NkNzNGE3czVXWm9HMg?oc=5",
+     "titre": "U.S. military seeks to disrupt Iran’s land routes, expanding on naval blockade"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/8/iran-war-live-explosions-hit-qeshm-us-moves-to-block-land-supply-routes?traffic_source=rss",
+     "titre": "Iran war live: Blasts heard in Qeshm; US moves to block land supply routes"
+    },
+    {
+     "source": "The Times of Israël",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWlpiRnFFaDBvOHBFd1JMMDhuaGRLU0E4d0FNU00zVHAwQlNVenpvdjd3MmVYckZnRF9fb202Z2R1UDJ1cXNwa1o3cE9GRTJLb01YNEFvamlpbC1RcTVQRlFsZDI5LUk5TEN5VTZITXZVQnJwM29QaUh0V1dHYUtScDdTdGxwNUg1R3hSQTN1QnhwUVRxNjRuemZZZEdCOUpIWldFTjZtZGU4WWY3eUphM0xpaHVnOXpwV3JkTWZBcmd6Skd5OWw2NXlIRWZsWG1FcEHSAdIBQVVfeXFMUFpaYkZxRWgwbzhwRXdSTDA4bmhkS1NBOHdBTVNNM1RwMEJTVXp6b3Y3dzJlWHJGZ0RfX29tNmdkdVAydXFzcGtaN3BPRkUyS29NWDRBb2ppaWwtUXE1UEZRbGQyOS1JOUxDeVU2SE12VUJycDNvUGlIdFdXR2FLUnA3U3RscDVINUd4UkEzdUJ4cFFUcTY0bnpmWWRHQjlKSFpXRU42bWRlOFlmN3lKYTNMaWh1Zzl6cFdyZE1mQXJnekpHeTlsNjV5SEVmbFhtRXBB?oc=5",
+     "titre": "Trump : les États-Unis ont lancé des frappes « mineures » contre l’Iran, visant « un petit dispositif antiaérien »"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTGRyZ1FFOWdNalpDbFdEeHZqc1JMNVVkekpWT3NULUU4N0hXTkN3MTQ5dlNSWjdhaUVCWlVUQVdhbkZrOEdDZ2FlNS1qOENqVnhOWGNYcmgtSU8xN3pHUjIzdDZ5akJZNzhnR3g4U0w5NjR1NUNka204MWRxak1WN056VUQ1MEhpNnpnaWVGSF90RlBMaTBWY1R5NFJDa3Q0SE1rMDhUUHRJZ01EMDJHdkhqMTY5aFU5TGd6WTNsekRoQkcyUkE?oc=5",
+     "titre": "EXCLUSIVE: Expanding on naval blockade, US military looks to restrict Iranian land commerce"
+    }
+   ],
+   "id": "2026-11-08|US strikes Iranian air defence on Qeshm and expands blockade to land routes"
+  },
+  {
+   "suite": false,
+   "remplace": null,
+   "emoji": "🛩️",
+   "titre": "Taiwan receives first batch of F-16 Block 70 fighter aircraft",
+   "resume": "The Republic of China Air Force escorted the arrival of Taiwan's first two F-16 Block 70 multirole fighters. The long-awaited delivery significantly bolsters Taipei's combat aviation and air defence posture.",
+   "pourquoi": "",
+   "pays": [
+    "Taiwan",
+    "United States",
+    "China"
+   ],
+   "region": "North-East Asia",
+   "rubrique": "defense_aerienne",
+   "liens": [
+    {
+     "source": "中華民國國防部- 全球資訊網",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5ZU9ERzZTbXZGMVF3MHY3dkxYZVh0cVhKZ2lkSWc2UFJGTWVxYkpsS3ROckN1N2FhRnRhcldYeUVia3Bqb3FxV0F4U0dhYm9zQUc0MUh4M3RKbnZnOVQtMkZvMEtRbElMcHlCelhTVE0?oc=5",
+     "titre": "全球資訊網- 新聞與公告- 本部新聞- 空軍伴飛首批兩架F-16 BLK 70抵臺"
+    }
+   ],
+   "id": "2026-11-08|Taiwan receives first batch of F-16 Block 70 fighter aircraft"
+  }
+ ],
+ "rubriques": [
+  {
+   "id": "monde",
+   "titre": "World",
+   "items": [
+    {
+     "suite": true,
+     "remplace": "2026-11-07|US Midterm Aftermath: Democrats Control Congress as Trump Names Stephen Miller Chief of Staff",
+     "emoji": "🇺🇸",
+     "titre": "Trump offers press secretary role to UFC chief Dana White",
+     "resume": "President Donald Trump has offered the post of White House press secretary to UFC chief Dana White. The move comes as Trump demands criminal investigations into congressional Democrats following their midterm victory.",
+     "pourquoi": "",
+     "pays": [
+      "United States"
+     ],
+     "region": "Americas",
+     "rubrique": "monde",
+     "liens": [
+      {
+       "source": "Japan Times",
+       "url": "https://www.japantimes.co.jp/news/2026/11/08/world/politics/trump-ufc-press-secretary/",
+       "titre": "Trump taps UFC boss as press secretary, urges criminal probes into Democrats"
+      },
+      {
+       "source": "CNA Monde",
+       "url": "https://www.channelnewsasia.com/world/trump-offers-press-secretary-role-ufc-chief-dana-white-6533481",
+       "titre": "Trump offers press secretary role to UFC chief Dana White"
+      },
+      {
+       "source": "Le Monde International",
+       "url": "https://www.lemonde.fr/international/article/2026/11/07/dana-white-le-patron-de-l-ufc-sollicite-par-donald-trump-au-poste-de-porte-parole-de-la-maison-blanche_6808316_3210.html",
+       "titre": "Dana White, le patron de l’UFC et proche de Donald Trump, sollicité pour devenir porte-parole de la Maison Blanche"
+      },
+      {
+       "source": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/7/trump-orders-doj-to-investigate-democrats-for-threatening-people?traffic_source=rss",
+       "titre": "Trump orders DOJ to investigate Democrats for ‘threatening’ people"
+      }
+     ],
+     "id": "2026-11-08|Trump offers press secretary role to UFC chief Dana White"
+    }
+   ]
+  },
+  {
+   "id": "asie",
+   "titre": "APAC",
+   "items": [
+    {
+     "suite": true,
+     "remplace": "2026-11-07|Malaysian UMNO Settles Najib's Fine as Cabinet Ministers Clash Over House Arrest",
+     "emoji": "🇲🇾",
+     "titre": "Malaysian King affirms royal prerogative on Najib house arrest decree",
+     "resume": "Sultan Ibrahim Iskandar warned that challenging his royal decree granting house arrest to former prime minister Najib Razak constitutes defiance of the throne. The Attorney-General's Chambers responded that it is seeking judicial clarity to prevent legal conflicts.",
+     "pourquoi": "",
+     "pays": [
+      "Malaysia"
+     ],
+     "region": "South-East Asia",
+     "rubrique": "asie",
+     "liens": [
+      {
+       "source": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/7/malaysian-king-warns-against-defying-house-arrest-order-for-ex-pm-najib?traffic_source=rss",
+       "titre": "Malaysian king warns against defying house arrest order for ex-PM Najib"
+      },
+      {
+       "source": "Straits Times Asie",
+       "url": "https://www.straitstimes.com/asia/se-asia/malaysian-kings-warning-raises-stakes-as-najibs-house-arrest-remains-in-legal-limbo",
+       "titre": "Malaysian King’s warning raises stakes as Najib’s house arrest remains in legal limbo"
+      },
+      {
+       "source": "CNA Asie",
+       "url": "https://www.channelnewsasia.com/asia/malaysias-attorney-general-defends-halting-najibs-house-arrest-after-kings-rebuke-6532961",
+       "titre": "Malaysia's attorney-general defends halting Najib's house arrest after king's rebuke"
+      }
+     ],
+     "id": "2026-11-08|Malaysian King affirms royal prerogative on Najib house arrest decree"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🇸🇬",
+     "titre": "SM Lee urges Australia to deepen economic and security ties with South-East Asia",
+     "resume": "Senior Minister Lee Hsien Loong urged Australia to deepen economic and security cooperation with South-East Asia. He emphasised that regional engagement gives Canberra greater strategic flexibility beyond viewing ties solely through the lens of US-China rivalry.",
+     "pourquoi": "",
+     "pays": [
+      "Singapore",
+      "Australia"
+     ],
+     "region": "South-East Asia",
+     "rubrique": "asie",
+     "liens": [
+      {
+       "source": "CNA Singapour",
+       "url": "https://www.channelnewsasia.com/singapore/lee-hsien-loong-australia-asia-deepen-ties-6531531",
+       "titre": "Australia should deepen economic, security ties with Southeast Asia to advance national interests amid intense global rivalry: SM Lee"
+      },
+      {
+       "source": "Straits Times Singapour",
+       "url": "https://www.straitstimes.com/singapore/australia-should-deepen-ties-with-asia-to-give-itself-more-room-to-pursue-its-interests-sm-lee",
+       "titre": "Australia should deepen ties with Asia to give itself more room to pursue its interests: SM Lee"
+      }
+     ],
+     "id": "2026-11-08|SM Lee urges Australia to deepen economic and security ties with South-East Asia"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🤝",
+     "titre": "South Korean military chiefs to visit Japan to boost defence cooperation",
+     "resume": "The heads of the South Korean Army and Navy will visit Japan this month to meet their Self-Defense Forces counterparts. The meetings aim to strengthen bilateral defence cooperation and trilateral security coordination.",
+     "pourquoi": "",
+     "pays": [
+      "South Korea",
+      "Japan"
+     ],
+     "region": "North-East Asia",
+     "rubrique": "asie",
+     "liens": [
+      {
+       "source": "読売新聞",
+       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1RNTVPYkNnZ0hSWUFKd2ZqOFo5ZWxteHB0Q2s1OTVaOWpPZGhaa19aLWhwaWRUMUdpUG1tYjZjN1VDMW5aY3RENTdFdDZDT05FMjRNOVR5QUNhdldvMDczeDQ1bVY3Zw?oc=5",
+       "titre": "韓国陸海軍の制服組トップが月内に相次ぎ来日、自衛隊幕僚長と会談へ…「防衛協力」の推進狙い"
+      }
+     ],
+     "id": "2026-11-08|South Korean military chiefs to visit Japan to boost defence cooperation"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🚀",
+     "titre": "North Korea reveals cluster munition cruise missile drill against airfields",
+     "resume": "North Korea disclosed a military exercise simulating strikes on South Korean airfields using cruise missiles armed with cluster munitions. State media framed the drill as a targeted countermeasure against southern combat aviation assets.",
+     "pourquoi": "",
+     "pays": [
+      "North Korea",
+      "South Korea"
+     ],
+     "region": "North-East Asia",
+     "rubrique": "asie",
+     "liens": [
+      {
+       "source": "YTN",
+       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9VemVyZDVhVjVtdTNyX0JXZERmRTBhVDBLa0FraVpDa3lkT09WclU3NzMyOHFmSjdlOFhrMDNhT21QQjlsR0xHaXNQWVpWdmlSNlRnV05sTWtQN2NnZnc?oc=5",
+       "titre": "北, 韓 공군 겨냥? '집속탄 순항미사일' 비행장 타격 훈련 공개 [자막뉴스]"
+      }
+     ],
+     "id": "2026-11-08|North Korea reveals cluster munition cruise missile drill against airfields"
+    }
+   ]
+  },
+  {
+   "id": "elections",
+   "titre": "Elections & Politics",
+   "items": [
+    {
+     "suite": true,
+     "remplace": "2026-11-07|New Zealanders Vote in Tightly Contested General Election",
+     "emoji": "🗳️",
+     "titre": "New Zealand election ends in deadlock as minor parties emerge as kingmakers",
+     "resume": "New Zealand's general election ended without a clear winner, as both the governing National Party and opposition Labour polled just below 30 percent. Unaligned candidate Qiulae Wong and minor parties now hold the balance of power in coalition negotiations.",
+     "pourquoi": "",
+     "pays": [
+      "New Zealand"
+     ],
+     "region": "Oceania",
+     "rubrique": "elections",
+     "liens": [
+      {
+       "source": "Straits Times Asie",
+       "url": "https://www.straitstimes.com/asia/who-is-qiulae-wong-the-outsider-who-could-decide-new-zealands-next-government",
+       "titre": "Who is Qiulae Wong, the outsider who could decide New Zealand's next government?"
+      },
+      {
+       "source": "Reuters",
+       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeXBnajlhbkZ6bEs3X2tsanJQZFhLTWpTOVYwcUpDajdySE1qTWtId1RYa1pJMF9PR2cyOGdHTlYxT3JVdFJJc0FZcDNPbU5waVJaNHRzU2lJY1RacHc0cExSRVBiN2M0N0xGbVB1eHc5NXh4WWdxazIwazBfOFRhQ1RHc0JpQ3FOU1hEX2ZNQXFkMUNpZTZOWUs0UWY?oc=5",
+       "titre": "Explainer: What happens next after New Zealand's vote?"
+      },
+      {
+       "source": "Japan Times",
+       "url": "https://www.japantimes.co.jp/news/2026/11/08/asia-pacific/politics/new-zealand-vote-unclear/",
+       "titre": "New Zealand preliminary vote leaves unclear who will govern"
+      },
+      {
+       "source": "The Washington Post",
+       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSTJja18wY0QwT2N1eVlYSUxLaHg5bkxadjEwdXQxM016SG9kR1BSc2hIbGxYMy1ZMUZUdlJ3eGN3dGhTNGIzb1FCUDFSektURGszUDlrZzhjQUpuRzRSSnhrc2JfbXExaG1PMjNXRVkxYnlhUjNlNHBQQUVmTkl5LXVhOXNJYWpCNzJ5OG5ncEQxOXNneGFmWFRYaUhGZw?oc=5",
+       "titre": "New Zealand’s election results are too close to call"
+      }
+     ],
+     "id": "2026-11-08|New Zealand election ends in deadlock as minor parties emerge as kingmakers"
+    }
+   ]
+  },
+  {
+   "id": "defense_aerienne",
+   "titre": "Air & Missile Defence",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🛡️",
+     "titre": "IRGC lifts missile range caps as Tehran reportedly negotiates Russian S-400s",
+     "resume": "The Islamic Revolutionary Guard Corps announced that Iran's self-imposed ballistic missile range restrictions have been lifted and confirmed the expansion of underground missile facilities. Concurrently, regional reports indicate Tehran is negotiating to acquire Russian S-400 air defence systems.",
+     "pourquoi": "",
+     "pays": [
+      "Iran",
+      "Russia"
+     ],
+     "region": "Middle East",
+     "rubrique": "defense_aerienne",
+     "liens": [
+      {
+       "source": "The Times of Israel",
+       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOV2FpM1prWWlfTEtQdVR2Qk5GQWRLRHpqTjNyVTRCMVFfU05pVlI3Mk5IaThDd3RuMjhzdmUtSFh1TzRhb2FQRHEwcFFnZmNpV0tqbWplQUs5UGlfelU5OWp6UlIxUmhCVV9ORVZNOTVnMmNpckZpTTMtaFJJWW1Vd0RkczdLTUtoQTJkNjh4WGVtVDFOZmxzdEZ2bE1JWF9xTS1UOGVGNzM5QdIBrwFBVV95cUxNNjZOY0NUaW1TWlFORmdoWFdHdmU3cU9Ud2NKNnFfSWNmbGFWUVZyWWhOS3hZN3BKMWNMMHQxbFg5RVhZNDNLTllwSXNwOUpITzBFMTBZSW5RVmJXeFItblVwOWJtYVMyc1NoWktDMkpERkVYOHlSWWZLZ1U0UlJ4VFFvb09Kc0xwbXdpWU9QOWRHYVdQUjFjYWxzeldkUUctemRFbXdSSmVZcU9WNE1R?oc=5",
+       "titre": "IRGC claims a self-imposed limit on ballistic missile range ‘has been lifted’"
+      },
+      {
+       "source": "Al Jazeera",
+       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUnVtZjdfQnc2S1FwTXpEWnFWRFVxMzVDblFHdFFYaHlNenEzQjlBeGlyaW5waEhQSnJYVDh6d19nRExqTzhTT0JZSzFQUnlaRDFpcHF2dmJwd2ZDNW9uc1FqajJuNXpObEY1ZE9QX05uWndIZTJhQ1JqUWVWOTFlV2gtVWR1LUVDVWhaUWtINUstNEMtdnVCbFhPblU4X2tHR0tmMzNlU0pOVHFPbUpfXzlvMkPSAboBQVVfeXFMT24yWU5kekw4SXgtbXRBMW5IUDhkejNrbEJ2YlZZNkdNdWx5V3J1NU5GWTNHdHNBNkloSXJBTFFUZnVqdWJQaVZUZDRyVGZaY0ZtOExrMS11bW5CME13MVlDUXNUcWJYeW4wRmg4aHJoTTJ1WGVIWXlJb3JSWmZkY0Z4TEFHX0FZNTg1QnM5MWlUVmpBNmllMWFaQllEd3huX2JKZzdURzRncHBUR2ZSUDRTTGJCMmplLTln?oc=5",
+       "titre": "Iran’s IRGC says building underground sites for weapons production, storage"
+      },
+      {
+       "source": "The Times of Israël",
+       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSXhuaGJvYVVScVlYVkJlcTBSSXZwaXctMWViT0puX0FxY3Azdk1RNWRmZVlSU19KZl9tdG1nSVVybHlnYWw0RjZLbnMyX1JrNTlHM2RHOVRFUVNzZjlGcU9jalZnNks2WllDRkEwLXlOSkpLSVdTTHVXaUpIUTlSUXh0RDNLRVNkMV9fY1ZNYVZ4THlQN1J6elBmeTg4aDVxdGcySDV6QmE5ZmpobmhCWFV1X2Fxc0NjeWdoeG9rNjAwV3NfOG11cmwySjhkUzJ6?oc=5",
+       "titre": "L'Iran serait en pourparlers avec la Russie concernant le système de défense aérienne S-400"
+      }
+     ],
+     "id": "2026-11-08|IRGC lifts missile range caps as Tehran reportedly negotiates Russian S-400s"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🛩️",
+     "titre": "British F-35B conducts first release of inert MBDA Meteor missile",
+     "resume": "A British Royal Air Force F-35B stealth fighter conducted the aircraft type's first inert release of an MBDA Meteor beyond-visual-range air-to-air missile. The trial marks a milestone in integrating the ramjet-powered interceptor into the UK lightning fleet.",
+     "pourquoi": "",
+     "pays": [
+      "United Kingdom"
+     ],
+     "region": "Europe",
+     "rubrique": "defense_aerienne",
+     "liens": [
+      {
+       "source": "Opex360",
+       "url": "https://www.opex360.com/2026/11/07/le-chasseur-bombardier-f-35b-a-largue-un-missile-air-air-inerte-meteor-pour-la-premiere-fois/",
+       "titre": "Le chasseur-bombardier F-35B a largué un missile air-air [inerte] METEOR pour la première fois"
+      }
+     ],
+     "id": "2026-11-08|British F-35B conducts first release of inert MBDA Meteor missile"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🛡️",
+     "titre": "US Department of War delivers 25,000 counter-drone systems to CENTCOM",
+     "resume": "The US Department of War delivered over 25,000 uncrewed and counter-drone systems to US Central Command. The large-scale fielding aims to protect deployed personnel and critical bases from escalating regional drone threats.",
+     "pourquoi": "",
+     "pays": [
+      "United States"
+     ],
+     "region": "Middle East",
+     "rubrique": "defense_aerienne",
+     "liens": [
+      {
+       "source": "Defence Industry Europe",
+       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPanRsUDdYcVBfVUdxLUxfVmJmN0hBaHVaUExsNUNJNUhsbTROSk9oZ3ZuYW0zX2hZWnkxU042bE96QjlkZmZtcEtxdUpfZGVlaTFBZTc2ZDBsdWlQbHIwU01wajNwQ1JNNWxrNHNhYVJfcG9qZjZkV05tSFhvTFE3d21WaFFxZER5TVkyRHlSbnQzcUNSQ2JXdmhQZXRYdUdpUkVnMWM2OUtfVkxhRm44YnowQzFDMTJzNHpQZUhn?oc=5",
+       "titre": "U.S. Department of War delivers more than 25,000 unmanned and counter-drone systems to CENTCOM"
+      }
+     ],
+     "id": "2026-11-08|US Department of War delivers 25,000 counter-drone systems to CENTCOM"
+    }
+   ]
+  },
+  {
+   "id": "industrie",
+   "titre": "Defence Industry & Contracts",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "📝",
+     "titre": "Pentagon awards RTX contracts to ramp up Tomahawk, AMRAAM and Standard Missiles",
+     "resume": "The Pentagon awarded RTX four separate contracts to accelerate and expand production of Tomahawk cruise missiles, AMRAAM air-to-air missiles, and Standard Missile interceptors. The contracts reflect surging demand to replenish US and allied air defence stockpiles.",
+     "pourquoi": "",
+     "pays": [
+      "United States"
+     ],
+     "region": "Americas",
+     "rubrique": "industrie",
+     "liens": [
+      {
+       "source": "Defence Industry Europe",
+       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSTR2dm5GNjBlcjBBd3NPQ1Y0U3JPN3RkZ2NBbEVlZWVVandSOGk5cllkV3JYb0VreTBqSkdLVXV6d0JQaGttVW45YnQyVm1LSE9fczBxcDI2cUhLUlNSMy0tS2lXMjEwN0dzcV9faWxpdjROS0NQZk5xSkFUbE5YbGdFcmhMZTV6RXQ5S1BQTXNMQmxkaWtobDRRcElmUDZIbjVNVzJ4ajlLYTVfM0g2WjZhN1JFSXhnQ0E4?oc=5",
+       "titre": "RTX ramps up Tomahawk, AMRAAM and Standard Missile production under four Pentagon contracts"
+      }
+     ],
+     "id": "2026-11-08|Pentagon awards RTX contracts to ramp up Tomahawk, AMRAAM and Standard Missiles"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "📝",
+     "titre": "Thales Belgium secures record rocket pod contract for Indian Armed Forces",
+     "resume": "Thales Belgium secured a record contract to supply several hundred additional rocket pods to the Indian Armed Forces. The agreement also provides for localising rocket pod manufacturing capabilities within India.",
+     "pourquoi": "",
+     "pays": [
+      "Belgium",
+      "India"
+     ],
+     "region": "South Asia",
+     "rubrique": "industrie",
+     "liens": [
+      {
+       "source": "FOB",
+       "url": "https://forcesoperations.com/contrat-record-pour-les-equipes-belges-de-thales/",
+       "titre": "Contrat record pour les équipes belges de Thales"
+      }
+     ],
+     "id": "2026-11-08|Thales Belgium secures record rocket pod contract for Indian Armed Forces"
+    }
+   ]
+  },
+  {
+   "id": "ukraine",
+   "titre": "Ukraine / Russia",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🛡️",
+     "titre": "European multinational force to train in Poland for post-war Ukraine mission",
+     "resume": "Britain and France will lead a 2,800-strong force from 11 nations in a two-week military exercise in Poland. The training focuses on protecting, sustaining, and deploying forces tasked with rebuilding Ukraine's military post-conflict.",
+     "pourquoi": "",
+     "pays": [
+      "United Kingdom",
+      "France",
+      "Poland",
+      "Ukraine"
+     ],
+     "region": "Europe",
+     "rubrique": "ukraine",
+     "liens": [
+      {
+       "source": "Defense News",
+       "url": "https://www.defensenews.com/news/2026/11/07/european-troops-set-to-train-in-poland-for-postwar-ukraine-deployment/",
+       "titre": "European troops set to train in Poland for postwar Ukraine deployment"
+      }
+     ],
+     "id": "2026-11-08|European multinational force to train in Poland for post-war Ukraine mission"
+    }
+   ]
+  },
+  {
+   "id": "moyen_orient",
+   "titre": "Middle East",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "⚠️",
+     "titre": "Deadly strikes hit near Sanaa as Syria denies troop deployment to Yemen",
+     "resume": "Houthi authorities reported that Saudi-led coalition airstrikes killed at least 33 people and wounded dozens near Yemen's capital, Sanaa. Meanwhile, Damascus formally denied reports that Syrian troops would deploy to assist Saudi forces in Yemen.",
+     "pourquoi": "",
+     "pays": [
+      "Yemen",
+      "Saudi Arabia",
+      "Syria"
+     ],
+     "region": "Middle East",
+     "rubrique": "moyen_orient",
+     "liens": [
+      {
+       "source": "Al-Monitor",
+       "url": "https://www.al-monitor.com/originals/2026/11/houthi-run-health-ministry-says-airstrikes-kill-33-near-yemen-capital",
+       "titre": "Houthi-run health ministry says airstrikes kill 33 near Yemen capital"
+      },
+      {
+       "source": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/7/yemeni-govt-forces-report-advances-as-houthis-say-deadly-strikes-hit-sanaa?traffic_source=rss",
+       "titre": "Yemeni gov’t forces report advances as Houthis say deadly strikes hit Sanaa"
+      },
+      {
+       "source": "BBC World",
+       "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+       "titre": "Houthis say at least 25 killed in Saudi air strike"
+      },
+      {
+       "source": "Le Monde International",
+       "url": "https://www.lemonde.fr/international/article/2026/11/07/au-yemen-22-morts-apres-des-frappes-saoudiennes-dans-la-region-de-sanaa-annoncent-les-houthistes_6808280_3210.html",
+       "titre": "Au Yémen, 33 morts après des frappes saoudiennes dans la région de Sanaa, annoncent les houthistes"
+      }
+     ],
+     "id": "2026-11-08|Deadly strikes hit near Sanaa as Syria denies troop deployment to Yemen"
+    }
+   ]
+  },
+  {
+   "id": "europe",
+   "titre": "Europe",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "⚠️",
+     "titre": "Deadly mass shooting in Krakow declared act of terrorism by Polish PM",
+     "resume": "A 24-year-old gunman described as fascinated by far-right ideology killed six people in Krakow's Main Market Square before three more bodies were found at his home. Polish Prime Minister Donald Tusk declared the shooting an act of terrorism.",
+     "pourquoi": "",
+     "pays": [
+      "Poland"
+     ],
+     "region": "Europe",
+     "rubrique": "europe",
+     "liens": [
+      {
+       "source": "BBC World",
+       "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+       "titre": "What we know so far after Krakow gun attack"
+      },
+      {
+       "source": "Al Jazeera",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/polish-pm-calls-deadly-krakow-shooting-an-act-of?traffic_source=rss",
+       "titre": "Polish PM calls deadly Krakow shooting an act of ‘terrorism’"
+      },
+      {
+       "source": "Japan Times",
+       "url": "https://www.japantimes.co.jp/news/2026/11/08/world/crime-legal/poland-krakow-mass-shooting/",
+       "titre": "Poland in shock after six die in Krakow mass shooting"
+      },
+      {
+       "source": "CNA Monde",
+       "url": "https://www.channelnewsasia.com/world/gunman-fascinated-far-right-kills-six-in-krakow-poland-6533446",
+       "titre": "Gunman 'fascinated by far-right' kills six in Krakow, Poland"
+      }
+     ],
+     "id": "2026-11-08|Deadly mass shooting in Krakow declared act of terrorism by Polish PM"
+    }
+   ]
+  },
+  {
+   "id": "espace",
+   "titre": "Space & Satellites",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🛰️",
+     "titre": "Britain's Titania military Earth observation satellite reaches orbit",
+     "resume": "The UK Ministry of Defence confirmed the successful orbital deployment of its Titania military satellite. The spacecraft will bolster sovereign Earth observation, laser communications, and space domain awareness capabilities.",
+     "pourquoi": "",
+     "pays": [
+      "United Kingdom"
+     ],
+     "region": "Europe",
+     "rubrique": "espace",
+     "liens": [
+      {
+       "source": "Defence Industry Europe",
+       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVlpaTGwzYTRlbXVJcUZ5TFloaXlpajY2Y3ZXdkE4a3kyRVVnVERoY0tqQU01R2RmM0VlRUtsMF9mNWQzdzlQbEZUX1JWZHdWUjFTeVNWTF9wRl9QZV9DdDkteEx5ZmxHeS1XTTRUeGJCLUVQazIzemtsb0lFRlVLOGNVNFVmc0I5eUYzZ2NhbW1qbVNORGdMZTVVUXJ6cE5BUXNxRE8wSC1XZzg?oc=5",
+       "titre": "Britain’s Titania military satellite reaches orbit to support Earth observation"
+      }
+     ],
+     "id": "2026-11-08|Britain's Titania military Earth observation satellite reaches orbit"
+    }
+   ]
+  },
+  {
+   "id": "tech",
+   "titre": "Emerging Tech",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "⚡",
+     "titre": "France accelerates SPALE electromagnetic railgun development for naval vessels",
+     "resume": "The French Ministry of the Armed Forces has accelerated the SPALE electromagnetic railgun programme intended for naval surface combatants. The initiative seeks to develop sovereign hypervelocity projectile technologies to defeat advanced anti-ship and aerial threats.",
+     "pourquoi": "",
+     "pays": [
+      "France"
+     ],
+     "region": "Europe",
+     "rubrique": "tech",
+     "liens": [
+      {
+       "source": "Zone Militaire",
+       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE85TVJWOU1hSTBCTVdMaG41X2JuZzVHak4yeV9rTk9XdElKYUQxRXF3T1VuWjVBcTBwcm1NSzNtQ05WNlBIeFlGMTd3?oc=5",
+       "titre": "SPALEpagesepsitename%%"
+      },
+      {
+       "source": "Opex360",
+       "url": "https://www.opex360.com/2026/11/07/le-ministere-des-armees-accelere-la-mise-au-point-dun-canon-electromagnetique-pour-la-marine-avec-le-projet-spale/",
+       "titre": "Le ministère des Armées accélère la mise au point d’un canon électromagnétique pour la Marine avec le projet SPALE"
+      }
+     ],
+     "id": "2026-11-08|France accelerates SPALE electromagnetic railgun development for naval vessels"
+    }
+   ]
+  },
+  {
+   "id": "economie",
+   "titre": "Economy & Sanctions",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "💰",
+     "titre": "US presses Beijing on rare earths commitments ahead of Trump-Xi summits",
+     "resume": "The United States pressed Beijing to fully honour its commitments on rare earths and agricultural imports ahead of anticipated bilateral summits between Donald Trump and Xi Jinping. Washington warned that future diplomatic progress hinges on tangible compliance.",
+     "pourquoi": "",
+     "pays": [
+      "United States",
+      "China"
+     ],
+     "region": "Global",
+     "rubrique": "economie",
+     "liens": [
+      {
+       "source": "The Jakarta Post",
+       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVHhBRFRwUHdVTVJwR0lWVDlFQmFmckJzUzFQb3V3NmJNU0ZETEVIeDI5NEs3WXZEUzJua2I3c19TQ0NfdUkwTkFEeF9wTHNCOXA1amFkN09Ob1U3MDFBUndtSXNzVUxmZmtIZ29VaS1rSUtXWGhTc2gybXdKVHUxU0JjQV94WHhSX3M0bUluZUxqNGZDUHk3VHd4LXI5a29OcmpZZW40b09XYzZhVUdnZ0JOSkJjM25pcUxnZTU1dlhmUQ?oc=5",
+       "titre": "US urges China to meet rare earths commitments ahead of Trump-Xi meetings"
+      },
+      {
+       "source": "South China Morning Post",
+       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONU02TlFaYk1wWnYxdmdGT2NKX3FpM3h0VmtzZ1o5SlhZelJWZjNpVmM3MWVjMklkNlNFeFFRY1V6d2I2aVA4X3Y2cnVqVUh0NjNoc0RXdlFKR2FCRGRvV3l6RUpRUnJ5a2ItSklEVXhQZVBUd1BZdDdxOTlGR2loMWVxbTBiZlJzNkt5UEN6ZEExeWJYcEhUU0x6MXozQ3UzVVZCTU5DTE9sYlJBM2syTzhvZE5tUXp0aHR2cl9tUWhqVmNrU0VlSnpjMEh6QdIBzgFBVV95cUxNWHBVZmNpdVE0UFU2NExlQzBEUm4xVzJjMDU1VlE1OUY5VGRWU09TNnp0bzg2UDJ2WG1uZXVpc2NsRzlSLTVhVnBkMHVfRVh0cG9jWmc1QnJxa0NTd2NDcnBVREZqcUxjQ2ctNVZFakIyamNFUXdPMGZjOE9uU19uUlVZWDFudkRVaTVwdjUzdDFZOGNxZ295TDFTa1JDV2hUeHBZZjFnWEtnZkJKdXFIX0ZDMEJBTEp2TUFxM3pQb1lrRzlEb0FXVzdROTd2UQ?oc=5",
+       "titre": "China airs ‘serious concern’ over US sanctions ahead of Xi, Trump Apec meeting"
+      },
+      {
+       "source": "The Straits Times",
+       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQU1XSDlBVkw3VGVBdXBTTVAzVFJ1eGRETGpqRW9idGhEb3V5dzdYYV9pMFhMUWNVUXd0MmV4bHlKYm5kWFE3WE1HbWhPdWNYVzhiU2NoRkF4b1ZmSURDZm9kWlJ3OExvaE9YNkprTFBROXExWmZOTy05amJOeXhOYW1rQXdsSFVhT1d5SzMza0xvT2tNRFltd0xTV3RPbm8?oc=5",
+       "titre": "US raises concerns on China trade deal compliance"
+      },
+      {
+       "source": "CNA Monde",
+       "url": "https://www.channelnewsasia.com/east-asia/ahead-trump-xi-meetings-us-presses-china-trade-pledges-6532561",
+       "titre": "Ahead of Trump-Xi meetings, US presses China on trade pledges"
+      }
+     ],
+     "id": "2026-11-08|US presses Beijing on rare earths commitments ahead of Trump-Xi summits"
+    }
+   ]
+  }
+ ],
+ "a_surveiller": [
+  {
+   "quand": "November 9",
+   "quoi": "Opening of COP31 UN climate conference in Antalya, Turkey",
+   "liens": [
+    {
+     "source": "Le Monde International",
+     "url": "https://www.lemonde.fr/planete/article/2026/11/07/en-turquie-pays-d-accueil-de-la-cop31-les-ravages-sans-fin-de-la-double-centrale-au-charbon-d-afsin-elbistan_6808282_3244.html",
+     "titre": "En Turquie, pays d’accueil de la COP31, les ravages sans fin de la double centrale au charbon d’Afsin-Elbistan"
+    }
+   ]
+  },
+  {
+   "quand": "Next week",
+   "quoi": "Trilateral Ukraine-Russia-US peace talks scheduled in Abu Dhabi",
+   "liens": [
+    {
+     "source": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
+     "titre": "Russian strikes wound nine and damage Ukraine's power network ahead of talks"
+    },
+    {
+     "source": "Politico",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSWpGcGNKTlgzQzQyUTBodEgyUE5QRk9nMExaTkJMaHpxTjY5dG9Ec29pVjRfWVRZTFR0Ymcyb1Bqcl9Ic29EMkNnclJJOGdON3FlQ0ZIeWhMWTJDa1pubFBfanFSMUlrb0s3NklXaFZJeHYxaWhIUzd2RzVwSkFmblAtakUxTk9IRUdhQVdfcWEtci05TlhBQnVNZHZxX3FpcWlkQVRlX18?oc=5",
+     "titre": "Russia hits Kyiv in overnight attack days before Abu Dhabi talks"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPckRkTENydGpmMGpDbWpfYVhKemxXQnRLcWVIU05MdHZMS2Nma2Z3UlRONVpMWkg0bFh2N2J5STdSRVRPVUZNdWQ3eTRGWVZoTm90LW9acDZaOUNLYU0xQ2FubkxtbGVDc3NidWtNbkFMM0VOQ1BPS2Nfa2ptLXBGN1NKQXlIZ0F6RE5lSWtjb0dQZHFva3N5SzM2WWZnNWIwOXZlZDhTekpIMy1pQnBpZFpQbFk4VkxOc05IWU40NFR6RS0z?oc=5",
+     "titre": "Russian diplomats and military officials to join talks with US and Ukraine, Kremlin says"
+    }
+   ]
+  },
+  {
+   "quand": "November",
+   "quoi": "South Korean Army and Navy chiefs visit Japan for bilateral talks with SDF",
+   "liens": [
+    {
+     "source": "読売新聞",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1RNTVPYkNnZ0hSWUFKd2ZqOFo5ZWxteHB0Q2s1OTVaOWpPZGhaa19aLWhwaWRUMUdpUG1tYjZjN1VDMW5aY3RENTdFdDZDT05FMjRNOVR5QUNhdldvMDczeDQ1bVY3Zw?oc=5",
+     "titre": "韓国陸海軍の制服組トップが月内に相次ぎ来日、自衛隊幕僚長と会談へ…「防衛協力」の推進狙い"
+    }
+   ]
+  },
+  {
+   "quand": "Upcoming weeks",
+   "quoi": "Anticipated Trump-Xi Jinping bilateral meetings at upcoming summits",
+   "liens": [
+    {
+     "source": "The Jakarta Post",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVHhBRFRwUHdVTVJwR0lWVDlFQmFmckJzUzFQb3V3NmJNU0ZETEVIeDI5NEs3WXZEUzJua2I3c19TQ0NfdUkwTkFEeF9wTHNCOXA1amFkN09Ob1U3MDFBUndtSXNzVUxmZmtIZ29VaS1rSUtXWGhTc2gybXdKVHUxU0JjQV94WHhSX3M0bUluZUxqNGZDUHk3VHd4LXI5a29OcmpZZW40b09XYzZhVUdnZ0JOSkJjM25pcUxnZTU1dlhmUQ?oc=5",
+     "titre": "US urges China to meet rare earths commitments ahead of Trump-Xi meetings"
+    },
+    {
+     "source": "South China Morning Post",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONU02TlFaYk1wWnYxdmdGT2NKX3FpM3h0VmtzZ1o5SlhZelJWZjNpVmM3MWVjMklkNlNFeFFRY1V6d2I2aVA4X3Y2cnVqVUh0NjNoc0RXdlFKR2FCRGRvV3l6RUpRUnJ5a2ItSklEVXhQZVBUd1BZdDdxOTlGR2loMWVxbTBiZlJzNkt5UEN6ZEExeWJYcEhUU0x6MXozQ3UzVVZCTU5DTE9sYlJBM2syTzhvZE5tUXp0aHR2cl9tUWhqVmNrU0VlSnpjMEh6QdIBzgFBVV95cUxNWHBVZmNpdVE0UFU2NExlQzBEUm4xVzJjMDU1VlE1OUY5VGRWU09TNnp0bzg2UDJ2WG1uZXVpc2NsRzlSLTVhVnBkMHVfRVh0cG9jWmc1QnJxa0NTd2NDcnBVREZqcUxjQ2ctNVZFakIyamNFUXdPMGZjOE9uU19uUlVZWDFudkRVaTVwdjUzdDFZOGNxZ295TDFTa1JDV2hUeHBZZjFnWEtnZkJKdXFIX0ZDMEJBTEp2TUFxM3pQb1lrRzlEb0FXVzdROTd2UQ?oc=5",
+     "titre": "China airs ‘serious concern’ over US sanctions ahead of Xi, Trump Apec meeting"
+    },
+    {
+     "source": "CNA Monde",
+     "url": "https://www.channelnewsasia.com/east-asia/ahead-trump-xi-meetings-us-presses-china-trade-pledges-6532561",
+     "titre": "Ahead of Trump-Xi meetings, US presses China on trade pledges"
+    },
+    {
+     "source": "Japan Times",
+     "url": "https://www.japantimes.co.jp/business/2026/11/07/economy/us-china-rare-earths-agriculture/",
+     "titre": "U.S. urges China to meet rare earths and agriculture commitments ahead of Trump-Xi meetings"
+    }
+   ]
+  }
+ ],
+ "hebdo": null,
+ "stats": {
+  "articles": 257,
+  "sources": 52
+ }
+}
