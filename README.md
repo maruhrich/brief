@@ -13,10 +13,11 @@ Web-app installée sur l'écran d'accueil de l'iPhone. Chaque matin, avant 7h45 
 3. Le brief est publié sur **GitHub Pages**. À 7h45, [notify.py](notify.py) envoie la notification sur le téléphone.
 
 Dans l'app :
-- une pile *To read* : les sujets non lus restent 7 jours, avec un bouton ✓ par sujet et *Mark all read* ;
+- une pile *To read* : les sujets non lus restent 7 jours, un sujet n'en sort que par son bouton ✓ ;
 - des filtres par rubrique et par pays ou région ;
 - une recherche sur 60 jours ;
-- des favoris ;
+- des favoris (leurs photos sont copiées sur le téléphone) ;
+- une grande photo d'identification tirée de Wikipédia sur les sujets qui portent sur une plateforme (avion, missile, navire, SAM…) ou une personne clé, environ 1 sujet sur 3 ;
 - un bouton **?** (Ask AI) pour poser une question à Gemini sur un sujet : il lit l'article source. La recherche web n'est pas incluse dans l'offre gratuite.
 
 Les recherches Google News ne gardent que les médias de la liste `google_news_medias` de [config.yaml](config.yaml).
