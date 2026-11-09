@@ -121,7 +121,13 @@
     }
    ],
    "id": "2026-11-03|US midterms open after Supreme Court ruling on California ballots",
-   "visuel": null
+   "visuel": {
+    "nom": "Donald Trump",
+    "description": "President of the United States (2017–2021; since 2025)",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/960px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg",
+    "page": "https://en.wikipedia.org/wiki/Donald_Trump",
+    "type": "person"
+   }
   },
   {
    "suite": false,

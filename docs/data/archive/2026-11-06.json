@@ -286,7 +286,13 @@
       }
      ],
      "id": "2026-11-06|Troops Deployed in Jakarta Amid Wiretapping Scandal Inquiry",
-     "visuel": null
+     "visuel": {
+      "nom": "Prabowo Subianto",
+      "description": "President of Indonesia since 2024",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Prabowo_Subianto_2024_official_portrait.jpg/960px-Prabowo_Subianto_2024_official_portrait.jpg",
+      "page": "https://en.wikipedia.org/wiki/Prabowo_Subianto",
+      "type": "person"
+     }
     },
     {
      "suite": false,
@@ -381,7 +387,13 @@
       }
      ],
      "id": "2026-11-06|New Zealand Campaigns End Ahead of Tight General Election",
-     "visuel": null
+     "visuel": {
+      "nom": "Christopher Luxon",
+      "description": "Prime Minister of New Zealand since 2023",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/LUXON%2C_Christopher_-_Botany_%28cropped%29.png",
+      "page": "https://en.wikipedia.org/wiki/Christopher_Luxon",
+      "type": "person"
+     }
     }
    ]
   },
@@ -474,7 +486,13 @@
       }
      ],
      "id": "2026-11-06|France Contracts MBDA and Naval Group to Double FDI Frigate Firepower",
-     "visuel": null
+     "visuel": {
+      "nom": "Aster (missile family)",
+      "description": "Franco-Italian surface-to-air missile family",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/MBDA_Aster_p1220947.jpg/960px-MBDA_Aster_p1220947.jpg",
+      "page": "https://en.wikipedia.org/wiki/Aster_(missile_family)",
+      "type": "platform"
+     }
     }
    ]
   },
@@ -599,7 +617,13 @@
       }
      ],
      "id": "2026-11-06|Melania Trump Hosts Trilateral Ukraine-Russia Truce Discussions",
-     "visuel": null
+     "visuel": {
+      "nom": "Melania Trump",
+      "description": "First Lady of the United States (2017–2021; since 2025)",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Melania_Trump_at_Fort_Bragg%2C_Friday%2C_February_13%2C_2026.jpg/960px-Melania_Trump_at_Fort_Bragg%2C_Friday%2C_February_13%2C_2026.jpg",
+      "page": "https://en.wikipedia.org/wiki/Melania_Trump",
+      "type": "person"
+     }
     }
    ]
   },

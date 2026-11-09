@@ -433,11 +433,12 @@ PLATFORM_WORDS = ("missile", "aircraft", "fighter", "bomber", "helicopter", "dro
                   "jet", "transport", "class", "laser")
 VISUEL_SYSTEM = """For each news story, decide whether a reference photo would help a defence professional recognise
 what the story is about: a specific military platform or system (aircraft, missile, ship, submarine, air-defence
-system, radar, armoured vehicle, drone, satellite) or a key person (head of state, minister, general, CEO).
+system, radar, armoured vehicle, drone, satellite) or a key person (head of state, minister, general, CEO),
+famous leaders included.
 Only when ONE such subject is clearly central to the story, give the exact title of its English Wikipedia article
 (e.g. "Dassault Rafale", "S-400 missile system", "Type 055 destroyer", "Kim Yo-jong"). Otherwise leave it empty.
 Prefer the platform over the person when both appear. Never pick a generic topic (country, war, organisation, company).
-Skip world-famous figures everyone recognises (e.g. Donald Trump, Xi Jinping, Vladimir Putin, Volodymyr Zelenskyy, Melania Trump)."""
+Never pick a subject only mentioned in passing or as a comparison (e.g. a new system "resembling the S-400")."""
 VISUEL_SCHEMA = {"type": "array", "items": {"type": "object", "properties": {
     "n": {"type": "integer"},
     "wiki": {"type": "string", "description": "Exact English Wikipedia article title, or empty"},

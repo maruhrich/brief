@@ -1,8 +1,8 @@
 // Garde l'app et le dernier brief en cache pour pouvoir les lire hors connexion.
 // Toujours la version en ligne d'abord : le cache ne sert que sans réseau.
-const VERSION = 'brief-v14';
+const VERSION = 'brief-v15';
 const FAV_IMAGES = 'fav-images'; // copies des photos des favoris, jamais effacées
-const SHELL = ['./', 'index.html', 'style.css?v=14', 'app.js?v=14', 'manifest.webmanifest',
+const SHELL = ['./', 'index.html', 'style.css?v=15', 'app.js?v=15', 'manifest.webmanifest',
   'icons/icon-192.png', 'icons/apple-touch-icon.png'];
 
 self.addEventListener('install', (event) => {

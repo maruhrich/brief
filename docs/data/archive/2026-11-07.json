@@ -238,7 +238,13 @@
       }
      ],
      "id": "2026-11-07|Indonesia Names Fourth Senior Police Officer as Wiretapping Scandal Widens",
-     "visuel": null
+     "visuel": {
+      "nom": "Prabowo Subianto",
+      "description": "President of Indonesia since 2024",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Prabowo_Subianto_2024_official_portrait.jpg/960px-Prabowo_Subianto_2024_official_portrait.jpg",
+      "page": "https://en.wikipedia.org/wiki/Prabowo_Subianto",
+      "type": "person"
+     }
     },
     {
      "suite": false,

@@ -90,7 +90,13 @@
     }
    ],
    "id": "2026-11-08|Russia targets Ukrainian energy grid with North Korean KN-23 missiles",
-   "visuel": null
+   "visuel": {
+    "nom": "Volodymyr Zelenskyy",
+    "description": "President of Ukraine since 2019",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/41/New_Year%27s_Eve_from_President_of_Ukraine_Volodymyr_Zelensky_%2831-12-2025%29_%28cropped%29.jpg",
+    "page": "https://en.wikipedia.org/wiki/Volodymyr_Zelenskyy",
+    "type": "person"
+   }
   },
   {
    "suite": false,
@@ -128,7 +134,13 @@
     }
    ],
    "id": "2026-11-08|US strikes Iranian air defence on Qeshm and expands blockade to land routes",
-   "visuel": null
+   "visuel": {
+    "nom": "Donald Trump",
+    "description": "President of the United States (2017–2021; since 2025)",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/960px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg",
+    "page": "https://en.wikipedia.org/wiki/Donald_Trump",
+    "type": "person"
+   }
   },
   {
    "suite": false,
@@ -497,7 +509,13 @@
       }
      ],
      "id": "2026-11-08|Pentagon awards RTX contracts to ramp up Tomahawk, AMRAAM and Standard Missiles",
-     "visuel": null
+     "visuel": {
+      "nom": "Tomahawk missile",
+      "description": "American long-range, subsonic cruise missile",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Tomahawk_Block_IV_cruise_missile_-crop.jpg/960px-Tomahawk_Block_IV_cruise_missile_-crop.jpg",
+      "page": "https://en.wikipedia.org/wiki/Tomahawk_missile",
+      "type": "platform"
+     }
     },
     {
      "suite": false,
@@ -639,7 +657,13 @@
       }
      ],
      "id": "2026-11-08|Deadly mass shooting in Krakow declared act of terrorism by Polish PM",
-     "visuel": null
+     "visuel": {
+      "nom": "Donald Tusk",
+      "description": "Prime Minister of Poland (2007–2014; since 2023)",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Donald_Tusk_2025_%282%29.jpg/960px-Donald_Tusk_2025_%282%29.jpg",
+      "page": "https://en.wikipedia.org/wiki/Donald_Tusk",
+      "type": "person"
+     }
     }
    ]
   },
@@ -744,7 +768,13 @@
       }
      ],
      "id": "2026-11-08|US presses Beijing on rare earths commitments ahead of Trump-Xi summits",
-     "visuel": null
+     "visuel": {
+      "nom": "Donald Trump",
+      "description": "President of the United States (2017–2021; since 2025)",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/960px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg",
+      "page": "https://en.wikipedia.org/wiki/Donald_Trump",
+      "type": "person"
+     }
     }
    ]
   }

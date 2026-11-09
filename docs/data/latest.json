@@ -45,8 +45,8 @@
      "titre": "Houthis claim attack on Riyadh financial district, Aramco tower damaged"
     }
    ],
-   "visuel": null,
-   "id": "2026-11-09|Houthi missile strike hits Aramco tower in Riyadh"
+   "id": "2026-11-09|Houthi missile strike hits Aramco tower in Riyadh",
+   "visuel": null
   },
   {
    "suite": false,
@@ -129,8 +129,14 @@
      "titre": "Europeans will join Ukraine talks in Abu Dhabi, French minister says"
     }
    ],
-   "visuel": null,
-   "id": "2026-11-09|European nations join Abu Dhabi peace talks on Ukraine"
+   "id": "2026-11-09|European nations join Abu Dhabi peace talks on Ukraine",
+   "visuel": {
+    "nom": "Jean-Noël Barrot",
+    "description": "French politician (born 1983)",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Jean-No%C3%ABl_Barrot_2023_cropped.jpg/960px-Jean-No%C3%ABl_Barrot_2023_cropped.jpg",
+    "page": "https://en.wikipedia.org/wiki/Jean-No%C3%ABl_Barrot",
+    "type": "person"
+   }
   },
   {
    "suite": false,
@@ -161,8 +167,8 @@
      "titre": "South Africa's ANC is humbled by its worst election results as it continues its decline"
     }
    ],
-   "visuel": null,
-   "id": "2026-11-09|South Africa's ruling ANC suffers historic electoral loss"
+   "id": "2026-11-09|South Africa's ruling ANC suffers historic electoral loss",
+   "visuel": null
   }
  ],
  "rubriques": [
@@ -200,8 +206,8 @@
        "titre": "Engagement at UN climate conference remains urgent despite countries’ competing priorities: Grace Fu"
       }
      ],
-     "visuel": null,
-     "id": "2026-11-09|COP31 climate conference opens in Turkey"
+     "id": "2026-11-09|COP31 climate conference opens in Turkey",
+     "visuel": null
     }
    ]
   },
@@ -229,8 +235,8 @@
        "titre": "Taiwan detains a Communist Party leader over alleged Chinese sponsorship in election"
       }
      ],
-     "visuel": null,
-     "id": "2026-11-09|Taiwan detains party leader over covert Chinese campaign funding"
+     "id": "2026-11-09|Taiwan detains party leader over covert Chinese campaign funding",
+     "visuel": null
     },
     {
      "suite": false,
@@ -262,8 +268,8 @@
        "titre": "Astellas employee to be released from China prison in December"
       }
      ],
-     "visuel": null,
-     "id": "2026-11-09|China to release jailed Japanese Astellas executive in December"
+     "id": "2026-11-09|China to release jailed Japanese Astellas executive in December",
+     "visuel": null
     },
     {
      "suite": false,
@@ -291,8 +297,8 @@
        "titre": "Can’t cook or shower: Indonesians take aim at data centers"
       }
      ],
-     "visuel": null,
-     "id": "2026-11-09|Data centre growth triggers severe utility outages near Singapore"
+     "id": "2026-11-09|Data centre growth triggers severe utility outages near Singapore",
+     "visuel": null
     }
    ]
   },
@@ -334,8 +340,14 @@
        "titre": "Nouvelle-Zélande: des législatives très serrées, des résultats encore incertains"
       }
      ],
-     "visuel": null,
-     "id": "2026-11-09|New Zealand faces political limbo following inconclusive election"
+     "id": "2026-11-09|New Zealand faces political limbo following inconclusive election",
+     "visuel": {
+      "nom": "Nicola Willis",
+      "description": "New Zealand politician",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Nicola_Willis_in_her_office%2C_Wellington%2C_September_2026.jpg",
+      "page": "https://en.wikipedia.org/wiki/Nicola_Willis",
+      "type": "person"
+     }
     },
     {
      "suite": true,
@@ -462,8 +474,14 @@
        "titre": "U.S. F-35 fighters and Canada’s CF-18s fly joint NORAD air defense mission in Alaska"
       }
      ],
-     "visuel": null,
-     "id": "2026-11-09|US and Canadian fighters conduct joint NORAD patrol over Alaska"
+     "id": "2026-11-09|US and Canadian fighters conduct joint NORAD patrol over Alaska",
+     "visuel": {
+      "nom": "Lockheed Martin F-35 Lightning II",
+      "description": "American stealth multirole fighter aircraft",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/F-35A_flight_%28cropped%29.jpg/960px-F-35A_flight_%28cropped%29.jpg",
+      "page": "https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II",
+      "type": "platform"
+     }
     }
    ]
   },
@@ -490,8 +508,8 @@
        "titre": "Naval Group to Build UCUV Underwater Combat Drone Demonstrator for French Navy"
       }
      ],
-     "visuel": null,
-     "id": "2026-11-09|Naval Group contracted for French Navy operational UCUV drone"
+     "id": "2026-11-09|Naval Group contracted for French Navy operational UCUV drone",
+     "visuel": null
     },
     {
      "suite": false,
@@ -512,8 +530,8 @@
        "titre": "Lockheed Martin top managers say company will invest over $8 billion to expand missile production"
       }
      ],
-     "visuel": null,
-     "id": "2026-11-09|Lockheed Martin commits $8 billion to expand missile manufacturing"
+     "id": "2026-11-09|Lockheed Martin commits $8 billion to expand missile manufacturing",
+     "visuel": null
     }
    ]
   },
@@ -542,8 +560,8 @@
        "titre": "Hacked records show 400,000 Russians killed in war on Ukraine"
       }
      ],
-     "visuel": null,
-     "id": "2026-11-09|Leaked Russian records reveal 400,000 soldiers killed in Ukraine"
+     "id": "2026-11-09|Leaked Russian records reveal 400,000 soldiers killed in Ukraine",
+     "visuel": null
     }
    ]
   },
@@ -575,8 +593,8 @@
        "titre": "Production suspended at Iraq's Khor Mor gas field after drone attack, sources say"
       }
      ],
-     "visuel": null,
-     "id": "2026-11-09|Drone strike shuts down Khor Mor gasfield in northern Iraq"
+     "id": "2026-11-09|Drone strike shuts down Khor Mor gasfield in northern Iraq",
+     "visuel": null
     },
     {
      "suite": true,
@@ -614,8 +632,14 @@
        "titre": "Trump announces US military's ‘Iron Gate’ task force disrupting land routes into Iran | World News"
       }
      ],
-     "visuel": null,
-     "id": "2026-11-09|US establishes 'Iron Gate' task force against Iranian supply lines"
+     "id": "2026-11-09|US establishes 'Iron Gate' task force against Iranian supply lines",
+     "visuel": {
+      "nom": "Donald Trump",
+      "description": "President of the United States (2017–2021; since 2025)",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/960px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg",
+      "page": "https://en.wikipedia.org/wiki/Donald_Trump",
+      "type": "person"
+     }
     }
    ]
   },
@@ -678,8 +702,8 @@
        "titre": "Owning a satellite isn’t the same as owning the expertise to replace it"
       }
      ],
-     "visuel": null,
-     "id": "2026-11-09|Oman expands space technology partnership with China"
+     "id": "2026-11-09|Oman expands space technology partnership with China",
+     "visuel": null
     }
    ]
   },
@@ -707,8 +731,8 @@
        "titre": "Lockheed Martin Australia leads Queensland project to build mobile launcher for hypersonic flight tests"
       }
      ],
-     "visuel": null,
-     "id": "2026-11-09|Lockheed Martin Australia builds hypersonic flight test launcher"
+     "id": "2026-11-09|Lockheed Martin Australia builds hypersonic flight test launcher",
+     "visuel": null
     }
    ]
   },
@@ -737,8 +761,8 @@
        "titre": "SoftBank and ABB consider China carve-out to salvage robotics deal"
       }
      ],
-     "visuel": null,
-     "id": "2026-11-09|SoftBank and ABB explore China carve-out for $5.4bn deal"
+     "id": "2026-11-09|SoftBank and ABB explore China carve-out for $5.4bn deal",
+     "visuel": null
     }
    ]
   }

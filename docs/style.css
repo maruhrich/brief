@@ -608,8 +608,15 @@ body.sheet-open { overflow: hidden; }
 .visuel-cap b { color: var(--text); font-weight: 600; }
 .visuel-cap span::before { content: " · "; }
 
-/* Grande photo au-dessus du titre */
-.visuel { margin: 4px 0 10px; }
-.visuel img { width: 100%; aspect-ratio: 16 / 10; object-fit: cover; border-radius: 12px; }
-.visuel.person img { object-position: 50% 22%; }
-.visuel .visuel-cap { margin-top: 5px; }
+/* Petite photo en haut à droite, le titre et le résumé l'entourent */
+.visuel { float: right; width: 108px; margin: 2px 0 6px 12px; }
+.visuel img { width: 100%; aspect-ratio: 4 / 3; object-fit: cover; border-radius: 10px; }
+.visuel.person img { object-position: 50% 20%; }
+.visuel .visuel-cap {
+  margin-top: 3px; font-size: 11px; line-height: 1.25; text-align: center;
+  display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
+}
+.visuel .visuel-cap b { font-weight: 500; color: var(--muted); }
+.visuel .visuel-cap span { display: none; }
+.essentiel .visuel { width: 96px; margin-top: 8px; }
+.item-foot { clear: both; }

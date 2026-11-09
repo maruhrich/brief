@@ -73,7 +73,13 @@
     }
    ],
    "id": "2026-11-04|Trump Announces Termination of US$3.8 Billion Annual Military Aid to Israel",
-   "visuel": null
+   "visuel": {
+    "nom": "Donald Trump",
+    "description": "President of the United States (2017–2021; since 2025)",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/960px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg",
+    "page": "https://en.wikipedia.org/wiki/Donald_Trump",
+    "type": "person"
+   }
   },
   {
    "suite": true,
@@ -430,7 +436,13 @@
       }
      ],
      "id": "2026-11-04|Israeli President Opens Deliberations to Form Next Coalition Government",
-     "visuel": null
+     "visuel": {
+      "nom": "Isaac Herzog",
+      "description": "President of Israel since 2021",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Isaac_Herzog%2C_July_2021_%28D1233-049%29.JPG/960px-Isaac_Herzog%2C_July_2021_%28D1233-049%29.JPG",
+      "page": "https://en.wikipedia.org/wiki/Isaac_Herzog",
+      "type": "person"
+     }
     }
    ]
   },
