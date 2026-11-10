@@ -1,0 +1,564 @@
+{
+ "date": "2026-11-10",
+ "date_label": "Tuesday, November 10, 2026",
+ "genere_le": "2026-11-10T12:22:58+08:00",
+ "mode": "ia",
+ "modele": "gemini-3.5-flash-lite",
+ "accroche": [
+  "US-brokered talks on Ukraine open in Abu Dhabi",
+  "Trump plays down Iran conflict as diplomats discuss peace",
+  "China trade surplus surpasses one trillion dollars"
+ ],
+ "essentiel": [
+  {
+   "suite": true,
+   "remplace": "2026-11-09|European nations join Abu Dhabi peace talks on Ukraine",
+   "emoji": "🤝",
+   "titre": "Ukraine peace talks resume in Abu Dhabi",
+   "resume": "Delegations from Ukraine, Russia and the United States have convened in Abu Dhabi for US-brokered talks aimed at ending the conflict. Kyiv's representatives stated that they will place strong emphasis on humanitarian dimensions and prisoner exchanges.",
+   "pourquoi": "",
+   "pays": [
+    "Ukraine",
+    "Russia",
+    "United States",
+    "United Arab Emirates"
+   ],
+   "region": "Russia-Ukraine",
+   "rubrique": "ukraine",
+   "liens": [
+    {
+     "source": "Al-Monitor",
+     "url": "https://www.al-monitor.com/originals/2026/11/us-mediated-talks-russia-and-ukraine-start-abu-dhabi",
+     "titre": "US-mediated talks with Russia and Ukraine to start in Abu Dhabi"
+    },
+    {
+     "source": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+     "titre": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say"
+    },
+    {
+     "source": "Le Monde International",
+     "url": "https://www.lemonde.fr/international/live/2026/11/10/en-direct-guerre-en-ukraine-reprise-mardi-des-negociations-entre-l-ukraine-et-la-russie-a-abou-dhabi-kiev-insistera-sur-les-echanges-de-prisonniers_6808609_3210.html",
+     "titre": "EN DIRECT, guerre en Ukraine : reprise mardi des négociations entre l’Ukraine et la Russie à Abou Dhabi, Kiev insistera sur les échanges de prisonniers"
+    }
+   ],
+   "visuel": null,
+   "id": "2026-11-10|Ukraine peace talks resume in Abu Dhabi"
+  },
+  {
+   "suite": false,
+   "remplace": null,
+   "emoji": "🤝",
+   "titre": "Trump suggests Iran conflict is effectively over",
+   "resume": "US President Donald Trump stated that military action against Iran is currently unnecessary and that the conflict is effectively over following talks with the Qatari prime minister. Iranian officials dismissed the remarks as fake news.",
+   "pourquoi": "",
+   "pays": [
+    "United States",
+    "Iran",
+    "Qatar"
+   ],
+   "region": "Middle East",
+   "rubrique": "moyen_orient",
+   "liens": [
+    {
+     "source": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/trump-signals-positive-momentum-with-iran-after-meeting-qatari-pm?traffic_source=rss",
+     "titre": "Trump signals ‘positive momentum’ with Iran after meeting Qatari PM"
+    },
+    {
+     "source": "The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE82aVVBM1M2V2JiUGZLeXU4Xzd6YmV3RVNpVnhPM3U1bFdPYmRUcjNtc3d6YldOczdHNmN4Umx5MmU4eldmbGxSTUdBSW5DaU9xUVRqQ2E4UWZ3bzhjaXE2MFg1TEVkUGtENzllWU5XOA?oc=5",
+     "titre": "Trump says US war in Iran ‘effectively over’ as he plays down escalation concerns"
+    }
+   ],
+   "visuel": {
+    "nom": "Donald Trump",
+    "description": "President of the United States (2017–2021; since 2025)",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/960px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg",
+    "page": "https://en.wikipedia.org/wiki/Donald_Trump",
+    "type": "person"
+   },
+   "id": "2026-11-10|Trump suggests Iran conflict is effectively over"
+  },
+  {
+   "suite": false,
+   "remplace": null,
+   "emoji": "📈",
+   "titre": "China's trade surplus exceeds one trillion dollars",
+   "resume": "China's trade surplus surpassed one trillion dollars in the first ten months of the year, driven by a 35.2 percent surge in October exports. Strong global demand for high-tech and artificial intelligence infrastructure powered the trade growth.",
+   "pourquoi": "",
+   "pays": [
+    "China"
+   ],
+   "region": "North-East Asia",
+   "rubrique": "asie",
+   "liens": [
+    {
+     "source": "CNA Asie",
+     "url": "https://www.channelnewsasia.com/east-asia/china-trade-surplus-1-trillion-ai-boom-exports-6537981",
+     "titre": "China's trade surplus soars past US$1 trillion as AI boom powers exports"
+    },
+    {
+     "source": "Straits Times Asie",
+     "url": "https://www.straitstimes.com/asia/chinas-trade-surplus-soars-past-1-trillion-as-ai-boom-powers-exports",
+     "titre": "China's trade surplus soars past $1 trillion as AI boom powers exports"
+    }
+   ],
+   "visuel": null,
+   "id": "2026-11-10|China's trade surplus exceeds one trillion dollars"
+  },
+  {
+   "suite": false,
+   "remplace": null,
+   "emoji": "🏛️",
+   "titre": "US Republican lawmaker moves to impeach Defense Secretary Hegseth",
+   "resume": "Outgoing Republican Representative Thomas Massie introduced a resolution to impeach US Defense Secretary Pete Hegseth over the handling of the war in Iran. The effort is expected to face strong resistance.",
+   "pourquoi": "",
+   "pays": [
+    "United States"
+   ],
+   "region": "Americas",
+   "rubrique": "elections",
+   "liens": [
+    {
+     "source": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/newly-elected-democrats-react-to-hegseth-impeachment-bid?traffic_source=rss",
+     "titre": "Newly-elected Democrats react to Hegseth impeachment bid"
+    }
+   ],
+   "visuel": {
+    "nom": "Pete Hegseth",
+    "description": "American government official and television personality (born 1980)",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Pete_Hegseth_Official_Portrait.jpg/960px-Pete_Hegseth_Official_Portrait.jpg",
+    "page": "https://en.wikipedia.org/wiki/Pete_Hegseth",
+    "type": "person"
+   },
+   "id": "2026-11-10|US Republican lawmaker moves to impeach Defense Secretary Hegseth"
+  }
+ ],
+ "rubriques": [
+  {
+   "id": "monde",
+   "titre": "World",
+   "items": []
+  },
+  {
+   "id": "asie",
+   "titre": "APAC",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🚀",
+     "titre": "North Korea test-fires new high-speed torpedo weapon system",
+     "resume": "North Korea conducted a test-fire of a new type of high-speed torpedo weapon system in the East Sea. Pyongyang announced plans to deploy the naval weapon system in early 2027.",
+     "pourquoi": "",
+     "pays": [
+      "North Korea"
+     ],
+     "region": "North-East Asia",
+     "rubrique": "asie",
+     "liens": [
+      {
+       "source": "Straits Times Asie",
+       "url": "https://www.straitstimes.com/asia/east-asia/north-korea-test-fires-new-high-speed-torpedo-weapon-system",
+       "titre": "North Korea test-fires new high-speed torpedo weapon system"
+      },
+      {
+       "source": "Yonhap (Corée du Nord)",
+       "url": "https://en.yna.co.kr/view/AEN20261110001251315",
+       "titre": "(LEAD) N. Korea tests new torpedo, eyes early 2027 deployment"
+      },
+      {
+       "source": "Chosunbiz",
+       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUXoybkJoVDJXdFFNMkl5UG5veE9DRHd4NDV2cVAxMnA1cXE0SWN3TUJsRUd5RGwzWFFQOGFXRDJYZGgwN2QtX1VuSjFiQjhlSFZXTFlST3k5cHFUb25KMWxFakExdHM0YlZkU2NxQTBHeWd2QWRaNm10QjVRNWtKRzBiaHFROTduV3d6YjZaZWNVamvSAZMBQVVfeXFMUFF6Mm5CaFQyV3RRTTJJeVBub3hPQ0R3eDQ1dnFQMTJwNXFxNEljd01CbEVHeURsM1hRUDhhV0QyWGRoMDdkLV9VbkoxYkI4ZUhWV0xZUk95OXBxVG9uSjFsRWpBMXRzNGJWZFNjcUEwR3lndkFkWjZtdEI1UTVrSkcwYmhxUTk3bld3emI2WmVjVWpr?oc=5",
+       "titre": "North Korea tests new torpedo in East Sea, to deploy to navy early next year"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-10|North Korea test-fires new high-speed torpedo weapon system"
+    },
+    {
+     "suite": true,
+     "remplace": "2026-11-08|Taiwan receives first batch of F-16 Block 70 fighter aircraft",
+     "emoji": "🚢",
+     "titre": "Taiwan reports Chinese area denial drills in Western Pacific",
+     "resume": "Taiwanese Defense Minister Wellington Koo stated that China is conducting area denial drills in the Western Pacific involving an aircraft carrier and naval formations. Meanwhile, Taipei received its first batch of F-16 Block 70 fighters.",
+     "pourquoi": "",
+     "pays": [
+      "Taiwan",
+      "China"
+     ],
+     "region": "North-East Asia",
+     "rubrique": "asie",
+     "liens": [
+      {
+       "source": "Straits Times Asie",
+       "url": "https://www.straitstimes.com/asia/taiwan-says-china-is-conducting-area-denial-drills-in-western-pacific",
+       "titre": "Taiwan says China is conducting 'area denial' drills in Western Pacific"
+      }
+     ],
+     "visuel": {
+      "nom": "General Dynamics F-16 Fighting Falcon",
+      "description": "American multi-role fighter aircraft",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/F-16_June_2008.jpg/960px-F-16_June_2008.jpg",
+      "page": "https://en.wikipedia.org/wiki/General_Dynamics_F-16_Fighting_Falcon",
+      "type": "platform"
+     },
+     "id": "2026-11-10|Taiwan reports Chinese area denial drills in Western Pacific"
+    }
+   ]
+  },
+  {
+   "id": "elections",
+   "titre": "Elections & Politics",
+   "items": [
+    {
+     "suite": true,
+     "remplace": "2026-11-09|New Zealand faces political limbo following inconclusive election",
+     "emoji": "🗳️",
+     "titre": "New Zealand political parties delay coalition talks after tight election",
+     "resume": "New Zealand party leaders entered coalition discussions following one of the tightest general elections in years. Both major parties finished neck-and-neck, leaving minor parties holding kingmaker positions.",
+     "pourquoi": "",
+     "pays": [
+      "New Zealand"
+     ],
+     "region": "Oceania",
+     "rubrique": "elections",
+     "liens": [
+      {
+       "source": "Straits Times Asie",
+       "url": "https://www.straitstimes.com/asia/australianz/nz-pm-luxon-meets-opportunitys-wong-ahead-of-possible-pact",
+       "titre": "New Zealand PM Luxon meets Opportunity’s Qiulae Wong ahead of possible pact"
+      },
+      {
+       "source": "BBC Asia",
+       "url": "https://www.bbc.co.uk/news/articles/cqvgj2gjdn40o?at_medium=RSS&at_campaign=rss",
+       "titre": "After knife-edge vote, New Zealand parties put off coalitions talks"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-10|New Zealand political parties delay coalition talks after tight election"
+    }
+   ]
+  },
+  {
+   "id": "defense_aerienne",
+   "titre": "Air & Missile Defence",
+   "items": []
+  },
+  {
+   "id": "industrie",
+   "titre": "Defence Industry & Contracts",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🛰️",
+     "titre": "France contracts Airbus and Thales Alenia Space for IRIS satellites",
+     "resume": "The French Ministry of the Armed Forces has awarded a contract worth over 1.5 billion euros to Airbus and Thales Alenia Space. The agreement covers the construction of two next-generation military Earth observation satellites.",
+     "pourquoi": "",
+     "pays": [
+      "France"
+     ],
+     "region": "Europe",
+     "rubrique": "industrie",
+     "liens": [
+      {
+       "source": "Asia Pacific Defence Reporter",
+       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM2lNRmtqNjRfYVJLNThJNDB5enMtZ0JnYTd5RWR4Y0FNN0tjdXh1T29FQXg4MFJCZ1Rlek53VmF0b2p6WXdIX1JEVHZQXzJmY25YM1JYc3ZLZm5sTkdYZzdqakxRUGNyclRiaHo3dkZaZmMyMFJDemNpYlctOVo1cld4ckJ1em8zb1R2U0pOVDZVcU8wT1FrYjlsMENpSkFDcXRsODJ1OHVZTlNvcW0ySnFpR0dLb0k?oc=5",
+       "titre": "Airbus to deliver next-generation military Earth observation satellites"
+      },
+      {
+       "source": "Opex360",
+       "url": "https://www.opex360.com/2026/11/09/le-ministere-des-armees-lance-la-realisation-de-deux-satellites-dobservation-iris-pour-15-milliard-deuros/",
+       "titre": "Le ministère des Armées lance la réalisation de deux satellites d’observation IRIS pour 1,5 milliard d’euros"
+      },
+      {
+       "source": "Defence Industry Europe",
+       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQU04bXZhbmZncHhBczA4QzBMLXZ4Vk1QdzNlalF6SzhINlJKWnVkYTQtMGg1UjVUMGtSZDZYWFVseVI2YmtjbHZTY2dmU01wbXpiaFVxRmNmclE0LXFGanNWX3hSWGxhLVdrQ2FyQ3R2dE1tSjJUR1k2cDZpell2cVRMWXdpRnVZMl9DTFpsdEhrYjJ4V3lpMzd0OGJCZ0NkaVpZSkd1YXBlNVh6YnZKTkdGN1JhR3dBQ2JyTmwtaEJvcUxHT3Zpd0h0dw?oc=5",
+       "titre": "Airbus and Thales Alenia Space to build two French military satellites in deal worth over €1.5 billion"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-10|France contracts Airbus and Thales Alenia Space for IRIS satellites"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "📝",
+     "titre": "MBDA awarded contract to study Aster 30 integration with MK 41 VLS",
+     "resume": "The UK Ministry of Defence has awarded MBDA a contract to examine the feasibility of integrating the Aster 30 surface-to-air missile with the Lockheed Martin MK 41 vertical launch system.",
+     "pourquoi": "",
+     "pays": [
+      "United Kingdom",
+      "France"
+     ],
+     "region": "Europe",
+     "rubrique": "industrie",
+     "liens": [
+      {
+       "source": "Naval News",
+       "url": "https://www.navalnews.com/naval-news/2026/11/mbda-on-contract-to-study-aster-30-missile-integration-in-mk-41-vls/",
+       "titre": "MBDA on contract to study Aster 30 missile integration in MK 41 VLS"
+      }
+     ],
+     "visuel": {
+      "nom": "Aster (missile family)",
+      "description": "Franco-Italian surface-to-air missile family",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/MBDA_Aster_p1220947.jpg/960px-MBDA_Aster_p1220947.jpg",
+      "page": "https://en.wikipedia.org/wiki/Aster_(missile_family)",
+      "type": "platform"
+     },
+     "id": "2026-11-10|MBDA awarded contract to study Aster 30 integration with MK 41 VLS"
+    }
+   ]
+  },
+  {
+   "id": "ukraine",
+   "titre": "Ukraine / Russia",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🔥",
+     "titre": "Ukrainian drone strikes set Russian refinery ablaze",
+     "resume": "A Ukrainian drone attack caused a major fire at Russia's Kirishi oil refinery, resulting in civilian casualties from falling debris. The strikes have prompted renewed fuel rationing measures inside Russia.",
+     "pourquoi": "",
+     "pays": [
+      "Ukraine",
+      "Russia"
+     ],
+     "region": "Russia-Ukraine",
+     "rubrique": "ukraine",
+     "liens": [
+      {
+       "source": "Financial Times",
+       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeVd1TTl3TGdIcE1yeWtZVUJ0UFhsUVZBWVZYaHczRWFWa1lqZndtd1loTS1NcVMxWmNGOGM0bVdDbERZcTRWSGtjSVdFb003NFN2SDhKRWlYTW9iRkVTSXRMeDczaENXclBRVWp5eW1CYkYydFQzWjYyaVJ6WklTYXpiVG8?oc=5",
+       "titre": "Russia rations petrol after new Ukrainian strikes on refineries"
+      },
+      {
+       "source": "ABC News & Headlines",
+       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaFYwWlFvYmhzZkdrY1A0NTVfVjdUNWVlV2dUeVR0ZHZyeWNUd241YUEyWENYQktHWWRyM1c3YzZ3b0lyU25RQWhXTTJZakJWT3p5Nld2R3kwTjVmSFlUbzVHVkN2Sk10dDctY1dOMEthUDFJY2ZOeVFsaXBSN3NidkFFRnpLSWk5UzlfcTlMaHZtNkdTdURRZkRyTU4zbGNDREFEUFIyeTJ3SV9ncUE?oc=5",
+       "titre": "Ukrainian drone attack sets Russia's Kirishi refinery ablaze, woman killed by debris"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-10|Ukrainian drone strikes set Russian refinery ablaze"
+    }
+   ]
+  },
+  {
+   "id": "moyen_orient",
+   "titre": "Middle East",
+   "items": [
+    {
+     "suite": true,
+     "remplace": "2026-11-09|Houthi missile strike hits Aramco tower in Riyadh",
+     "emoji": "🛡️",
+     "titre": "Saudi forces intercept missiles fired towards Riyadh",
+     "resume": "Saudi air defence forces intercepted two ballistic missiles fired towards Riyadh. The attack followed reported damage to a key East-West pipeline resulting from previous Houthi strikes.",
+     "pourquoi": "",
+     "pays": [
+      "Saudi Arabia",
+      "Yemen"
+     ],
+     "region": "Middle East",
+     "rubrique": "moyen_orient",
+     "liens": [
+      {
+       "source": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/10/saudi-arabia-downs-missiles-fired-at-riyadh-after-houthi-attack-on-pipeline?traffic_source=rss",
+       "titre": "Saudi Arabia downs missiles fired at Riyadh after Houthi attack on pipeline"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-10|Saudi forces intercept missiles fired towards Riyadh"
+    }
+   ]
+  },
+  {
+   "id": "europe",
+   "titre": "Europe",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "⚠️",
+     "titre": "France blames Iranian cyber unit for supermarket refrigerator hacks",
+     "resume": "French authorities formally blamed an Iranian Islamic Revolutionary Guard Corps cyber unit for unprecedented cyberattacks that disabled supermarket refrigeration systems across France. Paris vowed to pursue European-level sanctions.",
+     "pourquoi": "",
+     "pays": [
+      "France",
+      "Iran"
+     ],
+     "region": "Europe",
+     "rubrique": "europe",
+     "liens": [
+      {
+       "source": "Japan Times",
+       "url": "https://www.japantimes.co.jp/news/2026/11/10/world/crime-legal/iran-french-refrigerator-hacks/",
+       "titre": "French officials blame Iran for refrigerator hacks and vow retaliation"
+      },
+      {
+       "source": "Al Jazeera",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/france-blames-iran-for-october-supermarket-cyberattack?traffic_source=rss",
+       "titre": "France blames Iran for October supermarket cyberattack"
+      },
+      {
+       "source": "CNA Monde",
+       "url": "https://www.channelnewsasia.com/world/france-iran-supermarket-fridge-cyberattacks-6536986",
+       "titre": "France says Iran behind 'unprecedented' cyberattacks on fridges"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-10|France blames Iranian cyber unit for supermarket refrigerator hacks"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🛡️",
+     "titre": "Belgium reactivates air defence squadron and orders Skyranger systems",
+     "resume": "The Belgian Air Force has reactivated its 51st Air Defence Squadron and confirmed a procurement contract with Rheinmetall for 20 Skyranger 30 mobile air defence systems to protect critical infrastructure.",
+     "pourquoi": "",
+     "pays": [
+      "Belgium"
+     ],
+     "region": "Europe",
+     "rubrique": "europe",
+     "liens": [
+      {
+       "source": "Opex360",
+       "url": "https://www.opex360.com/2026/11/09/la-belgique-reactive-la-51e-escadrille-de-defense-aerienne-et-confirme-la-commande-de-20-canons-skyranger-a-rheinmetall/",
+       "titre": "La Belgique réactive la 51e Escadrille de défense aérienne et confirme la commande de 20 canons Skyranger à Rheinmetall"
+      },
+      {
+       "source": "Defence Industry Europe",
+       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZTljZE4tZVdFdlVIOFVFMnFncFljemlkUTNFOHdHdklVRWk2VWNqZ1F1eHVxbTBQVlhiMHI3dEtSU0ZtWVpmdjVjSUR6V0JQQVRHRnlhUHRoWDFYZFI4Y0JGSkVQaVpxRDItQTBXOGdXUmluZENRR0ZQQTRkSS1ZREpqOGhtUXExLVZtVDA2V3h3NEgtbGU2Y25GZ2tFRHJ0blRKM1NZaWY3OTRQLVp0TzVHU0lHUEExLWFRUFhiZG9lbDk2aXJiU0Vn?oc=5",
+       "titre": "Rheinmetall to supply 20 Skyranger 30 air defence systems to protect Belgium’s critical infrastructure"
+      }
+     ],
+     "visuel": {
+      "nom": "Skyranger 30",
+      "description": "Short-range anti-aircraft defence system",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Boxer_Skyranger_30_left_side_at_ILA-2024.jpg/960px-Boxer_Skyranger_30_left_side_at_ILA-2024.jpg",
+      "page": "https://en.wikipedia.org/wiki/Skyranger_30",
+      "type": "platform"
+     },
+     "id": "2026-11-10|Belgium reactivates air defence squadron and orders Skyranger systems"
+    }
+   ]
+  },
+  {
+   "id": "espace",
+   "titre": "Space & Satellites",
+   "items": []
+  },
+  {
+   "id": "tech",
+   "titre": "Emerging Tech",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🛰️",
+     "titre": "General Atomics unveils Ranger and GA-Ray long-range underwater drones",
+     "resume": "General Atomics revealed its Ranger and GA-Ray long-range unmanned underwater vehicles at Euronaval 2026. The systems are designed for multi-year missions capable of launching sub-drones and heavy payloads.",
+     "pourquoi": "",
+     "pays": [
+      "United States"
+     ],
+     "region": "Global",
+     "rubrique": "tech",
+     "liens": [
+      {
+       "source": "Naval News",
+       "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/general-atomics-ranger-uuv-to-support-large-payloads-uavs/",
+       "titre": "General Atomics Ranger UUV to Support Large Payloads, UAVs"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-10|General Atomics unveils Ranger and GA-Ray long-range underwater drones"
+    }
+   ]
+  },
+  {
+   "id": "economie",
+   "titre": "Economy & Sanctions",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "💰",
+     "titre": "China extends suspension of rare earth export controls",
+     "resume": "China extended its suspension of new rare earth export controls for two months until January. The move temporarily alleviates supply chain pressures on high-tech manufacturing industries.",
+     "pourquoi": "",
+     "pays": [
+      "China"
+     ],
+     "region": "North-East Asia",
+     "rubrique": "economie",
+     "liens": [
+      {
+       "source": "The Star",
+       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOHhNcUFTZ0JkN1pKb0JFVzdUWEJIM1RvTGJiLUdGUWlvbkJuTGRVWFAzb29HZFozaUhXX2JpVzBReUZ0OTNWQWJ4U0doODNOTDBnbHYtcnprV29GOEdEWjBrb3Y5RHhqWlNrQXJ0MjVqaGZuY2ZfZXpGM2tLMVFWYmdoWTJpaEszclVpRXg2TFY3WnZKZWxlSmVaamZOcTQwSC1wX184VjQ1WHIzaVBleTZrNG14Nm5BVWdzeWhEOHE4Q1F3Zk5YMWc3TQ?oc=5",
+       "titre": "China extends suspension of rare earth export controls until January"
+      },
+      {
+       "source": "CNA Asie",
+       "url": "https://www.channelnewsasia.com/east-asia/china-extends-suspensions-new-rare-earths-controls-6535736",
+       "titre": "China extends suspension of new rare earth controls until January"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-10|China extends suspension of rare earth export controls"
+    }
+   ]
+  }
+ ],
+ "a_surveiller": [
+  {
+   "quand": "November 29",
+   "quoi": "Swiss voters decide in a referendum on easing weapons export controls",
+   "liens": [
+    {
+     "source": "Defense News",
+     "url": "https://www.defensenews.com/global/europe/2026/11/09/swiss-neutrality-proponents-challenge-arms-firms-in-vote-on-easing-of-exports/",
+     "titre": "Swiss neutrality proponents challenge arms firms in vote on easing of exports"
+    }
+   ]
+  },
+  {
+   "quand": "December",
+   "quoi": "Bank of Japan policy meeting to discuss potential near-term interest rate hikes",
+   "liens": [
+    {
+     "source": "Japan Times",
+     "url": "https://www.japantimes.co.jp/business/2026/11/10/economy/boj-summary-opinions-october/",
+     "titre": "BOJ summary suggests good chance of December interest rate hike"
+    }
+   ]
+  },
+  {
+   "quand": "February 7, 2027",
+   "quoi": "Cameroon legislative and local elections",
+   "liens": [
+    {
+     "source": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/10/cameroon-sets-date-for-twice-delayed-legislative-and-local-elections?traffic_source=rss",
+     "titre": "Cameroon sets date for twice-delayed legislative and local elections"
+    },
+    {
+     "source": "Le Monde International",
+     "url": "https://www.lemonde.fr/international/article/2026/11/09/cameroun-apres-des-reports-le-president-paul-biya-convoque-des-elections-legislatives-et-municipales-le-7-fevrier_6808705_3210.html",
+     "titre": "Cameroun : après des reports, le président, Paul Biya, convoque des élections législatives et municipales le 7 février"
+    }
+   ]
+  }
+ ],
+ "hebdo": null,
+ "stats": {
+  "articles": 374,
+  "sources": 52
+ }
+}
