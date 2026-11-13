@@ -1,21 +1,110 @@
 {
- "date": "2026-11-12",
- "date_label": "Thursday, November 12, 2026",
- "genere_le": "2026-11-12T11:26:37+08:00",
+ "date": "2026-11-13",
+ "date_label": "Friday, November 13, 2026",
+ "genere_le": "2026-11-13T10:58:27+08:00",
  "mode": "ia",
  "modele": "gemini-3.6-flash",
  "accroche": [
-  "Indonesian Vice President Gibran resigns following legislative impeachment pressure",
-  "Nvidia board deliberates removing CEO Jensen Huang over Chinese espionage scandal",
-  "Russia and Ukraine reach prisoner exchange agreement in Abu Dhabi negotiations"
+  "Jensen Huang resigns from Nvidia following Chinese espionage and misconduct allegations",
+  "Vladimir Putin agrees to European participation in future Ukraine peace talks",
+  "Indonesian Vice-President Gibran Rakabuming Raka formally resigns over diploma scandal"
  ],
  "essentiel": [
   {
    "suite": true,
-   "remplace": "2026-11-11|Indonesian Vice President Gibran offers resignation amid political crisis",
+   "remplace": "2026-11-12|Nvidia board considers revoking CEO Jensen Huang over espionage links",
+   "emoji": "🚪",
+   "titre": "Jensen Huang resigns as Nvidia CEO amid espionage scandal",
+   "resume": "Co-founder Jensen Huang has stepped down from Nvidia following revelations of extramarital affairs and links to an alleged Chinese spy. Chief Financial Officer Colette Kress has taken over as interim CEO while US lawmakers push for tighter chip export controls.",
+   "pourquoi": "",
+   "pays": [
+    "United States",
+    "China"
+   ],
+   "region": "Global",
+   "rubrique": "industrie",
+   "liens": [
+    {
+     "source": "CNA Monde",
+     "url": "https://www.channelnewsasia.com/world/colette-kress-nvidia-interim-ceo-replacing-jensen-huang-6548251",
+     "titre": "Who is Colette Kress, the interim CEO replacing Jensen Huang at Nvidia"
+    },
+    {
+     "source": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+     "titre": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil"
+    },
+    {
+     "source": "Japan Times",
+     "url": "https://www.japantimes.co.jp/business/2026/11/13/economy/lutnick-future-white-house-nvidia/",
+     "titre": "White House weighs Lutnick’s ouster amid Nvidia export concerns, sources say"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/12/why-did-nvidia-ceo-jensen-huang-resign-and-who-is-colette-kress?traffic_source=rss",
+     "titre": "Why did Nvidia CEO Jensen Huang resign, and who is Colette Kress?"
+    }
+   ],
+   "visuel": {
+    "nom": "Jensen Huang",
+    "description": "Taiwanese-American businessman (born 1963)",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Jensen_Huang_Stanford_2026-04-30_010_%28cropped%29.jpg/960px-Jensen_Huang_Stanford_2026-04-30_010_%28cropped%29.jpg",
+    "page": "https://en.wikipedia.org/wiki/Jensen_Huang",
+    "type": "person"
+   },
+   "id": "2026-11-13|Jensen Huang resigns as Nvidia CEO amid espionage scandal"
+  },
+  {
+   "suite": true,
+   "remplace": "2026-11-11|Ukraine peace talks in Abu Dhabi yield constructive initial discussions",
+   "emoji": "🤝",
+   "titre": "Putin agrees to European participation in Ukraine peace talks",
+   "resume": "Russian President Vladimir Putin agreed to include European representatives in future Ukraine peace negotiations during a Moscow meeting with US envoys Jared Kushner and Steve Witkoff. Ukrainian President Volodymyr Zelensky welcomed the development following discussions in Dublin.",
+   "pourquoi": "",
+   "pays": [
+    "Russia",
+    "Ukraine",
+    "United States"
+   ],
+   "region": "Russia-Ukraine",
+   "rubrique": "ukraine",
+   "liens": [
+    {
+     "source": "Japan Times",
+     "url": "https://www.japantimes.co.jp/news/2026/11/13/world/politics/putin-allows-europe-in-ukraine-talks/",
+     "titre": "Putin agrees to European participation in next round of Ukraine peace talks"
+    },
+    {
+     "source": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
+     "titre": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks"
+    },
+    {
+     "source": "Le Monde International",
+     "url": "https://www.lemonde.fr/international/live/2026/11/13/en-direct-guerre-en-ukraine-la-presence-des-europeens-dans-les-prochaines-negociations-de-paix-annoncee-par-volodymyr-zelensky-et-les-emissaires-americains_6808609_3210.html",
+     "titre": "EN DIRECT, guerre en Ukraine : la présence des Européens dans les prochaines négociations de paix annoncée par Volodymyr Zelensky et les émissaires américains"
+    },
+    {
+     "source": "Defense News",
+     "url": "https://www.defensenews.com/global/2026/11/12/putin-lets-europe-join-ukraine-peace-talks-as-kyiv-says-starshield-disrupted-again/",
+     "titre": "Putin lets Europe join Ukraine peace talks, as Kyiv says Starshield disrupted again"
+    }
+   ],
+   "visuel": {
+    "nom": "Vladimir Putin",
+    "description": "Leader of Russia since 1999",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Vladimir_Putin_%282026_02_23%29_%28cropped%29.jpg",
+    "page": "https://en.wikipedia.org/wiki/Vladimir_Putin",
+    "type": "person"
+   },
+   "id": "2026-11-13|Putin agrees to European participation in Ukraine peace talks"
+  },
+  {
+   "suite": true,
+   "remplace": "2026-11-12|Indonesian Vice-President Gibran formally resigns amid political crisis",
    "emoji": "🗳️",
-   "titre": "Indonesian Vice-President Gibran formally resigns amid political crisis",
-   "resume": "Vice-President Gibran Rakabuming Raka has officially submitted his resignation to President Prabowo Subianto following intense political pressure. The decision comes after over 100 lawmakers backed an impeachment petition challenging his educational qualifications.",
+   "titre": "Indonesian Vice-President Gibran formally resigns",
+   "resume": "Vice-President Gibran Rakabuming Raka formally tendered his resignation to President Prabowo Subianto after his overseas high school diploma was invalidated. Indonesia's Upper House (MPR) now has 60 days to elect a replacement vice-president.",
    "pourquoi": "",
    "pays": [
     "Indonesia"
@@ -24,206 +113,112 @@
    "rubrique": "elections",
    "liens": [
     {
-     "source": "Al Jazeera",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/indonesian-vp-resigns-over-education-qualification-row?traffic_source=rss",
-     "titre": "Indonesian VP resigns over education qualification row"
-    },
-    {
-     "source": "Japan Times",
-     "url": "https://www.japantimes.co.jp/news/2026/11/12/asia-pacific/politics/indonesia-vice-president-resigned/",
-     "titre": "Indonesia’s vice president has resigned, aide says, stoking political uncertainty"
-    },
-    {
      "source": "RFI Asie-Pacifique",
-     "url": "https://www.rfi.fr/fr/asie-pacifique/20261111-indon%C3%A9sie-derri%C3%A8re-la-d%C3%A9mission-du-vice-pr%C3%A9sident-gibran-une-alliance-politique-qui-se-dissout",
-     "titre": "Indonésie: derrière la démission du vice-président Gibran, une alliance politique qui se dissout"
+     "url": "https://www.rfi.fr/fr/podcasts/la-fabrique-du-monde/20261112-indon%C3%A9sie-vice-pr%C3%A9sident-gibran-d%C3%A9missionne-nouvelle-secousse-au-sommet-de-l-%C3%A9tat",
+     "titre": "Indonésie: le vice-président Gibran démissionne, nouvelle secousse au sommet de l'État"
     },
     {
-     "source": "BBC Asia",
-     "url": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
-     "titre": "Indonesia's vice president resigns amid signs ruling alliance is fraying"
+     "source": "CNA Asie",
+     "url": "https://www.channelnewsasia.com/asia/indonesia-gibran-vice-president-jokowi-prabowo-6541991",
+     "titre": "Gibran's exit as Indonesia's VP: A turning point in Prabowo and Jokowi's political relationship?"
+    },
+    {
+     "source": "Straits Times Asie",
+     "url": "https://www.straitstimes.com/asia/se-asia/indonesias-prabowo-gains-ground-as-gibran-exits-but-successor-choice-may-test-coalition",
+     "titre": "Indonesia’s Prabowo gains ground as Gibran exits, but successor choice may test ruling coalition"
     }
    ],
    "visuel": {
     "nom": "Gibran Rakabuming Raka",
-    "description": "Vice President of Indonesia since 2024",
+    "description": "Vice President of Indonesia from 2024 to 2026",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Gibran_Rakabuming_2024_official_portrait.jpg/960px-Gibran_Rakabuming_2024_official_portrait.jpg",
     "page": "https://en.wikipedia.org/wiki/Gibran_Rakabuming_Raka",
     "type": "person"
    },
-   "id": "2026-11-12|Indonesian Vice-President Gibran formally resigns amid political crisis"
+   "id": "2026-11-13|Indonesian Vice-President Gibran formally resigns"
   },
   {
-   "suite": true,
-   "remplace": "2026-11-11|Nvidia stock tumbles as US lawmakers push for tighter China chip curbs",
+   "suite": false,
+   "remplace": null,
    "emoji": "💰",
-   "titre": "Nvidia board considers revoking CEO Jensen Huang over espionage links",
-   "resume": "Nvidia's board of directors met to decide the future of co-founder Jensen Huang following reports of an affair with an executive and links to a suspected Chinese intelligence operation. The scandal has prompted US lawmakers to demand stricter AI chip export controls.",
+   "titre": "Japan Ministry of Finance targets cuts to missile and aircraft orders",
+   "resume": "Japan's Ministry of Finance is seeking to curb defence spending increases, warning suppliers of potential order reductions of up to 50 per cent for planned missiles and aircraft. The fiscal squeeze threatens Tokyo's five-year military build-up strategy.",
    "pourquoi": "",
    "pays": [
-    "United States",
-    "China",
-    "Taiwan"
+    "Japan"
    ],
-   "region": "Americas",
+   "region": "North-East Asia",
    "rubrique": "industrie",
    "liens": [
     {
-     "source": "Straits Times Asie",
-     "url": "https://www.straitstimes.com/asia/east-asia/alice-huang-alleged-chinese-spy-at-centre-of-nvidia-firestorm-said-to-be-in-beijing",
-     "titre": "Alice Huang, alleged Chinese spy at centre of Nvidia firestorm, said to be in Beijing"
-    },
-    {
-     "source": "Al Jazeera",
-     "url": "https://www.aljazeera.com/economy/2026/11/12/nvidia-shares-plunge-amid-reports-board-to-discuss-ceo-huangs-future?traffic_source=rss",
-     "titre": "Nvidia shares plunge amid reports board to discuss CEO Huang’s future"
-    },
-    {
-     "source": "Axios",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPa01VNnZpTE10OFNfTFRXZDZzeUJwSjFkNmlhVjFwUVExM3RmaUlNOG1jWm1aYXJMRHkyb2s1WGdMQU9IQUN6RE5kVi1ub3JkQ0wxVnc2YWFvY2VzTWRiX0FZeVlpdDNsMzBhcWpzOVhqNVh4UUFCa2cySy1ZSlkwTGRxbHVjcEU?oc=5",
-     "titre": "Scoop: Lutnick stalled curbing Nvidia chip sales to China — again — after Oval Office showdown"
-    },
-    {
-     "source": "Le Monde International",
-     "url": "https://www.lemonde.fr/economie/article/2026/11/12/le-patron-de-nvidia-mis-en-cause-pour-une-liaison-avec-une-chinoise-soupconnee-d-espionnage-accuse-d-avoir-eu-une-seconde-affaire-sentimentale-avec-une-salariee_6809035_3234.html",
-     "titre": "Le patron de Nvidia, mis en cause pour une liaison avec une Chinoise soupçonnée d’espionnage, accusé d’avoir eu une seconde affaire sentimentale avec une salariée"
-    }
-   ],
-   "visuel": {
-    "nom": "Jensen Huang",
-    "description": "Taiwanese and American businessman (born 1963)",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Jensen_Huang_Stanford_2026-04-30_010_%28cropped%29.jpg/960px-Jensen_Huang_Stanford_2026-04-30_010_%28cropped%29.jpg",
-    "page": "https://en.wikipedia.org/wiki/Jensen_Huang",
-    "type": "person"
-   },
-   "id": "2026-11-12|Nvidia board considers revoking CEO Jensen Huang over espionage links"
-  },
-  {
-   "suite": true,
-   "remplace": "2026-11-11|Ukraine peace talks in Abu Dhabi yield constructive initial discussions",
-   "emoji": "🤝",
-   "titre": "Russia and Ukraine agree major prisoner swap at Abu Dhabi talks",
-   "resume": "US-brokered negotiations in Abu Dhabi resulted in a major prisoner exchange agreement between Kyiv and Moscow, though negotiators failed to achieve broader security breakthroughs. Russian envoys explicitly rejected any territorial swaps as part of future peace terms.",
-   "pourquoi": "",
-   "pays": [
-    "Ukraine",
-    "Russia",
-    "United States"
-   ],
-   "region": "Russia-Ukraine",
-   "rubrique": "ukraine",
-   "liens": [
-    {
      "source": "Japan Times",
-     "url": "https://www.japantimes.co.jp/news/2026/11/12/world/politics/russia-ukraine-prisoner-swap-us-talks/",
-     "titre": "Russia and Ukraine agree to prisoner swap as U.S. says lack of trust holds back talks"
+     "url": "https://www.japantimes.co.jp/news/2026/11/13/japan/defense-buildup-fiscal-constraints/",
+     "titre": "Finance Ministry looks to rein in defense spending push amid funding concerns"
     },
     {
-     "source": "Le Monde International",
-     "url": "https://www.lemonde.fr/international/live/2026/11/12/en-direct-guerre-en-ukraine-volodymyr-zelensky-juge-une-avancee-possible-avant-la-fin-de-l-annee-dans-les-pourparlers-de-paix_6808609_3210.html",
-     "titre": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky juge une avancée possible avant la fin de l’année dans les pourparlers de paix"
+     "source": "Straits Times Asie",
+     "url": "https://www.straitstimes.com/asia/east-asia/japan-warns-arms-suppliers-of-deep-order-cuts-as-budget-squeeze-hits-military-build-up-sources-say",
+     "titre": "Japan warns arms suppliers of deep order cuts as budget squeeze hits military build-up, sources say"
     },
     {
-     "source": "CNA Monde",
-     "url": "https://www.channelnewsasia.com/world/rubio-hails-very-productive-russia-ukraine-talks-wants-europe-table-6543786",
-     "titre": "Rubio hails 'very productive' Russia-Ukraine talks, wants Europe 'at the table'"
-    },
-    {
-     "source": "BBC World",
-     "url": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
-     "titre": "Russia-Ukraine talks turn to post-war security but end without breakthrough"
+     "source": "Asian Military Review",
+     "url": "https://www.asianmilitaryreview.com/2026/11/ldp-lawmakers-seek-major-funding-for-new-defense-industry-agency-and-startup-support-nsbt/",
+     "titre": "LDP Lawmakers Seek Major Funding for New Defense Industry Agency and Startup Support"
     }
    ],
    "visuel": null,
-   "id": "2026-11-12|Russia and Ukraine agree major prisoner swap at Abu Dhabi talks"
-  },
-  {
-   "suite": false,
-   "remplace": null,
-   "emoji": "🗳️",
-   "titre": "Democrat Scott Colom flips Mississippi Senate seat in historic win",
-   "resume": "District Attorney Scott Colom defeated incumbent Republican Senator Cindy Hyde-Smith in Mississippi, becoming the state's first Black US senator in over 140 years. The victory expands the Democratic Senate majority to 55 seats following the midterm elections.",
-   "pourquoi": "",
-   "pays": [
-    "United States"
-   ],
-   "region": "Americas",
-   "rubrique": "elections",
-   "liens": [
-    {
-     "source": "BBC World",
-     "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
-     "titre": "Democrat Scott Colom seals historic win in Mississippi Senate race"
-    },
-    {
-     "source": "Le Monde International",
-     "url": "https://www.lemonde.fr/international/article/2026/11/12/midterms-2026-le-democrate-scott-colom-devient-le-premier-senateur-noir-du-mississippi-depuis-pres-de-150-ans_6809036_3210.html",
-     "titre": "Midterms 2026 : le démocrate Scott Colom devient le premier sénateur noir du Mississippi depuis près de 150 ans"
-    },
-    {
-     "source": "CNA Monde",
-     "url": "https://www.channelnewsasia.com/world/mississippi-senate-scott-colom-democrat-us-midterms-6544221",
-     "titre": "Democrat Colom wins Mississippi Senate seat, becomes state's first Black senator since 1874"
-    },
-    {
-     "source": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/11/democrat-scott-colom-wins-closely-watched-us-senate-race-in-mississippi?traffic_source=rss",
-     "titre": "Democrat Scott Colom wins closely watched US Senate race in Mississippi"
-    }
-   ],
-   "visuel": null,
-   "id": "2026-11-12|Democrat Scott Colom flips Mississippi Senate seat in historic win"
-  },
-  {
-   "suite": false,
-   "remplace": null,
-   "emoji": "⚠️",
-   "titre": "US Treasury Secretary moved to military base following Iranian threats",
-   "resume": "US Treasury Secretary Scott Bessent has been relocated to live on a military base due to credible intelligence regarding threats from Iran. He becomes the latest high-ranking Trump administration official housed on secure military installations.",
-   "pourquoi": "",
-   "pays": [
-    "United States",
-    "Iran"
-   ],
-   "region": "Middle East",
-   "rubrique": "moyen_orient",
-   "liens": [
-    {
-     "source": "ABC News & Headlines",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZEhKdTdtLXdyLUhyRENHSGJzaUIwRkstVkVNa1hzMHlMT3BvRTUzaXhiRFM1VmxEVWgxSjFCakJDLU5NZWtvRlVTUE1paEx4eTlFMWZHR0RiMzNySGpSSGpnZ1NKMTBjSXpKSXNXSUNjV0c2clBTcU53bElKMnVPSTZWcTRtTUp1dGMwY2V4ZmJZSXpUZlo3RDRmM1BvNUk?oc=5",
-     "titre": "Why several Trump officials are now living at military bases"
-    },
-    {
-     "source": "WSJ",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORkxzeEpuV1F2ajJvUjhsQm14V19RS3dGdlJIUVFmc2xHOFpRTmRINklYMHlORkJQbUE5VlJpem1HSHN3dV9taWRKemxJOGNMdEFtS3Q2TDRqY1ZEc2NodEpVWURZdm9wVDJkM01GbDZsNm1RTmJqR3FyWFp1akxNWms5bUs3ejd0cUNObG0wSlkzTEdaV1RFcHY0c0NWRm1BVDJ3MXBGalBrRUU2TnAtZTVYNGk5QQ?oc=5",
-     "titre": "Bessent Moved to Military Base After Threats Linked to Iran"
-    },
-    {
-     "source": "BBC World",
-     "url": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss",
-     "titre": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats"
-    },
-    {
-     "source": "Al Jazeera",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ0ZLdTFrSVdfYnpLdjdqM2tqR0VwNUlWV1BMOXplblVvWWNUc2duc1AwVWFTdU8tMUdCekl4eVpRc2pFaUZkaGhvRjRRUlVvalBVN2NtWU5BQU5FQnY4cnVjUjlpdmdwZWlrcU42OGhfWWIxVlAyODF4enlPRGdIVTZ4TU9lM0N3bEtlb1JMdU5aVVNDZE1wV2E2S1p3cGdPMXdyNndtcmR3cC1UM3Z5Q2h30gG3AUFVX3lxTE50a0g5WnJOYmp6Zzc1aVJxSHlWcVg5U3NKVFF6TzlGQzFkWHNRak9DR0hPVGJnNmVSUHRIdDJFcXBOUUFoT29jQ1dqWnlydFdiemVrOVg3Qk4tRTRtWXJ3LVZhSHZiOHA0UlJmaEdZQ1VXWDl2Qll4VVA5VVRhLTk4NnhxNHdqal94X0tmSjJyMktsekdrbVdjMUR5SWVZcDNuMXlDeXNnRTBBZFF1T21YX0F5dkcxWQ?oc=5",
-     "titre": "US Treasury chief Bessent moved to military base after ‘Iranian threats’"
-    }
-   ],
-   "visuel": {
-    "nom": "Scott Bessent",
-    "description": "American businessman and government official (born 1962)",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Official_portrait_of_Treasury_Secretary_Scott_Bessent_%28borderless%29_%28cropped%29.jpg/960px-Official_portrait_of_Treasury_Secretary_Scott_Bessent_%28borderless%29_%28cropped%29.jpg",
-    "page": "https://en.wikipedia.org/wiki/Scott_Bessent",
-    "type": "person"
-   },
-   "id": "2026-11-12|US Treasury Secretary moved to military base following Iranian threats"
+   "id": "2026-11-13|Japan Ministry of Finance targets cuts to missile and aircraft orders"
   }
  ],
  "rubriques": [
   {
    "id": "monde",
    "titre": "World",
-   "items": []
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "⚠️",
+     "titre": "NATO cancels 2027 Tirana summit amid spending row",
+     "resume": "Albanian Prime Minister Edi Rama confirmed that Tirana will no longer host the 2027 NATO summit. The decision follows criticism from allies regarding Albania's low defence expenditure and ongoing domestic political tension.",
+     "pourquoi": "",
+     "pays": [
+      "Albania"
+     ],
+     "region": "Europe",
+     "rubrique": "monde",
+     "liens": [
+      {
+       "source": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/13/albanias-pm-says-2027-nato-summit-will-not-be-held-in-tirana?traffic_source=rss",
+       "titre": "Albania’s PM says 2027 NATO summit will not be held in Tirana"
+      },
+      {
+       "source": "Reuters",
+       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZWpVclN0M3BFWEl5Wk5SNXphalB0VzJhWE9CMktubk9vWmlsbWZVRmE4a1c1dDdKamh6XzQ1WFNDamc3bDlTa09vb0Nyci1JTmhUU2I2X0VLajZVMGszM3EzZFpJWHlwcTZ5X29iNFd2Q2dxakZzZVRKc2ltTFRnNjViN01FVDEtTkZfaDljNkNKal81SFpuejJMQkpQLTJQelpqQ3R3?oc=5",
+       "titre": "NATO will not hold summit in Tirana next year, Albania's Rama says"
+      },
+      {
+       "source": "POLITICO.eu",
+       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLTNvdnVHMERXWnhCVmIzN3pwMXJoU3lscy1qcVdNR0g5Yml6V1FYRTlBOHkxRl9Qc1RYLTVSSnpnamVQM2NlN2VjN0l3QmZRbWZmTm14eEJNelJHYnJKLW8zaEdKdDZkY1lkZ2M0N0pGN1JDa2c3czJlbzl6cHIwazZITlEyeWZDbTZ4Z3ZaUUMwMzZyRy15cW1MQTM3V19vNWc?oc=5",
+       "titre": "Albania pitches flexible NATO summit as allies sour on 2027 meeting"
+      },
+      {
+       "source": "Bloomberg.com",
+       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOME1OMTdKcV82UVZGZWFlaUYtRlNUcy1idnJ2UGk0b3hqajdDNXZJMkpWT3FEbTRXQ1VjZnl1UDJySWxPUEd5SDlZUG8tZVBxMlRlNXFwUF8wMm51c0EyNXNtamZLdURzeTRCT3pxd1ZCSHZDN0RKM3dJQXNtUmEwSTZMdm51ZHNUTEItNkE0TFNwR0VfVnVrV3JzWGl1WWxzaUVmN1A0Q2p6Y0tw?oc=5",
+       "titre": "NATO to Skip Annual Summit in 2027, Next Host Albania Says"
+      }
+     ],
+     "visuel": {
+      "nom": "Edi Rama",
+      "description": "Prime Minister of Albania since 2013",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Edi_Rama%2C_press_conference%2C_ITB_2025%2C_Berlin_%28ITB56326%29_%283x4_cropped%29.jpg/960px-Edi_Rama%2C_press_conference%2C_ITB_2025%2C_Berlin_%28ITB56326%29_%283x4_cropped%29.jpg",
+      "page": "https://en.wikipedia.org/wiki/Edi_Rama",
+      "type": "person"
+     },
+     "id": "2026-11-13|NATO cancels 2027 Tirana summit amid spending row"
+    }
+   ]
   },
   {
    "id": "asie",
@@ -232,262 +227,217 @@
     {
      "suite": false,
      "remplace": null,
-     "emoji": "🤝",
-     "titre": "Taiwan appoints Acer founder as APEC envoy amid Beijing tension",
-     "resume": "President Lai Ching-te named Acer co-founder Stan Shih as Taiwan's representative for the APEC summit in Shenzhen, insisting on participation on an equal basis. Meanwhile, G7 foreign ministers warned that Chinese military manoeuvres east of Taiwan threaten regional stability.",
-     "pourquoi": "",
-     "pays": [
-      "Taiwan",
-      "China"
-     ],
-     "region": "North-East Asia",
-     "rubrique": "asie",
-     "liens": [
-      {
-       "source": "Straits Times Asie",
-       "url": "https://www.straitstimes.com/asia/taiwan-is-taking-part-in-apec-china-summit-on-an-equal-basis-president-says",
-       "titre": "Taiwan is taking part in APEC China summit on an 'equal basis', president says"
-      },
-      {
-       "source": "CNA Asie",
-       "url": "https://www.channelnewsasia.com/east-asia/taiwan-acer-stan-shih-represent-apec-china-6542401",
-       "titre": "Taiwan sends Acer's Stan Shih to represent it at APEC summit in China"
-      }
-     ],
-     "visuel": {
-      "nom": "Stan Shih",
-      "description": "Taiwanese businessman (born 1944)",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/2007TaiwanBrandsTrendForum_StanShih.jpg/960px-2007TaiwanBrandsTrendForum_StanShih.jpg",
-      "page": "https://en.wikipedia.org/wiki/Stan_Shih",
-      "type": "person"
-     },
-     "id": "2026-11-12|Taiwan appoints Acer founder as APEC envoy amid Beijing tension"
-    },
-    {
-     "suite": false,
-     "remplace": null,
-     "emoji": "🚢",
-     "titre": "Kim Jong-un inspects new naval base as Pyongyang shuns APEC",
-     "resume": "North Korean leader Kim Jong-un inspected a major naval base under construction on the east coast, urging its rapid completion. South Korean officials confirmed Pyongyang is unlikely to attend the upcoming APEC summit or resume bilateral talks with Washington.",
-     "pourquoi": "",
-     "pays": [
-      "North Korea",
-      "South Korea",
-      "United States"
-     ],
-     "region": "North-East Asia",
-     "rubrique": "asie",
-     "liens": [
-      {
-       "source": "Yonhap (Corée du Nord)",
-       "url": "https://en.yna.co.kr/view/AEN20261112003751315",
-       "titre": "(LEAD) N. Korea unlikely to attend APEC or hold talks with U.S.: official"
-      }
-     ],
-     "visuel": {
-      "nom": "Kim Jong Un",
-      "description": "Leader of North Korea since 2011",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Kim_Jong-un_and_Vladimir_Putin_%282023-09-13%29_12_%28cropped_2%29.jpg/960px-Kim_Jong-un_and_Vladimir_Putin_%282023-09-13%29_12_%28cropped_2%29.jpg",
-      "page": "https://en.wikipedia.org/wiki/Kim_Jong_Un",
-      "type": "person"
-     },
-     "id": "2026-11-12|Kim Jong-un inspects new naval base as Pyongyang shuns APEC"
-    },
-    {
-     "suite": true,
-     "remplace": "2026-11-11|Singapore infrastructure targeted in multiple cyber incidents",
      "emoji": "🇸🇬",
-     "titre": "Singapore healthcare providers hit by fresh cyber incidents",
-     "resume": "Healthcare group Minmed and Dementia Singapore reported cyber security breaches affecting personal details and teleconsultation systems. The breaches mark the third healthcare sector incident in Singapore within a week following attacks on Fullerton Health and Doctor Anywhere.",
+     "titre": "Singapore bars Alice Huang over false statements in Megaspeed probe",
+     "resume": "Singapore's Ministry of Home Affairs barred Chinese national Alice Huang from re-entering the country after she provided inaccurate information during police enquiries. Authorities stated there was insufficient evidence of criminal offences in Singapore regarding AI chip firm Megaspeed.",
      "pourquoi": "",
      "pays": [
-      "Singapore"
+      "Singapore",
+      "China",
+      "United States"
      ],
      "region": "South-East Asia",
      "rubrique": "asie",
      "liens": [
-      {
-       "source": "Straits Times Singapour",
-       "url": "https://www.straitstimes.com/singapore/personal-data-of-dementia-singapores-app-users-potentially-compromised-in-cybersecurity-incident",
-       "titre": "Personal data of Dementia Singapore’s app users potentially exposed; unauthorised notifications sent"
-      },
       {
        "source": "CNA Singapour",
-       "url": "https://www.channelnewsasia.com/singapore/cara-app-dementia-singapore-cybersecurity-incident-6542871",
-       "titre": "Dementia Singapore app users' personal data potentially compromised in cyber incident"
-      }
-     ],
-     "visuel": null,
-     "id": "2026-11-12|Singapore healthcare providers hit by fresh cyber incidents"
-    },
-    {
-     "suite": false,
-     "remplace": null,
-     "emoji": "🚤",
-     "titre": "Philippine Marines receive MARTAC T38 USVs from US",
-     "resume": "The Philippine Marine Corps has formally taken delivery of MARTAC T38 Devil Ray uncrewed surface vessels supplied via US military assistance. The acquisition aims to strengthen Manila's maritime drone capabilities in the South China Sea.",
-     "pourquoi": "",
-     "pays": [
-      "Philippines",
-      "United States"
-     ],
-     "region": "South-East Asia",
-     "rubrique": "asie",
-     "liens": [
+       "url": "https://www.channelnewsasia.com/singapore/alice-huang-megaspeed-mha-offences-probe-6544206",
+       "titre": "Alice Huang barred from re-entering Singapore; insufficient evidence she committed offences in Megaspeed probe: MHA"
+      },
       {
-       "source": "Naval News",
-       "url": "https://www.navalnews.com/naval-news/2026/11/philippine-marines-receives-martac-t38-usv-via-u-s-aid/",
-       "titre": "Philippine Marines Receives MARTAC T38 USV via U.S. Aid"
+       "source": "Straits Times Singapour",
+       "url": "https://www.straitstimes.com/singapore/police-probe-into-alice-huang-found-insufficient-evidence-of-offences-relating-to-megaspeed-mha",
+       "titre": "Alice Huang barred from re-entering Singapore after providing inaccurate information to police: MHA"
+      },
+      {
+       "source": "Straits Times Asie",
+       "url": "https://www.straitstimes.com/asia/east-asia/alice-huang-chinese-woman-accused-of-spying-on-nvidia-chief-entered-taiwan-8-times",
+       "titre": "Alice Huang, Chinese woman accused of spying on Nvidia chief, entered Taiwan 8 times"
       }
      ],
      "visuel": null,
-     "id": "2026-11-12|Philippine Marines receive MARTAC T38 USVs from US"
+     "id": "2026-11-13|Singapore bars Alice Huang over false statements in Megaspeed probe"
     },
     {
      "suite": false,
      "remplace": null,
-     "emoji": "🤝",
-     "titre": "Chinese Premier Li Qiang to attend ASEAN Summit in Manila",
-     "resume": "Chinese Premier Li Qiang will attend the upcoming South Korea-ASEAN summit in Manila alongside leaders from South Korea, the US, and Canada. The regional gathering precedes the APEC leaders' summit scheduled in Shenzhen next week.",
+     "emoji": "⚠️",
+     "titre": "Xi Jinping reiterates Taiwan reunification mandate ahead of APEC",
+     "resume": "Chinese President Xi Jinping declared resolving the Taiwan question an unwavering historical mission. Meanwhile, Taiwan confirmed its participation in the Shenzhen APEC summit on an equal basis while monitoring 29 Chinese military aircraft operating near the island.",
      "pourquoi": "",
      "pays": [
       "China",
-      "Philippines",
-      "South Korea"
+      "Taiwan"
+     ],
+     "region": "North-East Asia",
+     "rubrique": "asie",
+     "liens": [
+      {
+       "source": "經濟日報",
+       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE84ZWFyTzdORV9oak1lYXVrbmJYTS1RQnMyNnlORU90WTNLQ0VVSWI4aXlJSkkyUUw2LUdGNzl0YXAtWUVOWmdzT1psNlR4enRQMmdyUFYwVEw1TUVIakRN0gFfQVVfeXFMTzhlYXJPN05FX2hqTWVhdWtuYlhNLVFCczI2eU5FT3RZM0tDRVVJYjhpeUlKSTJRTDYtR0Y3OXRhcC1ZRU5aZ3NPWmw2VHh6dFAyZ3JQVjBUTDVNRUhqRE0?oc=5",
+       "titre": "22架次共機上午起配合共艦戰備警巡 國軍嚴密監控"
+      },
+      {
+       "source": "UDN",
+       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQM0NLZlJEcFZ3VWtXSHZWdUk2ZUd3c3dzMFNfQ1Z0WDB0dUU3Y3piaWFrV1NXYlBmUFpNUXMxbzhCNjlaRlZrMW1LVkpKaVEzRF9FZHRhY19WTVQ3dFRqT01pNTNfY2tkU2Y2NlA0elJwRDZlU0RTUzJuY3lmWlRXQ2Rn0gFXQVVfeXFMT1ljVHZBR0VYMEJZZXQxWHFKZjNfSThfWUZWaWFsSXdMQXJ2SERjb3B6SGN5cExkaF9BVG13cUlwdlBfREtDb2xyTDREWGNYbElScGRNRFh3?oc=5",
+       "titre": "共軍今再發動聯合戰備警巡 29共機配合共艦出海擾台"
+      },
+      {
+       "source": "中央社 CNA",
+       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0tUmtZT1gtbnI5Wk9NYU4xSFNiajdpN0RHSnM4ZnhGdkp5NWk3bkVvbGZsV21lb3NISXhhLXhZMDJ0ZE5RSUpRQVlWTGN3VlN1VmZvV0JMRFEySjNSSGVV?oc=5",
+       "titre": "22架次共機上午起配合共艦戰備警巡國軍嚴密監控| 政治"
+      },
+      {
+       "source": "CNA Asie",
+       "url": "https://www.channelnewsasia.com/east-asia/china-xi-jinping-taiwan-reunification-history-6544911",
+       "titre": "Chinese President Xi Jinping says Taiwan 'reunification' must happen as history cannot be stopped"
+      }
+     ],
+     "visuel": {
+      "nom": "Xi Jinping",
+      "description": "Leader of China since 2012",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Chinese_Present_Xi_Jinping_Jan_2026.jpg/960px-Chinese_Present_Xi_Jinping_Jan_2026.jpg",
+      "page": "https://en.wikipedia.org/wiki/Xi_Jinping",
+      "type": "person"
+     },
+     "id": "2026-11-13|Xi Jinping reiterates Taiwan reunification mandate ahead of APEC"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🚀",
+     "titre": "Malaysia selects Turkish Atmaca anti-ship missile for RMN frigates",
+     "resume": "Malaysia chose Turkey's Roketsan Atmaca anti-ship missile as the preferred alternative supplier for the Royal Malaysian Navy's Maharaja Lela-class Littoral Combat Ships. The decision replaces the previously selected Naval Strike Missile.",
+     "pourquoi": "",
+     "pays": [
+      "Malaysia",
+      "Turkey"
      ],
      "region": "South-East Asia",
      "rubrique": "asie",
      "liens": [
       {
-       "source": "Straits Times Asie",
-       "url": "https://www.straitstimes.com/asia/se-asia/south-koreas-president-lee-to-visit-philippines-attend-apec-summit-in-china",
-       "titre": "South Korea's President Lee to visit Philippines, attend APEC summit in China"
+       "source": "Malay Mail",
+       "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOdXFIVGdUUWljTks0WHdPMG1nNml0WnE1dnN4YlBqQWhRWkk0c29Tc2lUc2JUTHBkX0NVWHlxLWd5ajFoM0s5TWc5eTU2b3dWS3E5c1hVaWNwbHN4cWJ3V2tMeVlZRXZQTzQxWUtHSExvOGpSdFNOX2xTTHBQVUg5czRtWkFsNkJsV2wyczZFemZpRUx6OU1fa1B4bFVrNEJLa29mQUZzNVFqaVA1dXlIendraDlZa3UzeGRzV2liSlZ2aTNzdVl5bFE4SGF3Rnd2ZmtRamxxVmlFS25wWlY2RzhBX1FEU280UnhTUkI4bEprNWlCbWgxQ1o2bUJMNFMwa1HSAYICQVVfeXFMTnVxSFRnVFFpY05LNFh3TzBtZzZpdFpxNXZzeGJQakFoUVpJNHNvU3NpVHNiVExwZF9DVVh5cS1neWoxaDNLOU1nOXk1Nm93VktxOXNYVWljcGxzeHFid1drTHlZWUV2UE80MVlLR0hMbzhqUnRTTl9sU0xwUFVIOXM0bVpBbDZCbFdsMnM2RXpmaUVMejlNX2tQeGxVazRCS2tvZkFGczVRamlQNXV5SHp3a2g5WWt1M3hkc1dpYkpWdmkzc3VZeWxROEhhd0Z3dmZrUWpscVZpRUtucFpWNkc4QV9RRFNvNFJ4U1JCOGxKazVpQm1oMUNaNm1CTDRTMGtR?oc=5",
+       "titre": "Malaysia selects Turkiye as preferred alternative missile supplier for Navy’s LCS project, says defence minister"
       },
       {
-       "source": "CNA Asie",
-       "url": "https://www.channelnewsasia.com/east-asia/china-li-qiang-attend-asean-summit-manila-6542501",
-       "titre": "Chinese premier Li Qiang to attend ASEAN summit in Manila"
+       "source": "NST Online",
+       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNR0lCcTJkTHl1VWg4eHl6VHc1THVVczFEWDVlYl9kYzE0b21uWXJLV01NX0xseEN3Q0RtX19SQXpQbThjazJoVko2S01naHVkVWtwbW1Xb1ZJY295NlhxZ1BUV3V5V3FDVnBzd1UydDZtNU9yUjRvWWRmeEI5TnZlcC03a0FKUUhWUmNwX3cxWlZuSkVQM0VabVBtOE03OTlHbkdMYXZ3U0JpeFB5UnVzNEROYlM2TG5jSlJMWU05RmI2cUVnNEHSAcYBQVVfeXFMTUdJQnEyZEx5dVVoOHh5elR3NUx1VXMxRFg1ZWJfZGMxNG9tbllyS1dNTV9MbHhDd0NEbV9fUkF6UG04Y2syaFZKNktNZ2h1ZFVrcG1tV29WSWNveTZYcWdQVFd1eVdxQ1Zwc3dVMnQ2bTVPclI0b1lkZnhCOU52ZXAtN2tBSlFIVlJjcF93MVpWbkpFUDNFWm1QbThNNzk5R25HTGF2d1NCaXhQeVJ1czRETmJTNkxuY0pSTFlNOUZiNnFFZzRB?oc=5",
+       "titre": "[UPDATED] Malaysia picks Türkiye's Atmaca missile to replace NSM for Navy LCS"
       }
      ],
      "visuel": {
-      "nom": "Li Qiang",
-      "description": "Premier of China since 2023",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Li_Qiang%2C_Premier_of_the_People%27s_Republic_of_China_on_October_27%2C_2025_%28cropped%29.jpg",
-      "page": "https://en.wikipedia.org/wiki/Li_Qiang",
-      "type": "person"
+      "nom": "Atmaca",
+      "description": "Turkish anti-ship missile",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Missile_Rocketsan_Teknofest2023_%281%29.jpg/960px-Missile_Rocketsan_Teknofest2023_%281%29.jpg",
+      "page": "https://en.wikipedia.org/wiki/Atmaca",
+      "type": "platform"
      },
-     "id": "2026-11-12|Chinese Premier Li Qiang to attend ASEAN Summit in Manila"
+     "id": "2026-11-13|Malaysia selects Turkish Atmaca anti-ship missile for RMN frigates"
     }
    ]
   },
   {
    "id": "elections",
    "titre": "Elections & Politics",
-   "items": []
+   "items": [
+    {
+     "suite": true,
+     "remplace": "2026-11-12|Democrat Scott Colom flips Mississippi Senate seat in historic win",
+     "emoji": "🗳️",
+     "titre": "Democrat Scott Colom confirmed winner in Mississippi Senate race",
+     "resume": "Democratic candidate Scott Colom officially defeated Republican incumbent Cindy Hyde-Smith in Mississippi. The victory marks the seating of the state's first Black US senator since 1874 and expands the Democratic Senate majority.",
+     "pourquoi": "",
+     "pays": [
+      "United States"
+     ],
+     "region": "Americas",
+     "rubrique": "elections",
+     "liens": [
+      {
+       "source": "BBC World",
+       "url": "https://www.bbc.co.uk/news/articles/cmde1y19g19do?at_medium=RSS&at_campaign=rss",
+       "titre": "Before Scott Colom, these two men were the last black US senators from Mississippi"
+      },
+      {
+       "source": "The Washington Post",
+       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORWxpaW02QTB6TEotbUlPeFhPSGlOUXhzanRmUEtiak80bWd5bDUtdTk1ajd3ZklQRnQ5bm54ekwxYlV1OVJ2SjRLMmRwQTY4N2duRWJpZERZVGRTZ0xaNEViR1lRUXNhc0twa28xek0yUzV4Rk8zWEMwODFydHZTX29tMk11aVliUEsxSUVybGo5WlFXTEtzQzVyYThwczJpdlBzZGJhUjlUaDF3NGVuU2RUOXhXUEJ2LWg3Zw?oc=5",
+       "titre": "Mississippi Senate election results: Live updates"
+      }
+     ],
+     "visuel": {
+      "nom": "Scott Colom",
+      "description": "American politician and lawyer (born 1982)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Scott_Colom_2_%28cropped%29.png",
+      "page": "https://en.wikipedia.org/wiki/Scott_Colom",
+      "type": "person"
+     },
+     "id": "2026-11-13|Democrat Scott Colom confirmed winner in Mississippi Senate race"
+    }
+   ]
   },
   {
    "id": "defense_aerienne",
    "titre": "Air & Missile Defence",
    "items": [
     {
-     "suite": false,
-     "remplace": null,
-     "emoji": "🛡️",
-     "titre": "NATO fighters fail to intercept drone over Baltics",
-     "resume": "NATO combat aircraft scrambled over the Baltic region failed to shoot down an unidentified drone, raising serious air defence concerns across the Baltic states. The incident prompted military leaders to call for urgent operational adjustments.",
-     "pourquoi": "",
-     "pays": [
-      "Lithuania"
-     ],
-     "region": "Europe",
-     "rubrique": "defense_aerienne",
-     "liens": [
-      {
-       "source": "Euronews.com",
-       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLW1keU1Edm1ZSWVzZmRwaG9RUElBU0F5VGFQVVFRbFpVODludXRKUVpYS2dveVk0VUplcUgzUFNkejFiejVSNy1Nb1VCZ1BLTHFvQXFRYUZ1YVVhbVFETzNMWEUzQjRWSUJud1kxbmxVTHFXWThIT0pyeTBFMDJ1MXNvQ1NrcU5ndDVlWTRBQXZfNk9vSS1MX0FJR3JTMGhzRzA2VXdMenR0SHU0QkNaakZjc3pOWUpNZTZVUmlFWjY5N2s?oc=5",
-       "titre": "OTAN : des avions chasseurs échouent à abattre un drone en Lituanie, alerte dans les pays baltes"
-      }
-     ],
-     "visuel": null,
-     "id": "2026-11-12|NATO fighters fail to intercept drone over Baltics"
-    },
-    {
-     "suite": false,
-     "remplace": null,
-     "emoji": "🛩️",
-     "titre": "South Korean Joint Chiefs chief conducts KF-21 command flight",
-     "resume": "General Jin Young-seung, Chairman of the Joint Chiefs of Staff, piloted a KF-21 fighter jet to inspect South Korea's air defence and space missile monitoring readiness. The flight highlighted ROKAF's posture against potential North Korean missile provocations.",
-     "pourquoi": "",
-     "pays": [
-      "South Korea",
-      "North Korea"
-     ],
-     "region": "North-East Asia",
-     "rubrique": "defense_aerienne",
-     "liens": [
-      {
-       "source": "MBC 뉴스",
-       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1aUWZ0aEhBRWxMYW9BQVlueWdCXzRxWmNoSjRTaTVFVi14eHNKQXNmOFB4RDdyWXF1X1kzdXBfZkhQclBfdkxIaVNFRjRDRjRQZzc1MkktSU1DTDY0VG9HQkdESEdRRS13WFJOWHl1YXZXa0MyRko2StIBeEFVX3lxTE1aUWZ0aEhBRWxMYW9BQVlueWdCXzRxWmNoSjRTaTVFVi14eHNKQXNmOFB4RDdyWXF1X1kzdXBfZkhQclBfdkxIaVNFRjRDRjRQZzc1MkktSU1DTDY0VG9HQkdESEdRRS13WFJOWHl1YXZXa0MyRko2Sg?oc=5",
-       "titre": "진영승 합참의장 KF-21 지휘 비행‥영공 방위·미사일 감시 태세 점검"
-      },
-      {
-       "source": "연합뉴스",
-       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1UODVPMTdnWmxBazRUT2RseVBaZV83U3NTMUNtR0drTW45MERtOUJxY0lHa2hadU5vRVA1Q1J3bTFNZ3ZfVjdkUTUwb2lUNkFsR3ZDOEE4c2VSOEZ5Q2JiMdIBYEFVX3lxTE1UODVPMTdnWmxBazRUT2RseVBaZV83U3NTMUNtR0drTW45MERtOUJxY0lHa2hadU5vRVA1Q1J3bTFNZ3ZfVjdkUTUwb2lUNkFsR3ZDOEE4c2VSOEZ5Q2JiMQ?oc=5",
-       "titre": "합참의장, KF-21 탑승 지휘비행…\"압도적 공군력 기반 적 억제\""
-      },
-      {
-       "source": "뉴스1",
-       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8zUThydERLZ2laX0g2b1Z1TGd3V1pBVkZ1YVpCUXlGY01oRDYtMW04WHY4ZDFxMkd6OEFaWVU4dkU1SzYtbGRPbk1PdVJ6aG1rX2dBRUFRWnQ1X1pOUHo0S0hqMXd2RUU?oc=5",
-       "titre": "합참의장, KF-21 지휘비행…미사일우주감시부대 현장점검"
-      }
-     ],
-     "visuel": {
-      "nom": "KAI KF-21 Boramae",
-      "description": "South Korean fighter aircraft",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/KF-21_Boramae_First_Production.jpg/960px-KF-21_Boramae_First_Production.jpg",
-      "page": "https://en.wikipedia.org/wiki/KAI_KF-21_Boramae",
-      "type": "platform"
-     },
-     "id": "2026-11-12|South Korean Joint Chiefs chief conducts KF-21 command flight"
-    },
-    {
      "suite": true,
-     "remplace": "2026-11-10|Belgium reactivates air defence squadron and orders Skyranger systems",
+     "remplace": "2026-11-12|Belgium details Blue Dome multilayer air defence architecture",
      "emoji": "🛡️",
-     "titre": "Belgium details Blue Dome multilayer air defence architecture",
-     "resume": "The Belgian Ministry of Defence outlined its Blue Dome air defence programme, integrating Skyranger 30 systems, NASAMS batteries, and counter-UAS sensors. The architecture creates a unified ground-based air defence network for Belgian armed forces.",
+     "titre": "Belgium orders 14 Thales GM200 MM/C radars for Blue Dome network",
+     "resume": "Belgium awarded Thales a contract for 14 Ground Master 200 Multi-Mission Compact radars to equip its reactivated 51st Air Defence Squadron. The radars will form a core component of the nation's new Blue Dome air defence architecture.",
      "pourquoi": "",
      "pays": [
-      "Belgium"
+      "Belgium",
+      "France"
      ],
      "region": "Europe",
      "rubrique": "defense_aerienne",
      "liens": [
       {
-       "source": "Shephard Media",
-       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZ0ZYVVJNV0hyemdIVV9teTR1bkNWYVRjYnI4WHh3Y3B0bjV1X2w5QkRTUWlnMmMwaXV5ektfQl9KM2tBZzAwMHp2eC1iVUZyWEhqMDh1UDZybGlPUnNVbERWbUVLNjluU3NvTDhTajEzVlVBWVVpalBGazQtMHJTTWpLNENVMnNjMmVhNGtTWFVnaE43ck1KbVJvcjZ3bl8zS1FHM1hIVFlNLTJ3NzIxOWpCQkg2Tl9sMlhYeHh6T21pNUpwMWRNcQ?oc=5",
-       "titre": "Billion-dollar Belgium deal for NASAMS creates multinational air defence system"
-      },
-      {
-       "source": "Janes Defence Intelligence",
-       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMDQ3N0Z1ME9yX01LMHo1LVZHTzZWQW5YNDg1Yjl5RWlhRDEzMUpyWVoweG02SkdVYlJ5NVNjNGd0SU5wRmMwYkZFZkxKcllkck9TUUNDT2pTdzk2Vkx4SmZqUFNFbjdJQ2psRGFfNUNET3dnZkxELWpZcFV2Q3UxcVNzR1dFek9BZ3R0NkZYc1M2SGlrd3V6ZVVEd25wZjFHY09DaUx5M0pwaDdiU0ttdWpCTGstNGhKQkxmbE5qWkRQcEhkZG9JMEt0c254QTNiSWxvcQ?oc=5",
-       "titre": "Belgium goes Dutch to build Blue Dome multilayer air defence system"
-      },
-      {
-       "source": "Unmanned airspace",
-       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQa2kwSERZQmNzV2hEWVVrYUpRbWNaaDc3a2FnUEN3OE1fWW1ndUNCVFRvOG0tSU94eUlaOFdGRjJ4X0tXQUZsT05vVjJDUWlKblFrTl9LVmFSUjM0eGNmbWJuNHVkWWs1M3BCZndQSmlDaHlKbVpMNlg4STZITlBsdE5jYmRhWGxDLXdCWWZZSzFPTjNsRjVYeVhYV3NwdDlGOUVaWC0xUkp4U1JBTEx2aVA0OHlvdlN6SHExenRXYUZuRGtwS1JxdGNFcXhFMG05RFc4UXZraklWYTFIM2RUWl9wcw?oc=5",
-       "titre": "Belgium announces Blue Dome air defence programme with counter-drone capabilities"
+       "source": "The Defense Post",
+       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9IMlJEZWRkVDZJejhVLUZUOGVjZUlOS0p1V2JVbkVOWi1XTXdQSDM4VmtaeUN2S2haQTFMcEdqRWFfbmVFMWtwbDExODduSFpCNEphVklpbWpES1QyNzVEbkp3eXl5cFZRZnZOSUg5ZDk0OGZmd0lLOUV30gF_QVVfeXFMUFJrWUczNS1MVlExaVlXNGctdGc5NVZPTW5lcEF2MHJySUI4WUFwVFEyckdtSmRPV1ozcTFZQmVIY0w2aTZoT21PbHpLOW1YSmFyZzBJNUM1VE91ZG5oNmdxUkxabkl5YU9LdW4zZmRoTGJEanp5aFJLZzJpYklkQQ?oc=5",
+       "titre": "Belgium Orders 14 Thales Radars for Its New ‘Blue Dome’ Air Defense Network"
       }
      ],
      "visuel": null,
-     "id": "2026-11-12|Belgium details Blue Dome multilayer air defence architecture"
+     "id": "2026-11-13|Belgium orders 14 Thales GM200 MM/C radars for Blue Dome network"
     },
     {
      "suite": false,
      "remplace": null,
      "emoji": "🚀",
-     "titre": "Rafael unveils Super Ice long-range cruise missile",
-     "resume": "Israeli defence company Rafael disclosed the Super Ice long-range cruise missile featuring a 1,000-pound warhead. The missile is engineered for multi-platform integration across air, ground, and naval launch platforms.",
+     "titre": "Ukraine requests Patriot interceptors as donors face 2027 funding gap",
+     "resume": "Kyiv formally requested additional Patriot and surface-to-air missile interceptors during donor discussions addressing a projected 2027 air defence funding gap. Concurrently, NATO agreed to streamline joint counter-drone procurement procedures.",
+     "pourquoi": "",
+     "pays": [
+      "Ukraine"
+     ],
+     "region": "Europe",
+     "rubrique": "defense_aerienne",
+     "liens": [
+      {
+       "source": "Defence Industry Europe",
+       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYXVwU01rTURZd0VTeV9rWTVRVlFsZmRMZGthalZFUHZ1VnlaMkhxUktNdHUtcWdteHFaOUlUc3pEU3hsOUZBV1Y3UlY4cG9ueHRWT0ZOcmpuVDdraHdqVTZ1Q3haTDdkOVFFNmVqcDJGVURkQWlfcXplLWZNRlo0ZUZSU3JpZ2hMMG1nWnZsTE9LRHJsdXNfaVdPTEZjUF9NMWR5cFhHY2RZZ29weE1wR0ROVDE1VmFwMVJxMGYtUVg?oc=5",
+       "titre": "Ukraine requests Patriot and other air defence interceptors as donors discuss 2027 funding gap"
+      }
+     ],
+     "visuel": {
+      "nom": "MIM-104 Patriot",
+      "description": "American surface-to-air missile system since 1981",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/U-s-service-members-stand-by-a-patriot-missile-battery-in-gaziantep-turkey.jpg/960px-U-s-service-members-stand-by-a-patriot-missile-battery-in-gaziantep-turkey.jpg",
+      "page": "https://en.wikipedia.org/wiki/MIM-104_Patriot",
+      "type": "platform"
+     },
+     "id": "2026-11-13|Ukraine requests Patriot interceptors as donors face 2027 funding gap"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "📡",
+     "titre": "Israel deploys high-altitude aerostat radar for 360-degree threat coverage",
+     "resume": "Israel disclosed a new high-altitude balloon-borne radar system engineered for 360-degree persistent surveillance. The platform aims to detect low-flying cruise missiles and attack drones across complex battlefield environments.",
      "pourquoi": "",
      "pays": [
       "Israel"
@@ -496,18 +446,13 @@
      "rubrique": "defense_aerienne",
      "liens": [
       {
-       "source": "Naval News",
-       "url": "https://www.navalnews.com/naval-news/2026/11/rafael-unveils-super-ice-cruise-missile-with-1000-lb-warhead/",
-       "titre": "Rafael Unveils Super Ice Cruise Missile with 1,000-lb Warhead"
-      },
-      {
-       "source": "Breaking Defense",
-       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQd0RwOF9JbHBmNXF3Zk9KaGV3eEFwT09SelFnQ0VZU1dhT0FKS1k4ZU5zMy10ekMxQUFvaG05REFuTXBYMGJpT2JiZ05Ib3JYZUlIX3YzVk9xZUx6T0VjNjBOLWpJYUNVc1VYR05RVUVPY3hhMVBMNDB0aW5LZFYwVUdxQUdkUE9kNDJqRTFRbU9ZVjFSVzJLNmlpeGlXOHNad1JiTA?oc=5",
-       "titre": "Israel’s Rafael unveils new, larger cruise missile dubbed Super Ice"
+       "source": "中華民國國防部- 全球資訊網",
+       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9hbmtYNGZLaGhWbDVZcU1ENFR2b2ZRczloY1pER1g2SS1lQ3Q0d0hmVkdKZkx1eTNoY3lFQUR0ZnhwSUtad01CdlhDaGROQkdfY0Z0VnNKb3NZcnlh?oc=5",
+       "titre": "「科技新知」以色列推高空氣球雷達 360度監偵戰場威脅"
       }
      ],
      "visuel": null,
-     "id": "2026-11-12|Rafael unveils Super Ice long-range cruise missile"
+     "id": "2026-11-13|Israel deploys high-altitude aerostat radar for 360-degree threat coverage"
     }
    ]
   },
@@ -519,51 +464,52 @@
      "suite": false,
      "remplace": null,
      "emoji": "🚢",
-     "titre": "Austal starts construction on Australian Army heavy landing craft",
-     "resume": "Shipbuilder Austal has cut the first steel for the Australian Army's Landing Craft Heavy program in Western Australia. The vessel represents the second phase of Canberra's amphibious fleet modernisation effort.",
+     "titre": "UK selects Norwegian P1118 design for mine-hunting motherships",
+     "resume": "The UK Royal Navy selected Norway's P1118 design for three new mine-hunting motherships under its mine countermeasures programme. The first offshore support vessel is scheduled to enter service in 2031.",
      "pourquoi": "",
      "pays": [
-      "Australia"
+      "United Kingdom",
+      "Norway"
      ],
-     "region": "Oceania",
+     "region": "Europe",
      "rubrique": "industrie",
      "liens": [
       {
        "source": "Naval News",
-       "url": "https://www.navalnews.com/naval-news/2026/11/first-steel-cut-on-australian-landing-craft-heavy-at-austal/",
-       "titre": "Austal Cuts First Steel on Landing Craft Heavy for Australian Army"
+       "url": "https://www.navalnews.com/naval-news/2026/11/uk-royal-navy-mine-hunting-motherships-norway/",
+       "titre": "UK Selects Norwegian P1118 Design for New Mine-Hunting Motherships"
       }
      ],
      "visuel": null,
-     "id": "2026-11-12|Austal starts construction on Australian Army heavy landing craft"
+     "id": "2026-11-13|UK selects Norwegian P1118 design for mine-hunting motherships"
     },
     {
      "suite": false,
      "remplace": null,
      "emoji": "📝",
-     "titre": "Indian Defence Ministry signs INS Betwa refit contract",
-     "resume": "India's Ministry of Defence signed a contract valued at 4.98 billion rupees for the medium refit of the frigate INS Betwa. The maintenance effort aims to extend the operational life of the guided-missile vessel.",
+     "titre": "US Navy expands Tomahawk cruise missile warhead production",
+     "resume": "The US Navy inaugurated a 300-gallon energetics mixer at Naval Air Weapons Station China Lake to expand production of WDU-36/B Tomahawk warheads. The facility aims to reach full production capacity by June 2027.",
      "pourquoi": "",
      "pays": [
-      "India"
+      "United States"
      ],
-     "region": "South Asia",
+     "region": "Americas",
      "rubrique": "industrie",
      "liens": [
       {
-       "source": "ThePrint",
-       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOU9nWjIwYXNiazhod0xtMFdZOEdIRXEwMHhuT0F1VXJpSTlWYWFnbkNXLTlWZkRMejZmdGZERGUtM01IaWdWcDBUUXpDcGkxSlhId2xqZ1BUamFGRUpXS2NOZXpleTJGcmtYZjRBaklmNlpxZVhmMnBQMzhCRkFpYWcyT1JJZ24ydE5kR1hWa3BrTDIwQk5uXzB3bGNPdDFwMnJyendoV3lIaDBCWlB6aGtR0gGyAUFVX3lxTE45T2daMjBhc2JrOGh3TG0wV1k4R0hFcTAweG5PQXVVcmlJOVZhYWduQ1ctOVZmREx6NmZ0ZkREZS0zTUhpZ1ZwMFRRekNwaTFKWEh3bGpnUFRqYUZFSldLY05lemV5MkZya1hmNEFqSWY2WnFlWGYycFAzOEJGQWlhZzJPUklnbjJ0TmRHWFZrcGtMMjBCTm5fMHdsY090MXAycnJ6d2hXeUhoMEJaUHpoa1E?oc=5",
-       "titre": "Defence ministry signs contract worth Rs 498 crore for refit of INS Betwa"
+       "source": "Naval News",
+       "url": "https://www.navalnews.com/naval-news/2026/11/u-s-navy-expands-tomahawk-warhead-production-capacity-at-china-lake/",
+       "titre": "U.S. Navy Expands Tomahawk Warhead Production Capacity at China Lake"
       }
      ],
      "visuel": {
-      "nom": "INS Betwa (F39)",
-      "description": "Indian Navy frigate",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/INS_Betwa_file_photo.jpg",
-      "page": "https://en.wikipedia.org/wiki/INS_Betwa_(F39)",
+      "nom": "Tomahawk missile",
+      "description": "American long-range, subsonic cruise missile",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Tomahawk_Block_IV_cruise_missile_-crop.jpg/960px-Tomahawk_Block_IV_cruise_missile_-crop.jpg",
+      "page": "https://en.wikipedia.org/wiki/Tomahawk_missile",
       "type": "platform"
      },
-     "id": "2026-11-12|Indian Defence Ministry signs INS Betwa refit contract"
+     "id": "2026-11-13|US Navy expands Tomahawk cruise missile warhead production"
     }
    ]
   },
@@ -574,25 +520,80 @@
     {
      "suite": false,
      "remplace": null,
-     "emoji": "⚠️",
-     "titre": "Russian strikes target Ukrainian energy and water infrastructure",
-     "resume": "Russian missile and drone attacks targeted critical municipal infrastructure in Kyiv, causing severe water supply disruptions across the capital. Ukrainian officials warned that continued strikes threaten urban utility networks ahead of winter.",
+     "emoji": "🛩️",
+     "titre": "Ukrainian drone hits Russian warship in Gulf of Finland",
+     "resume": "Finnish defence forces confirmed detecting a Ukrainian drone strike on a Russian warship in the Baltic Sea. The incident represents the first recorded attack on a Russian naval vessel in open waters of the Gulf of Finland.",
      "pourquoi": "",
      "pays": [
       "Ukraine",
-      "Russia"
+      "Russia",
+      "Finland"
      ],
      "region": "Russia-Ukraine",
      "rubrique": "ukraine",
      "liens": [
       {
-       "source": "Financial Times",
-       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNEU1YzU1UVNETHdLZEQ2T2wzZDJKSXFFaE5XSlNvOVdTTlFxYTBOQjI0V2JVZFNHOHRncWQwOVJwbmdCR1U4VGZjd1NVbnpNRHVnM052ZGZHSENDTlMwRTdUbFhJbS03dnVpYWNJMWJvMTBBSkdiWVNVa2RheXlZa1FOd2I?oc=5",
-       "titre": "Kyiv hit by water shortages as Russia targets Ukrainian infrastructure"
+       "source": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/13/finland-detects-strike-on-russian-warship-as-zelenskyy-meets-us-envoys?traffic_source=rss",
+       "titre": "Finland detects strike on Russian warship as Zelenskyy meets US envoys"
+      },
+      {
+       "source": "BBC World",
+       "url": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
+       "titre": "Russian warship hit by Ukrainian drone in Gulf of Finland"
+      },
+      {
+       "source": "Bloomberg.com",
+       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQkVKZXRmZmpBZjAtREMwblBXY0U0YXJWQkF2TndGOWxzOWMtNlNmX3MxeVBEQWw1dThUblNQbkhWaGc1dkZndVM3ZjcxRkhGMVpGZ05LTVVZYUNHUDFDc25Ja2tXTW9Td19ybXMwUjgtazc4UHpfbFlsTUtjUjFaeEM0TDhLbmMyVllPOElxazhjUW5IcTR1ck1lMzg4b0c4X2dLT3NjaFdXc2M?oc=5",
+       "titre": "Ukraine Drone Strikes Russian Warship on Gulf of Finland"
+      },
+      {
+       "source": "Defense News",
+       "url": "https://www.defensenews.com/global/europe/2026/11/12/finland-says-it-detects-strike-on-russian-warship-in-baltic-sea/",
+       "titre": "Finland says it detects strike on Russian warship in Baltic Sea"
       }
      ],
      "visuel": null,
-     "id": "2026-11-12|Russian strikes target Ukrainian energy and water infrastructure"
+     "id": "2026-11-13|Ukrainian drone hits Russian warship in Gulf of Finland"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🛰️",
+     "titre": "Ukraine reports new Starshield degradation amid energy grid strikes",
+     "resume": "Ukrainian military officials reported fresh performance disruptions to SpaceX's Starshield satellite system during critical operations. The outages coincided with heavy Russian missile strikes that brought Ukraine's power network close to collapse.",
+     "pourquoi": "",
+     "pays": [
+      "Ukraine",
+      "Russia",
+      "United States"
+     ],
+     "region": "Russia-Ukraine",
+     "rubrique": "ukraine",
+     "liens": [
+      {
+       "source": "The War Zone",
+       "url": "https://www.twz.com/news-features/ukraine-says-starshield-disruptions-are-back-as-u-s-negotiators-meet-with-putin",
+       "titre": "Ukraine Says Starshield Disruptions Are Back As U.S. Negotiators Meet With Putin"
+      },
+      {
+       "source": "Reuters",
+       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTjdYZlNPMU1SU1ZhVjBMUHNnaEdIaFNCcWtQTmdiTHE1RVZRdG1BbUVBQkhib2diNDFyeFh2QXBnYTI3Zk9pVHdaWEpldUQydy1IM3NjZ1lwMVVNajFCZDUyamFuVE5aVXVYX0FhYVh3bnlDa0FPTWpFZm9CNTNyclVCLVVWWDNYWUx3NmZwNmVxSnY4ckNqM3U0VlFEbmhrVERHeU9udWVEM2s1cm1zbFpjYjJybU9tNHlDN0FXajdkZVNUQ1ZEWTZ6ZWQ5N0xaWUE?oc=5",
+       "titre": "Zelenskiy says Starshield speed limited again, hampering Ukraine's defences"
+      },
+      {
+       "source": "BBC World",
+       "url": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss",
+       "titre": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat"
+      },
+      {
+       "source": "BBC",
+       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBER1J4dGlzQ09zcmpIVml0V21KMmJSQXZVS1QwYlFZUlhuR2lEUnI4VDJ1OGhOc3Bnc2oyeHBReTZJY2dvTkJIU0Z1VjlKSFNUM2ZXdUNxVWtleUU?oc=5",
+       "titre": "Ukraine's power supply close to critical as Russian strikes bring darkness and cold"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-13|Ukraine reports new Starshield degradation amid energy grid strikes"
     }
    ]
   },
@@ -601,60 +602,77 @@
    "titre": "Middle East",
    "items": [
     {
-     "suite": false,
-     "remplace": null,
-     "emoji": "🚀",
-     "titre": "Iran threatens strikes on US bases in Europe if attacked",
-     "resume": "Iran's Supreme National Security Council warned that Tehran will strike US military bases located in Europe if they are used to support American attacks against Iranian territory. Meanwhile, Iran unveiled a new underground missile facility.",
+     "suite": true,
+     "remplace": "2026-11-12|Saudi air defence intercepts Houthi missile and drone barrage",
+     "emoji": "💥",
+     "titre": "Houthis strike Saudi oil pipeline as explosions hit tankers in Hormuz",
+     "resume": "Yemeni Houthis carried out a drone strike on a pumping station along Saudi Arabia's East-West oil pipeline. Separately, Iranian authorities reported explosions affecting four oil tankers navigating the Strait of Hormuz.",
      "pourquoi": "",
      "pays": [
-      "Iran",
-      "United States"
+      "Saudi Arabia",
+      "Yemen",
+      "Iran"
      ],
      "region": "Middle East",
      "rubrique": "moyen_orient",
      "liens": [
       {
        "source": "Al Jazeera",
-       "url": "https://www.aljazeera.com/news/liveblog/2026/11/12/iran-war-live-tehran-warns-of-wider-retaliation-israel-kills-in-gaza?traffic_source=rss",
-       "titre": "Iran war live: Iran warns of Europe retaliation, Israel attacks Gaza"
+       "url": "https://www.aljazeera.com/news/2026/11/12/yemens-houthis-renew-strikes-on-saudi-arabia-as-unsc-extends-sanctions?traffic_source=rss",
+       "titre": "Yemen’s Houthis renew strikes on Saudi Arabia as UNSC extends sanctions"
       },
       {
-       "source": "France 24",
-       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMmdWd2ItM216RnVsdnptOUw5SDdzYnFrT3hhS2pGbzdiU2JKWk9sQnNmNjgwNUR2ZjhtWkJQWFgxV2x6OXU3LTcxcE95aVQzRzc1MWRndTVBSm9QMncxTC0tMWR0c2ZCbEdOOTVPOHg1SkN2M1VnbUVqNXJDTVJnNm45eXBtQTBPZWRncDR4U0NLR1BhMkpOWl85TWdBdU9uVmZtZk5ia1hDS2lxQTJ1Nk9tS2stTTJ0VjJZVjZZam9XUQ?oc=5",
-       "titre": "Tehran will strike US bases in Europe if used to attack Iran, security chief says"
-      },
-      {
-       "source": "Chosunbiz",
-       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUFk1a2RYUUF0VUxjRnRxeFMzOGFIZmhydkxDQW9pUFZCODkwTTVQNlYyZXJRVkF4R3J0MHNtdWFfajlsZEtubGx4UmpIRTJqMUl0bmJrc1J4Ti01OXItclNCeHg3czNnXzNiaG5ZbFhkTlVoakxvRmxtT2VUR2NuVnNubjlYWk830gGcAUFVX3lxTE5nTVpGbGozcHZqWjlycW85N1NTcXpZdThKMXFwZXZDMWlPSFJiZjY0RldmTzRnUHNNcDdrVXoxQzIzbENxcTh2WEpxUUxpbnRFOVpqVmdHMGpsOFF5a0FCRXdNZ1NZR19PbUN0aGRUeElLaEo5QVRBMF9lMUxXWW1aMkQxdnUzTzJQeDNUOFNvazJLWm5HZlExMjg0TA?oc=5",
-       "titre": "Iran unveils underground missile base amid airstrike fears; claims hypersonic arms"
+       "source": "Reuters",
+       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOHNyWUhKaHR2QmJXUjJ6S0xNdDZnZmpKRzJQak9SWVc3cmttUGVfbk13NzBZclpqNnp5N1JFc0JYakw2Wl9hV3BYdm1mMnJQR3BKRFI2Zzh3cVRhTFFxejBSVWtTMkt2WTRGRUxFSkVocF83aFlIOU10Vk11d29TRERPcnFVWHRJYktFOUlGU0x4c0Q0UWVtT3JkUE91ZVNPQ09NTnhaMGxJajZxQnkwWTFvTzN4WnNpMTBYalNZOHFZdnUtX1VHeUVR?oc=5",
+       "titre": "Yemen's Houthis say they attacked pumping station on Saudi Arabia's East-West oil pipeline"
       }
      ],
      "visuel": null,
-     "id": "2026-11-12|Iran threatens strikes on US bases in Europe if attacked"
+     "id": "2026-11-13|Houthis strike Saudi oil pipeline as explosions hit tankers in Hormuz"
     },
     {
-     "suite": true,
-     "remplace": "2026-11-10|Saudi forces intercept missiles fired towards Riyadh",
-     "emoji": "🛡️",
-     "titre": "Saudi air defence intercepts Houthi missile and drone barrage",
-     "resume": "Saudi Arabian air defence units intercepted multiple ballistic missiles and attack drones launched by Houthi forces towards Riyadh and Mecca. The escalation follows recent Houthi strikes on critical oil infrastructure in the region.",
+     "suite": false,
+     "remplace": null,
+     "emoji": "🏥",
+     "titre": "Israeli strike hits Gaza hospital amid domestic security row",
+     "resume": "An Israeli military strike targeted Nasser Hospital in Khan Younis, killing six people. Meanwhile, Israeli opposition leader Gadi Eisenkot urged Prime Minister Netanyahu to refrain from initiating major strikes on Iran during the government transition.",
      "pourquoi": "",
      "pays": [
-      "Saudi Arabia",
-      "Yemen"
+      "Israel",
+      "Iran"
      ],
      "region": "Middle East",
      "rubrique": "moyen_orient",
      "liens": [
       {
+       "source": "Japan Times",
+       "url": "https://www.japantimes.co.jp/news/2026/11/13/world/israel-gaza-post-election-strike/",
+       "titre": "Israeli strike on Gaza hospital deadliest since election"
+      },
+      {
+       "source": "BBC World",
+       "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+       "titre": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says"
+      },
+      {
        "source": "Al-Monitor",
-       "url": "https://www.al-monitor.com/originals/2026/11/saudi-arabia-intercepts-houthi-missiles-drones-group-denies-targeting-mecca",
-       "titre": "Saudi Arabia intercepts Houthi missiles, drones; group denies targeting Mecca"
+       "url": "https://www.al-monitor.com/originals/2026/11/eisenkot-meets-netanyahu-bid-avoid-iran-strikes",
+       "titre": "Eisenkot meets Netanyahu in bid to avoid Iran strikes"
+      },
+      {
+       "source": "CNA Monde",
+       "url": "https://www.channelnewsasia.com/world/israel-caretaker-defence-minister-launch-strikes-6546291",
+       "titre": "Israeli defence minister says no need for opposition approval to launch strikes"
       }
      ],
-     "visuel": null,
-     "id": "2026-11-12|Saudi air defence intercepts Houthi missile and drone barrage"
+     "visuel": {
+      "nom": "Gadi Eisenkot",
+      "description": "Israeli general and politician (born 1960)",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Gadi_Eisenkot_2_%28cropped%29.jpg/960px-Gadi_Eisenkot_2_%28cropped%29.jpg",
+      "page": "https://en.wikipedia.org/wiki/Gadi_Eisenkot",
+      "type": "person"
+     },
+     "id": "2026-11-13|Israeli strike hits Gaza hospital amid domestic security row"
     }
    ]
   },
@@ -665,78 +683,36 @@
     {
      "suite": false,
      "remplace": null,
-     "emoji": "⚠️",
-     "titre": "Millions join general strike across Spain over housing crisis",
-     "resume": "Spanish trade unions launched the country's first general strike in 14 years, protesting high housing costs and inflation just weeks before snap general elections. Clashes broke out in Barcelona and Madrid as transport ground to a halt.",
+     "emoji": "🤝",
+     "titre": "JEF navies sign Northern Navies Initiative aboard HMS Prince of Wales",
+     "resume": "Defence leaders from the Joint Expeditionary Force signed the Northern Navies Initiative in Oslo. The agreement establishes enhanced coordination framework for anti-submarine warfare and seabed infrastructure defence across northern European seas.",
      "pourquoi": "",
      "pays": [
-      "Spain"
-     ],
-     "region": "Europe",
-     "rubrique": "europe",
-     "liens": [
-      {
-       "source": "Al Jazeera",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/barcelona-erupts-in-violence-after-general-strike?traffic_source=rss",
-       "titre": "Barcelona erupts in violence after general strike"
-      },
-      {
-       "source": "Japan Times",
-       "url": "https://www.japantimes.co.jp/news/2026/11/12/world/spain-strike-14-years-housing/",
-       "titre": "Millions of Spaniards stage first general strike in 14 years as anger over housing leads to clashes"
-      },
-      {
-       "source": "BBC World",
-       "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
-       "titre": "Clashes erupt in Barcelona after thousands join Spain general strike"
-      },
-      {
-       "source": "Le Monde International",
-       "url": "https://www.lemonde.fr/international/article/2026/11/11/espagne-une-greve-generale-sur-fond-de-crise-du-logement-et-de-colere-sur-le-pouvoir-d-achat_6809018_3210.html",
-       "titre": "Espagne : une grève générale sur fond de crise du logement et de colère à cause du pouvoir d’achat"
-      }
-     ],
-     "visuel": null,
-     "id": "2026-11-12|Millions join general strike across Spain over housing crisis"
-    },
-    {
-     "suite": false,
-     "remplace": null,
-     "emoji": "⚠️",
-     "titre": "Mass bomb hoaxes disrupt thousands of schools across Europe",
-     "resume": "Authorities in Italy, Ireland, and the United Kingdom launched investigations after coordinated email bomb hoaxes targeted over 6,000 schools. The incidents follow recent cyber and infrastructure disruptions across the continent.",
-     "pourquoi": "",
-     "pays": [
-      "Italy",
       "United Kingdom",
-      "Ireland"
+      "Norway"
      ],
      "region": "Europe",
      "rubrique": "europe",
      "liens": [
       {
-       "source": "Japan Times",
-       "url": "https://www.japantimes.co.jp/news/2026/11/12/world/school-bomb-hoaxes-europe-flights/",
-       "titre": "School bomb hoaxes add to disruption in Europe after flights"
+       "source": "North Atlantic Treaty Organization",
+       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNTzQ5cWhqMWpPaEJEMGZmb2VUYnR3MEJWR05DTFpUTEpzblhPVkJMMlUzNXRJWk04MHNTOElZLTg1OENCVlBhTU1nUC1HdDdWQTVMam43UzhQamFtazF4MG8wUW0tc1VHLTRjRWJkVjJLMVM0SWtMbFdJWFh6cGM3RzlIZHF0QkJldE5PWHR0TkYwdDRrN3dnaURLOGdxUlo5NDlHYmF2SGhxS2dXOWhaMzVYdGxyX2lpbV9BcHhMQ1pMTTE0Y1hxUHlfSGtGSVlMVDZoUGwyekZIVHR5a09PRncxb3dIRHI0Qkp2YjhEMVY?oc=5",
+       "titre": "À bord d’un porte-avions britannique amarré à Oslo, le secrétaire général de l’OTAN adresse ses remerciements aux militaires"
       },
       {
-       "source": "Le Monde International",
-       "url": "https://www.lemonde.fr/international/article/2026/11/11/les-ecoles-italiennes-irlandaises-et-ecossaises-visees-par-des-alertes-a-la-bombe_6809033_3210.html",
-       "titre": "Les écoles italiennes, irlandaises et écossaises visées par des alertes à la bombe"
-      },
-      {
-       "source": "Al Jazeera",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/hoax-bomb-threats-target-schools-across-italy-uk-and-ireland?traffic_source=rss",
-       "titre": "Hoax bomb threats target schools across Italy, UK and Ireland"
-      },
-      {
-       "source": "BBC World",
-       "url": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
-       "titre": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax"
+       "source": "Naval News",
+       "url": "https://www.navalnews.com/naval-news/2026/11/uk-and-jef-allies-sign-landmark-northern-navies-initiative-aboard-hms-prince-of-wales/",
+       "titre": "UK and JEF Allies Sign Landmark Northern Navies Initiative Aboard HMS Prince of Wales"
       }
      ],
-     "visuel": null,
-     "id": "2026-11-12|Mass bomb hoaxes disrupt thousands of schools across Europe"
+     "visuel": {
+      "nom": "HMS Prince of Wales (R09)",
+      "description": "2019 Queen Elizabeth-class aircraft carrier of the Royal Navy",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/VX-23_F-35B_approaches_HMS_Prince_of_Wales.jpg/960px-VX-23_F-35B_approaches_HMS_Prince_of_Wales.jpg",
+      "page": "https://en.wikipedia.org/wiki/HMS_Prince_of_Wales_(R09)",
+      "type": "platform"
+     },
+     "id": "2026-11-13|JEF navies sign Northern Navies Initiative aboard HMS Prince of Wales"
     }
    ]
   },
@@ -752,9 +728,9 @@
     {
      "suite": false,
      "remplace": null,
-     "emoji": "🛩️",
-     "titre": "US Air Force F-22 controls YFQ-44A CCA in combat simulation",
-     "resume": "A US Air Force F-22 Raptor successfully commanded an uncrewed YFQ-44A Collaborative Combat Aircraft during live combat simulation trials. The test marks progress in operationalising manned-unmanned teaming capabilities for combat aviation.",
+     "emoji": "🚀",
+     "titre": "US Air Force awards $10.9m for Ursa Major hypersonic engine development",
+     "resume": "The US Air Force awarded a $10.9 million contract to propulsion specialist Ursa Major. The funding will support the rapid prototype development of liquid-propellant rocket engines dedicated to hypersonic vehicle applications.",
      "pourquoi": "",
      "pays": [
       "United States"
@@ -763,42 +739,13 @@
      "rubrique": "tech",
      "liens": [
       {
-       "source": "中華民國國防部- 全球資訊網",
-       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1tVnVncjJYalM3cE44cy1feERNRTJkelN5Ty1uQkotT29fMmZnX3pNQ3RxOE1kN2dsY0lLN2ppUG13ZUU2NWd3THpEc0Z5cENpTmRVZzlneHUxZTNX?oc=5",
-       "titre": "「科技新知」美F-22指揮YFQ-44A 完成實戰模擬測試"
-      }
-     ],
-     "visuel": {
-      "nom": "Lockheed Martin F-22 Raptor",
-      "description": "American stealth air superiority fighter",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/F-22_Raptor_edit1_%28cropped%29.jpg/960px-F-22_Raptor_edit1_%28cropped%29.jpg",
-      "page": "https://en.wikipedia.org/wiki/Lockheed_Martin_F-22_Raptor",
-      "type": "platform"
-     },
-     "id": "2026-11-12|US Air Force F-22 controls YFQ-44A CCA in combat simulation"
-    },
-    {
-     "suite": true,
-     "remplace": "2026-11-09|HMS Queen Elizabeth conducts first attack drone launch trials",
-     "emoji": "🛩️",
-     "titre": "Royal Navy plans carrier flight trials for Talon Blue CCA drone",
-     "resume": "Northrop Grumman confirmed plans with the Royal Navy to conduct flight operations of the Talon Blue Collaborative Combat Aircraft from British aircraft carriers. The trials aim to integrate advanced autonomous uncrewed aircraft into carrier strike groups.",
-     "pourquoi": "",
-     "pays": [
-      "United Kingdom",
-      "United States"
-     ],
-     "region": "Europe",
-     "rubrique": "tech",
-     "liens": [
-      {
-       "source": "The War Zone",
-       "url": "https://www.twz.com/news-features/plans-to-fly-talon-blue-cca-drone-from-british-carrier-confirmed-by-northrop-grumman",
-       "titre": "Plans To Fly Talon Blue CCA Drone From British Carrier Confirmed By Northrop Grumman"
+       "source": "FlightGlobal",
+       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOS2tiaWplUTVEUmx6YTBWTlprMVRMQkxkajNfSkU0VDF4WnRmNTM4alBUNnpkZlZtVnBkWGlROGlBOUluSkhJdUhqSnhLTHU2bDRKWDdFeHl4N2hTSUdicUZXd2lUTS04VjEwUHJVZmtnMk8wYjdoVUVmbmpybFk4aWNUMUJfWFVkZG1hRi1LWmU1eTFIOS1wclVzN3V3Qy1ZeEdHMms5YXpEOGZjTXdqTU1Wbl9DZEk?oc=5",
+       "titre": "US Air Force backs Ursa Major hypersonic engine development with $10.9m"
       }
      ],
      "visuel": null,
-     "id": "2026-11-12|Royal Navy plans carrier flight trials for Talon Blue CCA drone"
+     "id": "2026-11-13|US Air Force awards $10.9m for Ursa Major hypersonic engine development"
     }
    ]
   },
@@ -810,52 +757,42 @@
  ],
  "a_surveiller": [
   {
-   "quand": "November 16",
-   "quoi": "South Korea-ASEAN Summit in Manila",
+   "quand": "November 14",
+   "quoi": "Melaka state election polling day in Malaysia",
    "liens": [
     {
-     "source": "Straits Times Asie",
-     "url": "https://www.straitstimes.com/asia/se-asia/south-koreas-president-lee-to-visit-philippines-attend-apec-summit-in-china",
-     "titre": "South Korea's President Lee to visit Philippines, attend APEC summit in China"
-    },
-    {
      "source": "CNA Asie",
-     "url": "https://www.channelnewsasia.com/east-asia/china-li-qiang-attend-asean-summit-manila-6542501",
-     "titre": "Chinese premier Li Qiang to attend ASEAN summit in Manila"
+     "url": "https://www.channelnewsasia.com/asia/what-voters-want-melaka-prepares-polling-day-which-issues-are-residents-minds-6545241",
+     "titre": "What voters want: As Melaka prepares for polling day, which issues are on residents’ minds?"
     }
    ]
   },
   {
-   "quand": "November 16 to 19",
-   "quoi": "APEC Leaders' Summit in Shenzhen, China",
+   "quand": "November 15",
+   "quoi": "Opening of the ASEAN Leaders Summit in Manila",
    "liens": [
     {
-     "source": "Straits Times Asie",
-     "url": "https://www.straitstimes.com/asia/taiwan-is-taking-part-in-apec-china-summit-on-an-equal-basis-president-says",
-     "titre": "Taiwan is taking part in APEC China summit on an 'equal basis', president says"
-    },
-    {
      "source": "CNA Asie",
-     "url": "https://www.channelnewsasia.com/asia/apec-jensen-huang-attendance-trump-musk-tech-delegation-6541611",
-     "titre": "Musk expected to join Trump at APEC; Huang's participation in doubt, SCMP reports"
+     "url": "https://www.channelnewsasia.com/asia/asean-summit-global-leaders-trade-ai-nuclear-6544811",
+     "titre": "Global powers head to Asia with trade, AI, security in focus"
     }
    ]
   },
   {
-   "quand": "December",
-   "quoi": "Pentagon decision on permanent US base in Poland",
+   "quand": "Next week",
+   "quoi": "APEC Summit in Shenzhen featuring US-China bilateral talks",
    "liens": [
     {
-     "source": "Breaking Defense",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY05jR1hCVGtNQXZ5bHd6ZlU3SVJuX2I3Z003clBUNlVjWXMtZlRBTFFKdUw2UVQ4SFAtOEpMckJQMnBtQlUyUTQ5OVBxLUlIN3pLeHdjVVFsS3dBcHR4RTItUTBBZzhtdW4yR0ZPV3BPQnVpSm5NWEhqbGYtY09wUkJuZDlKTEU3YUdiLWxiOWNUNmt2NzlDTDFPbU05U0xoX19wN2lRV2hVWUs3NDJ1M3JodkFPQWdTQkNB?oc=5",
-     "titre": "Poland says Pentagon supports permanent US base, with decision expected in December"
+     "source": "CNA Asie",
+     "url": "https://www.channelnewsasia.com/east-asia/trump-xi-apec-nvidia-scandal-us-midterms-6545226",
+     "titre": "How Nvidia scandal, US midterm losses could affect Trump’s hand with Xi - and what it means for Beijing"
     }
    ]
   }
  ],
  "hebdo": null,
  "stats": {
-  "articles": 393,
+  "articles": 419,
   "sources": 52
  }
 }
