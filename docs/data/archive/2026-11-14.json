@@ -1,0 +1,860 @@
+{
+ "date": "2026-11-14",
+ "date_label": "Saturday, November 14, 2026",
+ "genere_le": "2026-11-14T10:43:58+08:00",
+ "mode": "ia",
+ "modele": "gemini-flash-latest",
+ "accroche": [
+  "Trump, Xi and Putin to hold Shenzhen summit on nuclear arms",
+  "US downs Iranian drones following claimed radar strike in Bahrain",
+  "Turkey and Qatar sign mutual defence pact amid Gulf tensions"
+ ],
+ "essentiel": [
+  {
+   "suite": false,
+   "remplace": null,
+   "emoji": "🤝",
+   "titre": "Trump, Xi and Putin set for historic Shenzhen summit",
+   "resume": "The White House announced Donald Trump, Xi Jinping and Vladimir Putin will hold a trilateral summit in Shenzhen on November 19 alongside APEC. Discussions will cover nuclear arms reductions and Iran, excluding Ukraine.",
+   "pourquoi": "",
+   "pays": [
+    "United States",
+    "China",
+    "Russia"
+   ],
+   "region": "North-East Asia",
+   "rubrique": "monde",
+   "liens": [
+    {
+     "source": "France 24 Asie",
+     "url": "https://www.france24.com/fr/asie-pacifique/20261114-donald-trump-xi-jinping-vladimir-poutine-vont-se-rencontrer-jeudi-chine",
+     "titre": "Donald Trump, Xi Jinping et Vladimir Poutine vont se rencontrer jeudi en Chine"
+    },
+    {
+     "source": "Le Monde International",
+     "url": "https://www.lemonde.fr/international/article/2026/11/14/la-maison-blanche-annonce-une-rencontre-trilaterale-entre-donald-trump-vladimir-poutine-et-xi-jinping-jeudi-en-chine_6809488_3210.html",
+     "titre": "La Maison Blanche annonce une rencontre trilatérale entre Donald Trump, Vladimir Poutine et Xi Jinping, jeudi en Chine"
+    },
+    {
+     "source": "CNA Asie",
+     "url": "https://www.channelnewsasia.com/east-asia/trump-xi-putin-trilateral-summit-apec-6551001",
+     "titre": "Trump, Xi, Putin to hold historic meeting in China: White House"
+    },
+    {
+     "source": "Chosunbiz",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPblY4UTgxb2NZMFBZbGtwdnhFY3p4eHltMWg0clgtb3FMZjIwZGVsZG5va0gxbkdOWWJhZDRQX1lfQlBMejczSE5sLVZWSzdUZkNyVjlpTHduX0lyMkswakFadVVLdHhXN3NkeTYweHRsVG1BVlFMM3VpTVVDT3NlZzMwMnc3ZDE30gGcAUFVX3lxTE5QN21oMGZCTWxfb1JvSFlocTJKVjU5OVY2UHFxaEpQWUh2bU5zQloxTi1lVXhlQXRiSHNkc0FXTXVlT2NkazExandCazhwZXgwUXRGc1RFVXkwNEZVVHpxMXZjcVZVZVd1XzJhdHpibHJURjZNdmg4Tnk2RTNLTEI2c1NxanJselE3ZEhOby1xdXg1Q0I2dUxuNWFrdQ?oc=5",
+     "titre": "Report says Trump, Xi, Putin to meet in Shenzhen to discuss arms and North Korea"
+    }
+   ],
+   "visuel": null,
+   "id": "2026-11-14|Trump, Xi and Putin set for historic Shenzhen summit"
+  },
+  {
+   "suite": false,
+   "remplace": null,
+   "emoji": "🛡️",
+   "titre": "US downs Iranian drones after claimed Bahrain radar strike",
+   "resume": "US Central Command intercepted two Iranian attack drones, refuting Tehran's claims that it struck a US military radar in Bahrain. The strike attempt represents the first direct targeting of US regional installations in two months.",
+   "pourquoi": "",
+   "pays": [
+    "United States",
+    "Iran",
+    "Bahrain"
+   ],
+   "region": "Middle East",
+   "rubrique": "defense_aerienne",
+   "liens": [
+    {
+     "source": "AP News",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMXJTcEdfVGdOV1VrbGpYTy1hMlkybS1IbjZGS0piS01yNWY5RnVsMi16ZHBMTFVIajNzcFoydFZXWmhEQXJuVXBHNFBic2JSRlJLZ05TNGlmclRmMlppOExmc2ttem1zVnhQV0ppcnVaUkd2Q29fVVNXUzJpUFEwUE1WSHVkc0tZQXpmaHBSZ0YxVWpoOGNkMmZnbw?oc=5",
+     "titre": "US military downs 2 Iranian attack drones as Iran claims a strike on a US radar in Bahrain"
+    },
+    {
+     "source": "NHKニュース",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ud29oYm96dUlrQy1ING1lRGdRS0FUaVhZYUhRTVRKcmk4N19LMjljWUp2OWtRa0ZES083YS1MMkdzNGpqcEptV3Z6R1VQeXFLQXNuX1ctZlo4Ri03cXRDV1l6NA?oc=5",
+     "titre": "Iran claims attack on US military radar in Bahrain"
+    },
+    {
+     "source": "CNA Monde",
+     "url": "https://www.channelnewsasia.com/world/iran-us-radar-system-bahrain-strike-guards-6550196",
+     "titre": "Iran targeted US radar system in Bahrain"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNay1kUVVvaTJ4b2FManZ4aVVnSDhvQzdZRDFQa3FSZlRsQlJ6cGY5bVhwMkM0TGlWQ0FwYVg3bXNORDM4ZjI3dzR3Qy14a3hBSE9lRXZUaDhydHlzOWozdUtieDl6dl9Gd3JXdHUzUUdKRWV0WXczNm1jd0RaQ21Vam1CMk5CVVF2OGx1ODUzUdIBlAFBVV95cUxQZk1ES2dVRlM4NU1ENWxJalhucE5CY1FKQXdMTXEwdFFuYmVxNkRKbnp1TDdicmh3bDk2TWNiaFhUNXhTMy1nV2JVQnFFMlFUSVViYUV6V3ZrMEJLTW96dnJ3VC1DZ29ld2ctV002aklRSWpvcWR6RFhkdFpZeFFXZ3pObjdSZG02VDZIdVc0VGZMcVBr?oc=5",
+     "titre": "US denies Iran’s claim it hit two radar sites in Bahrain"
+    }
+   ],
+   "visuel": null,
+   "id": "2026-11-14|US downs Iranian drones after claimed Bahrain radar strike"
+  },
+  {
+   "suite": false,
+   "remplace": null,
+   "emoji": "📝",
+   "titre": "Turkey and Qatar sign mutual defence pact",
+   "resume": "Turkey and Qatar signed a mutual defence agreement pledging a unified military posture against any external armed attack. The pact deepens bilateral security cooperation amid worsening conflicts in Yemen and the Gulf.",
+   "pourquoi": "",
+   "pays": [
+    "Turkey",
+    "Qatar"
+   ],
+   "region": "Middle East",
+   "rubrique": "moyen_orient",
+   "liens": [
+    {
+     "source": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/14/iran-war-live-fighting-grips-yemen-as-qatar-turkiye-sign-defence-deal?traffic_source=rss",
+     "titre": "Iran war live: Fighting grips Yemen as Qatar, Turkiye sign defence deal"
+    },
+    {
+     "source": "Al-Monitor",
+     "url": "https://www.al-monitor.com/originals/2026/11/turkey-qatar-sign-mutual-defence-agreement",
+     "titre": "Turkey, Qatar sign mutual defence agreement"
+    },
+    {
+     "source": "The Straits Times",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWk1yNWN3M3RwX2xKUHZEZWtmTkVmSTJUSmhPSVFxcWpmSUdEVTY5M3RxWk5QdnVET180M0dVZ3hHTHVlU0drR1RjV2xsTVBhVUc0S25lUXgzVWlkUFZmNVNRWjBCNUgxQVBCSlBsNFNmYm1uVlJsWWJFSmpvSjNCQzN4eHp5aFdiN24tWHVxdllfZ1BBa0tRSnFCZG5EN3N5cGV5VFJ1NkQtSWxFWkoySGlTMA?oc=5",
+     "titre": "Turkey, Qatar sign mutual defence agreement, Turkish presidency says"
+    }
+   ],
+   "visuel": null,
+   "id": "2026-11-14|Turkey and Qatar sign mutual defence pact"
+  },
+  {
+   "suite": true,
+   "remplace": "2026-11-13|Jensen Huang resigns as Nvidia CEO amid espionage scandal",
+   "emoji": "⚠️",
+   "titre": "Bessent targets Commerce Department over Nvidia chip leakage",
+   "resume": "US Treasury Secretary Scott Bessent publicly blamed the Commerce Department for export control failures regarding Nvidia partner Megaspeed. Meanwhile, Singapore charged a fifth suspect and Malaysia opened an investigation into a Megaspeed subsidiary.",
+   "pourquoi": "",
+   "pays": [
+    "United States",
+    "Singapore",
+    "Malaysia",
+    "China"
+   ],
+   "region": "Global",
+   "rubrique": "economie",
+   "liens": [
+    {
+     "source": "CNA Singapour",
+     "url": "https://www.channelnewsasia.com/singapore/nvidia-megaspeed-ai-chips-semiconductor-6549036",
+     "titre": "Nvidia-Megaspeed saga could squeeze Singapore's room in chips space, slow things for firms: Analysts"
+    },
+    {
+     "source": "The Straits Times",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZWxJTGxsSnRaZ3N1eUxrVS00MTRJaGE2V0tWTkVGR1Q1UmdBcUJkUVdwM1JMcGM3NEpJUC1jSVFjSXdHT2tVNGZUSlRzWjZjSjJQaS1PSE1Vd0xsQ2Q1WTVuTVE5U01XUFc0S0tjeDd6d3NCRkxvZmFBdnp2SnVQNmVha2s3aWxuelowU3dUX3BCUlJaMFZyUU42SmZxWFM2Qm1rbjdkd2U3cXZOR3VzOVdtUWV3RWdyY2RpRVFsZGhKMmM5ZE8wMWJSTzhuOGdxQkY2dg?oc=5",
+     "titre": "Bessent blames US Commerce Dept over lack of export controls for Nvidia partner Megaspeed"
+    },
+    {
+     "source": "조선일보",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNlM3d0dFVG5mZG1CSmV1UzZzWlVZZWFVWWFGUnY2aEszSVhKVnFCY1VLRFE2ckhNWEkwZmQwN3FfcVNzZDVYdEo4SzdCX01hNHVMdHltVlhZVVdmaU5pZUxucEl5S2xUZVFHRER5Qzl2SURiTDJwQzNmSEZBQi1iZDFYaDE?oc=5",
+     "titre": "Treasury Secretary Criticizes Commerce Department Over Megaspeed Export Controls"
+    },
+    {
+     "source": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
+     "titre": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague"
+    }
+   ],
+   "visuel": null,
+   "id": "2026-11-14|Bessent targets Commerce Department over Nvidia chip leakage"
+  }
+ ],
+ "rubriques": [
+  {
+   "id": "monde",
+   "titre": "World",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "✈️",
+     "titre": "US lifts nationwide ground halt after communications outage",
+     "resume": "The FAA lifted a rare ground stop that halted departing flights across the United States due to an air traffic control communications breakdown. The Department of Homeland Security stated the disruption was not caused by a cyberattack.",
+     "pourquoi": "",
+     "pays": [
+      "United States"
+     ],
+     "region": "Americas",
+     "rubrique": "monde",
+     "liens": [
+      {
+       "source": "Le Monde International",
+       "url": "https://www.lemonde.fr/international/article/2026/11/14/suspension-des-vols-aux-etats-unis-l-agence-de-l-aviation-civile-annonce-une-reprise-du-trafic-aerien-apres-une-vaste-panne-des-telecommunications_6809389_3211.html",
+       "titre": "Suspension des vols aux Etats-Unis : l’agence de l’aviation civile annonce une reprise du trafic aérien après une vaste « panne des télécommunications »"
+      },
+      {
+       "source": "CNA Monde",
+       "url": "https://www.channelnewsasia.com/world/us-flights-ground-stop-travel-disruption-delays-6551081",
+       "titre": "'I may lose my mind': Frustrated travellers stuck in US flight havoc"
+      },
+      {
+       "source": "Al Jazeera",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/former-faa-official-says-nobody-really-knows-what-is-going?traffic_source=rss",
+       "titre": "Former FAA official says ‘nobody really knows what is going on’"
+      },
+      {
+       "source": "Japan Times",
+       "url": "https://www.japantimes.co.jp/news/2026/11/14/world/departing-us-flights-grounded-canceled/",
+       "titre": "U.S. cancels rare nationwide ground halt for all flights after communications outage"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-14|US lifts nationwide ground halt after communications outage"
+    }
+   ]
+  },
+  {
+   "id": "asie",
+   "titre": "APAC",
+   "items": [
+    {
+     "suite": true,
+     "remplace": "2026-11-13|Xi Jinping reiterates Taiwan reunification mandate ahead of APEC",
+     "emoji": "⚠️",
+     "titre": "China conducts unannounced Pacific drills targeting Taiwan",
+     "resume": "Taiwanese authorities reported unannounced Chinese military exercises in the western Pacific characterised as silent intimidation. Taiwan monitored the operations closely following recent PLA ballistic missile launches and aircraft incursions around the island.",
+     "pourquoi": "",
+     "pays": [
+      "China",
+      "Taiwan"
+     ],
+     "region": "North-East Asia",
+     "rubrique": "asie",
+     "liens": [
+      {
+       "source": "軍事新聞通訊社",
+       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUkxwb3FIck1KcGYxTUpaOW9uem9pQjN3NzdGSzFTOTVKaTlReTlHUHIyemRlRnlmYkJRR3lSRmVmNzR6T1BFcXF4XzdRdFl0X3JoVjRuX3BFeUR0TUV3SlFMbC1KdUg4czdrdkNPbllTNjBVVF9jdEl2WHBNejZPa2F2ZnozWXc?oc=5",
+       "titre": "中共解放軍臺海周邊活動 國軍嚴密監控應處"
+      },
+      {
+       "source": "Japan Times",
+       "url": "https://www.japantimes.co.jp/news/2026/11/13/asia-pacific/politics/china-silent-intimidation/",
+       "titre": "China stages unannounced Pacific drills in ‘silent intimidation’ push: Taiwan officials"
+      },
+      {
+       "source": "Reuters",
+       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcEx2eTdicmVJdWI5Y2JyUVhiN1psV0dacm9RNzFvU29MVWZ0UGxwUWtrMzNNaDFUNWRCMGFyd2F5TUtabzFEdnRjNDFpd2pIbkFlbUFPb3RXTjNIU01iN0RCOVpOV3VyZmY4Uml1anpPYjdwSVFGR3hpemx2WVl6Zms5M3FSOXdBS3pSeVA1eWlLcEJRank5c0lxeGRSR0NUeThJWUc5Nlk0Smw5VWpWczdBRkZXZGNEc3I1ZkxPdWxSQU1mVENN?oc=5",
+       "titre": "China stages unannounced Pacific drills in 'silent intimidation' of Taiwan, officials say"
+      },
+      {
+       "source": "中華民國國防部- 全球資訊網",
+       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5fN2xicnVJNUJQSFl1WllySTJQcE9JNVJhV2ROUDM2b2J5cWZZOF85TFFta1dzdE5lM21ickwzcXpCWnpKa0JRR3ZvUXpyQ0l4VlE?oc=5",
+       "titre": "全球資訊網- News Channel - PLA Activities - PLA activities in the waters and airspace around Taiwan"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-14|China conducts unannounced Pacific drills targeting Taiwan"
+    },
+    {
+     "suite": true,
+     "remplace": "2026-11-13|Japan Ministry of Finance targets cuts to missile and aircraft orders",
+     "emoji": "💰",
+     "titre": "Washington demands Japan triple host-nation troop funding",
+     "resume": "The United States requested Japan provide ¥3 trillion over five years from fiscal 2027 to support stationed American troops, tripling current levels. Tokyo is currently preparing a five-year national defence spending plan of ¥60 trillion.",
+     "pourquoi": "",
+     "pays": [
+      "Japan",
+      "United States"
+     ],
+     "region": "North-East Asia",
+     "rubrique": "asie",
+     "liens": [
+      {
+       "source": "Japan Times",
+       "url": "https://www.japantimes.co.jp/news/2026/11/14/japan/politics/defense-spending-defense-ministry-finance-ministry/",
+       "titre": "Japan considers setting five-year defense spending plan at ¥60 trillion"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-14|Washington demands Japan triple host-nation troop funding"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🤝",
+     "titre": "ASEAN divides surface ahead of Manila summit",
+     "resume": "ASEAN leaders convening in Manila face sharp disagreements over whether to re-engage Myanmar's junta, with Thailand advocating its return. Discussions will also address stalled South China Sea Code of Conduct talks and regional energy pressures.",
+     "pourquoi": "",
+     "pays": [
+      "Philippines",
+      "Myanmar",
+      "Thailand"
+     ],
+     "region": "South-East Asia",
+     "rubrique": "asie",
+     "liens": [
+      {
+       "source": "Japan Times",
+       "url": "https://www.japantimes.co.jp/news/2026/11/14/asia-pacific/politics/asean-myanmar-dilemma/",
+       "titre": "ASEAN faces Myanmar dilemma as some members pursue closer ties"
+      },
+      {
+       "source": "Straits Times Asie",
+       "url": "https://www.straitstimes.com/asia/se-asia/asean-unity-faces-test-as-energy-crisis-regional-conflicts-loom-over-summit",
+       "titre": "ASEAN unity faces test as energy crisis, regional conflicts loom over summit"
+      },
+      {
+       "source": "CNA Asie",
+       "url": "https://www.channelnewsasia.com/asia/asean-summit-manila-south-china-sea-myanmar-6549311",
+       "titre": "ASEAN leaders gather in Manila with South China Sea, Myanmar in focus"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-14|ASEAN divides surface ahead of Manila summit"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🇸🇬",
+     "titre": "Singapore holds large-scale RTS Link security exercise",
+     "resume": "Over 600 Singaporean multi-agency personnel took part in an operational exercise at Woodlands North station. The cross-border RTS Link, carrying over 600 passengers per train to Malaysia, is scheduled to enter service in February 2027.",
+     "pourquoi": "",
+     "pays": [
+      "Singapore",
+      "Malaysia"
+     ],
+     "region": "South-East Asia",
+     "rubrique": "asie",
+     "liens": [
+      {
+       "source": "Straits Times Singapour",
+       "url": "https://www.straitstimes.com/singapore/over-600-personnel-take-part-in-multi-agency-exercise-at-rts-link-woodlands-north-station",
+       "titre": "Over 600 personnel take part in multi-agency exercise at RTS Link Woodlands North station"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-14|Singapore holds large-scale RTS Link security exercise"
+    }
+   ]
+  },
+  {
+   "id": "elections",
+   "titre": "Elections & Politics",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🗳️",
+     "titre": "Voters head to polls in Malaysia's Melaka state election",
+     "resume": "Nearly 700,000 Malaysian voters are casting ballots across 28 seats contested by 79 candidates in Melaka. The poll serves as a vital barometer of Malay support for Prime Minister Anwar Ibrahim's governing coalition.",
+     "pourquoi": "",
+     "pays": [
+      "Malaysia"
+     ],
+     "region": "South-East Asia",
+     "rubrique": "elections",
+     "liens": [
+      {
+       "source": "South China Morning Post",
+       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZjhfaWdRaW9uZ2RmZGYwNTB0TjJkYUR3dFUwWVlfakE5N1ZYdlJDaWloT01nT0ZOWVVqVURFT1VxMUhuZkMzMXlmZ0c4WTdBVDNpc1VKOWZValVRd3NIVXFYdWE1TlRhWUNRR2NUSEx2UTF3cnhlakZoZWU2ME5rcU1tYVRxcm5EdjFmckVOVVBHUFFXZGRFRFVZYnFPR3BOYzVlUGJGOWNBSjd4NzFVdktBNDY2MHZiRTIxa3hQaTNJQXdDSFE?oc=5",
+       "titre": "Malaysia’s Melaka election begins as Anwar’s PH seeks to counter resurgent Umno"
+      },
+      {
+       "source": "CNA Asie",
+       "url": "https://www.channelnewsasia.com/asia/melaka-election-anwar-ph-bn-pn-6545371",
+       "titre": "Melaka heads to polls as Anwar's PH faces BN-PN pact in crucial test of Malay support"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-14|Voters head to polls in Malaysia's Melaka state election"
+    },
+    {
+     "suite": true,
+     "remplace": "2026-11-13|Indonesian Vice-President Gibran formally resigns",
+     "emoji": "🗳️",
+     "titre": "Indonesia sets December 2 vote for new vice-president",
+     "resume": "Indonesia's upper house speaker announced that lawmakers will select a new vice-president on December 2 following Gibran Rakabuming Raka's resignation. Gerindra senior figures Sugiono and Ahmad Muzani are reported to be the leading candidates.",
+     "pourquoi": "",
+     "pays": [
+      "Indonesia"
+     ],
+     "region": "South-East Asia",
+     "rubrique": "elections",
+     "liens": [
+      {
+       "source": "Straits Times Asie",
+       "url": "https://www.straitstimes.com/asia/se-asia/three-names-that-stand-out-in-race-to-succeed-gibran-as-indonesia-vice-president",
+       "titre": "Three names that stand out in race to succeed Gibran as Indonesian vice-president"
+      },
+      {
+       "source": "Reuters",
+       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRnA3bUNiM2luMTJQQ2NHd3F3dXh0UUpOVmw4elREMjltSkI2V0lfR0VtYXBNMGJqQnI4OUNIa1NGNGdKeGFZeC1VMVBkZGRjSDNfUXZHMmJvWDdxV1VoaXNoWVNmQmhNM0pPVC11b0s2R08yWmkxNU9Ba1V3VGFnT2paaUhFajRrUWc0RzJMcVp2TmR4SnMtMW1fcVB3ZDdFeElWOUdEZ0Y4aVdsNWduX0Y2ZTQwekQ3eW1EaWoxOTFycDJNLUYzQQ?oc=5",
+       "titre": "Indonesia's upper house to pick new vice president on December 2, its speaker says"
+      },
+      {
+       "source": "Japan Times",
+       "url": "https://www.japantimes.co.jp/news/2026/11/13/asia-pacific/politics/prabowo-consolidates-power/",
+       "titre": "Indonesia’s Prabowo rushes end of Jokowi era with son’s ouster"
+      },
+      {
+       "source": "The Diplomat",
+       "url": "https://thediplomat.com/2026/11/indonesian-vice-president-says-resignation-unrelated-to-scrutiny-of-educational-credentials/",
+       "titre": "Indonesian Vice President Says Resignation ‘Unrelated’ to Scrutiny of Educational Credentials"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-14|Indonesia sets December 2 vote for new vice-president"
+    }
+   ]
+  },
+  {
+   "id": "defense_aerienne",
+   "titre": "Air & Missile Defence",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🛩️",
+     "titre": "US Air Force B-21 Raider executes first weapon release",
+     "resume": "The B-21 Raider stealth bomber conducted its first weapon release, marking an essential milestone in its flight test programme. The US Air Force continues to target operational status for the platform next year.",
+     "pourquoi": "",
+     "pays": [
+      "United States"
+     ],
+     "region": "Americas",
+     "rubrique": "defense_aerienne",
+     "liens": [
+      {
+       "source": "The War Zone",
+       "url": "https://www.twz.com/air/b-21-raider-has-released-its-first-weapon",
+       "titre": "B-21 Raider Has Released Its First Weapon"
+      }
+     ],
+     "visuel": {
+      "nom": "Northrop Grumman B-21 Raider",
+      "description": "American stealth bomber aircraft",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/B-21-in-flight.jpg/960px-B-21-in-flight.jpg",
+      "page": "https://en.wikipedia.org/wiki/Northrop_Grumman_B-21_Raider",
+      "type": "platform"
+     },
+     "id": "2026-11-14|US Air Force B-21 Raider executes first weapon release"
+    },
+    {
+     "suite": true,
+     "remplace": "2026-11-11|US evacuates aircraft from UK bases following Iranian threat",
+     "emoji": "🛡️",
+     "titre": "Suspected drone activity triggers alert at RAF Lakenheath",
+     "resume": "US Air Force units responded to suspected unauthorised drone activity over RAF Lakenheath in eastern England, with no damage reported. The incident follows the recent precautionary dispersal of American aircraft from British airbases.",
+     "pourquoi": "",
+     "pays": [
+      "United States",
+      "United Kingdom"
+     ],
+     "region": "Europe",
+     "rubrique": "defense_aerienne",
+     "liens": [
+      {
+       "source": "Le Monde International",
+       "url": "https://www.lemonde.fr/international/article/2026/11/13/l-armee-americaine-intervient-pour-une-suspicion-d-activite-de-drone-non-autorisee-au-dessus-d-une-base-militaire-britannique_6809392_3210.html",
+       "titre": "L’armée américaine intervient pour une « suspicion d’activité de drone non autorisée » au-dessus d’une base militaire britannique"
+      },
+      {
+       "source": "CNA Monde",
+       "url": "https://www.channelnewsasia.com/world/us-air-force-suspected-drone-activity-uk-airbase-6550596",
+       "titre": "US air force responds to suspected drone activity over UK airbase"
+      },
+      {
+       "source": "The War Zone",
+       "url": "https://www.twz.com/air/suspected-drones-over-raf-lakenheath-just-triggered-security-response-u-s-air-force",
+       "titre": "Suspected Drones Over RAF Lakenheath Just Triggered Security Response: U.S. Air Force (Updated)"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-14|Suspected drone activity triggers alert at RAF Lakenheath"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🛡️",
+     "titre": "Beretta reveals LIVET counter-drone shotgun turret",
+     "resume": "Beretta unveiled the LIVET counter-drone system, integrating eight Benelli M4 shotguns with airburst ammunition on a remote turret. The weapon uses artificial intelligence tracking to neutralise low-flying micro and mini uncrewed aerial vehicles.",
+     "pourquoi": "",
+     "pays": [
+      "Italy"
+     ],
+     "region": "Europe",
+     "rubrique": "defense_aerienne",
+     "liens": [
+      {
+       "source": "The War Zone",
+       "url": "https://www.twz.com/land/berettas-new-counter-drone-system-packs-eight-benelli-m4-shotguns-onto-a-remote-turret",
+       "titre": "Beretta’s New Counter-Drone System Packs Eight Benelli M4 Shotguns Onto A Remote Turret"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-14|Beretta reveals LIVET counter-drone shotgun turret"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "📡",
+     "titre": "Saab introduces Sea Giraffe AMB D naval radar",
+     "resume": "Saab launched its fourth-generation Sea Giraffe AMB D radar featuring a gallium nitride AESA antenna and digital architecture. The modernisation expands air and surface detection range by 50 per cent to 250 kilometres.",
+     "pourquoi": "",
+     "pays": [
+      "Sweden"
+     ],
+     "region": "Europe",
+     "rubrique": "defense_aerienne",
+     "liens": [
+      {
+       "source": "Naval News",
+       "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/saab-sea-giraffe-amb-d-radar/",
+       "titre": "Saab’s New Sea Giraffe AMB D Radar Boosts Detection Range by 50%"
+      }
+     ],
+     "visuel": {
+      "nom": "Giraffe radar",
+      "description": "Swedish early warning radar system family",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Giraffe_AFB-radar.jpg/960px-Giraffe_AFB-radar.jpg",
+      "page": "https://en.wikipedia.org/wiki/Giraffe_radar",
+      "type": "platform"
+     },
+     "id": "2026-11-14|Saab introduces Sea Giraffe AMB D naval radar"
+    }
+   ]
+  },
+  {
+   "id": "industrie",
+   "titre": "Defence Industry & Contracts",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🚀",
+     "titre": "Spain approves €3bn for JSM-SL cruise missiles and S80 submarines",
+     "resume": "Spain cleared €3 billion to acquire Kongsberg JSM-SL submarine-launched cruise missiles and modernise its S80 submarines. The investment aims to equip the Armada with long-range land-attack capabilities.",
+     "pourquoi": "",
+     "pays": [
+      "Spain",
+      "Norway"
+     ],
+     "region": "Europe",
+     "rubrique": "industrie",
+     "liens": [
+      {
+       "source": "Opex360",
+       "url": "https://www.opex360.com/2026/11/13/lespagne-debloque-3-milliards-deuros-pour-acquerir-des-missiles-de-croisiere-jsm-sl-et-moderniser-ses-sous-marins-s80/",
+       "titre": "L’Espagne débloque 3 milliards d’euros pour acquérir des missiles de croisière JSM-SL et moderniser ses sous-marins S80"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-14|Spain approves €3bn for JSM-SL cruise missiles and S80 submarines"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🛩️",
+     "titre": "Italy boosts GCAP fighter funding in defence budget",
+     "resume": "Italy increased its budgetary allocation for the Global Combat Air Programme sixth-generation fighter. To finance the uplift, Rome reduced funding earmarked for army armoured combat vehicles and tanks.",
+     "pourquoi": "",
+     "pays": [
+      "Italy",
+      "United Kingdom",
+      "Japan"
+     ],
+     "region": "Europe",
+     "rubrique": "industrie",
+     "liens": [
+      {
+       "source": "Defense News",
+       "url": "https://www.defensenews.com/global/europe/2026/11/13/italy-boosts-gcap-fighter-spending-as-army-vehicles-take-a-hit-in-budget/",
+       "titre": "Italy boosts GCAP fighter spending as Army vehicles take a hit in budget"
+      }
+     ],
+     "visuel": {
+      "nom": "Global Combat Air Programme",
+      "description": "Italy/Japan/UK aircraft development and acquisition programme",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/GCAP_concept_model_%28delta_wing_type%29_left_rear_top_view_in_GCAP_booth_of_JA2024_at_Tokyo_Big_Sight_October_19%2C_2024_02.jpg/960px-GCAP_concept_model_%28delta_wing_type%29_left_rear_top_view_in_GCAP_booth_of_JA2024_at_Tokyo_Big_Sight_October_19%2C_2024_02.jpg",
+      "page": "https://en.wikipedia.org/wiki/Global_Combat_Air_Programme",
+      "type": "platform"
+     },
+     "id": "2026-11-14|Italy boosts GCAP fighter funding in defence budget"
+    }
+   ]
+  },
+  {
+   "id": "ukraine",
+   "titre": "Ukraine / Russia",
+   "items": [
+    {
+     "suite": true,
+     "remplace": "2026-11-13|Putin agrees to European participation in Ukraine peace talks",
+     "emoji": "🤝",
+     "titre": "Europe establishes negotiating team as Russia revives NATO demands",
+     "resume": "EU leaders agreed that Britain, France, Germany, Italy, Poland and EU officials will represent Europe in future Ukraine talks. Meanwhile, Moscow reiterated demands for a NATO military retrenchment across Eastern Europe as a peace condition.",
+     "pourquoi": "",
+     "pays": [
+      "Ukraine",
+      "Russia",
+      "European Union",
+      "United Kingdom"
+     ],
+     "region": "Europe",
+     "rubrique": "ukraine",
+     "liens": [
+      {
+       "source": "The New York Times",
+       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNejhEQXBBR0FQS3VnT01VYUsxOTVLejRFTm1WMGtzQUc5OER5dW5yZ3ZOQUdCRFFaVXRjNVotNkNNc2hLSTR5Q0V2MGV5REJZQ2RRRE1yaXRXbGxscGhub3F1dVBueTR2dVViNlkxN1hRNC1iczRQSlNpSGdmelhxai1SLUw?oc=5",
+       "titre": "Russia Revives Demand That NATO Retrench to Secure Ukraine Deal"
+      },
+      {
+       "source": "CNA Monde",
+       "url": "https://www.channelnewsasia.com/world/europe-ukraine-russia-talks-putin-us-envoys-6550496",
+       "titre": "Europe chooses team for Ukraine talks"
+      },
+      {
+       "source": "Le Monde International",
+       "url": "https://www.lemonde.fr/international/article/2026/11/13/sollicitee-par-donald-trump-la-russie-jubile-a-l-idee-de-peser-sur-l-architecture-de-securite-europeenne_6809368_3210.html",
+       "titre": "Sollicitée par Donald Trump, la Russie jubile à l’idée de peser sur l’architecture de sécurité européenne"
+      },
+      {
+       "source": "BBC World",
+       "url": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
+       "titre": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-14|Europe establishes negotiating team as Russia revives NATO demands"
+    }
+   ]
+  },
+  {
+   "id": "moyen_orient",
+   "titre": "Middle East",
+   "items": [
+    {
+     "suite": true,
+     "remplace": "2026-11-13|Houthis strike Saudi oil pipeline as explosions hit tankers in Hormuz",
+     "emoji": "🚢",
+     "titre": "LNG carrier catches fire after mine strike in Strait of Hormuz",
+     "resume": "Iran's Revolutionary Guards reported that a liquefied natural gas carrier caught fire after striking naval mines in the Strait of Hormuz. The incident escalates maritime security threats across the vital international energy shipping corridor.",
+     "pourquoi": "",
+     "pays": [
+      "Iran"
+     ],
+     "region": "Middle East",
+     "rubrique": "moyen_orient",
+     "liens": [
+      {
+       "source": "Al Jazeera",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/irgc-says-tanker-caught-fire-after-hitting-mines-in-strait-of-hormuz?traffic_source=rss",
+       "titre": "IRGC says tanker caught fire after hitting mines in Strait of Hormuz"
+      },
+      {
+       "source": "Malay Mail",
+       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMmFjOTI4TGQ2NDdVakZ1S1JRWFpKUjNvOUZob3gzeU43aHp5OGtYR19UX3VzZGFWRzFDNmNpVHBpZGdZN2N3b2Q5bW05NVVHbXpsV1BWdUlJbGhkT3RGblJzNkdEV2N0cHVYbkxISmJSWjBoZVdXMmZyM3E4cHIwUGFCV0xDNlRkdnVWUUgzQUlpVlduaWhnRzFwOFZpNTg2bjB3RNIBqgFBVV95cUxNa1pwbWdveGM2LTVrY0RrclUtMktldXRhZFJ0elRGbVpPREdqZU00dWE1YjdRNnVqdnZ0M2t4NHAwcE1oeU16WER0N1E5d3VIQXFnbHZXLUViUjVCMjhfSDZub2RQU1lqcWRha3NaLU85QmdXTF9NRlpEeFFhVjEzdXBSQzNhM1phTzFPSVpwaEdJVzlNdTh0ZDFhR01naUdmc1JHanFCc0otUQ?oc=5",
+       "titre": "Iran says LNG ship hit mine in Strait of Hormuz"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-14|LNG carrier catches fire after mine strike in Strait of Hormuz"
+    }
+   ]
+  },
+  {
+   "id": "europe",
+   "titre": "Europe",
+   "items": [
+    {
+     "suite": true,
+     "remplace": "2026-11-11|US Army soldier arrested in UK on suspicion of spying for Russia",
+     "emoji": "⚠️",
+     "titre": "US Army officer arrested for espionage in UK identified",
+     "resume": "The US Army identified Lieutenant Colonel Brandon Carroll Tyner as the officer detained in London on allegations of espionage for Russia. Tyner remains in custody under British counter-terrorism legislation following joint investigations.",
+     "pourquoi": "",
+     "pays": [
+      "United States",
+      "United Kingdom",
+      "Russia"
+     ],
+     "region": "Europe",
+     "rubrique": "europe",
+     "liens": [
+      {
+       "source": "Defense News",
+       "url": "https://www.defensenews.com/global/europe/2026/11/13/us-army-names-officer-held-on-allegations-of-espionage/",
+       "titre": "US Army names officer held on ‘allegations of espionage’"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-14|US Army officer arrested for espionage in UK identified"
+    }
+   ]
+  },
+  {
+   "id": "espace",
+   "titre": "Space & Satellites",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🛰️",
+     "titre": "UK delays decision on £2bn military satellite contest",
+     "resume": "Britain's Ministry of Defence delayed awarding a contract for its £2 billion military communications satellite constellation. The deferral allows officials to reassess system requirements and commercial bids for sovereign orbital communications.",
+     "pourquoi": "",
+     "pays": [
+      "United Kingdom"
+     ],
+     "region": "Europe",
+     "rubrique": "espace",
+     "liens": [
+      {
+       "source": "Financial Times",
+       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbXNDOGlyQkFwcmRDNU5iR3Z4NHc1aUVyekFvZEZmQTRMeFpUekhvLW8xWUZHNWhYWWlOSFl3bHNZZ2ZWbC1PanRfb21OSy1sT0NORnRxcldPNV9hUzlsTmNObWhBb2g2UENFVXQ3cTE2MWF4eXNrMW5NNjR5R0FVU2ZYN1o?oc=5",
+       "titre": "Ministry of Defence delays decision on £2bn UK military satellite contest"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-14|UK delays decision on £2bn military satellite contest"
+    }
+   ]
+  },
+  {
+   "id": "tech",
+   "titre": "Emerging Tech",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🤖",
+     "titre": "France establishes international military AI centre in Rennes",
+     "resume": "The French Ministry of Armed Forces announced the creation of an international military artificial intelligence centre of excellence in Rennes. The facility will spearhead allied doctrinal integration, algorithmic experimentation, and operational AI readiness.",
+     "pourquoi": "",
+     "pays": [
+      "France"
+     ],
+     "region": "Europe",
+     "rubrique": "tech",
+     "liens": [
+      {
+       "source": "Opex360",
+       "url": "https://www.opex360.com/2026/11/13/la-france-officialise-la-creation-dun-centre-international-dedie-a-lintelligence-artificielle-militaire-a-rennes/",
+       "titre": "La France officialise la création d’un centre international dédié à l’intelligence artificielle militaire à Rennes"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-14|France establishes international military AI centre in Rennes"
+    }
+   ]
+  },
+  {
+   "id": "economie",
+   "titre": "Economy & Sanctions",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "⚠️",
+     "titre": "China warns against chip controls as rare earth caps loom",
+     "resume": "Beijing warned the United States against tightening chip export controls following the Nvidia scandal. Analysts noted China could retaliate by capping critical rare earth exports to protect its strategic technology positioning.",
+     "pourquoi": "",
+     "pays": [
+      "China",
+      "United States"
+     ],
+     "region": "Global",
+     "rubrique": "economie",
+     "liens": [
+      {
+       "source": "CBS News",
+       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVWFnOVptNmRjNHNNRnJuNWg2RXFUOGlockk1THR3RnQwNlhfbTZiNnBWWXJERG1ZSURrcm9pcUd2TzlOdmNTZHM3RXRkUElLdkU1THJpX3hSR2dBVE1FUjZfUTdhLWJpTVRSTnRUWDFLdW5hNXMzMkExMXRrVGhucGp3WWhSM3Fk?oc=5",
+       "titre": "China warns against new U.S. export controls on chips in wake of Nvidia's Huang scandal"
+      },
+      {
+       "source": "South China Morning Post",
+       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxObmIxT2FWVk9hRUdTbm80NEotRVE1VEkzSklWOTVoODlaVU1Vb3dMQWpwbUw0QllvZGNGb016YjBfRXJHRlgyLWFmd2VSN2k0MFJHa1dvVzFUNkVoQ0RNVlNKQ0RxTjJ6SDFYOHMyZVEzUWNDdkk1bDg4RDA1N3haNTU1R3ctZHdaOS1COVNtZG5rN3dETVR0Y1Uxcm9ZTlJRVnphYmU0YWpVTFl5enBLdkl2QndwRVowNUJDS1VxbFRMVmRxeWpsV3B6MWhvaEJvdHBMUlZ0blFXNjRhTXNPdA?oc=5",
+       "titre": "China could cap rare earths sales if US expands chip curbs over Nvidia: analysts"
+      },
+      {
+       "source": "CNA",
+       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOekxxeTNYQzJlNWc2YnBnZ3FJUHg4QlgwX3BqSE1aRkxfWG9hR2RNdlNaaFY2VjJqZmgxYjVOM0w0WDZWMlBOTE1YWDlaeENLOTJnMHVrUkFEZnBIdlRzTGdxSmMzMldLTHZnS0lXZ2YyUE9lMXBYdmI4RWI0Vm1EejVaOHJPczRMcXdicVRHU0J4MjFvZDBrSTh0OWQ5M3FyeEw3VW1GZHlvVDdMTnd1X0xLekpRWUNqUWhv?oc=5",
+       "titre": "China warns against new export controls on US chips after Nvidia scandal"
+      },
+      {
+       "source": "Chosunbiz",
+       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPU3NZdWNkcXcwVVNEZUR6cXo5OFpfNnV6OGd5a29yLWhQcDE4ZGpVUW5RajI4dGNuY0xXWVV1YnRoNkEtcWVCc3JtZ0JzMTJ6YjBJUWFpTmFiRUN5LXlnaF9IQ0RhS2tUVzF1WFpBa2doYWNwb3Y4U2ktdGtVOTRiOEkxTlluQ1po0gGcAUFVX3lxTE5wMGowMEM5QkZjSkY4b3YydUJXS0I2dWVMMlNaX0N2cHpuZTN3b29qdDZWVXJPVElIVTBCRjZfaDB2VXBZYmFWcFp2MDdWSG5mQ0NmODFkQU5kLU9GSUdfdDloekFQRF84MUpZd3BBOHo3U2ZHTTYyR1ZCX2stMDFGRFBmekFZTmI5UFYzX2s5ZTNCTnNDZWFySjBtNQ?oc=5",
+       "titre": "China AI stocks split as Nvidia scandal stokes fears of tighter US chip curbs"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-14|China warns against chip controls as rare earth caps loom"
+    }
+   ]
+  }
+ ],
+ "a_surveiller": [
+  {
+   "quand": "November 14",
+   "quoi": "Melaka state legislative election in Malaysia",
+   "liens": [
+    {
+     "source": "South China Morning Post",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZjhfaWdRaW9uZ2RmZGYwNTB0TjJkYUR3dFUwWVlfakE5N1ZYdlJDaWloT01nT0ZOWVVqVURFT1VxMUhuZkMzMXlmZ0c4WTdBVDNpc1VKOWZValVRd3NIVXFYdWE1TlRhWUNRR2NUSEx2UTF3cnhlakZoZWU2ME5rcU1tYVRxcm5EdjFmckVOVVBHUFFXZGRFRFVZYnFPR3BOYzVlUGJGOWNBSjd4NzFVdktBNDY2MHZiRTIxa3hQaTNJQXdDSFE?oc=5",
+     "titre": "Malaysia’s Melaka election begins as Anwar’s PH seeks to counter resurgent Umno"
+    },
+    {
+     "source": "CNA Asie",
+     "url": "https://www.channelnewsasia.com/asia/melaka-election-anwar-ph-bn-pn-6545371",
+     "titre": "Melaka heads to polls as Anwar's PH faces BN-PN pact in crucial test of Malay support"
+    }
+   ]
+  },
+  {
+   "quand": "November 15",
+   "quoi": "Opening of the ASEAN summit in Manila",
+   "liens": [
+    {
+     "source": "Japan Times",
+     "url": "https://www.japantimes.co.jp/news/2026/11/14/asia-pacific/politics/asean-myanmar-dilemma/",
+     "titre": "ASEAN faces Myanmar dilemma as some members pursue closer ties"
+    },
+    {
+     "source": "CNA Asie",
+     "url": "https://www.channelnewsasia.com/asia/asean-summit-manila-south-china-sea-myanmar-6549311",
+     "titre": "ASEAN leaders gather in Manila with South China Sea, Myanmar in focus"
+    }
+   ]
+  },
+  {
+   "quand": "November 19",
+   "quoi": "Trilateral summit between Donald Trump, Xi Jinping and Vladimir Putin in Shenzhen",
+   "liens": [
+    {
+     "source": "France 24 Asie",
+     "url": "https://www.france24.com/fr/asie-pacifique/20261114-donald-trump-xi-jinping-vladimir-poutine-vont-se-rencontrer-jeudi-chine",
+     "titre": "Donald Trump, Xi Jinping et Vladimir Poutine vont se rencontrer jeudi en Chine"
+    },
+    {
+     "source": "Le Monde International",
+     "url": "https://www.lemonde.fr/international/article/2026/11/14/la-maison-blanche-annonce-une-rencontre-trilaterale-entre-donald-trump-vladimir-poutine-et-xi-jinping-jeudi-en-chine_6809488_3210.html",
+     "titre": "La Maison Blanche annonce une rencontre trilatérale entre Donald Trump, Vladimir Poutine et Xi Jinping, jeudi en Chine"
+    },
+    {
+     "source": "Al-Monitor",
+     "url": "https://www.al-monitor.com/originals/2026/11/trump-hold-summit-xi-putin-shenzhen-thursday-ny-post-reports",
+     "titre": "Trump to hold summit with Xi, Putin in Shenzhen on Thursday, NY Post reports"
+    }
+   ]
+  },
+  {
+   "quand": "December 2",
+   "quoi": "Indonesian People's Consultative Assembly vote to elect the new vice-president",
+   "liens": [
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRnA3bUNiM2luMTJQQ2NHd3F3dXh0UUpOVmw4elREMjltSkI2V0lfR0VtYXBNMGJqQnI4OUNIa1NGNGdKeGFZeC1VMVBkZGRjSDNfUXZHMmJvWDdxV1VoaXNoWVNmQmhNM0pPVC11b0s2R08yWmkxNU9Ba1V3VGFnT2paaUhFajRrUWc0RzJMcVp2TmR4SnMtMW1fcVB3ZDdFeElWOUdEZ0Y4aVdsNWduX0Y2ZTQwekQ3eW1EaWoxOTFycDJNLUYzQQ?oc=5",
+     "titre": "Indonesia's upper house to pick new vice president on December 2, its speaker says"
+    }
+   ]
+  }
+ ],
+ "hebdo": null,
+ "stats": {
+  "articles": 387,
+  "sources": 52
+ }
+}
