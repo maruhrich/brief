@@ -1,0 +1,847 @@
+{
+ "date": "2026-11-17",
+ "date_label": "Tuesday, November 17, 2026",
+ "genere_le": "2026-11-17T12:49:53+08:00",
+ "mode": "ia",
+ "modele": "gemini-3.6-flash",
+ "accroche": [
+  "Russian jets prompt scrambles across Japan, South Korea and Taiwan",
+  "Ukraine targets Kerch Bridge in massive 1,300-drone offensive",
+  "US imposes AI chip export licence rules across Southeast Asia"
+ ],
+ "essentiel": [
+  {
+   "suite": false,
+   "remplace": null,
+   "emoji": "✈️",
+   "titre": "Russian military aircraft violate Japanese airspace and trigger regional scrambles",
+   "resume": "Japan scrambled fighter jets and lodged a stern protest after two Russian aircraft violated airspace off Okinoshima island. South Korea and Taiwan also responded to unannounced Russian military flights entering their air defence identification zones.",
+   "pourquoi": "",
+   "pays": [
+    "Japan",
+    "Russia",
+    "South Korea",
+    "Taiwan"
+   ],
+   "region": "North-East Asia",
+   "rubrique": "defense_aerienne",
+   "liens": [
+    {
+     "source": "Straits Times Asie",
+     "url": "https://www.straitstimes.com/asia/taiwan-says-two-russian-military-aircraft-detected-off-its-east-coast",
+     "titre": "Taiwan says two Russian military aircraft detected off its east coast"
+    },
+    {
+     "source": "France 24 Asie",
+     "url": "https://www.france24.com/fr/asie-pacifique/20261117-japon-accuse-russie-deux-avions-viole-espace-aerien",
+     "titre": "Le Japon accuse deux avions présumés russes d'avoir violé son espace aérien"
+    },
+    {
+     "source": "Japan Times",
+     "url": "https://www.japantimes.co.jp/news/2026/11/17/japan/russia-japan-airspace-violation-defense/",
+     "titre": "Japan scrambles fighters after suspected Russian military planes enter airspace"
+    },
+    {
+     "source": "CNA Asie",
+     "url": "https://www.channelnewsasia.com/east-asia/seoul-deploys-fighter-jets-russian-aircraft-enters-air-defence-zone-6557236",
+     "titre": "Seoul deploys fighter jets after Russian aircraft enters air defence zone"
+    }
+   ],
+   "visuel": null,
+   "id": "2026-11-17|Russian military aircraft violate Japanese airspace and trigger regional scrambles"
+  },
+  {
+   "suite": false,
+   "remplace": null,
+   "emoji": "💻",
+   "titre": "US restricts advanced AI chip exports to Southeast Asian nations",
+   "resume": "Washington introduced new export licence rules for advanced semiconductors sent to Singapore, Malaysia, Indonesia, Thailand and Brazil. The measure aims to prevent China from remotely accessing US AI chips via third-country data centres.",
+   "pourquoi": "",
+   "pays": [
+    "United States",
+    "Singapore",
+    "Malaysia",
+    "Indonesia"
+   ],
+   "region": "South-East Asia",
+   "rubrique": "economie",
+   "liens": [
+    {
+     "source": "Al Jazeera",
+     "url": "https://www.aljazeera.com/economy/2026/11/17/us-moves-to-block-chinas-remote-access-to-ai-chips-amid-nvidia-scandal?traffic_source=rss",
+     "titre": "US moves to block China’s remote access to AI chips amid Nvidia scandal"
+    },
+    {
+     "source": "CNA Singapour",
+     "url": "https://www.channelnewsasia.com/singapore/us-export-controls-ai-chips-6556831",
+     "titre": "Singapore assessing impact of new US chip export controls aimed at curbing China’s access"
+    },
+    {
+     "source": "CNA Monde",
+     "url": "https://www.channelnewsasia.com/world/us-curb-chinas-access-ai-chips-trump-heads-asia-6556726",
+     "titre": "US to curb China's access to AI chips as Trump heads to Asia"
+    },
+    {
+     "source": "Le Monde International",
+     "url": "https://www.lemonde.fr/international/article/2026/11/16/nvidia-les-etats-unis-cherchent-a-bloquer-l-acces-de-la-chine-aux-puces-americaines-par-le-biais-de-pays-tiers_6812260_3210.html",
+     "titre": "Nvidia : les Etats-Unis cherchent à bloquer l’accès de la Chine aux puces américaines par le biais de pays tiers"
+    }
+   ],
+   "visuel": null,
+   "id": "2026-11-17|US restricts advanced AI chip exports to Southeast Asian nations"
+  },
+  {
+   "suite": false,
+   "remplace": null,
+   "emoji": "🚀",
+   "titre": "Ukraine launches record drone barrage striking Kerch Bridge",
+   "resume": "Ukrainian forces launched over 1,300 attack drones against Russian targets, striking the Kerch Bridge in Crimea twice within 24 hours. Russian forces retaliated with strikes damaging critical road bridges in Kyiv.",
+   "pourquoi": "",
+   "pays": [
+    "Ukraine",
+    "Russia"
+   ],
+   "region": "Russia-Ukraine",
+   "rubrique": "ukraine",
+   "liens": [
+    {
+     "source": "The War Zone",
+     "url": "https://www.twz.com/news-features/kerch-bridge-struck-for-the-second-time-in-less-than-24-hours-russia",
+     "titre": "Kerch Bridge Struck For The Second Time In Less Than 24 Hours: Russia"
+    },
+    {
+     "source": "Le Monde International",
+     "url": "https://www.lemonde.fr/international/live/2026/11/17/en-direct-guerre-en-ukraine-des-frappes-russes-ont-touche-deux-ponts-importants-de-kiev-annonce-le-maire-vitali-klitschko_6810982_3210.html",
+     "titre": "EN DIRECT, guerre en Ukraine : des frappes russes ont touché deux importants ponts de Kiev, annonce le maire, Vitali Klitschko"
+    },
+    {
+     "source": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss",
+     "titre": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTmhGNVhidkt3TlpMM3l5UmpTaGYyRnEyZ0pDQnhydG0wWm9sS3VGN0pndWVSODhUbFhYTW5EalBIMEljZEVsNndnbVVNd1dmVzNOMVNHYmtpOEZjVXBaOHNfQ0dzQjlva0QyNEU5OS1vMm50TmhuVEFaZDZ0THpwTDUtX3dpeV9HUEYwOEZaVkhBNzBrZXg1dXljcmVFRC1CT0hqclh2cU9uSklvSTRnSUxXVTlmQmNhNlI1Q1E0S2hSdzF3?oc=5",
+     "titre": "Ukraine launches biggest drone attack on Russia since war began, defence ministry data shows"
+    }
+   ],
+   "visuel": null,
+   "id": "2026-11-17|Ukraine launches record drone barrage striking Kerch Bridge"
+  },
+  {
+   "suite": true,
+   "remplace": "2026-11-16|Yemeni government retreats from Bab al-Mandeb as Saudis intercept Houthi missiles",
+   "emoji": "⚠️",
+   "titre": "Houthi forces push towards Aden as Saudi Arabia replaces commander",
+   "resume": "Pro-Iran Houthi units advanced towards Aden following the withdrawal of Yemeni government forces from Bab al-Mandeb. Saudi Arabia subsequently replaced its anti-Houthi coalition commander, appointing General Fayyad bin Hamed al-Ruwaili.",
+   "pourquoi": "",
+   "pays": [
+    "Yemen",
+    "Saudi Arabia"
+   ],
+   "region": "Middle East",
+   "rubrique": "moyen_orient",
+   "liens": [
+    {
+     "source": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/17/yemen-army-reports-661-attacks-on-houthis-amid-houthi-push-towards-aden?traffic_source=rss",
+     "titre": "Yemeni army reports 661 attacks on Houthis as group advances towards Aden"
+    },
+    {
+     "source": "Al-Monitor",
+     "url": "https://www.al-monitor.com/originals/2026/11/yemens-saudi-backed-forces-retreat-defend-aden-houthis-advance-what-know",
+     "titre": "Yemen's Saudi-backed forces retreat to defend Aden as Houthis advance: What to know"
+    },
+    {
+     "source": "CNA Monde",
+     "url": "https://www.channelnewsasia.com/world/saudi-arabia-anti-houthi-coalition-leader-6556351",
+     "titre": "Saudi Arabia dismisses commander of anti-Houthi coalition: state media"
+    },
+    {
+     "source": "The Straits Times",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQVNDZjdPbFpHQVoxWFJSRjJPaGl4VmRzcTFaSTF4dUd1dnZXTk14WWZtcGVBd2ljYzFOOGxISmxpeTUxdDI3RnNZNWlPYlM5ZjZWVnpjVnhtRG5sOWVIMEZLZDhjNGZJWVpuT3EtM3hJZl9ITG83ampLOU95eThiOFNHbDVtYldCQjJQZVBPdDJWR2J4T3JqVEdHMkQtdVhhUk1aLWh6RTFoVDhxTUdOTU1oZzAzM2ZjVnU3M0xlZW0?oc=5",
+     "titre": "Houthis seize ground on Yemen's southern coast, edge closer to Aden"
+    }
+   ],
+   "visuel": null,
+   "id": "2026-11-17|Houthi forces push towards Aden as Saudi Arabia replaces commander"
+  },
+  {
+   "suite": false,
+   "remplace": null,
+   "emoji": "🇪🇺",
+   "titre": "Five EU states agree to establish Rwanda deportation hub",
+   "resume": "Germany, Austria, Denmark, Greece and the Netherlands announced a joint plan to process rejected asylum seekers in Rwanda. The initiative marks a significant policy shift regarding European migration and return procedures.",
+   "pourquoi": "",
+   "pays": [
+    "Germany",
+    "Austria",
+    "Denmark",
+    "Greece"
+   ],
+   "region": "Europe",
+   "rubrique": "europe",
+   "liens": [
+    {
+     "source": "Japan Times",
+     "url": "https://www.japantimes.co.jp/news/2026/11/17/world/politics/european-nations-rwanda-hub-migrants/",
+     "titre": "Germany, Denmark, Austria, Greece and the Netherlands plan Rwanda migrant hub"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/eu-countries-announce-migrant-deportation-centre-in-rwanda?traffic_source=rss",
+     "titre": "EU countries announce migrant deportation centre in Rwanda"
+    },
+    {
+     "source": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
+     "titre": "Five EU countries announce migrant deportation centre in Rwanda"
+    },
+    {
+     "source": "Le Monde International",
+     "url": "https://www.lemonde.fr/international/article/2026/11/16/le-projet-de-cinq-pays-europeens-d-ouvrir-un-centre-de-retour-au-rwanda-traduit-la-bascule-de-la-politique-europeenne-en-matiere-d-immigration_6812426_3210.html",
+     "titre": "Le projet de cinq pays de l’UE d’ouvrir un centre de retour au Rwanda traduit la bascule de la politique européenne en matière d’immigration"
+    }
+   ],
+   "visuel": null,
+   "id": "2026-11-17|Five EU states agree to establish Rwanda deportation hub"
+  }
+ ],
+ "rubriques": [
+  {
+   "id": "monde",
+   "titre": "World",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🤝",
+     "titre": "Francophonie summit fails to elect chief amid DRC-Rwanda row",
+     "resume": "The International Organisation of La Francophonie postponed electing its next secretary general by a year during talks in Phnom Penh. Tensions between the Democratic Republic of the Congo and Rwanda blocked candidate consensus.",
+     "pourquoi": "",
+     "pays": [
+      "Cambodia",
+      "Democratic Republic of the Congo",
+      "Rwanda"
+     ],
+     "region": "Global",
+     "rubrique": "monde",
+     "liens": [
+      {
+       "source": "Le Monde International",
+       "url": "https://www.lemonde.fr/international/article/2026/11/16/une-crise-inedite-au-sommet-de-la-francophonie-paralysee-par-les-tensions-diplomatiques_6812590_3210.html",
+       "titre": "Le XXᵉ Sommet de la francophonie paralysé par les tensions diplomatiques​"
+      },
+      {
+       "source": "CNA Asie",
+       "url": "https://www.channelnewsasia.com/world/dr-congo-rwanda-row-derails-francophone-summit-vote-6555176",
+       "titre": "DR Congo-Rwanda row derails Francophone summit vote"
+      },
+      {
+       "source": "RFI Asie-Pacifique",
+       "url": "https://www.rfi.fr/fr/asie-pacifique/20261116-francophonie-faute-de-consensus-l-oif-reporte-d-un-an-l-%C3%A9lection-du-secr%C3%A9taire-g%C3%A9n%C3%A9ral",
+       "titre": "Francophonie: faute de consensus, l'OIF reporte d'un an l'élection du secrétaire général"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-17|Francophonie summit fails to elect chief amid DRC-Rwanda row"
+    }
+   ]
+  },
+  {
+   "id": "asie",
+   "titre": "APAC",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🤝",
+     "titre": "Quad leaders convene in Manila prior to APEC summit",
+     "resume": "Leaders from the United States, Japan, India and Australia met in Manila for Quad talks alongside the ASEAN summit. The meeting precedes President Donald Trump's planned trilateral discussions in Shenzhen.",
+     "pourquoi": "",
+     "pays": [
+      "United States",
+      "Philippines",
+      "Japan",
+      "India"
+     ],
+     "region": "South-East Asia",
+     "rubrique": "asie",
+     "liens": [
+      {
+       "source": "Straits Times Asie",
+       "url": "https://www.straitstimes.com/asia/se-asia/trump-to-kick-off-asia-trip-with-quad-talks-in-manila-ahead-of-china-visit",
+       "titre": "Trump to kick off Asia trip with Quad talks in Manila ahead of China visit"
+      },
+      {
+       "source": "ASPI Strategist",
+       "url": "https://www.aspistrategist.org.au/too-dependent-on-summits-the-quad-needs-institutional-foundations/",
+       "titre": "Too dependent on summits, the Quad needs institutional foundations"
+      },
+      {
+       "source": "The Diplomat",
+       "url": "https://thediplomat.com/2026/11/just-by-meeting-quad-leaders-send-a-signal-to-beijing/",
+       "titre": "Just by Meeting, Quad Leaders Send a Signal to Beijing"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-17|Quad leaders convene in Manila prior to APEC summit"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🤝",
+     "titre": "Taiwan Foreign Minister visits Texas ahead of Trump Asia tour",
+     "resume": "Taiwanese Foreign Minister Lin Chia-lung arrived in Texas for his second US visit in two months. The trip takes place shortly before US President Donald Trump travels to East Asia.",
+     "pourquoi": "",
+     "pays": [
+      "Taiwan",
+      "United States"
+     ],
+     "region": "North-East Asia",
+     "rubrique": "asie",
+     "liens": [
+      {
+       "source": "Straits Times Asie",
+       "url": "https://www.straitstimes.com/asia/taiwan-foreign-minister-makes-second-us-trip-in-space-of-two-months",
+       "titre": "Taiwan foreign minister makes second US trip in space of two months"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-17|Taiwan Foreign Minister visits Texas ahead of Trump Asia tour"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "💰",
+     "titre": "Canada and China announce tariff cuts during Carney-Xi meeting",
+     "resume": "Canadian Prime Minister Mark Carney met Chinese President Xi Jinping in Shenzhen ahead of the APEC summit. Beijing agreed to provide tariff relief on US$280 million worth of Canadian agricultural and seafood goods.",
+     "pourquoi": "",
+     "pays": [
+      "Canada",
+      "China"
+     ],
+     "region": "North-East Asia",
+     "rubrique": "asie",
+     "liens": [
+      {
+       "source": "CNA Asie",
+       "url": "https://www.channelnewsasia.com/east-asia/apec-summit-china-canada-carney-xi-6557766",
+       "titre": "China-Canada relations more stable, Carney says as he meets Xi"
+      },
+      {
+       "source": "Straits Times Asie",
+       "url": "https://www.straitstimes.com/asia/china-canada-relations-more-stable-carney-says-as-he-meets-xi",
+       "titre": "Canada and China extend trade deals as Xi meets Carney ahead of APEC summit"
+      },
+      {
+       "source": "Reuters",
+       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTk9EbXNOUTJiNTl1b1FUcm85UEhQVWdXS0FCZXRsMnRia19GMWlERVl5eTlHWnlJbEQ0TGtoX05pSmR6bXVpMmNmcWFxWmQxUXdsM0k2bVZnNlhBalYydGlTdF91eGVkSkl3TjIxMTdMMUs5RnN2aWlOQUhWNzMyTy1fRHFXbC1MQVNJRjNXckFCeUMxZDFHLXlRUWhLNWpfMFZLNGtqa2hhdw?oc=5",
+       "titre": "Carney to meet Xi on Tuesday to talk food, energy and financial services"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-17|Canada and China announce tariff cuts during Carney-Xi meeting"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🇸🇬",
+     "titre": "Singapore telco Simba faces probe over spectrum misuse",
+     "resume": "Telecommunications operator Simba admitted to unauthorised spectrum use and regulatory breaches following an IMDA investigation. The company faces potential licence suspension, and a key director will resign.",
+     "pourquoi": "",
+     "pays": [
+      "Singapore"
+     ],
+     "region": "South-East Asia",
+     "rubrique": "asie",
+     "liens": [
+      {
+       "source": "CNA Singapour",
+       "url": "https://www.channelnewsasia.com/singapore/cna-now-simba-breaking-news-6555041",
+       "titre": "CNA Now: Simba faces possible licence suspension, plus other news as it happens"
+      },
+      {
+       "source": "Straits Times Singapour",
+       "url": "https://www.straitstimes.com/tech/simba-admits-to-intentional-spectrum-misuse-following-imda-probe-director-to-resign",
+       "titre": "Simba admits to intentional spectrum misuse following IMDA probe; director to resign"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-17|Singapore telco Simba faces probe over spectrum misuse"
+    }
+   ]
+  },
+  {
+   "id": "elections",
+   "titre": "Elections & Politics",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🗳️",
+     "titre": "Fukuoka mayoral election requires rerun after inconclusive vote",
+     "resume": "Voters in Fukuoka, Japan, face a rare mayoral election rerun after none of the 13 candidates secured the required 25% threshold. Election authorities are preparing a fresh ballot.",
+     "pourquoi": "",
+     "pays": [
+      "Japan"
+     ],
+     "region": "North-East Asia",
+     "rubrique": "elections",
+     "liens": [
+      {
+       "source": "jiji press",
+       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Pd0syLUwyTC12eHE3azZmVm0zOE9rZjJYMHdDX2tnbGVsc0xSQW9zWDE1RGw3Z3RyZmhfOG5rU3kzVVZqSmhIaXE0eWlwNUNUX3FkSUlkUXBSVTM4TVJn?oc=5",
+       "titre": "Fukuoka Mayoral Election in Southwestern Japan Set for Rerun"
+      },
+      {
+       "source": "The Japan News",
+       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVTlxM05sN3Y2cVV1aTVTeHEzUGxvWkFFSU1FMGlBSHVXZFVTeHAwaW5EY2lOUzZUMlRZUmFZSVc4d2Q4VThNbnA1WGotaGpxaXl6WmRJRG1TME8wUFV4dkJoaFpXVXJvRHhsNWRlbUFzcm93Y3FyQ2MxZlRfb3ZGNVdXYw?oc=5",
+       "titre": "Japan’s Fukuoka Faces Rare Mayoral Election Rerun after No Candidate Secures 25% of Vote"
+      },
+      {
+       "source": "The Japan Times",
+       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbW5jbWQza3VKT2wzNDRZM0pOMWhmeXRfbEIwclN1aUlqYjBjZEJoUi1xQUFpY2hZd05aU2NLRjFRODUtV0hNNjFxTGtZSkh5MkhobXp0X19MRmJ4OGtxN1FxVGNId0FnaXJRaFhUVFY2Z0d4ekJTTkE4UGhacVVhTGRVMmRueDRzTWYw?oc=5",
+       "titre": "Fukuoka mayoral election with record 13 candidates ends without winner"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-17|Fukuoka mayoral election requires rerun after inconclusive vote"
+    }
+   ]
+  },
+  {
+   "id": "defense_aerienne",
+   "titre": "Air & Missile Defence",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🛡️",
+     "titre": "US Department of War selects seven firms for laser C-UAS trials",
+     "resume": "Seven defense companies were selected for live-fire counter-drone laser trials at Dugway Proving Ground. The evaluation could result in immediate purchase orders for short-range air defense systems.",
+     "pourquoi": "",
+     "pays": [
+      "United States"
+     ],
+     "region": "Americas",
+     "rubrique": "defense_aerienne",
+     "liens": [
+      {
+       "source": "Aviation Week",
+       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOemk0aDM4dEw2OVRYMjA1dEhLTnBQOGxNdFFFbnRZcHMzWVBranBQaG0xdnplUXE5MzIwSjJjTUdrdGJiMDQyWHBLN0hqbHlSOU8yeHM5RGhGS0MwNW1ZUFFGLTluY2lpZmttU2dCOEZMM196cmNReDRWMnczUjIxSTJyUmxfUEJ1Q1NzUlRlNV9aei1vMHhxX1o4SWpyQjFFcFoyM0tZdXpwR05yc0g2OA?oc=5",
+       "titre": "Pentagon Selects Seven Companies For Directed Energy Shoot-Off"
+      },
+      {
+       "source": "Defence Industry Europe",
+       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNMVk0aXU2S3ZfUDRoaXZlaG55cm8ybTVOc20tUDRDdEpkN0ZxMXVZU2hoMEU3LUc2LWcxQjd1Wm5TYzBuSTNkRXY2ZXFoa2haUEJiYjlfYklKMDQyYlF0ZWpLaG5tWGs5a1NFRXB5ek5aR1poYTBoeXplQkFlSFl6Y0tjUlZCYWwtemVzempnMk5vd0Y3RDk3djBtRXRoVW44M01Mbm1Damc4ZEtjNUg4ZG9yejdubHc3Wl9uMWl4MTNhSlRobk10VkwzVFljbmJORWVyS0VPbEVWNUo2bUs5SjhleE5YUG5EcjhsSkFjTTF1cjU1Y3hUNA?oc=5",
+       "titre": "U.S. Department of War invites seven teams to live-fire counter-drone laser trials at Dugway that could lead to immediate purchase orders"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-17|US Department of War selects seven firms for laser C-UAS trials"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🚀",
+     "titre": "Pakistan Air Force conducts first flight test of Fa'az missile",
+     "resume": "Pakistan successfully flight-tested its indigenously developed Fa'az air-to-air missile. The test marks a key milestone in expanding national air combat capabilities.",
+     "pourquoi": "",
+     "pays": [
+      "Pakistan"
+     ],
+     "region": "South Asia",
+     "rubrique": "defense_aerienne",
+     "liens": [
+      {
+       "source": "Asian Military Review",
+       "url": "https://www.asianmilitaryreview.com/2026/11/pakistan-tests-new-indigenously-developed-air-to-air-missile-foc/",
+       "titre": "Pakistan tests new indigenously developed air-to-air missile"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-17|Pakistan Air Force conducts first flight test of Fa'az missile"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "📡",
+     "titre": "Intelic integrates Saab radar into C-UAS command system",
+     "resume": "Intelic demonstrated rapid integration of Saab airborne radar into its counter-drone command-and-control platform. The link was established in minutes during technical integration trials.",
+     "pourquoi": "",
+     "pays": [
+      "Sweden"
+     ],
+     "region": "Europe",
+     "rubrique": "defense_aerienne",
+     "liens": [
+      {
+       "source": "Unmanned airspace",
+       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQeFo4Z3pXUzFDQUowYUQybHo2YWZBSE1tYVcwMkxHOWx3OElKTnRuZmtGZ0V2eXY1aHB5cFNpQWJ4b3ZIRUJfQkxVb2NWbllDWkVrMW42OHpYZkZZQnlzbkxpRXlUMTl1ZXNaUEpIaGRCQzZpbG0xMEk5QmllY2NfcDJDbHhnUnduQ2VMamlLNFZCYThYa0dycE91YkhmQVY0cVJaQlBxMWpkQjUxZEtqNHVTTW9FTXNQNE0zZWFNVWxkN0xQR2VnS2g2YXRwdmlsZ1JuUlFhZ1VOZXFSajVIVE95OUVoSVRBbkJ4NE5B?oc=5",
+       "titre": "Intelic connects Saab airborne radar into C-UAS command and control system “within minutes”"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-17|Intelic integrates Saab radar into C-UAS command system"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🛡️",
+     "titre": "US Army orders concrete bunkers for Middle East installations",
+     "resume": "The US Army issued urgent notices to build concrete bunkers for troops in Israel, Saudi Arabia and Lebanon. The structures will replace converted shipping containers to improve personnel protection against aerial threats.",
+     "pourquoi": "",
+     "pays": [
+      "United States",
+      "Israel",
+      "Saudi Arabia",
+      "Lebanon"
+     ],
+     "region": "Middle East",
+     "rubrique": "defense_aerienne",
+     "liens": [
+      {
+       "source": "The War Zone",
+       "url": "https://www.twz.com/news-features/u-s-army-now-wants-concrete-bunkers-for-troops-in-israel-saudi-arabia-and-lebanon",
+       "titre": "U.S. Army Now Wants Concrete Bunkers For Troops In Israel, Saudi Arabia And Lebanon"
+      },
+      {
+       "source": "Defense News",
+       "url": "https://www.defensenews.com/global/mideast-africa/2026/11/16/us-army-takes-urgent-action-to-build-concrete-bunkers-across-the-middle-east/",
+       "titre": "US Army takes ‘urgent’ action to build concrete bunkers across the Middle East"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-17|US Army orders concrete bunkers for Middle East installations"
+    }
+   ]
+  },
+  {
+   "id": "industrie",
+   "titre": "Defence Industry & Contracts",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "📝",
+     "titre": "France and Malaysia seek defence and rare earths cooperation",
+     "resume": "French President Emmanuel Macron held talks with Malaysian Prime Minister Anwar Ibrahim in Kuala Lumpur. Discussions focused on expanding bilateral defence ties, energy transition and strategic rare earth supply chains.",
+     "pourquoi": "",
+     "pays": [
+      "France",
+      "Malaysia"
+     ],
+     "region": "South-East Asia",
+     "rubrique": "industrie",
+     "liens": [
+      {
+       "source": "Straits Times Asie",
+       "url": "https://www.straitstimes.com/asia/france-malaysia-eye-defence-rare-earths-cooperation-during-macron-visit-to-kuala-lumpur",
+       "titre": "France, Malaysia eye defence, rare earths cooperation during Macron visit to Kuala Lumpur"
+      },
+      {
+       "source": "South China Morning Post",
+       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOb2U3alJQQkZLbkRXZUtQckotNHNKdk5jb29XZk1YczdnMkNfc3VlTVJ1UGI5SHJRdjRxU1pwVlhOQ0Vzbm1yNXdVTkNJVHFCbDkxQUFLWHI1Sm5yTTR3ZnVPVGp5TVFXTE5VMkJBY3cwV0N3bDlhTUNCRzBtNFBCZEtSOXlUUVF0T0dCSTYyTTdDbjd0SEdMb1ZFLWZ0V2RuWGVzdzVSWFhKYWpyNERqQm9RUGtIMGdw0gG4AUFVX3lxTE9wWmcxZDNOTGxna2FubUlKWWpRVHZtc3gyeFZqaEF0YmFnVk5KTFFsekpkaDJUZndoSVctSW9LS0h4VUZkbTlkbDlaRlNsU2Z1czhzcUJnM3lSNFlSRzctOWlBRmhiWVB2RFoyaG5lRjNyNEN3Y19KajZCRktULUpZSmxwaWdVN2xvMmZxNHlXMjlKaGFhLUVGbVZhY21UNlNuX2FzSWNKTFc1Y0ljQXhDR0g2d2tld3A?oc=5",
+       "titre": "France wants rare earths from Malaysia. It isn’t the only buyer"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-17|France and Malaysia seek defence and rare earths cooperation"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "📝",
+     "titre": "Taiwan confirms $14B US arms package remains unaffected",
+     "resume": "Deputy Foreign Minister Chen Ming-chi stated Taiwan's pending US$14 billion military purchase package remains on track. Officials confirmed the timing depends on executive approval rather than US midterm results.",
+     "pourquoi": "",
+     "pays": [
+      "Taiwan",
+      "United States"
+     ],
+     "region": "North-East Asia",
+     "rubrique": "industrie",
+     "liens": [
+      {
+       "source": "Japan Times",
+       "url": "https://www.japantimes.co.jp/news/2026/11/17/asia-pacific/politics/us-14-billion-arms-sale-taiwan-trump/",
+       "titre": "U.S. $14 billion arms sale ‘up to’ Trump, Taiwan official says"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-17|Taiwan confirms $14B US arms package remains unaffected"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🛩️",
+     "titre": "Germany authorises funding to replace 16 older A400M aircraft",
+     "resume": "Berlin approved budget allocations to replace 16 early-production A400M military transport aircraft. The decision will refresh the Luftwaffe's tactical air transport fleet with newly built models.",
+     "pourquoi": "",
+     "pays": [
+      "Germany"
+     ],
+     "region": "Europe",
+     "rubrique": "industrie",
+     "liens": [
+      {
+       "source": "Janes Defence Intelligence",
+       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbGt4UWJtSlZDVGxCVHJYdkJMeHdpQUNER3BPMUNoNlFSZWNnZjREQlZDNTJrTXZoOUJwSzBpdG9jR1ZyRmU0d1hmU2FOWlgwYm5VdExaWmdrbGc5dXVHcFJQQnVLR0hxSlQzWDU5Vm1sTmtVRTZ1VjRZZWZvd1BqNHJmNlpQT0hDa3BrSi1aUHdMSTMwNUlYNG5QQWMzQXk5VFJqRjZBNlhZVHJsRXk4WkFHblFMUFRiOC1ua0JHQkxwZEp2eWRyV1N6TnJCaWdqNjMw?oc=5",
+       "titre": "Germany approves budget to replace 16 older A400Ms with new aircraft"
+      }
+     ],
+     "visuel": {
+      "nom": "Airbus A400M Atlas",
+      "description": "Multi-national four-engine turboprop military transport aircraft",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/German_Air_Force_Airbus_A400M_%28out_cropped%29.jpg/960px-German_Air_Force_Airbus_A400M_%28out_cropped%29.jpg",
+      "page": "https://en.wikipedia.org/wiki/Airbus_A400M_Atlas",
+      "type": "platform"
+     },
+     "id": "2026-11-17|Germany authorises funding to replace 16 older A400M aircraft"
+    }
+   ]
+  },
+  {
+   "id": "ukraine",
+   "titre": "Ukraine / Russia",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🚀",
+     "titre": "Zelensky reports regular North Korean ballistic missile deliveries to Russia",
+     "resume": "Ukrainian President Volodymyr Zelensky stated Russia receives dozens of North Korean ballistic missiles monthly. He warned that operational employment in Ukraine is accelerating North Korean missile design improvements.",
+     "pourquoi": "",
+     "pays": [
+      "Ukraine",
+      "Russia",
+      "North Korea"
+     ],
+     "region": "Russia-Ukraine",
+     "rubrique": "ukraine",
+     "liens": [
+      {
+       "source": "뉴시스",
+       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBKeERkdEluemlnMG0tVE5INlFXWU90V3ltXzhBRmxTdmhtdkhTcHlRQjVOY3YyWDNCWi1oYmoyVWRkUFFXTW82NWphZHMwTXFPWWFGVHhjM0JEeEtDZTZZM9IBeEFVX3lxTE80emZxT3pkTHRKSjVWVUc1UTJEVThKQ1dqLW1iZnNHTVpBUXo3MmhaTUdHSE5BUUhhcXRZdkhOa25TYXpoQ1lCQzJUblZCMzJ2c2lQR2pDNHo2NFFwc3NzLUE1emR0RVcwVEFBQ3dPYTJIQ0FnWGs5eQ?oc=5",
+       "titre": "젤렌스키 \"러, 북한서 탄도미사일 매달 수십 발 받아\"…北 무기 성능 향상 경고"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-17|Zelensky reports regular North Korean ballistic missile deliveries to Russia"
+    }
+   ]
+  },
+  {
+   "id": "moyen_orient",
+   "titre": "Middle East",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "⚠️",
+     "titre": "Iraqi army deploys to Jurf al-Sakher amid smuggling probe",
+     "resume": "Prime Minister Ali al-Zaidi ordered regular Iraqi military units into Jurf al-Sakher, a key base for Kataeb Hezbollah. The operation follows official allegations of illicit oil smuggling by the militia.",
+     "pourquoi": "",
+     "pays": [
+      "Iraq"
+     ],
+     "region": "Middle East",
+     "rubrique": "moyen_orient",
+     "liens": [
+      {
+       "source": "CNA Monde",
+       "url": "https://www.channelnewsasia.com/world/iraq-orders-army-enter-stronghold-iran-backed-group-6555841",
+       "titre": "Iraq orders army to enter stronghold of Iran-backed group"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-17|Iraqi army deploys to Jurf al-Sakher amid smuggling probe"
+    }
+   ]
+  },
+  {
+   "id": "europe",
+   "titre": "Europe",
+   "items": [
+    {
+     "suite": true,
+     "remplace": "2026-11-15|Italy proposes observer status for Germany in GCAP fighter project",
+     "emoji": "🛩️",
+     "titre": "Italy confirms support for German accession to GCAP fighter project",
+     "resume": "Rome denied reports that it opposed German participation in the Global Combat Air Program. Italian defense officials reaffirmed full support for integrating Germany into the sixth-generation fighter initiative alongside Britain and Japan.",
+     "pourquoi": "",
+     "pays": [
+      "Italy",
+      "Germany",
+      "United Kingdom",
+      "Japan"
+     ],
+     "region": "Europe",
+     "rubrique": "europe",
+     "liens": [
+      {
+       "source": "Defense News",
+       "url": "https://www.defensenews.com/global/europe/2026/11/16/italy-backs-rapid-german-membership-path-into-gcap-fighter-program/",
+       "titre": "Italy backs rapid German membership path into GCAP fighter program"
+      }
+     ],
+     "visuel": {
+      "nom": "Global Combat Air Programme",
+      "description": "Italy/Japan/UK aircraft development and acquisition programme",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/GCAP_concept_model_%28delta_wing_type%29_left_rear_top_view_in_GCAP_booth_of_JA2024_at_Tokyo_Big_Sight_October_19%2C_2024_02.jpg/960px-GCAP_concept_model_%28delta_wing_type%29_left_rear_top_view_in_GCAP_booth_of_JA2024_at_Tokyo_Big_Sight_October_19%2C_2024_02.jpg",
+      "page": "https://en.wikipedia.org/wiki/Global_Combat_Air_Programme",
+      "type": "platform"
+     },
+     "id": "2026-11-17|Italy confirms support for German accession to GCAP fighter project"
+    },
+    {
+     "suite": true,
+     "remplace": "2026-11-16|Estonia to close border crossings with Russia following drone plant arson",
+     "emoji": "⚠️",
+     "titre": "Estonia closes border crossings following drone plant sabotage",
+     "resume": "Tallinn confirmed the closure of border crossings with Russia after an attempted arson attack against a domestic military drone manufacturer. Estonian authorities attributed the sabotage attempt to Russian intelligence operations.",
+     "pourquoi": "",
+     "pays": [
+      "Estonia",
+      "Russia"
+     ],
+     "region": "Europe",
+     "rubrique": "europe",
+     "liens": [
+      {
+       "source": "Breaking Defense",
+       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPR1JzU1JvTzlvVE9BTVowVnduaEVsYVZUN3ZUczgta05FQTZtVlZabk9aYmlQTVYybWZybzB6S3ktM3FqcW5zTWR5cFZhbWJZMmoya2VHSjM5Z0k5WFVydkR1V0k5QWRXdE9UR242blRJcWRBT0phR1FyR0NJanFvYV9XSjFBMmMwTklRMWY4dVFwNGhFWUNlZHZJbkg5dzdFTWNIMWRoa3JtYlRZSWduelZ4RlhpSEQzbTJNTExZYVJ4amF1dzhyYWg1dmlQaXBzdjNOR3lyQlhPRXhWNEpta0RHNlVaU0R1NnFZ?oc=5",
+       "titre": "Estonian drone company targeted in alleged Russian sabotage attempt"
+      },
+      {
+       "source": "BBC World",
+       "url": "https://www.bbc.co.uk/news/articles/cqp83nk673reo?at_medium=RSS&at_campaign=rss",
+       "titre": "Estonia to close Russia border crossings after attempted drone factory arson attack"
+      },
+      {
+       "source": "CNBC",
+       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOF84RU1Bb01RbGlqNU00TzBhV3p0YzRHa2duaFd1Z19YRVJITzVRNUtxSHhZaEw3dl9UckdxSC1idU9OYlJ3Y3l2Wm5qSERvUzl2dFlFMW56NnBFUXI0TzVLakJYNDcxOE91SHYwejJLRVh2VFBFbEpMY1JlN09FYtIBhgFBVV95cUxNNXJkeHBhemJPNlhlS05hS2o5UE9VQVQ5NVdOR1BIenhDX3hMbUdvT29pMW1qUkVtUDdBcE1FVGxjbkM0SzhGQ3BKcUx4SzkzbG9BY25pWFptbUZRdUhZclN1UHBOMUh1aHIwVDl4NmMzaXAzanEwRk00by1sOXBsNnpxRFRRdw?oc=5",
+       "titre": "NATO member Estonia to close Russia border after attempted 'sabotage' of drone maker"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-17|Estonia closes border crossings following drone plant sabotage"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🛩️",
+     "titre": "French Navy retires Falcon 10 MER fleet after 50 years",
+     "resume": "The Marine Nationale decommissioned its six Falcon 10 MER maritime support aircraft after five decades of operational service. The aircraft previously performed maritime surveillance and liaison missions.",
+     "pourquoi": "",
+     "pays": [
+      "France"
+     ],
+     "region": "Europe",
+     "rubrique": "europe",
+     "liens": [
+      {
+       "source": "Opex360",
+       "url": "https://www.opex360.com/2026/11/16/la-marine-nationale-retire-ses-six-avions-falcon-10-mer-apres-plus-de-cinquante-ans-de-service/",
+       "titre": "La Marine nationale retire ses six avions Falcon 10 MER après plus de cinquante ans de service"
+      }
+     ],
+     "visuel": {
+      "nom": "Dassault Falcon 10",
+      "description": "Light business jet",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Falcon_10_MER.JPG/960px-Falcon_10_MER.JPG",
+      "page": "https://en.wikipedia.org/wiki/Dassault_Falcon_10",
+      "type": "platform"
+     },
+     "id": "2026-11-17|French Navy retires Falcon 10 MER fleet after 50 years"
+    }
+   ]
+  },
+  {
+   "id": "espace",
+   "titre": "Space & Satellites",
+   "items": []
+  },
+  {
+   "id": "tech",
+   "titre": "Emerging Tech",
+   "items": []
+  },
+  {
+   "id": "economie",
+   "titre": "Economy & Sanctions",
+   "items": [
+    {
+     "suite": true,
+     "remplace": "2026-11-16|Malaysia investigates suspected illicit diversion of Nvidia AI chips",
+     "emoji": "💰",
+     "titre": "US and Singapore hold talks on Megaspeed as Indonesian police raid unit",
+     "resume": "Singapore and US officials agreed to continue talks regarding Nvidia partner Megaspeed following chip diversion claims. Meanwhile, Indonesian authorities raided Megaspeed's local subsidiary in response to a US request.",
+     "pourquoi": "",
+     "pays": [
+      "Singapore",
+      "United States",
+      "Indonesia"
+     ],
+     "region": "South-East Asia",
+     "rubrique": "economie",
+     "liens": [
+      {
+       "source": "Reuters",
+       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPa0pxOWhsOERwTHZyU2JuUjFrSENFSkNUWnlLdFBvaEdkb2NKQkxVUmNOZXVHSS1qdkJobDF6ZzB4MzdESk5BZHhaY3ZlV0JVZWRfR1FrSUc2WGdWbTVJaTN2a1hjWnRXY25yZ2R2SFRBSEYyaklDUml5ekFrWnhIbEhCd3ZxVjh2am1oMXFkZG5QaFNOa1VUUWVtcEJZWjNLVllyUG53bmZXaldEaXRKT29CeXc0aWNPLWZxVQ?oc=5",
+       "titre": "Singapore, US agree to keep discussing Megaspeed as scrutiny of Nvidia scandal widens"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-17|US and Singapore hold talks on Megaspeed as Indonesian police raid unit"
+    }
+   ]
+  }
+ ],
+ "a_surveiller": [
+  {
+   "quand": "November 19",
+   "quoi": "Trilateral summit between Trump, Xi and Putin in Shenzhen",
+   "liens": [
+    {
+     "source": "France 24 Asie",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20261116-apec-2026-vers-un-sommet-xi-trump-poutine",
+     "titre": "APEC 2026 : Vers un sommet Xi-Trump-Poutine"
+    }
+   ]
+  },
+  {
+   "quand": "December 4",
+   "quoi": "Court verdict in Shizuoka triple murder trial involving ex-SDF member",
+   "liens": [
+    {
+     "source": "Japan Times",
+     "url": "https://www.japantimes.co.jp/news/2026/11/17/japan/crime-legal/former-sdf-murder-death-penalty/",
+     "titre": "Death penalty sought for former SDF member over 2024 Shizuoka triple murders"
+    }
+   ]
+  },
+  {
+   "quand": "December 9",
+   "quoi": "Indonesian parliament vote to elect new Vice-President",
+   "liens": [
+    {
+     "source": "Tempo.co English",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUDBmemg0VzRYRlg3ZC1ENlZldy1lMGlxMFRvVlY0YXRvUXpiWkdRb1RHTUFpM09RbHlrcDlwbUVqUG5vcTE1NkRZcnFqS3psVmNPRTF1M0F4VTM3VzdOc1F5RDhJZExXWkN5Y2lXN3NBMklnYWxCSF9DRUZISUR3b2hOLXBxTnhVYXJ0ak1PSVpsVDNtQVhhUg?oc=5",
+     "titre": "Indonesia Postpones Vice Presidential Election to December 9"
+    },
+    {
+     "source": "ANTARA News",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOTNRMnRlMmRzcVVibmJIOFF5aDlQT1JiQktscjRiTXRMNTF4djBDQndiUWRjNldPbk44MEhfaEFtOVVhSzliQWRSaUhCdHhGbXR2Y2x1MkRjbm41SjNzX2tUa2N3MFlsc2lRRDR0T0xQMmZGNk9IRlRaTDkwdFAyX01WRmZISXhoZkl0X3ZyNVd2VDNsdlJuMWlRUDlXUEdy0gGmAUFVX3lxTFA0OENhb0FRbXRiMlhhSS1zcktjNWlFRVZ5U1lNZnphbjFMVmpOZGIzNTJRTVhJY0RNeGJyM2FTLV9lcEt5c2xsS3pja25WbzVMWmZmSXRkQXNlR0hSemo1UVVVcmtsWk9TWEtXcHFRb0NOX1RzcXYxYTFxN3d1OE1OQmZ1dXlaMGNsWGc4dkZVeENOVDBYUmZoekROZ0hpMERHTTdXZWc?oc=5",
+     "titre": "MPR reschedules new VP election plenary session to December 9"
+    }
+   ]
+  }
+ ],
+ "hebdo": null,
+ "stats": {
+  "articles": 385,
+  "sources": 44
+ }
+}
