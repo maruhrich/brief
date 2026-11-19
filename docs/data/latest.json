@@ -1,21 +1,50 @@
 {
- "date": "2026-11-18",
- "date_label": "Wednesday, November 18, 2026",
- "genere_le": "2026-11-18T11:54:41+08:00",
+ "date": "2026-11-19",
+ "date_label": "Thursday, November 19, 2026",
+ "genere_le": "2026-11-19T11:53:10+08:00",
  "mode": "ia",
- "modele": "gemini-3.6-flash",
+ "modele": "gemini-3.5-flash-lite",
  "accroche": [
-  "Ukrainian strikes destroy road section of strategic Kerch Bridge",
-  "Russian strategic bombers trigger scrambles across North-East Asia",
-  "NATO launches STARLIFT space initiative and OpenAI cyber partnership"
+  "Xi, Trump and Putin hold historic trilateral talks in Shenzhen",
+  "Ukrainian drone strikes sever road span of Kerch Bridge again",
+  "US considers new strikes on Iran as regional tensions escalate"
  ],
  "essentiel": [
   {
    "suite": true,
-   "remplace": "2026-11-17|Ukraine launches record drone barrage striking Kerch Bridge",
-   "emoji": "🚀",
-   "titre": "Ukrainian strikes sever road span of Kerch Bridge",
-   "resume": "Ukrainian missile and drone strikes destroyed a key road section of the Kerch Bridge linking Russia to occupied Crimea. The damage severely disrupts Russian military logistics ahead of the Shenzhen summit.",
+   "remplace": "2026-11-16|China confirms first Xi-Trump-Putin trilateral summit in Shenzhen",
+   "emoji": "🤝",
+   "titre": "Xi, Trump and Putin hold first-ever trilateral summit in Shenzhen",
+   "resume": "US President Donald Trump, Chinese President Xi Jinping and Russian President Vladimir Putin met for unprecedented trilateral talks on the sidelines of the APEC summit in Shenzhen. Discussions focused on nuclear arms control, trade and regional security.",
+   "pourquoi": "",
+   "pays": [
+    "United States",
+    "China",
+    "Russia"
+   ],
+   "region": "North-East Asia",
+   "rubrique": "asie",
+   "liens": [
+    {
+     "source": "France 24 Asie",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20261119-rencontre-trilat%C3%A9rale-%C3%A0-shenzhen-les-int%C3%A9r%C3%AAts-de-xi-trump-et-poutine",
+     "titre": "Rencontre trilatérale à Shenzhen : les intérêts de Xi, Trump et Poutine"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/apec-live-trump-xi-and-putin-to-meet-in-historic-three-way-china-summit?traffic_source=rss",
+     "titre": "APEC Live: Trump, Xi and Putin to meet in historic three-way China summit"
+    }
+   ],
+   "visuel": null,
+   "id": "2026-11-19|Xi, Trump and Putin hold first-ever trilateral summit in Shenzhen"
+  },
+  {
+   "suite": true,
+   "remplace": "2026-11-18|Ukrainian strikes sever road span of Kerch Bridge",
+   "emoji": "🌉",
+   "titre": "Kerch Bridge struck again by Ukrainian drone attacks",
+   "resume": "Russian authorities reported that the Kerch Bridge linking Russia to Crimea was severely damaged following fresh Ukrainian drone and missile strikes. Traffic across the strategic link remains suspended.",
    "pourquoi": "",
    "pays": [
     "Ukraine",
@@ -25,417 +54,161 @@
    "rubrique": "ukraine",
    "liens": [
     {
-     "source": "Japan Times",
-     "url": "https://www.japantimes.co.jp/news/2026/11/18/world/society/ukraine-crimean-bridge-trump-putin/",
-     "titre": "Ukraine hits Crimean bridge ahead of meeting between Trump, Xi and Putin"
-    },
-    {
-     "source": "South China Morning Post",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbEJSdXJmZ0wzcTdPZkFEZDVBVVhaVS1FN2JzaFFVamw0WDhLbzM2ZERLcDN5YkVhQ3FYRGN3aGplRC13UjRiRnVkdVFCaHJReUduSTBzREZ0dGhzNXJxOTFNdXVZNlo0SjNpTG1kQlhiZ1g2blBXMVFyMzFjQ3J5a2ZDckxSSU1HdG9QTy02XzhCRWtZeHVuX1djWjROZUttRDZ3blZKempYaEtZazkySHR3ZmNLaFdEUFRZ0gG7AUFVX3lxTE5tLWJwbWxCNTI0eE1CM1VXLW5WdDJ0UHpURVFkVTdJWXJyMjB6QmhoYVJPUllzbGFsX1lvSEY3UUMtOU54dkFsb1lncmx1NkE2ZGNmRnFoTklxMTdxVkhIYkRxMWlObG9XMUZ3TXdnSTloTDlnUzFJOUlkRk1STHlWWFZXSTRHSnNKZmM4NGR3M0FndGxrLWxyb0JtUksyd2lQdmtYam01alltTkRtNG5kM1lwQTFBOGZQTW8?oc=5",
-     "titre": "Ukrainian drones and missiles destroy section of Russia’s Crimean bridge"
-    },
-    {
-     "source": "Reuters",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaEg3anV0Q2ZiXzRhYjVfZkhyTlM2Q3RnX3ZFUExIQ0xQWjZqbkRmXy1mSVY5N1E2dXI0Q2s5WE5oQmNnLXZia24zNU5nUF9FNnZQMENHcFhYMUlhVklwT1RBczRnWFRiXzl3MHRoTWpPRlZJQUNlSjBHeGl5akprVmlNNnFYNmRiNEFqZUlzbUxnRU9FWGRxRGdUTU93QTQ3S3prbktDSUxQbHM2MjFsWWtpLXNOWWFC?oc=5",
-     "titre": "Ukraine cripples Crimean road bridge in blow to Putin before meeting with Xi and Trump"
+     "source": "Le Monde International",
+     "url": "https://www.lemonde.fr/international/live/2026/11/19/en-direct-guerre-en-ukraine-le-pont-de-crimee-de-nouveau-touche-deux-jours-apres-des-frappes-ukrainiennes-ayant-serieusement-endommage-l-infrastructure_6810982_3210.html",
+     "titre": "EN DIRECT, guerre en Ukraine : le pont de Crimée de nouveau touché, deux jours après des frappes ukrainiennes ayant sérieusement endommagé l’infrastructure"
     },
     {
      "source": "BBC World",
-     "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
-     "titre": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine"
+     "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+     "titre": "Crimean Bridge attacked again, Russian official says"
+    },
+    {
+     "source": "The War Zone",
+     "url": "https://www.twz.com/news-features/ukraine-strikes-kerch-bridge-once-again-crimea-governor",
+     "titre": "Ukraine Strikes Kerch Bridge Once Again: Crimea Governor"
     }
    ],
    "visuel": null,
-   "id": "2026-11-18|Ukrainian strikes sever road span of Kerch Bridge"
-  },
-  {
-   "suite": true,
-   "remplace": "2026-11-17|Russian military aircraft violate Japanese airspace and trigger regional scrambles",
-   "emoji": "🛩️",
-   "titre": "Russian strategic bombers land in Vietnam after traversing regional ADIZs",
-   "resume": "Two Russian Tu-95 strategic bombers touched down in Da Nang after violating Japanese airspace and traversing South Korean and Taiwanese air defence zones. Fighter jets were scrambled across North-East Asia in response.",
-   "pourquoi": "",
-   "pays": [
-    "Russia",
-    "Japan",
-    "South Korea",
-    "Taiwan"
-   ],
-   "region": "North-East Asia",
-   "rubrique": "asie",
-   "liens": [
-    {
-     "source": "The War Zone",
-     "url": "https://www.twz.com/air/russian-bombers-arrive-in-vietnam-after-flurry-of-northeast-asia-air-alerts",
-     "titre": "Russian Tu-95 Bombers Arrive In Vietnam After Flurry Of Northeast Asia Air Alerts"
-    },
-    {
-     "source": "Opex360",
-     "url": "https://www.opex360.com/2026/11/17/deux-bombardiers-strategiques-russes-tu-95-sont-arrives-au-vietnam-apres-avoir-viole-lespace-aerien-japonais/",
-     "titre": "Deux bombardiers stratégiques russes Tu-95 sont arrivés au Vietnam… après avoir violé l’espace aérien japonais"
-    },
-    {
-     "source": "DW.com",
-     "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxPV2xaaUI4ZTFZdF9JVVpMTW5EQTdzVVV2SlF1dE1BS2ZiRDBUbVJtbWpzdzY0eGRCSmYySkRYa1RiVk1VMDhiWGJIR2RHUkwxbjZJYWJTUUVYN0tqMHV4eUg1NFZ3QnV5YzBaY2M3MVA1d1liUnRLN2pfRjFNMXB4aE8tUEx5LXBpUlI4SVJJbDRJR3pvWi1Qc3U4ODR3Mjdvc3Q2enlETFQ1Y3d2TGNvaHpRNlBndlZLZm1ZMG00TDM3cFd4N3RYWGs2NFZkX3RieVBiaE1KTGNXNjV0cGFfcEpRcFltOVhsWWJ3LXBXcnhPdE5QZnExQkU3RUplazJwdFB0WHBiYkQtRldDRTV0bjY0NTNhT25UZ010Sl9YRmtMbEpUNnduWkx3bXlWTzBGYnZaemNtY2VvcEVNQ2l2cC1HRTE2MklqR1o3LWRYdEJHdXY0MHl1SF9fUG5kMmlLdkJhLdIB5AJBVV95cUxNd1FaTTlfVm9Vb3hNcDRhdVA1SGtjSG5INmc0MzJIY251eGx1YTFMX0xxd1JDV0hhc0c3ZW1fbFUyUWxKLXBoMUVPSkxpMW9EeVFYcTh0MldBWlNnZko0VklSNkhxTllCclJMTlM2dUwydnpCNHFuVEhMckY4Wk5lZkhnRkF3S0l5aGg0RnNUMjZ6bld2UWtQWGVqSFVKN19pUmJLMEMxWVc2TFpxd1RjR01HWUltUU03NHBMYkwweGtCZzc1UzBHLTFhc24xT3BnU1pGUGszLWJOQWNfNFp3dXA2akEtTmd6ZGtkQ2RoNFhYRnMwMEFlM3V0Q19LRVppNnhYaC1QOTNYdm0zSlVhQ2Z1eW9sTXF4TjRBcnJaTV9QVmtEUmd4aTNEeFo3aU9JUkZaMFNqMkloNVlXRkktREdGdlpKWTd2YWZHWnA2TE16cVhSS1RZeTlKTTd0NVVUZXhqMg?oc=5",
-     "titre": "俄羅斯分別對待日韓台：軍機闖入日領空 飛經韓台防空識別區"
-    },
-    {
-     "source": "BBC Asia",
-     "url": "https://www.bbc.co.uk/news/articles/c60evw20qe47o?at_medium=RSS&at_campaign=rss",
-     "titre": "Japan sends up jets after alleged Russian incursion of its airspace"
-    }
-   ],
-   "visuel": {
-    "nom": "Tupolev Tu-95",
-    "description": "Russian strategic bomber aircraft",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Tupolev_Tu-95_over_Moscow_Kustov_%28cropped%29.jpg/960px-Tupolev_Tu-95_over_Moscow_Kustov_%28cropped%29.jpg",
-    "page": "https://en.wikipedia.org/wiki/Tupolev_Tu-95",
-    "type": "platform"
-   },
-   "id": "2026-11-18|Russian strategic bombers land in Vietnam after traversing regional ADIZs"
+   "id": "2026-11-19|Kerch Bridge struck again by Ukrainian drone attacks"
   },
   {
    "suite": false,
    "remplace": null,
-   "emoji": "🗳️",
-   "titre": "Matan Kahana elected Speaker of Israel's Knesset",
-   "resume": "Israel's parliament elected Matan Kahana, an ally of centrist leader Gadi Eisenkot, as its new speaker with backing from Arab parties. The vote marks a major political blow to Prime Minister Benjamin Netanyahu.",
+   "emoji": "⚠️",
+   "titre": "US weighs fresh strikes on Iran as Houthi hostilities persist",
+   "resume": "Washington is reportedly weighing new military strikes against Iran amid escalating regional flare-ups. Meanwhile, Saudi-led coalition forces intercepted Houthi missile and drone attacks targeting Riyadh.",
    "pourquoi": "",
    "pays": [
-    "Israel"
+    "United States",
+    "Iran",
+    "Saudi Arabia",
+    "Yemen"
    ],
    "region": "Middle East",
-   "rubrique": "elections",
+   "rubrique": "moyen_orient",
    "liens": [
     {
-     "source": "Japan Times",
-     "url": "https://www.japantimes.co.jp/news/2026/11/18/world/politics/israel-speaker-eisenkot-ally-netanyahu/",
-     "titre": "Israel parliament elects Eisenkot ally as speaker in blow for Netanyahu"
-    },
-    {
-     "source": "Al Jazeera",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/eisenkot-ally-elected-knesset-speaker-with-arab-blocs-backing?traffic_source=rss",
-     "titre": "Eisenkot ally elected Knesset speaker with Arab bloc’s backing"
+     "source": "Haaretz",
+     "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPOWNIbXNuWWxDb05iODB4cmRjQ05QYUVNX2NpcjgxMWhTbnhoeHRZQkJlNG52eHNnZ0VvRkFlN25CcWpjeTkzUmk3MXFjWXEyQjB3eVpVbFZhdGhyNmktNThFQVB0N0x0dHdUMmtLM0hKX3R5Snl4TERTR19XNHFnRlpmVU1IZ3FpYjhoS19lc25tTHhObHhibW5kZXlPX19OU0VfU2V6anVLT1ZIOWxVT0VibVRUdGtiX3VxVW1lVGxubE1zakp2TkN0X1hNU1NMQy1DMzhFLWE0OTFvQXJZNng2WkIxUml1UG82OVY4MHB2WXRqVlg2djVjZHNSZG9nQ0wtZ3dPRnlpc3llajdWWG16dw?oc=5",
+     "titre": "Netanyahu Presses Trump for Four-to-Seven-Day Campaign Against Iran, NYT Reports"
     },
     {
      "source": "Al-Monitor",
-     "url": "https://www.al-monitor.com/originals/2026/11/eisenkot-led-bloc-replaces-netanyahu-ally-knesset-speaker",
-     "titre": "Eisenkot-led bloc replaces Netanyahu ally as Knesset speaker"
+     "url": "https://www.al-monitor.com/originals/2026/11/saudi-crown-prince-meets-us-centcom-chief-amid-escalating-houthi-hostilities",
+     "titre": "Saudi crown prince meets US CENTCOM chief amid escalating Houthi hostilities"
     },
     {
-     "source": "Le Monde International",
-     "url": "https://www.lemonde.fr/international/article/2026/11/17/israel-matan-kahana-un-fidele-de-gadi-eisenkot-a-ete-elu-president-de-la-knesset_6813051_3210.html",
-     "titre": "Israël : Matan Kahana, un fidèle de Gadi Eisenkot, a été élu président de la Knesset"
-    }
-   ],
-   "visuel": {
-    "nom": "Matan Kahana",
-    "description": "Israeli military officer and politician",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f1/MatanK-DSC_0053a.jpg",
-    "page": "https://en.wikipedia.org/wiki/Matan_Kahana",
-    "type": "person"
-   },
-   "id": "2026-11-18|Matan Kahana elected Speaker of Israel's Knesset"
-  },
-  {
-   "suite": false,
-   "remplace": null,
-   "emoji": "🛰️",
-   "titre": "NATO unveils STARLIFT space initiative and OpenAI cybersecurity deal",
-   "resume": "NATO launched STARLIFT, a multinational initiative leveraging commercial rockets to rapidly launch satellites and ensure sovereign space access. The alliance also partnered with OpenAI to integrate advanced artificial intelligence into cyber defences.",
-   "pourquoi": "",
-   "pays": [
-    "Global"
-   ],
-   "region": "Europe",
-   "rubrique": "espace",
-   "liens": [
-    {
-     "source": "Defense One",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcFlEUk04WDBqYmt6QXZMSlhmYmhzZmFCLTVBM05IdU50T0pCWC1tc0JVSTlPUUtEdnc2VS15VkdaX2pGREYtZjZIeHBvSUUxYXlfYzlKZWxNSGg4X2UxNGgzeVVsODdyYnBzcU5XWVU3Ukk3U1pkTUtxaThiS2NxMHUwM2wxYXkxTldJZDVOMkFMdGNvbDg2czFSUFE5cllyS2taekhmUW5TdDY4NUE?oc=5",
-     "titre": "OpenAI gives NATO access to most advanced cybersecurity AI"
-    },
-    {
-     "source": "The Straits Times",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLVlxNHF3T0IydElaOGdKZWh1VXVHcFZVNXZPRmlLUmtpakRDbWJ5RTM5ZWI2LUZsRkVFdTZGelZqelVwOHV5SGxDdEw0RGVTWGVUWjFqaW92ZlJsTUMxaHNzRGZMV3lHRm1mNEVOTE5KTERsYjBhblFwZHJ4OWNJTjJob1hMVjV6YlhXWVhaWDNfMUVScW1Wenk1em5JTE1PV0s4?oc=5",
-     "titre": "Defence alliance NATO partners with OpenAI on cybersecurity"
-    },
-    {
-     "source": "North Atlantic Treaty Organization",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQm56V0wtS3Z6UTByVEsxRWQxckFjLTRfTVI1MUdpbHlJZUhDNkM1eTk1RXBxeVdQWlU4VWpYb0hSVGNwQ04wUWZJY3o0enphYjlwclZocUI5cnRXZ0V4RUN1UHk1a185Q2dpdGRWOFlxQjMydm5oZzhzUktrbDJ5SHZFZE9nQkw1TEs5dVBrVWtLczJhMHZMRDBRUTdyblNkd3RZRUdSSUplcjBnYkN4NV9pN3o4MEwt?oc=5",
-     "titre": "Lancement de STARLIFT, l’initiative spatiale multinationale de l’OTAN"
-    },
-    {
-     "source": "Bloomberg.com",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYzY0TVBMSlhtWFREOFQyZmhDeEU0OUJ4RWF0N1BXQThXUUw1X2U5UjFCUHFldHdsSmdIQkhwQUdSUlE4R0ZqTUNuREN4ckZ4QWxnY2RuS2J1Q05iNU9SNmt6Nndibi1yQm5NM3ZJQkhZMXMwd1RqRXZTN0lwQTFoZTctZWE0RFRIdGR0Wk5BTHl6R3BoQ1VvYUNkMlJBZXhTb0lLU0JyX1ZsOHRa?oc=5",
-     "titre": "NATO Turns to Commercial Rockets for Greater Space Access"
+     "source": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-saudi-led-coalition-strikes-yemen-ships-on-fire-in-hormuz?traffic_source=rss",
+     "titre": "Iran war live: Trump says Iran seeks new weapons; Houthis target Riyadh"
     }
    ],
    "visuel": null,
-   "id": "2026-11-18|NATO unveils STARLIFT space initiative and OpenAI cybersecurity deal"
+   "id": "2026-11-19|US weighs fresh strikes on Iran as Houthi hostilities persist"
   }
  ],
  "rubriques": [
   {
    "id": "monde",
    "titre": "World",
-   "items": [
-    {
-     "suite": false,
-     "remplace": null,
-     "emoji": "⚠️",
-     "titre": "US loses measles eradication status after record outbreaks",
-     "resume": "The Pan American Health Organization declared that measles is no longer eliminated in the US following more than 5,400 cases this year. Mexico and Bolivia similarly lost their elimination status.",
-     "pourquoi": "",
-     "pays": [
-      "United States",
-      "Mexico",
-      "Bolivia"
-     ],
-     "region": "Americas",
-     "rubrique": "monde",
-     "liens": [
-      {
-       "source": "Japan Times",
-       "url": "https://www.japantimes.co.jp/news/2026/11/18/world/science-health/us-doctors-measles-resurgence/",
-       "titre": "‘A ghost from the past’: U.S. doctors lament measles resurgence"
-      },
-      {
-       "source": "BBC World",
-       "url": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
-       "titre": "US loses measles elimination status after 26 years amid record case numbers"
-      },
-      {
-       "source": "CNA Monde",
-       "url": "https://www.channelnewsasia.com/world/us-loses-measles-free-states-mexico-bolivia-6560296",
-       "titre": "US loses measles elimination status after nearly three decades; Mexico, Bolivia also lose designation"
-      },
-      {
-       "source": "Le Monde International",
-       "url": "https://www.lemonde.fr/international/article/2026/11/17/les-etats-unis-perdent-leur-statut-de-pays-ayant-elimine-la-rougeole-annonce-l-organisation-panamericaine-de-la-sante_6813011_3210.html",
-       "titre": "Les Etats-Unis perdent leur statut de pays ayant éliminé la rougeole, annonce l’Organisation panaméricaine de la santé"
-      }
-     ],
-     "visuel": null,
-     "id": "2026-11-18|US loses measles eradication status after record outbreaks"
-    }
-   ]
+   "items": []
   },
   {
    "id": "asie",
    "titre": "APAC",
    "items": [
     {
-     "suite": true,
-     "remplace": "2026-11-16|China confirms first Xi-Trump-Putin trilateral summit in Shenzhen",
-     "emoji": "🤝",
-     "titre": "Trump holds Manila talks ahead of Shenzhen APEC summit",
-     "resume": "US President Donald Trump met Philippine President Ferdinand Marcos Jr in Manila before travelling to Shenzhen for the APEC summit. Trump reiterated his intention to seek bilateral talks with North Korean leader Kim Jong Un.",
+     "suite": false,
+     "remplace": null,
+     "emoji": "🇯🇵",
+     "titre": "Japan PM Takaichi and Putin hold first talks in seven years",
+     "resume": "Japanese Prime Minister Sanae Takaichi and Russian President Vladimir Putin held a 30-minute bilateral meeting on the sidelines of the APEC summit in China. It marked the first leaders' talks between the two nations in seven years.",
      "pourquoi": "",
      "pays": [
-      "United States",
-      "Philippines",
-      "China",
+      "Japan",
+      "Russia",
+      "China"
+     ],
+     "region": "North-East Asia",
+     "rubrique": "asie",
+     "liens": [
+      {
+       "source": "Japan Times",
+       "url": "https://www.japantimes.co.jp/news/2026/11/19/japan/politics/takaichi-putin-russia-japan-talks/",
+       "titre": "Takaichi and Putin meet on APEC sidelines amid ongoing tensions"
+      },
+      {
+       "source": "Straits Times Asie",
+       "url": "https://www.straitstimes.com/asia/japan-says-pm-takaichi-putin-held-talks-at-apec-summit-in-china",
+       "titre": "Japan says PM Takaichi, Putin held talks at APEC summit in China"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-19|Japan PM Takaichi and Putin hold first talks in seven years"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🇰🇷",
+     "titre": "South Korea's Lee expresses hope for peace talks with North Korea",
+     "resume": "South Korean President Lee Jae Myung voiced hope for dialogue with North Korea to establish lasting peace during discussions in Shenzhen. Meanwhile, the IAEA noted that Pyongyang continues expanding its Yongbyon uranium enrichment facility.",
+     "pourquoi": "",
+     "pays": [
+      "South Korea",
       "North Korea"
      ],
-     "region": "South-East Asia",
+     "region": "North-East Asia",
      "rubrique": "asie",
      "liens": [
       {
        "source": "Yonhap (Corée du Nord)",
-       "url": "https://en.yna.co.kr/view/AEN20261118005352315",
-       "titre": "(2nd LD) Trump 'serious' about engaging with N. Korean leader Kim: Rubio"
+       "url": "https://en.yna.co.kr/view/AEN20261119004151315",
+       "titre": "(LEAD) S. Korea's Lee voices hope for talks with N. Korea to establish lasting peace"
       },
       {
-       "source": "CNA Asie",
-       "url": "https://www.channelnewsasia.com/asia/donald-trump-asia-tour-vladimir-putin-china-6560741",
-       "titre": "Trump seeks diplomatic gains on Asia tour as Putin arrives in China"
-      },
-      {
-       "source": "Straits Times Asie",
-       "url": "https://www.straitstimes.com/asia/se-asia/trump-to-meet-marcos-in-manila-before-china-talks",
-       "titre": "Trump to meet Philippine President Marcos in Manila before China talks"
+       "source": "France 24 Asie",
+       "url": "https://www.france24.com/fr/asie-pacifique/20261118-cor%C3%A9e-du-nord-extension-nucl%C3%A9aire-yongbyon-constat%C3%A9e-par-aiea-agence-internationale-%C3%A9nergie-atomique",
+       "titre": "Corée du Nord : le gendarme du nucléaire constate une extension du site de Yongbyon"
       }
      ],
-     "visuel": {
-      "nom": "Donald Trump",
-      "description": "President of the United States (2017–2021; since 2025)",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/960px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg",
-      "page": "https://en.wikipedia.org/wiki/Donald_Trump",
-      "type": "person"
-     },
-     "id": "2026-11-18|Trump holds Manila talks ahead of Shenzhen APEC summit"
+     "visuel": null,
+     "id": "2026-11-19|South Korea's Lee expresses hope for peace talks with North Korea"
     },
     {
-     "suite": true,
-     "remplace": "2026-11-15|ASEAN leaders gather in Manila while deferring Myanmar decision",
-     "emoji": "🇸🇬",
-     "titre": "Singapore outlines strategic priorities for 2027 ASEAN Chairmanship",
-     "resume": "Prime Minister Lawrence Wong formally received the ceremonial ASEAN gavel, pledging to focus on economic integration, energy connectivity and digital trade. Wong warned that external geopolitical friction will test regional unity.",
+     "suite": false,
+     "remplace": null,
+     "emoji": "🇮🇩",
+     "titre": "Indonesia signs major economic and strategic deals with China",
+     "resume": "Indonesian President Prabowo Subianto witnessed the signing of four strategic partnerships with China worth US$71.8 billion during the APEC summit. Jakarta is also reviewing the potential local impact of tightened US AI chip restrictions.",
      "pourquoi": "",
      "pays": [
-      "Singapore"
+      "Indonesia",
+      "China"
      ],
      "region": "South-East Asia",
      "rubrique": "asie",
      "liens": [
       {
-       "source": "Straits Times Singapour",
-       "url": "https://www.straitstimes.com/singapore/politics/asean-and-partners-must-deepen-trade-digital-energy-ties-pm-wong",
-       "titre": "ASEAN and partners must deepen trade, digital, energy ties: PM Wong"
-      },
-      {
        "source": "CNA Asie",
-       "url": "https://www.channelnewsasia.com/singapore/asean-chairmanship-lawrence-wong-philippines-6556511",
-       "titre": "Singapore to push for single ASEAN market, closer energy and digital links as 2027 chair: PM Wong"
+       "url": "https://www.channelnewsasia.com/asia/us-ai-chip-restrictions-indonesia-investment-6562091",
+       "titre": "US AI chip export curbs: Indonesia reviews potential effects as analysts warn of investment, operational impact"
       }
      ],
      "visuel": null,
-     "id": "2026-11-18|Singapore outlines strategic priorities for 2027 ASEAN Chairmanship"
-    },
-    {
-     "suite": true,
-     "remplace": "2026-11-17|US restricts advanced AI chip exports to Southeast Asian nations",
-     "emoji": "🛡️",
-     "titre": "Singapore seeks trusted technology framework following US export controls",
-     "resume": "Singapore and the US agreed to follow up on arrangements allowing legitimate local companies continued access to advanced semiconductors. The move follows expanded US export licences targeting AI chip supply chains in Southeast Asia.",
-     "pourquoi": "",
-     "pays": [
-      "Singapore",
-      "United States"
-     ],
-     "region": "South-East Asia",
-     "rubrique": "asie",
-     "liens": [
-      {
-       "source": "CNA Singapour",
-       "url": "https://www.channelnewsasia.com/singapore/singapore-us-semiconductor-mddi-josephine-teo-6560761",
-       "titre": "Singapore, US agree to follow up on arrangements to facilitate continued trusted access to advanced American technologies"
-      },
-      {
-       "source": "Straits Times Singapour",
-       "url": "https://www.straitstimes.com/singapore/spore-studying-us-chip-export-restrictions-seeking-trusted-access-for-legitimate-businesses",
-       "titre": "S’pore studying US chip export curbs, seeking ‘trusted access’ for legitimate firms: Josephine Teo"
-      }
-     ],
-     "visuel": null,
-     "id": "2026-11-18|Singapore seeks trusted technology framework following US export controls"
+     "id": "2026-11-19|Indonesia signs major economic and strategic deals with China"
     }
    ]
   },
   {
    "id": "elections",
    "titre": "Elections & Politics",
-   "items": [
-    {
-     "suite": false,
-     "remplace": null,
-     "emoji": "🗳️",
-     "titre": "Mongolian President announces resignation amidst corruption scandal",
-     "resume": "The President of Mongolia announced his resignation following public pressure and graft allegations raised by opposition leaders. The ruling party faces widespread accusations of cronyism from opposition lawmakers.",
-     "pourquoi": "",
-     "pays": [
-      "Mongolia"
-     ],
-     "region": "North-East Asia",
-     "rubrique": "elections",
-     "liens": [
-      {
-       "source": "CNA Asie",
-       "url": "https://www.channelnewsasia.com/asia/mongolian-president-announces-resignation-over-alleged-corruption-6558716",
-       "titre": "Mongolian president announces resignation over alleged corruption"
-      }
-     ],
-     "visuel": null,
-     "id": "2026-11-18|Mongolian President announces resignation amidst corruption scandal"
-    }
-   ]
+   "items": []
   },
   {
    "id": "defense_aerienne",
    "titre": "Air & Missile Defence",
-   "items": [
-    {
-     "suite": false,
-     "remplace": null,
-     "emoji": "🚀",
-     "titre": "Hanwha test-fires Chunmoo rocket from palletized sea launcher in US",
-     "resume": "South Korean firm Hanwha conducted a successful sea-based Chunmoo missile firing from a containerised palletized launcher off Mississippi. The system provides flexible surface-to-surface strike options for naval vessels.",
-     "pourquoi": "",
-     "pays": [
-      "South Korea",
-      "United States"
-     ],
-     "region": "Americas",
-     "rubrique": "defense_aerienne",
-     "liens": [
-      {
-       "source": "Defense News",
-       "url": "https://www.defensenews.com/industry/techwatch/2026/11/17/hanwha-transforms-ship-into-floating-multi-rocket-launcher/",
-       "titre": "Hanwha transforms ship into floating multi-rocket launcher"
-      },
-      {
-       "source": "Naval News",
-       "url": "https://www.navalnews.com/naval-news/2026/11/hanwha-successfully-test-fires-chunmoo-missile-from-maritime-palletized-launcher/",
-       "titre": "Hanwha Successfully Test-Fires Chunmoo Missile from Maritime Palletized Launcher"
-      }
-     ],
-     "visuel": {
-      "nom": "K239 Chunmoo",
-      "description": "South Korean long-range multiple launch rocket system",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/K239_Chunmoo_Image7.jpg/960px-K239_Chunmoo_Image7.jpg",
-      "page": "https://en.wikipedia.org/wiki/K239_Chunmoo",
-      "type": "platform"
-     },
-     "id": "2026-11-18|Hanwha test-fires Chunmoo rocket from palletized sea launcher in US"
-    },
-    {
-     "suite": false,
-     "remplace": null,
-     "emoji": "📡",
-     "titre": "Hanwha Systems secures first US deal for tactical AESA radar",
-     "resume": "Hanwha Systems secured its first export contract in the US for short-range Active Electronically Scanned Array (AESA) radars. The compact radars are engineered for point defence and counter-drone systems.",
-     "pourquoi": "",
-     "pays": [
-      "South Korea",
-      "United States"
-     ],
-     "region": "Americas",
-     "rubrique": "defense_aerienne",
-     "liens": [
-      {
-       "source": "The Korea Times",
-       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaDVQeXdtdHJTal9yMy14UVdIOWR4dmR1My1pT3RyUlViVWFjdVFLSXZleU5QVHRCdWlKU2J5NGlaT2dSV205V2lkbktKUEFaYWR5MEY2V19EVFR4YWJ4TkJ6VEZoNGFEUmxXQlNQWXVHRWxEZ2d6eGFWVlB0Wms2aEZXeGRtRV9yaDRqRjVZWXpCdE5mZHpKYmlEelE5b1VnaGUySmdwRExxR1drSGkzZnF4WGZhdXVmdXhJ0gG7AUFVX3lxTE1oNVB5d210clNqX3IzLXhRV0g5ZHh2ZHUzLWlPdHJSVWJVYWN1UUtJdmV5TlBUdEJ1aUpTYnk0aVpPZ1JXbTlXaWRuS0pQQVphZHkwRjZXX0RUVHhhYnhOQnpURmg0YURSbFdCU1BZdUdFbERnZ3p4YVZWUHRaazZoRld4ZG1FX3JoNGpGNVlZekJ0TmZkekpiaUR6UTlvVWdoZTJKZ3BETHFHV2tIaTNmcXhYZmF1dWZ1eEk?oc=5",
-       "titre": "Hanwha Systems wins 1st US deal for short-range AESA radar"
-      }
-     ],
-     "visuel": null,
-     "id": "2026-11-18|Hanwha Systems secures first US deal for tactical AESA radar"
-    },
-    {
-     "suite": false,
-     "remplace": null,
-     "emoji": "🛡️",
-     "titre": "Romania penalises Rheinmetall over air defence delivery delays",
-     "resume": "Romanian Defence Minister Angel Tîlvăr confirmed contractual penalties against Germany's Rheinmetall due to schedule delays in delivering air defence systems. The contract covers multi-layered air defence modernization for Bucharest.",
-     "pourquoi": "",
-     "pays": [
-      "Romania",
-      "Germany"
-     ],
-     "region": "Europe",
-     "rubrique": "defense_aerienne",
-     "liens": [
-      {
-       "source": "Defence Industry Europe",
-       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMG8zMXl4Y0dGV3h1bUJzZDhsX3J3UXptT09kRXVNdkdlSDlMUFowRnNtSHQ1XzNhbzNVY2pobVIyRWpPS3ZLaWFUdE0wRGppNXlBY0xjd2ZobXRxOWtsZWRhMjJFUjBvU1BlWm5kUmhJY2FObWZDZkxCZFpEYl9KaU5nZTdjbUpLRHJBUU1mTlNweTRlTC15UVdLN3oxMnh3dm82ejNkRWVyaTNvU1AtVXgxZUppUUZieVNhRTZ6LU1VRVoxSm5mYkZnRHFhS0JXUXlVUWYyYV9aZ3ljOEVKVUhBOA?oc=5",
-       "titre": "Romania imposes contractual penalties on Rheinmetall over delays in delivering air defence systems, defence minister says"
-      }
-     ],
-     "visuel": null,
-     "id": "2026-11-18|Romania penalises Rheinmetall over air defence delivery delays"
-    }
-   ]
+   "items": []
   },
   {
    "id": "industrie",
@@ -444,212 +217,159 @@
     {
      "suite": false,
      "remplace": null,
-     "emoji": "📝",
-     "titre": "Bulgaria authorises procurement negotiations for 57 French CAESAr howitzers",
-     "resume": "The Bulgarian government gave green light to initiate formal negotiations to purchase 57 CAESAr 155mm wheeled self-propelled artillery systems from France. The acquisition will leverage European joint procurement support.",
+     "emoji": "💰",
+     "titre": "Anthropic raises over $80 billion in record-breaking stock market debut",
+     "resume": "AI giant Anthropic priced its shares at $83 to raise more than $81 billion in its initial public offering. The blockbuster debut ranks as one of the largest market entries in history.",
      "pourquoi": "",
      "pays": [
-      "Bulgaria",
-      "France"
+      "United States"
      ],
-     "region": "Europe",
+     "region": "Americas",
      "rubrique": "industrie",
      "liens": [
       {
-       "source": "Opex360",
-       "url": "https://www.opex360.com/2026/11/17/artillerie-la-bulgarie-confirme-son-intention-dacquerir-57-caesar-aupres-de-la-france/",
-       "titre": "Artillerie : La Bulgarie confirme son intention d’acquérir 57 CAESAr auprès de la France"
+       "source": "BBC World",
+       "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+       "titre": "AI giant Anthropic valued at up to $1.5tn ahead of stock market debut"
       },
       {
-       "source": "FOB",
-       "url": "https://forcesoperations.com/feu-vert-bulgare-pour-une-commande-de-caesar/",
-       "titre": "Feu vert bulgare pour une commande de CAESAR"
-      }
-     ],
-     "visuel": {
-      "nom": "CAESAR self-propelled howitzer",
-      "description": "French 155 mm artillery",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/French_Caesar_self-propelled_howitzer_in_Iraq.jpg/960px-French_Caesar_self-propelled_howitzer_in_Iraq.jpg",
-      "page": "https://en.wikipedia.org/wiki/CAESAR_self-propelled_howitzer",
-      "type": "platform"
-     },
-     "id": "2026-11-18|Bulgaria authorises procurement negotiations for 57 French CAESAr howitzers"
-    },
-    {
-     "suite": true,
-     "remplace": "2026-11-17|France and Malaysia seek defence and rare earths cooperation",
-     "emoji": "🤝",
-     "titre": "France and Malaysia sign strategic defence and rare earths partnership",
-     "resume": "French President Emmanuel Macron and Malaysian Prime Minister Anwar Ibrahim formalised a strategic partnership in Kuala Lumpur. The deal encompasses critical mineral processing and expanded bilateral naval defence cooperation.",
-     "pourquoi": "",
-     "pays": [
-      "France",
-      "Malaysia"
-     ],
-     "region": "South-East Asia",
-     "rubrique": "industrie",
-     "liens": [
-      {
-       "source": "The Jakarta Post",
-       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSnFZZm16NVNEdlZiZ01CNTRxbzRFbDNhdmNmbXZFdHNkVjFyLUZMZm9LVTdmcWFCVnFzQXFDdUk1MXdPcmN5eDdXT1RwUGZsQ0NJUW1FYzFuQTN2LW0yNGRQWUZCUnBjSHhoTnBFVUxRRTVWemVvQVJKRUVveHdPT2lfMlhnT2luUlNYS1Q3SFVvNVV6M0FLUEZuS3JhbWF5SWRNYkw2aw?oc=5",
-       "titre": "Macron says France may sign submarine deal with Malaysia"
+       "source": "Japan Times",
+       "url": "https://www.japantimes.co.jp/business/2026/11/19/tech/anthropic-ipo-83-per-share/",
+       "titre": "Anthropic IPO raises $107.3 billion to top SpaceX’s record debut"
       },
       {
-       "source": "Malay Mail",
-       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSm05Rk85aUpTWUtFZHpWYlRyTnZfdzZmMXdpQW5XWVk2S3JNZWpjY2NYeVllcDdrZ0RjM0VtVXI3c0hpUi0yazg2Rm55bFY2N1JnWDBtZEF1TGZNdHlNSktUSXgtUlVCVmhPRmJPc05vbU1oSWgyVUR1cFBUTzhxWk14aTNNWkhhdmotWmE3a1VOSlJQVlY0VUFnVVZXdDF1RjFOcG05dFBFSFRlN3JoVElmR2UyY2x0bEVDM2NPd0podFB20gHKAUFVX3lxTE1CYnVCbmxDYkF3S18xaHlfRzdiMWVoVGdjclVYTjhfTy1VZHlmTVRHdEt5RkVvbjVjSVJnY3FjWUJuNm8zelNwUmJEQkpnbWhWbWxwbm1wa3RSbGQzU3VtQlBQLV81WmhvMzlYWnBSb05RMVc0cEhJUkN0U1VNVmZNWmd4SE5jaUlram9Bbnp3U1FvOEhmZnNUdVZSaTdfOFhGTFBpMzdZbzhVUDcyTmRlSDQzVU9WU1pmWE9RTFJCWUpXVG9UZ19VbXc?oc=5",
-       "titre": "France, Malaysia strike ‘unique’ rare earth deal as defence ties deepen"
-      },
-      {
-       "source": "CNA Asie",
-       "url": "https://www.channelnewsasia.com/asia/malaysia-france-strengthen-cooperation-defence-rare-earths-6558151",
-       "titre": "Malaysia and France upgrade ties, strengthen cooperation in defence and rare earths"
-      },
-      {
-       "source": "France 24 Asie",
-       "url": "https://www.france24.com/fr/asie-pacifique/20261117-d%C3%A9fense-terres-rares-emmanuel-macron-annonce-un-partenariat-strat%C3%A9gique-avec-la-malaisie",
-       "titre": "Terres rares, défense... En Malaisie, Emmanuel Macron scelle un \"partenariat stratégique\""
+       "source": "Al Jazeera",
+       "url": "https://www.aljazeera.com/economy/2026/11/19/anthropic-raises-81-3bn-in-biggest-ipo-of-all-time?traffic_source=rss",
+       "titre": "Anthropic raises $81.3bn in biggest IPO of all time"
       }
      ],
      "visuel": null,
-     "id": "2026-11-18|France and Malaysia sign strategic defence and rare earths partnership"
+     "id": "2026-11-19|Anthropic raises over $80 billion in record-breaking stock market debut"
     }
    ]
   },
   {
    "id": "ukraine",
    "titre": "Ukraine / Russia",
-   "items": [
-    {
-     "suite": true,
-     "remplace": "2026-11-17|Zelensky reports regular North Korean ballistic missile deliveries to Russia",
-     "emoji": "🚀",
-     "titre": "Zelensky highlights Russian dependence on North Korean missiles",
-     "resume": "Ukrainian President Volodymyr Zelensky stated Russia receives dozens of North Korean ballistic missiles monthly to strike Ukrainian infrastructure. Zelensky reiterated calls for Western allies to deliver long-range weapons to target launch sites.",
-     "pourquoi": "",
-     "pays": [
-      "Ukraine",
-      "Russia",
-      "North Korea"
-     ],
-     "region": "Russia-Ukraine",
-     "rubrique": "ukraine",
-     "liens": [
-      {
-       "source": "뉴시스",
-       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGZmtEbjNLdXVqZFBncmNBUjl5bXJlVVdNT1RTcEVHOHplVzY1T1A0MVpQckdZX0FGM0lTQXVERjRvTTktNnI4LUpZOVNTaWppR1YzYndYZ0dPSTEtaU80SdIBeEFVX3lxTE41NFpxYjFXUGRMN0l3TjVPSy1rb2tyZXBrWE43dDg5VHhfWVgxZTdEMmkzMzgwWVZJRkJWbXlqS1F2VjR4WmRFQlJhZW5IVVVyVnVuT1pEaTBIMGNOaTBYZ1BmTmN4RVpvTGhrSHk3R3FoYkI4UHAxYw?oc=5",
-       "titre": "젤렌스키 \"러, 北 탄도미사일 의존…미·유럽 무기 지원 정당\""
-      }
-     ],
-     "visuel": null,
-     "id": "2026-11-18|Zelensky highlights Russian dependence on North Korean missiles"
-    }
-   ]
+   "items": []
   },
   {
    "id": "moyen_orient",
    "titre": "Middle East",
    "items": [
     {
-     "suite": true,
-     "remplace": "2026-11-16|Iran targets US air defence radar in Bahrain with six attack drones",
-     "emoji": "⚠️",
-     "titre": "Gulf air defences intercept drone attacks amidst US-Iran clashes",
-     "resume": "Air defence forces in Kuwait and Bahrain repelled hostile drone strikes as US and Iranian military units exchanged fire across the Gulf. Bahrain accused Tehran of criminal attacks against military infrastructure.",
+     "suite": false,
+     "remplace": null,
+     "emoji": "🇮🇱",
+     "titre": "Israeli military launches ground operation in central Gaza",
+     "resume": "The Israeli military announced the launch of a new ground operation in central Gaza beyond the Yellow Line. Palestinian residents reported heavy shelling and displacement as tanks advanced.",
      "pourquoi": "",
      "pays": [
-      "Kuwait",
-      "Bahrain",
-      "Iran",
-      "United States"
+      "Israel"
      ],
      "region": "Middle East",
      "rubrique": "moyen_orient",
      "liens": [
       {
-       "source": "Al-Monitor",
-       "url": "https://www.al-monitor.com/originals/2026/11/gulf-nations-alert-after-us-strikes-iranian-island",
-       "titre": "Gulf nations on alert after US strikes Iranian island"
+       "source": "Japan Times",
+       "url": "https://www.japantimes.co.jp/news/2026/11/19/world/israel-ground-operation-gaza/",
+       "titre": "Israel launches ground operation in central Gaza as dozens flee"
       },
       {
-       "source": "Al Jazeera",
-       "url": "https://www.aljazeera.com/news/liveblog/2026/11/18/iran-war-live-kuwait-says-intercepting-hostile-drone-attacks?traffic_source=rss",
-       "titre": "Iran war live: Kuwait says intercepting ‘hostile’ drone attacks"
+       "source": "BBC World",
+       "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+       "titre": "Israeli military launches rare ground operation in Gaza beyond Yellow Line"
+      },
+      {
+       "source": "CNA Monde",
+       "url": "https://www.channelnewsasia.com/world/israel-army-launches-ground-operation-in-hamas-controlled-area-gaza-6563626",
+       "titre": "Israel army launches ground operation in Hamas-controlled area of Gaza"
       }
      ],
      "visuel": null,
-     "id": "2026-11-18|Gulf air defences intercept drone attacks amidst US-Iran clashes"
+     "id": "2026-11-19|Israeli military launches ground operation in central Gaza"
     }
    ]
   },
   {
    "id": "europe",
    "titre": "Europe",
-   "items": []
-  },
-  {
-   "id": "espace",
-   "titre": "Space & Satellites",
    "items": [
     {
      "suite": false,
      "remplace": null,
-     "emoji": "🛰️",
-     "titre": "Iceye submits €2bn takeover bid for Italian launcher maker Avio",
-     "resume": "Finnish satellite operator Iceye made a €2 billion all-cash offer for Italian rocket manufacturer Avio. The acquisition aims to establish an integrated European space observation and launch service provider.",
+     "emoji": "🇪🇺",
+     "titre": "European Commission proposes €45 billion loan package for Ukraine in 2027",
+     "resume": "The European Commission proposed a new €45 billion loan for Ukraine to help cover funding gaps next year. EU leaders are scheduled to discuss the plan at an upcoming summit.",
      "pourquoi": "",
      "pays": [
-      "Finland",
-      "Italy"
+      "European Union",
+      "Ukraine"
      ],
      "region": "Europe",
-     "rubrique": "espace",
+     "rubrique": "europe",
      "liens": [
       {
-       "source": "Breaking Defense",
-       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQU1kOEthRTZHdmhxZVh1cjhJSEZsRzNyM3hWWUNsaUJUQUdCZnhGcnVDR2d1dmp6U3FmRlpaTVI5cVBHWlo0dHV3aG13TEJtOFkyWkdGTi1VRFVuZUVucklidktZU1NwLXBtTnd0aWZWSVVyanJ5b01hbTFUZ1h2Vm82RjhlYkRXd3U4Ng?oc=5",
-       "titre": "ICEYE makes $2B bid for Italian rocket firm Avio"
+       "source": "Le Monde International",
+       "url": "https://www.lemonde.fr/international/article/2026/11/18/guerre-en-ukraine-la-commission-europeenne-met-sur-la-table-un-nouvel-emprunt-europeen-pour-financer-l-aide-a-kiev_6813206_3210.html",
+       "titre": "Guerre en Ukraine : la Commission européenne met sur la table un nouvel emprunt européen pour financer l’aide à Kiev"
+      },
+      {
+       "source": "CNA Monde",
+       "url": "https://www.channelnewsasia.com/world/eu-proposes-45-billion-euro-ukraine-loan-2027-6563706",
+       "titre": "EU proposes 45-billion-euro Ukraine loan for 2027"
       },
       {
        "source": "Defense News",
-       "url": "https://www.defensenews.com/global/europe/2026/11/17/finlands-iceye-bids-e2-billion-for-italian-rocket-maker-avio/",
-       "titre": "Finland’s Iceye bids €2 billion for Italian rocket maker Avio"
+       "url": "https://www.defensenews.com/global/europe/2026/11/18/eu-proposes-e45-billion-ukraine-loan-to-be-repaid-after-russia-pays-reparations/",
+       "titre": "EU proposes €45 billion Ukraine loan, to be repaid after Russia pays reparations"
       }
      ],
      "visuel": null,
-     "id": "2026-11-18|Iceye submits €2bn takeover bid for Italian launcher maker Avio"
+     "id": "2026-11-19|European Commission proposes €45 billion loan package for Ukraine in 2027"
     }
    ]
+  },
+  {
+   "id": "espace",
+   "titre": "Space & Satellites",
+   "items": []
   },
   {
    "id": "tech",
    "titre": "Emerging Tech",
    "items": [
     {
-     "suite": true,
-     "remplace": "2026-11-17|US Department of War selects seven firms for laser C-UAS trials",
-     "emoji": "⚡",
-     "titre": "US Department of War selects seven firms for directed-energy C-UAS trials",
-     "resume": "Joint Interagency Task Force 401 selected seven defence contractors to participate in directed-energy counter-drone evaluations. Live-fire trials at Dugway Proving Ground will test high-energy lasers and microwave weapons against drone swarms.",
+     "suite": false,
+     "remplace": null,
+     "emoji": "🎮",
+     "titre": "Grand Theft Auto VI launches worldwide after 13-year wait",
+     "resume": "Rockstar Games launched Grand Theft Auto VI globally to near-universal acclaim. The release shatters pre-order records following a 13-year hiatus for the gaming franchise.",
      "pourquoi": "",
      "pays": [
       "United States"
      ],
-     "region": "Americas",
+     "region": "Global",
      "rubrique": "tech",
      "liens": [
       {
-       "source": "Janes Defence Intelligence",
-       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYTllVmFxdHR5TThRN0lKaDUtS1NaaE5Ma1I1cDBjeDl2aVRTNElLMUUxUWQ3a1Z0YUtScXVQbFVaSTMtTDBsaUwxMXFVLVl5WDhJTTE1RmtIeGQtcktFMzYtUjgxdC1kWkdZOHFqNFByRWVmSF92VUNXbmlRaElKbmZCRFhOVVlIY3h1Ukc2U3FDdENFaFhHbVFDZ3oyci1OM0YwSm9MNEFQMUJDR2RxVWFuMA?oc=5",
-       "titre": "US DoD to host directed energy shoot off"
+       "source": "Japan Times",
+       "url": "https://www.japantimes.co.jp/life/2026/11/19/digital/grand-theft-auto-5-launch-reaction-rockstar/",
+       "titre": "‘Grand Theft Auto VI’ draws rave reviews as gamers return to Vice City"
       },
       {
-       "source": "Unmanned airspace",
-       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTmZKX3BJdzliQ2JIZG1UUk5NcmZkM25fd2ZieTdmeDI5cXNXN2U4dFM3UTVaWUt1QWpkSXg5dkhnaEV0akVmY1FHeDRzbVFoS1JteWo0cGdTTHp2UGVkOV9fMkp3dk1oTHVObThsMmlWRlB5Ti1aWUZOYWNJZTd5NDBjSmoxaFdVX3NDSldFM2lIdFZNeTJCOUZSemlONktiaWpqZlFQZXhHaDgyMUlNNExpWTcteEZqbm5VRUI5SFBOWGZKT3F4ZHVFTmFrbzVabVVEQVB1V09rUEJMVlE?oc=5",
-       "titre": "Seven industry partners selected for DoD JIATF 401 directed energy evaluation"
+       "source": "Al Jazeera",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/gta-6-launches-after-13-year-wait-breaking-pre-order-records?traffic_source=rss",
+       "titre": "GTA 6 launches after 13-year wait, breaking pre-order records"
+      },
+      {
+       "source": "CNA Monde",
+       "url": "https://www.channelnewsasia.com/living/grand-theft-auto-goes-live-13-years-6562531",
+       "titre": "Grand Theft Auto VI launches worldwide to near-perfect reviews"
       }
      ],
      "visuel": null,
-     "id": "2026-11-18|US Department of War selects seven firms for directed-energy C-UAS trials"
+     "id": "2026-11-19|Grand Theft Auto VI launches worldwide after 13-year wait"
     }
    ]
   },
@@ -658,95 +378,63 @@
    "titre": "Economy & Sanctions",
    "items": [
     {
-     "suite": true,
-     "remplace": "2026-11-17|Canada and China announce tariff cuts during Carney-Xi meeting",
-     "emoji": "💰",
-     "titre": "Canada and China finalize reciprocal tariff relief ahead of APEC",
-     "resume": "Canadian Prime Minister Mark Carney and Chinese President Xi Jinping finalized tariff relief agreements covering $280 million in Canadian exports. Ottawa agreed to extend duty exemptions on selected Chinese steel and aluminium products.",
+     "suite": false,
+     "remplace": null,
+     "emoji": "📦",
+     "titre": "EU and Indonesia approve trade agreement to offset tariff pressures",
+     "resume": "European governments approved a comprehensive trade deal with Indonesia designed to mitigate trade friction. The agreement removes import duties on over 90 percent of mutual products.",
      "pourquoi": "",
      "pays": [
-      "Canada",
-      "China"
+      "European Union",
+      "Indonesia"
      ],
-     "region": "North-East Asia",
+     "region": "Global",
      "rubrique": "economie",
      "liens": [
       {
-       "source": "RFI Asie-Pacifique",
-       "url": "https://www.rfi.fr/fr/asie-pacifique/20261117-la-chine-et-le-canada-s-entendent-sur-de-nouvelles-r%C3%A9ductions-des-droits-de-douane",
-       "titre": "La Chine et le Canada s'entendent sur de nouvelles réductions des droits de douane"
-      },
-      {
-       "source": "CNA Asie",
-       "url": "https://www.channelnewsasia.com/east-asia/apec-summit-china-canada-carney-xi-6557766",
-       "titre": "Canada and China extend trade deals as Xi meets Carney ahead of APEC summit"
+       "source": "Al Jazeera",
+       "url": "https://www.aljazeera.com/economy/2026/11/19/eu-governments-approve-trade-deal-with-indonesia-to-offset-trump-tariffs?traffic_source=rss",
+       "titre": "EU governments approve trade deal with Indonesia to offset Trump tariffs"
       }
      ],
      "visuel": null,
-     "id": "2026-11-18|Canada and China finalize reciprocal tariff relief ahead of APEC"
+     "id": "2026-11-19|EU and Indonesia approve trade agreement to offset tariff pressures"
     }
    ]
   }
  ],
  "a_surveiller": [
   {
-   "quand": "November 19",
-   "quoi": "International Court of Justice to issue decision in Gambia vs Myanmar Rohingya genocide case",
+   "quand": "next week",
+   "quoi": "EU leaders to discuss the proposed €45 billion Ukraine loan package at the upcoming European Council summit",
    "liens": [
     {
-     "source": "Le Monde International",
-     "url": "https://www.lemonde.fr/international/article/2026/11/17/l-arret-tres-attendu-de-la-cour-internationale-de-justice-sur-la-question-du-genocide-des-rohingya_6813016_3210.html",
-     "titre": "L’arrêt très attendu de la Cour internationale de justice sur la question du génocide des Rohingya"
+     "source": "CNA Monde",
+     "url": "https://www.channelnewsasia.com/world/eu-proposes-45-billion-euro-ukraine-loan-2027-6563706",
+     "titre": "EU proposes 45-billion-euro Ukraine loan for 2027"
+    }
+   ]
+  },
+  {
+   "quand": "January",
+   "quoi": "Hakeem Jeffries expected to assume the role of US House Speaker when the new Congress convenes",
+   "liens": [
+    {
+     "source": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
+     "titre": "Democrats nominate Hakeem Jeffries to be US Speaker of the House"
     },
     {
-     "source": "Straits Times Asie",
-     "url": "https://www.straitstimes.com/asia/explainer-what-is-the-international-court-of-justice",
-     "titre": "Explainer-What is the International Court of Justice?"
-    }
-   ]
-  },
-  {
-   "quand": "November 19",
-   "quoi": "Malaysia to conduct nation-wide cell broadcast test for natural disaster emergency alerts",
-   "liens": [
-    {
-     "source": "Straits Times Asie",
-     "url": "https://www.straitstimes.com/asia/se-asia/malaysian-public-will-get-mobile-alerts-to-natural-disasters-by-end-2026",
-     "titre": "Malaysian public will get mobile alerts to natural disasters by end 2026"
-    }
-   ]
-  },
-  {
-   "quand": "December 1",
-   "quoi": "Former Nvidia CEO Jensen Huang scheduled to testify before US Congress",
-   "liens": [
-    {
-     "source": "Le Monde International",
-     "url": "https://www.lemonde.fr/international/article/2026/11/17/jensen-huang-ex-patron-de-nvidia-sera-entendu-au-congres-le-1-decembre-sur-sa-liaison-avec-une-chinoise-soupconnee-d-espionnage_6813021_3210.html",
-     "titre": "Jensen Huang, ex-patron de Nvidia, sera entendu au Congrès, le 1ᵉʳ décembre, sur sa liaison avec une Chinoise soupçonnée d’espionnage"
-    }
-   ]
-  },
-  {
-   "quand": "January 2027",
-   "quoi": "Singapore to launch initial preparatory works and public engagement for 'Long Island' project",
-   "liens": [
-    {
-     "source": "CNA Singapour",
-     "url": "https://www.channelnewsasia.com/singapore/long-island-preparatory-works-january-2027-6558101",
-     "titre": "Preparatory works, new public engagement phase for 'Long Island' to begin in January 2027"
-    },
-    {
-     "source": "Straits Times Singapour",
-     "url": "https://www.straitstimes.com/singapore/environment/long-island-preparatory-works-off-east-coast-park-to-start-in-january-facilities-remain-open-to",
-     "titre": "Long Island preparatory works off East Coast Park to start in January; facilities remain open to public"
+     "source": "CNA Monde",
+     "url": "https://www.channelnewsasia.com/world/hakeem-jeffries-democrats-leader-us-house-first-black-speaker-6563476",
+     "titre": "US Democrats nominate Jeffries to be first Black House speaker"
     }
    ]
   }
  ],
  "hebdo": null,
  "stats": {
-  "articles": 435,
+  "articles": 432,
   "sources": 52
  }
 }

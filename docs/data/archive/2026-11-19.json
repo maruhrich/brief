@@ -1,0 +1,440 @@
+{
+ "date": "2026-11-19",
+ "date_label": "Thursday, November 19, 2026",
+ "genere_le": "2026-11-19T11:53:10+08:00",
+ "mode": "ia",
+ "modele": "gemini-3.5-flash-lite",
+ "accroche": [
+  "Xi, Trump and Putin hold historic trilateral talks in Shenzhen",
+  "Ukrainian drone strikes sever road span of Kerch Bridge again",
+  "US considers new strikes on Iran as regional tensions escalate"
+ ],
+ "essentiel": [
+  {
+   "suite": true,
+   "remplace": "2026-11-16|China confirms first Xi-Trump-Putin trilateral summit in Shenzhen",
+   "emoji": "🤝",
+   "titre": "Xi, Trump and Putin hold first-ever trilateral summit in Shenzhen",
+   "resume": "US President Donald Trump, Chinese President Xi Jinping and Russian President Vladimir Putin met for unprecedented trilateral talks on the sidelines of the APEC summit in Shenzhen. Discussions focused on nuclear arms control, trade and regional security.",
+   "pourquoi": "",
+   "pays": [
+    "United States",
+    "China",
+    "Russia"
+   ],
+   "region": "North-East Asia",
+   "rubrique": "asie",
+   "liens": [
+    {
+     "source": "France 24 Asie",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20261119-rencontre-trilat%C3%A9rale-%C3%A0-shenzhen-les-int%C3%A9r%C3%AAts-de-xi-trump-et-poutine",
+     "titre": "Rencontre trilatérale à Shenzhen : les intérêts de Xi, Trump et Poutine"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/apec-live-trump-xi-and-putin-to-meet-in-historic-three-way-china-summit?traffic_source=rss",
+     "titre": "APEC Live: Trump, Xi and Putin to meet in historic three-way China summit"
+    }
+   ],
+   "visuel": null,
+   "id": "2026-11-19|Xi, Trump and Putin hold first-ever trilateral summit in Shenzhen"
+  },
+  {
+   "suite": true,
+   "remplace": "2026-11-18|Ukrainian strikes sever road span of Kerch Bridge",
+   "emoji": "🌉",
+   "titre": "Kerch Bridge struck again by Ukrainian drone attacks",
+   "resume": "Russian authorities reported that the Kerch Bridge linking Russia to Crimea was severely damaged following fresh Ukrainian drone and missile strikes. Traffic across the strategic link remains suspended.",
+   "pourquoi": "",
+   "pays": [
+    "Ukraine",
+    "Russia"
+   ],
+   "region": "Russia-Ukraine",
+   "rubrique": "ukraine",
+   "liens": [
+    {
+     "source": "Le Monde International",
+     "url": "https://www.lemonde.fr/international/live/2026/11/19/en-direct-guerre-en-ukraine-le-pont-de-crimee-de-nouveau-touche-deux-jours-apres-des-frappes-ukrainiennes-ayant-serieusement-endommage-l-infrastructure_6810982_3210.html",
+     "titre": "EN DIRECT, guerre en Ukraine : le pont de Crimée de nouveau touché, deux jours après des frappes ukrainiennes ayant sérieusement endommagé l’infrastructure"
+    },
+    {
+     "source": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+     "titre": "Crimean Bridge attacked again, Russian official says"
+    },
+    {
+     "source": "The War Zone",
+     "url": "https://www.twz.com/news-features/ukraine-strikes-kerch-bridge-once-again-crimea-governor",
+     "titre": "Ukraine Strikes Kerch Bridge Once Again: Crimea Governor"
+    }
+   ],
+   "visuel": null,
+   "id": "2026-11-19|Kerch Bridge struck again by Ukrainian drone attacks"
+  },
+  {
+   "suite": false,
+   "remplace": null,
+   "emoji": "⚠️",
+   "titre": "US weighs fresh strikes on Iran as Houthi hostilities persist",
+   "resume": "Washington is reportedly weighing new military strikes against Iran amid escalating regional flare-ups. Meanwhile, Saudi-led coalition forces intercepted Houthi missile and drone attacks targeting Riyadh.",
+   "pourquoi": "",
+   "pays": [
+    "United States",
+    "Iran",
+    "Saudi Arabia",
+    "Yemen"
+   ],
+   "region": "Middle East",
+   "rubrique": "moyen_orient",
+   "liens": [
+    {
+     "source": "Haaretz",
+     "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPOWNIbXNuWWxDb05iODB4cmRjQ05QYUVNX2NpcjgxMWhTbnhoeHRZQkJlNG52eHNnZ0VvRkFlN25CcWpjeTkzUmk3MXFjWXEyQjB3eVpVbFZhdGhyNmktNThFQVB0N0x0dHdUMmtLM0hKX3R5Snl4TERTR19XNHFnRlpmVU1IZ3FpYjhoS19lc25tTHhObHhibW5kZXlPX19OU0VfU2V6anVLT1ZIOWxVT0VibVRUdGtiX3VxVW1lVGxubE1zakp2TkN0X1hNU1NMQy1DMzhFLWE0OTFvQXJZNng2WkIxUml1UG82OVY4MHB2WXRqVlg2djVjZHNSZG9nQ0wtZ3dPRnlpc3llajdWWG16dw?oc=5",
+     "titre": "Netanyahu Presses Trump for Four-to-Seven-Day Campaign Against Iran, NYT Reports"
+    },
+    {
+     "source": "Al-Monitor",
+     "url": "https://www.al-monitor.com/originals/2026/11/saudi-crown-prince-meets-us-centcom-chief-amid-escalating-houthi-hostilities",
+     "titre": "Saudi crown prince meets US CENTCOM chief amid escalating Houthi hostilities"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-saudi-led-coalition-strikes-yemen-ships-on-fire-in-hormuz?traffic_source=rss",
+     "titre": "Iran war live: Trump says Iran seeks new weapons; Houthis target Riyadh"
+    }
+   ],
+   "visuel": null,
+   "id": "2026-11-19|US weighs fresh strikes on Iran as Houthi hostilities persist"
+  }
+ ],
+ "rubriques": [
+  {
+   "id": "monde",
+   "titre": "World",
+   "items": []
+  },
+  {
+   "id": "asie",
+   "titre": "APAC",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🇯🇵",
+     "titre": "Japan PM Takaichi and Putin hold first talks in seven years",
+     "resume": "Japanese Prime Minister Sanae Takaichi and Russian President Vladimir Putin held a 30-minute bilateral meeting on the sidelines of the APEC summit in China. It marked the first leaders' talks between the two nations in seven years.",
+     "pourquoi": "",
+     "pays": [
+      "Japan",
+      "Russia",
+      "China"
+     ],
+     "region": "North-East Asia",
+     "rubrique": "asie",
+     "liens": [
+      {
+       "source": "Japan Times",
+       "url": "https://www.japantimes.co.jp/news/2026/11/19/japan/politics/takaichi-putin-russia-japan-talks/",
+       "titre": "Takaichi and Putin meet on APEC sidelines amid ongoing tensions"
+      },
+      {
+       "source": "Straits Times Asie",
+       "url": "https://www.straitstimes.com/asia/japan-says-pm-takaichi-putin-held-talks-at-apec-summit-in-china",
+       "titre": "Japan says PM Takaichi, Putin held talks at APEC summit in China"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-19|Japan PM Takaichi and Putin hold first talks in seven years"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🇰🇷",
+     "titre": "South Korea's Lee expresses hope for peace talks with North Korea",
+     "resume": "South Korean President Lee Jae Myung voiced hope for dialogue with North Korea to establish lasting peace during discussions in Shenzhen. Meanwhile, the IAEA noted that Pyongyang continues expanding its Yongbyon uranium enrichment facility.",
+     "pourquoi": "",
+     "pays": [
+      "South Korea",
+      "North Korea"
+     ],
+     "region": "North-East Asia",
+     "rubrique": "asie",
+     "liens": [
+      {
+       "source": "Yonhap (Corée du Nord)",
+       "url": "https://en.yna.co.kr/view/AEN20261119004151315",
+       "titre": "(LEAD) S. Korea's Lee voices hope for talks with N. Korea to establish lasting peace"
+      },
+      {
+       "source": "France 24 Asie",
+       "url": "https://www.france24.com/fr/asie-pacifique/20261118-cor%C3%A9e-du-nord-extension-nucl%C3%A9aire-yongbyon-constat%C3%A9e-par-aiea-agence-internationale-%C3%A9nergie-atomique",
+       "titre": "Corée du Nord : le gendarme du nucléaire constate une extension du site de Yongbyon"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-19|South Korea's Lee expresses hope for peace talks with North Korea"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🇮🇩",
+     "titre": "Indonesia signs major economic and strategic deals with China",
+     "resume": "Indonesian President Prabowo Subianto witnessed the signing of four strategic partnerships with China worth US$71.8 billion during the APEC summit. Jakarta is also reviewing the potential local impact of tightened US AI chip restrictions.",
+     "pourquoi": "",
+     "pays": [
+      "Indonesia",
+      "China"
+     ],
+     "region": "South-East Asia",
+     "rubrique": "asie",
+     "liens": [
+      {
+       "source": "CNA Asie",
+       "url": "https://www.channelnewsasia.com/asia/us-ai-chip-restrictions-indonesia-investment-6562091",
+       "titre": "US AI chip export curbs: Indonesia reviews potential effects as analysts warn of investment, operational impact"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-19|Indonesia signs major economic and strategic deals with China"
+    }
+   ]
+  },
+  {
+   "id": "elections",
+   "titre": "Elections & Politics",
+   "items": []
+  },
+  {
+   "id": "defense_aerienne",
+   "titre": "Air & Missile Defence",
+   "items": []
+  },
+  {
+   "id": "industrie",
+   "titre": "Defence Industry & Contracts",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "💰",
+     "titre": "Anthropic raises over $80 billion in record-breaking stock market debut",
+     "resume": "AI giant Anthropic priced its shares at $83 to raise more than $81 billion in its initial public offering. The blockbuster debut ranks as one of the largest market entries in history.",
+     "pourquoi": "",
+     "pays": [
+      "United States"
+     ],
+     "region": "Americas",
+     "rubrique": "industrie",
+     "liens": [
+      {
+       "source": "BBC World",
+       "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+       "titre": "AI giant Anthropic valued at up to $1.5tn ahead of stock market debut"
+      },
+      {
+       "source": "Japan Times",
+       "url": "https://www.japantimes.co.jp/business/2026/11/19/tech/anthropic-ipo-83-per-share/",
+       "titre": "Anthropic IPO raises $107.3 billion to top SpaceX’s record debut"
+      },
+      {
+       "source": "Al Jazeera",
+       "url": "https://www.aljazeera.com/economy/2026/11/19/anthropic-raises-81-3bn-in-biggest-ipo-of-all-time?traffic_source=rss",
+       "titre": "Anthropic raises $81.3bn in biggest IPO of all time"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-19|Anthropic raises over $80 billion in record-breaking stock market debut"
+    }
+   ]
+  },
+  {
+   "id": "ukraine",
+   "titre": "Ukraine / Russia",
+   "items": []
+  },
+  {
+   "id": "moyen_orient",
+   "titre": "Middle East",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🇮🇱",
+     "titre": "Israeli military launches ground operation in central Gaza",
+     "resume": "The Israeli military announced the launch of a new ground operation in central Gaza beyond the Yellow Line. Palestinian residents reported heavy shelling and displacement as tanks advanced.",
+     "pourquoi": "",
+     "pays": [
+      "Israel"
+     ],
+     "region": "Middle East",
+     "rubrique": "moyen_orient",
+     "liens": [
+      {
+       "source": "Japan Times",
+       "url": "https://www.japantimes.co.jp/news/2026/11/19/world/israel-ground-operation-gaza/",
+       "titre": "Israel launches ground operation in central Gaza as dozens flee"
+      },
+      {
+       "source": "BBC World",
+       "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+       "titre": "Israeli military launches rare ground operation in Gaza beyond Yellow Line"
+      },
+      {
+       "source": "CNA Monde",
+       "url": "https://www.channelnewsasia.com/world/israel-army-launches-ground-operation-in-hamas-controlled-area-gaza-6563626",
+       "titre": "Israel army launches ground operation in Hamas-controlled area of Gaza"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-19|Israeli military launches ground operation in central Gaza"
+    }
+   ]
+  },
+  {
+   "id": "europe",
+   "titre": "Europe",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🇪🇺",
+     "titre": "European Commission proposes €45 billion loan package for Ukraine in 2027",
+     "resume": "The European Commission proposed a new €45 billion loan for Ukraine to help cover funding gaps next year. EU leaders are scheduled to discuss the plan at an upcoming summit.",
+     "pourquoi": "",
+     "pays": [
+      "European Union",
+      "Ukraine"
+     ],
+     "region": "Europe",
+     "rubrique": "europe",
+     "liens": [
+      {
+       "source": "Le Monde International",
+       "url": "https://www.lemonde.fr/international/article/2026/11/18/guerre-en-ukraine-la-commission-europeenne-met-sur-la-table-un-nouvel-emprunt-europeen-pour-financer-l-aide-a-kiev_6813206_3210.html",
+       "titre": "Guerre en Ukraine : la Commission européenne met sur la table un nouvel emprunt européen pour financer l’aide à Kiev"
+      },
+      {
+       "source": "CNA Monde",
+       "url": "https://www.channelnewsasia.com/world/eu-proposes-45-billion-euro-ukraine-loan-2027-6563706",
+       "titre": "EU proposes 45-billion-euro Ukraine loan for 2027"
+      },
+      {
+       "source": "Defense News",
+       "url": "https://www.defensenews.com/global/europe/2026/11/18/eu-proposes-e45-billion-ukraine-loan-to-be-repaid-after-russia-pays-reparations/",
+       "titre": "EU proposes €45 billion Ukraine loan, to be repaid after Russia pays reparations"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-19|European Commission proposes €45 billion loan package for Ukraine in 2027"
+    }
+   ]
+  },
+  {
+   "id": "espace",
+   "titre": "Space & Satellites",
+   "items": []
+  },
+  {
+   "id": "tech",
+   "titre": "Emerging Tech",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🎮",
+     "titre": "Grand Theft Auto VI launches worldwide after 13-year wait",
+     "resume": "Rockstar Games launched Grand Theft Auto VI globally to near-universal acclaim. The release shatters pre-order records following a 13-year hiatus for the gaming franchise.",
+     "pourquoi": "",
+     "pays": [
+      "United States"
+     ],
+     "region": "Global",
+     "rubrique": "tech",
+     "liens": [
+      {
+       "source": "Japan Times",
+       "url": "https://www.japantimes.co.jp/life/2026/11/19/digital/grand-theft-auto-5-launch-reaction-rockstar/",
+       "titre": "‘Grand Theft Auto VI’ draws rave reviews as gamers return to Vice City"
+      },
+      {
+       "source": "Al Jazeera",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/gta-6-launches-after-13-year-wait-breaking-pre-order-records?traffic_source=rss",
+       "titre": "GTA 6 launches after 13-year wait, breaking pre-order records"
+      },
+      {
+       "source": "CNA Monde",
+       "url": "https://www.channelnewsasia.com/living/grand-theft-auto-goes-live-13-years-6562531",
+       "titre": "Grand Theft Auto VI launches worldwide to near-perfect reviews"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-19|Grand Theft Auto VI launches worldwide after 13-year wait"
+    }
+   ]
+  },
+  {
+   "id": "economie",
+   "titre": "Economy & Sanctions",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "📦",
+     "titre": "EU and Indonesia approve trade agreement to offset tariff pressures",
+     "resume": "European governments approved a comprehensive trade deal with Indonesia designed to mitigate trade friction. The agreement removes import duties on over 90 percent of mutual products.",
+     "pourquoi": "",
+     "pays": [
+      "European Union",
+      "Indonesia"
+     ],
+     "region": "Global",
+     "rubrique": "economie",
+     "liens": [
+      {
+       "source": "Al Jazeera",
+       "url": "https://www.aljazeera.com/economy/2026/11/19/eu-governments-approve-trade-deal-with-indonesia-to-offset-trump-tariffs?traffic_source=rss",
+       "titre": "EU governments approve trade deal with Indonesia to offset Trump tariffs"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-19|EU and Indonesia approve trade agreement to offset tariff pressures"
+    }
+   ]
+  }
+ ],
+ "a_surveiller": [
+  {
+   "quand": "next week",
+   "quoi": "EU leaders to discuss the proposed €45 billion Ukraine loan package at the upcoming European Council summit",
+   "liens": [
+    {
+     "source": "CNA Monde",
+     "url": "https://www.channelnewsasia.com/world/eu-proposes-45-billion-euro-ukraine-loan-2027-6563706",
+     "titre": "EU proposes 45-billion-euro Ukraine loan for 2027"
+    }
+   ]
+  },
+  {
+   "quand": "January",
+   "quoi": "Hakeem Jeffries expected to assume the role of US House Speaker when the new Congress convenes",
+   "liens": [
+    {
+     "source": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
+     "titre": "Democrats nominate Hakeem Jeffries to be US Speaker of the House"
+    },
+    {
+     "source": "CNA Monde",
+     "url": "https://www.channelnewsasia.com/world/hakeem-jeffries-democrats-leader-us-house-first-black-speaker-6563476",
+     "titre": "US Democrats nominate Jeffries to be first Black House speaker"
+    }
+   ]
+  }
+ ],
+ "hebdo": null,
+ "stats": {
+  "articles": 432,
+  "sources": 52
+ }
+}
