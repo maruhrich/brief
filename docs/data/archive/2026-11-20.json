@@ -1,0 +1,827 @@
+{
+ "date": "2026-11-20",
+ "date_label": "Friday, November 20, 2026",
+ "genere_le": "2026-11-20T11:45:26+08:00",
+ "mode": "ia",
+ "modele": "gemini-flash-latest",
+ "accroche": [
+  "ICJ delivers landmark genocide ruling against Myanmar over 2017 Rohingya crackdown",
+  "US Army deploys first AI-integrated IBCS Patriot air defence in South Korea",
+  "Western allies in Berlin discuss NATO-style security guarantees for Ukraine"
+ ],
+ "essentiel": [
+  {
+   "suite": false,
+   "remplace": null,
+   "emoji": "⚖️",
+   "titre": "ICJ finds Myanmar guilty of genocide against Rohingya",
+   "resume": "The International Court of Justice ruled that Myanmar committed state-sponsored genocide against the Rohingya minority during the 2017 military crackdown. The landmark verdict represents the first time an international court has found a state guilty of genocide.",
+   "pourquoi": "",
+   "pays": [
+    "Myanmar",
+    "Gambia",
+    "Netherlands"
+   ],
+   "region": "South-East Asia",
+   "rubrique": "asie",
+   "liens": [
+    {
+     "source": "BBC Asia",
+     "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
+     "titre": "Myanmar committed genocide against Rohingya minority, top UN court rules"
+    },
+    {
+     "source": "Le Monde International",
+     "url": "https://www.lemonde.fr/international/article/2026/11/19/rohingya-un-arret-historique-de-la-cour-de-justice-internationale-reconnait-la-birmanie-coupable-de-genocide_6813377_3210.html",
+     "titre": "Rohingya : un arrêt historique de la Cour de justice internationale reconnaît la Birmanie coupable de génocide"
+    },
+    {
+     "source": "BBC World",
+     "url": "https://www.bbc.co.uk/news/videos/c60qj10j0ld5o?at_medium=RSS&at_campaign=rss",
+     "titre": "Rohingya genocide: What was said in court and what happens now?"
+    },
+    {
+     "source": "The Diplomat",
+     "url": "https://thediplomat.com/2026/11/icj-delivers-historic-verdict-myanmar-guilty-of-genocide-against-the-rohingya/",
+     "titre": "ICJ Delivers Historic Verdict: Myanmar Guilty of Genocide Against the Rohingya"
+    }
+   ],
+   "visuel": null,
+   "id": "2026-11-20|ICJ finds Myanmar guilty of genocide against Rohingya"
+  },
+  {
+   "suite": false,
+   "remplace": null,
+   "emoji": "🛡️",
+   "titre": "US Army deploys first AI-integrated IBCS Patriot battery to South Korea",
+   "resume": "US Forces Korea confirmed Delta Battery has become the first operational Patriot unit to achieve IBCS operational certification. The AI-enabled command system integrates sensors and interceptors to accelerate target engagement against North Korean missile threats.",
+   "pourquoi": "",
+   "pays": [
+    "South Korea",
+    "United States"
+   ],
+   "region": "North-East Asia",
+   "rubrique": "defense_aerienne",
+   "liens": [
+    {
+     "source": "Defence Industry Europe",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUS0tc1hZV3BWMzM2VXRhbWhqdW9vS0xXejZwQ3VXMVcwYXlYZlR1a1VvV1dlZ3FvbkdLRU0xTlB6R3dxZHIweG1ORW9ic2R5dFAtc3hJczRyOFRvTWVoVklRbEhlT2ZxZTZ1OVN1SjJVckkxa1ZTMFNrTlRIWktXU0x1LXVCcUl6aG5IT3JUYy16aVU3WFRtWVM1QW9hdUtlTXpTX2w0MTdhNmdxbW9naWxVSHhHa1Q3Z3JlbERR?oc=5",
+     "titre": "U.S. Army says Delta Battery is first operational Patriot unit to complete IBCS certification"
+    },
+    {
+     "source": "조선일보",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVjdlSXBGNlA1c3c3T1hrNE80eVVUeW9xeGZuNGxyOXhvaWx2UGxENFdOZVI1YjZrcEFOaHRvNVpaem5SYXpHclM1ZC15SU14NGRrOUVqai1VZzhadGlaTE0tTVJpR3o4U0FScEVyUkZJVERUZWJiYWpBSmpkTG1tY2VzUFBqVndX?oc=5",
+     "titre": "U.S. Forces Korea Deploys AI-Enhanced Patriot System"
+    },
+    {
+     "source": "뉴스1",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5URHBhRjN2Yk9femJWb2tULTd0clNhVmRFNWV3R2J2Skt3WGV5WDd0YXo0ei1hLVFHRW5IaXpQYWs3Z2dMV3h2UDdvSjhSTFRfbFhFejU5eWpkLXgxc2FVMk0tdG5taUU?oc=5",
+     "titre": "주한미군, AI 기반 차세대 방공 지휘체계 'IBCS' 실전 운용 돌입"
+    }
+   ],
+   "visuel": {
+    "nom": "MIM-104 Patriot",
+    "description": "American surface-to-air missile system since 1981",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/U-s-service-members-stand-by-a-patriot-missile-battery-in-gaziantep-turkey.jpg/960px-U-s-service-members-stand-by-a-patriot-missile-battery-in-gaziantep-turkey.jpg",
+    "page": "https://en.wikipedia.org/wiki/MIM-104_Patriot",
+    "type": "platform"
+   },
+   "id": "2026-11-20|US Army deploys first AI-integrated IBCS Patriot battery to South Korea"
+  },
+  {
+   "suite": false,
+   "remplace": null,
+   "emoji": "🤝",
+   "titre": "Western coalition discusses NATO-style security guarantees for Ukraine",
+   "resume": "Meeting in Berlin, French President Emmanuel Macron urged Ukraine's allies to reopen talks on Kyiv's NATO accession. US envoy Jared Kushner indicated Donald Trump is open to extending mutual defence-type guarantees to Ukraine.",
+   "pourquoi": "",
+   "pays": [
+    "Ukraine",
+    "France",
+    "Germany",
+    "United States"
+   ],
+   "region": "Europe",
+   "rubrique": "ukraine",
+   "liens": [
+    {
+     "source": "The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNT0NBME5lcEdSYzBycGFKdDhzaHJ2MU5iU1RsYnlxaFRYaHc4SU1YU0s3bTZyd3EwNHItMTBSY2FvOHBjaW9pcjRxNkRBVWRISk1YYUNHcHAwZXJ4MHBxZU5TUzJoTFhMbTZUSzJSckpFS3NqcGhBXzNpb21scGc4Y3hQSjFsTFpkWVllREUwSkJ2TGhmck91dl92aVRtWi1lSjBNUE9wVUQzZHIyREdIZkFSOGVra01RWUVPaGk1SFdRZk1FZkRwaU5tYmJNcE91el81QXduSjg?oc=5",
+     "titre": "Ukraine war briefing: Trump ‘open’ to Kyiv getting Nato-like mutual defence guarantee, says Kushner"
+    },
+    {
+     "source": "Le Monde International",
+     "url": "https://www.lemonde.fr/international/live/2026/11/20/en-direct-guerre-en-ukraine-donald-trump-est-ouvert-a-l-idee-d-une-protection-de-l-ukraine-par-l-otan-assure-l-emissaire-americain-jared-kushner_6810982_3210.html",
+     "titre": "EN DIRECT, guerre en Ukraine : Donald Trump est « ouvert à l’idée » d’une protection de l’Ukraine par l’OTAN, assure l’émissaire américain Jared Kushner"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdlJnSGR1SWI4TnZ5UHc4TzlBc215UXN4ZVRvYVZ0OHc2Uk9uTjN6N2hPZ212Z090eXpHWFB1bTgxVDFhSnBhOWFONkJ5NlU4cUNoWXNVYUpHR2VuOWtuT3pXa05QclJoM0kwZ1RmYnZPaHA4cVg3eU9WVjUtTVBKUG8zeGdWVkxVYXV5dUl2dk9raWFhTFFzVXlsWEVKbHZseUFpb01CLVQ5d9IBrwFBVV95cUxNLVN5MWFBRlFfZzZxY3g3amFZUktOcnM0XzItRFkteVl2dEM2c2Utem5kVU9EaXZmLVR5NmE2Y0tSOTM3cjF3VXdySmNMdE13OV9kQ0dQbG9XSWFvSWs4ZDJlYVVhMnRZZHF0c2RsazJwTnlvZkVIU3BacGRpUmtjMnVPeFd1Wlhqay1CMTVYUlBZTHowb2ZtZ3RkSW1FMjdQakFWakJnaUVTdUtCZTNF?oc=5",
+     "titre": "Kushner says Russia ‘comfortable’ with NATO-like guarantees for Ukraine"
+    },
+    {
+     "source": "France 24",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTXFhaHdpdUN2U0E1VDlJbTdqXzJmR3hTaVZvWVFIN2k0TTBrN1gwMlFNSF92ODBXZXFCVGJjRFBjZGN1bjdVbTN3Z3lxSkx5YUNQM3pGZE1tTVd4OXdoNFFOM1VjZTZ0YmlYV1RGa01DUVUtbFFudDZCcWdpUlltWTV1d1BPei1OTEI4TnB6cVp1SlZuTFdiX2dSZFQySjdfU2pWT0FEWQ?oc=5",
+     "titre": "Kushner says Trump 'open' to extend NATO mutual defense-type clause to Ukraine"
+    }
+   ],
+   "visuel": null,
+   "id": "2026-11-20|Western coalition discusses NATO-style security guarantees for Ukraine"
+  },
+  {
+   "suite": false,
+   "remplace": null,
+   "emoji": "📝",
+   "titre": "United States signs military cooperation agreement with Venezuela",
+   "resume": "US Defence Secretary Pete Hegseth announced a bilateral defence cooperation pact during a visit to Caracas. The agreement formalises security ties following the removal of Nicolas Maduro by US special operations forces in January.",
+   "pourquoi": "",
+   "pays": [
+    "United States",
+    "Venezuela"
+   ],
+   "region": "Americas",
+   "rubrique": "monde",
+   "liens": [
+    {
+     "source": "CNA Monde",
+     "url": "https://www.channelnewsasia.com/world/hegseth-makes-lightning-fast-trips-ecuador-honduras-6566971",
+     "titre": "Hegseth makes lightning-fast trips to Ecuador, Honduras"
+    },
+    {
+     "source": "Defense News",
+     "url": "https://www.defensenews.com/pentagon/2026/11/19/hegseth-in-caracas-announces-us-venezuela-military-partnership-agreement/",
+     "titre": "Hegseth, in Caracas, announces US-Venezuela military partnership agreement"
+    },
+    {
+     "source": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo?at_medium=RSS&at_campaign=rss",
+     "titre": "Venezuela signs military deal with US less than a year after Maduro's removal"
+    }
+   ],
+   "visuel": {
+    "nom": "Pete Hegseth",
+    "description": "American government official and television personality (born 1980)",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Pete_Hegseth_Official_Portrait.jpg/960px-Pete_Hegseth_Official_Portrait.jpg",
+    "page": "https://en.wikipedia.org/wiki/Pete_Hegseth",
+    "type": "person"
+   },
+   "id": "2026-11-20|United States signs military cooperation agreement with Venezuela"
+  }
+ ],
+ "rubriques": [
+  {
+   "id": "monde",
+   "titre": "World",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "⚠️",
+     "titre": "Somalia expels UAE ambassador over alleged internal interference",
+     "resume": "The Somali government ordered the United Arab Emirates ambassador to depart within 72 hours and recalled its own envoy from Abu Dhabi. Mogadishu accused the Gulf state of violating national sovereignty and interfering in domestic affairs.",
+     "pourquoi": "",
+     "pays": [
+      "Somalia",
+      "United Arab Emirates"
+     ],
+     "region": "Africa",
+     "rubrique": "monde",
+     "liens": [
+      {
+       "source": "Al-Monitor",
+       "url": "https://www.al-monitor.com/originals/2026/11/somalia-orders-uae-ambassador-leave-citing-invasion",
+       "titre": "Somalia orders UAE ambassador to leave, citing 'invasion'"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-20|Somalia expels UAE ambassador over alleged internal interference"
+    }
+   ]
+  },
+  {
+   "id": "asie",
+   "titre": "APAC",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🇸🇬",
+     "titre": "RSAF and Indonesian Air Force plan 2027 live-fire drills at Siabu",
+     "resume": "The Republic of Singapore Air Force and the Indonesian Air Force agreed to conduct joint fighter live-fire exercises at the Siabu range in Riau in 2027. The initiative aims to enhance bilateral pilot operational readiness and tactical interoperability.",
+     "pourquoi": "",
+     "pays": [
+      "Singapore",
+      "Indonesia"
+     ],
+     "region": "South-East Asia",
+     "rubrique": "asie",
+     "liens": [
+      {
+       "source": "ANTARA News",
+       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZm9OQU9OWkEtRkVuenhfSllFdUloTjNuZnJia0V1QUhNQ1NDTzh5RFh0WEdXa2wyRENVS00yTnFNNTdmV1dyamdJVW00WmRNT1hfMGhabFpva3I3VjZkTVYteU5GMHJtcGZKUVJmYkhpOERyX05hQkdlWjZHX1lPSmxvTGhQVVR1c0VnSWtubklQMkF5ZDFIMGt0c2dKVGhuOEx4N2ZvcU5rd9IBqgFBVV95cUxOZm9OQU9OWkEtRkVuenhfSllFdUloTjNuZnJia0V1QUhNQ1NDTzh5RFh0WEdXa2wyRENVS00yTnFNNTdmV1dyamdJVW00WmRNT1hfMGhabFpva3I3VjZkTVYteU5GMHJtcGZKUVJmYkhpOERyX05hQkdlWjZHX1lPSmxvTGhQVVR1c0VnSWtubklQMkF5ZDFIMGt0c2dKVGhuOEx4N2ZvcU5rdw?oc=5",
+       "titre": "RI, Singapore air forces plan 2027 live-fire drills at Siabu Riau"
+      },
+      {
+       "source": "Antara News jatim",
+       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdVlUSXkzQnhheDJXQU9oUUN0YzA4R1hiSnFYdE5sVmVscjdQUTl5eXZKWllZMktlazFXMGxobVlCNFBfdUtFM09aY2tKNDB0MUhqanBVMmFudmRSZnJaTkd1VEZCQ2tkMUxTU0hGWFlPdTJTZ2h6bHFfUjJOZTZOM1dhdDZxYW90Tko1TGVNS1F5WVhGdjFXSGpJeEViNVpkeFRzNE1wLW4zS20ySmfSAbMBQVVfeXFMTzNnQWQxSjdRdHAzdUdxM2xuZGo2RktUMkdSTmk1TDBNMk81bC1rMU4tcGl2ejRiNHdyc0puZDVNbGxicGFHSEtxWXFfOFFQZVN1MGl3aVpBM0Q3VnhpZkU4bHpIRFhlSU1rd0VjbU5UcEh6Ui1nTHhzd29GNl90S0hmQ2ZOd2xDT2dOQkNRZTdndTVkaV95OXJfajNyaktpOHl5OGtLM2NJSDVrUURMU2ZHMTg?oc=5",
+       "titre": "TNI AU dan RSAF kerja sama manfaatkan area latihan pesawat tempur"
+      },
+      {
+       "source": "ANTARA News Gorontalo",
+       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdXFaeHljVFREcTA1Tm1UbkhnYmU5WW5EcDBzN09oY1VfS20tR0pFMzd0Q19YVWdVSTB4T1RBUzNkQmFwc0pGcnlaSV9KMjhhTXF2XzhQZkdSUXdPQW56Ty05b21WeVhOa2NjY1l3VUNDaWlyYm1kNGNROUlzM3QwM0NBenlIeHJUZUUxNmpwbXByUnRsa0p0aV81X0VYeXhKX3V3MS0taWpwcTRoOVRvQ0ZJRDRsUdIBtgFBVV95cUxQdXFaeHljVFREcTA1Tm1UbkhnYmU5WW5EcDBzN09oY1VfS20tR0pFMzd0Q19YVWdVSTB4T1RBUzNkQmFwc0pGcnlaSV9KMjhhTXF2XzhQZkdSUXdPQW56Ty05b21WeVhOa2NjY1l3VUNDaWlyYm1kNGNROUlzM3QwM0NBenlIeHJUZUUxNmpwbXByUnRsa0p0aV81X0VYeXhKX3V3MS0taWpwcTRoOVRvQ0ZJRDRsUQ?oc=5",
+       "titre": "TNI AU dan RSAF kerja sama manfaatan area latihan pesawat tempur"
+      },
+      {
+       "source": "ANTARA News Kepri",
+       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNd3hyT2RRYVBjTUZORlZ4NGlaQzdCOEV0Zk45djI4WnVRRFoxbEw2N3pSOTZETm1oLXJ2Mm83SUFPbVI2czh3YXNUV1ZnRWNBQW45NU5NcFA1aGc0eXduZ0dEZXYxMkM2a2YySnpWMUtpNnBUblYzTjZnSTg4S1JRM0xMQ2o4LS1EWFY3d3RDb0RpN2pCVXFlWW83N3lYRXpES2Zta0tKb0h2aXBGZmsxNURWZXBpR2ZGT2NDcG45WHlrYnNEOTlSTG1NamQ?oc=5",
+       "titre": "TNI AU dan AU Singapura kerja sama manfaatkan area latihan menembak dengan pesawat tempur"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-20|RSAF and Indonesian Air Force plan 2027 live-fire drills at Siabu"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🇸🇬",
+     "titre": "Singapore and France hold 22nd Defence Policy Dialogue",
+     "resume": "Singapore and France reaffirmed close defence relations during their 22nd Defence Policy Dialogue. Officials discussed deepening cooperation in multilateral security architectures, technology collaboration, and operational exchanges.",
+     "pourquoi": "",
+     "pays": [
+      "Singapore",
+      "France"
+     ],
+     "region": "South-East Asia",
+     "rubrique": "asie",
+     "liens": [
+      {
+       "source": "MINDEF Singapore",
+       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZcXZhanNESVVCUVdIeDFmRUJwN3BsbmVMc3U2RE5iYzFieXZWWlBXOHY2ZmpfRExnWDhaTWF0ZHRPM2RtbHVxOXN2NXpuYXJiUmFxUGFHUmw5VWJDLTNwaU1MekZaVFRyU2VzdVFPQVBoRnd5TS1VMw?oc=5",
+       "titre": "Singapore and France Strengthen Defence Relations through 22nd Defence Policy Dialogue"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-20|Singapore and France hold 22nd Defence Policy Dialogue"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🚀",
+     "titre": "India agrees to allow Japanese SDF missile test drills",
+     "resume": "India and Japan agreed during their fourth '2+2' ministerial dialogue to allow Japanese Self-Defense Forces to conduct missile testing on Indian firing ranges by 2027. The pact deepens bilateral defence industrial and operational links.",
+     "pourquoi": "",
+     "pays": [
+      "India",
+      "Japan"
+     ],
+     "region": "South Asia",
+     "rubrique": "asie",
+     "liens": [
+      {
+       "source": "Japan Times",
+       "url": "https://www.japantimes.co.jp/news/2026/11/20/japan/politics/japan-india-missile-tests-range-defense/",
+       "titre": "India to let Japan use firing ranges for missile tests"
+      },
+      {
+       "source": "防衛省",
+       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8wYklGM0o1WFJVTE5oM1F0SDhMa0R4dU1mbjY2VENtSGRxYy1XUHZzelJUWHhXaXViYy0zdnE3S3A5WGNHcUNWRy1jYWItQzJlQ21KOExtb3VtNHg3TDdRVGpUUmJfYlZaR3VQMF9FVzVfMWFSQmltbXdoTTQ2QQ?oc=5",
+       "titre": "日印防衛相共同プレスステートメント"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-20|India agrees to allow Japanese SDF missile test drills"
+    },
+    {
+     "suite": true,
+     "remplace": "2026-11-18|Russian strategic bombers land in Vietnam after traversing regional ADIZs",
+     "emoji": "🛩️",
+     "titre": "Russian Tu-95 bombers re-enter Taiwan air defence identification zone",
+     "resume": "Taiwanese air defences monitored two Russian Tu-95 strategic bombers transiting northwards through the island's eastern ADIZ on November 19. The flight marks the second such passage this week following previous incursions into Japanese airspace.",
+     "pourquoi": "",
+     "pays": [
+      "Taiwan",
+      "Russia",
+      "China"
+     ],
+     "region": "North-East Asia",
+     "rubrique": "asie",
+     "liens": [
+      {
+       "source": "毎日新聞",
+       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBJZXduWjRkZFpqdDNYeGtaNWhZbU9vMFNqOVJ0SmxhOVVxdU41QXpjbndWQVJjUDVDdkVlT1g1YmtyRkhHSlVsZWtlMG50ZE03bmk1dG4yc0JYX2phQVlHQW9IQzZCNmJY?oc=5",
+       "titre": "ロシア戦略爆撃機が台湾の防空識別圏に進入 今週2度目"
+      },
+      {
+       "source": "中華民國國防部- 全球資訊網",
+       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5acy1vXzhGa2FIdTBHRzV6RzR4RmQyYnBGU2hMMmV2eG9ndmtDenpZaThyb2k5cWh0OUQ1bTNWM1NOeW1OdDBDbWpSUmJmajJ6RVlhQllR?oc=5",
+       "titre": "國防部發布新聞稿，針對「俄羅斯軍機進入我東部防空識別區」乙情說明"
+      },
+      {
+       "source": "UDN",
+       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5NbzRlN2JfcTM4QmVDZ2JlVmpXdDJSMXJMbnJzcl9jaW1FMVQtM0Q3cWRRODUzQnR1LXR2eGgzdXBtcmZ0Y3BxQ013azNuVi1GVHfSAVdBVV95cUxQNjVHeHliSTVlNm1RNGpBVlN3VExqSWU0bXRRMTJidUE0eDZINV9HNG83cVdYVl9VNUhsQlVXVEVySGdJMnZnTFlXTEFFdklYalBuT2lONEU?oc=5",
+       "titre": "俄Tu-95轟炸機經台灣東部北返 國軍公布高清空拍照"
+      },
+      {
+       "source": "中央社 CNA",
+       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5vYTluNzlWMnlQcXFGUGRLSWIxOGR3ZGxvWEh5bnFmMW04amtIZGd6Z3hpT2JZeGpkakZ4OXZ3Ym1kei1HU1NmbnBRb0VtOVRKcl92SThOUHp5SGR5LW53?oc=5",
+       "titre": "2架次俄軍機再經台灣東部空域國防部發布監控照| 政治"
+      }
+     ],
+     "visuel": {
+      "nom": "Tupolev Tu-95",
+      "description": "Russian strategic bomber aircraft",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Tupolev_Tu-95_over_Moscow_Kustov_%28cropped%29.jpg/960px-Tupolev_Tu-95_over_Moscow_Kustov_%28cropped%29.jpg",
+      "page": "https://en.wikipedia.org/wiki/Tupolev_Tu-95",
+      "type": "platform"
+     },
+     "id": "2026-11-20|Russian Tu-95 bombers re-enter Taiwan air defence identification zone"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🚢",
+     "titre": "US considers $2 billion defence financing for the Philippines",
+     "resume": "Washington is exploring up to $2 billion in defence financing to bolster Philippine maritime domain awareness and deterrence in the South China Sea. The potential funding follows high-level bilateral security discussions.",
+     "pourquoi": "",
+     "pays": [
+      "Philippines",
+      "United States"
+     ],
+     "region": "South-East Asia",
+     "rubrique": "asie",
+     "liens": [
+      {
+       "source": "Philstar.com",
+       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZFRCbHhTOU81N0RNejc3SUdpby12Vl93bWJaQzNzdHBiOUQ2UVBnX2VuaFUxWHU2cElnUklmcC1sUDdBNFJVVVBtSkdpQkVzM1U2R3ZaZ2lGNWN2M1lDTFhCV2JneUR4NlEtakk5aWJuc0YzY0xoU3hOSEdxWVc2QXVaZExvMnJ4RS1xemZKSFV0OWJzTVY3R0pZaWZCbHB6U0tsdmwwUHhDc2R5WnZsdnR6V2Z2dXh6LUZ0N2FPbUdabDh4dWV6ZkhadU0?oc=5",
+       "titre": "US eyes $2 billion financing for Philippines defense, West Philippine Sea deterrence"
+      },
+      {
+       "source": "INQUIRER.net USA",
+       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Fc1V4enJLRG1QclIwQTN4bDNWWkJxVkpuWXF4NnBPcW80dVg0QjcwbDlwQ0g2Zks2VDN4Z2o5V3d2bzNDeEVYT19xRXRnVjhGYk16VVp2SzFOaEx1U2pvbVc0alE0dld4d3RIQUZjZGpSdkpxdkE?oc=5",
+       "titre": "US to spend $400M for PH sea defense"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-20|US considers $2 billion defence financing for the Philippines"
+    }
+   ]
+  },
+  {
+   "id": "elections",
+   "titre": "Elections & Politics",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "⚖️",
+     "titre": "South Korea Supreme Court orders retrial of ex-PM Han Duck-soo",
+     "resume": "South Korea's Supreme Court overturned the 15-year prison sentence imposed on former prime minister Han Duck-soo over his role in the 2024 martial law attempt. The court remitted the case, citing insufficient evidence regarding an insurrection charge.",
+     "pourquoi": "",
+     "pays": [
+      "South Korea"
+     ],
+     "region": "North-East Asia",
+     "rubrique": "elections",
+     "liens": [
+      {
+       "source": "CNA Asie",
+       "url": "https://www.channelnewsasia.com/east-asia/south-korea-former-prime-minister-han-duck-soo-retrial-sentencing-6565916",
+       "titre": "South Korea's Supreme Court orders retrial for ex-PM Han over his role in martial law attempt"
+      },
+      {
+       "source": "Straits Times Asie",
+       "url": "https://www.straitstimes.com/asia/east-asia/south-korea-court-orders-retrial-of-ex-pm-han-in-martial-law-case",
+       "titre": "South Korea court orders retrial of ex-PM Han in martial law case"
+      }
+     ],
+     "visuel": {
+      "nom": "Han Duck-soo",
+      "description": "Prime Minister of South Korea (2007–2008; 2022–2025)",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Prime_Minister_of_South_Korea_HAN_Duck-soo_20240516.jpg/960px-Prime_Minister_of_South_Korea_HAN_Duck-soo_20240516.jpg",
+      "page": "https://en.wikipedia.org/wiki/Han_Duck-soo",
+      "type": "person"
+     },
+     "id": "2026-11-20|South Korea Supreme Court orders retrial of ex-PM Han Duck-soo"
+    }
+   ]
+  },
+  {
+   "id": "defense_aerienne",
+   "titre": "Air & Missile Defence",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🛡️",
+     "titre": "Denmark ratifies US Greenland security pact including missile defence",
+     "resume": "The Danish parliament unanimously approved a security agreement with the United States regarding Greenland. The accord facilitates expanded Arctic security arrangements, including potential integration into the proposed 'Golden Dome' missile defence network.",
+     "pourquoi": "",
+     "pays": [
+      "Denmark",
+      "United States",
+      "Greenland"
+     ],
+     "region": "Europe",
+     "rubrique": "defense_aerienne",
+     "liens": [
+      {
+       "source": "Defense News",
+       "url": "https://www.defensenews.com/global/europe/2026/11/19/denmark-ratifies-trump-deal-over-greenland-hoping-to-end-conflict/",
+       "titre": "Denmark ratifies Trump deal over Greenland, hoping to end conflict"
+      },
+      {
+       "source": "The Times of Israel",
+       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPY0NuNTZIT3JGNkowN1lHN3FKMjdrUG1kcmZHV0pLaW05UThCcllKSldzWGdCOWlXUDdUV1Q3NlVSazZva0FRM2tHZEY1cnd3TThLWjJydnFIeUF0QUpmVHNTM1pOLVlGdmxXQjN4dnl6YU9Zb04xaHJCckt3N0xQOXBRVHZkeGtSSGwxWGR1TWhIOWVnZkJXWkczNS1aS25LM3ZVTFFOYXRPQ0ZtR196YzF1enZXNGdqTWg1ekxzRFcxQ3hqWU9oY0NiQmNLMTdCYmFjeG9n?oc=5",
+       "titre": "Denmark ratifies Trump's Greenland deal, including potential 'Golden Dome' missile defense system"
+      },
+      {
+       "source": "France 24",
+       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTDZrTS1pOXJzLTN4TWh5MlVuaTBFSGphdHJwMXNkbnJ0Zk5PdG50NTNnRWJJYXAydUdpZklPRVdJeVRMNFpXX19DMFhEcVVEOFlUNVRqaWprQzJEUVQyU0ZhMzZZQmxmMURlWExoUWlwamJuTm5lS0otSnczUl8yNmZpczJxQV9IM0VMWDgwS2F6bDgwU0VfODdESnpLOGhlbjBOY0FvVGRlQ1RfdkhiT1VaRXI3Q3JCNzdYekxYSzV5OGZtVlRtVTBVQVk4dm45?oc=5",
+       "titre": "Le Danemark ratifie l'accord de sécurité avec les États-Unis et le Groenland"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-20|Denmark ratifies US Greenland security pact including missile defence"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "📡",
+     "titre": "Leidos secures contract for 14 US Marine Corps MRADR radars",
+     "resume": "Leidos received an award to manufacture 14 Medium-Range Air Defense Radars (MRADR) for the US Marine Corps. The low-signature radar systems are designed to enhance expeditionary air surveillance and target acquisition against cruise missiles and drones.",
+     "pourquoi": "",
+     "pays": [
+      "United States"
+     ],
+     "region": "Americas",
+     "rubrique": "defense_aerienne",
+     "liens": [
+      {
+       "source": "Defence Industry Europe",
+       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdzZCUXd1UmR2VWsweXVERGhURkoycnJuWXFITUJORlZHOThiTThMTkJ6WUZvVXFQUVFDSVB1OWRHelAybk0zeTllNzFiMUxNRVpRLTFpa3Q1STRwdEdVNzIzb2ZvLUhxcUJQOHduLUx4Y2lyRUYwM3o0Zmg1STRvd09nemRkVUMya1RaTnhDSk56cGRsTk45VmYzczRyRHBTY1RYUDBNbnVONkVwMkVLODBnZHNTNjZXakZXVEItLXdhT3RHYXpUa1NQLXloUlBqVTZTTXREeUdlQVliMlMw?oc=5",
+       "titre": "Leidos to build 14 low-signature air defense radars for U.S. Marine Corps, moving MRADR program toward broader fielding"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-20|Leidos secures contract for 14 US Marine Corps MRADR radars"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🚙",
+     "titre": "KNDS unveils AI-enabled Fennek Air mobile counter-drone vehicle",
+     "resume": "KNDS showcased a prototype of the Fennek Air mobile counter-UAS vehicle at the NEDS exhibition. The platform uses artificial intelligence to automate drone detection, tracking, and engagement in contested tactical environments.",
+     "pourquoi": "",
+     "pays": [
+      "Germany",
+      "Netherlands",
+      "France"
+     ],
+     "region": "Europe",
+     "rubrique": "defense_aerienne",
+     "liens": [
+      {
+       "source": "Unmanned airspace",
+       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdkJ6QV9OeXhjRW1ZNkV3bzRYNUtOek5oTHhrWlFlNVNzQ1FBekdETWk4WFI4OTBiLVYzdjM5cV9XUkQ2aE45YnA1SC1XYTNCdXdsVjEzWFBvRkJaVW9ZVGMwcFpjb1habG1xcWVGNmZSbVFNVnFsR3V5djhndjdCRXA5RktBWHNRSTlHaGVwbjV1cnlVNWw1NzNlTllKdll3SnVFZ2tWT2ZBaU5NLVN5N3JJVU1na3F3b1lYN2ticzY0UzZmSVkxRkFXVkFWVWwzXzBzOA?oc=5",
+       "titre": "KNDS launches AI-based FENNEK AIR mobile counter-UAS prototype at NEDS"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-20|KNDS unveils AI-enabled Fennek Air mobile counter-drone vehicle"
+    }
+   ]
+  },
+  {
+   "id": "industrie",
+   "titre": "Defence Industry & Contracts",
+   "items": [
+    {
+     "suite": true,
+     "remplace": "2026-11-18|France and Malaysia sign strategic defence and rare earths partnership",
+     "emoji": "📝",
+     "titre": "Malaysia weighs RM2 billion procurement of KNDS France LG1 howitzers",
+     "resume": "Kuala Lumpur is considering acquiring 36 additional 105mm LG1 light artillery howitzers from KNDS France in a deal valued at RM2 billion. The potential purchase builds on defence cooperation discussions held during President Macron's recent state visit.",
+     "pourquoi": "",
+     "pays": [
+      "Malaysia",
+      "France"
+     ],
+     "region": "South-East Asia",
+     "rubrique": "industrie",
+     "liens": [
+      {
+       "source": "Opex360",
+       "url": "https://www.opex360.com/2026/11/19/la-malaisie-envisage-de-commander-36-canons-lg1-de-105-mm-supplementaires-a-knds-france/",
+       "titre": "La Malaisie envisage de commander 36 canons LG1 de 105 mm supplémentaires à KNDS France"
+      },
+      {
+       "source": "NST Online",
+       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOa0JCQmhPaE14RW1rYUNROGtITnhURkczRnd1cVpLSExEOUtmY3ZLZGsybHZOY2J0SzdWeUdzZDEzeTE4M2ZmUDhZWEJBa1FsQm50Y3htMFlvTmtCQXZWQXdBSlBiRXdUX3NyTlBWVTZxSkhBNTdiQ3M1SWU4NlhYQXU1X0pici0yNjBETjVJMHM2ZEMzbWRRV3dhUXMwblFPUDZUNU5uRnVJZGpubmllNtIBtgFBVV95cUxPNHM4VDc0bkZiUGFXQXNjUl9kTmMyMkwtWlpReUJNdkFUWVcxWDBDNF92SjdlTWlIVm1vOFh0QUc3Z3FSejNzSGh2VjlROFM4RXdtT0gwdkRuald3Uy1WeWNaTS1GekNKbm9fMWN4S3FCMzJsSWJ4c19takc4RGx4cHNBc3p0TU5EZlRoM0xtdWE4Rkh1X2pnUTFQSk9PeERVMWFwNDAyaFFUcEVZd2FMTFR6T1RVQQ?oc=5",
+       "titre": "Malaysia looking at RM2 billion defence procurement deal with France"
+      }
+     ],
+     "visuel": {
+      "nom": "GIAT LG1",
+      "description": "Howitzer",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Royal_Thai_Army_firing_LG1_howitzer_with_extended_range_ammunition.jpg/960px-Royal_Thai_Army_firing_LG1_howitzer_with_extended_range_ammunition.jpg",
+      "page": "https://en.wikipedia.org/wiki/GIAT_LG1",
+      "type": "platform"
+     },
+     "id": "2026-11-20|Malaysia weighs RM2 billion procurement of KNDS France LG1 howitzers"
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🤝",
+     "titre": "European Commission approves Thales and Kongsberg joint venture",
+     "resume": "The European Commission cleared the establishment of a joint venture in Norway between Thales and Kongsberg. The approved entity will focus on integrating naval and tactical defence systems for European armed forces.",
+     "pourquoi": "",
+     "pays": [
+      "France",
+      "Norway",
+      "European Union"
+     ],
+     "region": "Europe",
+     "rubrique": "industrie",
+     "liens": [
+      {
+       "source": "FOB",
+       "url": "https://forcesoperations.com/leurope-valide-le-rapprochement-entre-thales-et-kongsberg/",
+       "titre": "L’Europe valide le rapprochement entre Thales et Kongsberg"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-20|European Commission approves Thales and Kongsberg joint venture"
+    }
+   ]
+  },
+  {
+   "id": "ukraine",
+   "titre": "Ukraine / Russia",
+   "items": [
+    {
+     "suite": true,
+     "remplace": "2026-11-19|Kerch Bridge struck again by Ukrainian drone attacks",
+     "emoji": "⚠️",
+     "titre": "Putin rejects ceasefires as satellite data shows Kerch rail bridge damage",
+     "resume": "Vladimir Putin rejected any maritime or energy truce after fresh Ukrainian missile strikes hit the Kerch Bridge for the third time this week. Satellite imagery confirmed significant impacts to the heavily defended railway span.",
+     "pourquoi": "",
+     "pays": [
+      "Ukraine",
+      "Russia"
+     ],
+     "region": "Russia-Ukraine",
+     "rubrique": "ukraine",
+     "liens": [
+      {
+       "source": "Japan Times",
+       "url": "https://www.japantimes.co.jp/news/2026/11/20/world/putin-ukraine-crimea-bridge/",
+       "titre": "Putin says no sea or energy truce after Ukraine hits Crimea Bridge again"
+      },
+      {
+       "source": "The War Zone",
+       "url": "https://www.twz.com/news-features/impacts-of-latest-neptune-missile-strike-on-kerch-bridge-seen-in-satellite-imagery",
+       "titre": "Impacts Of Latest Neptune Missile Strike On Kerch Bridge Seen In Satellite Imagery"
+      },
+      {
+       "source": "CBS News",
+       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0yNHJ2ekFIeGFSWktPUmVMSF85amtLLV9kQ1RRSXRBUVNVZDFndHRFcUd1aDByY0VQeG91TzFlMDVJdU85aWJ6V2g5cDBQaGg3Q0JUTjhlMkt3a2c0S1Q3UHZURkZWcHFZZGVGM1NoLURSQQ?oc=5",
+       "titre": "Putin says Russia won't negotiate limited ceasefire with Ukraine after bridge strike"
+      },
+      {
+       "source": "BBC World",
+       "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+       "titre": "Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge"
+      }
+     ],
+     "visuel": {
+      "nom": "Vladimir Putin",
+      "description": "Leader of Russia since 1999",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Vladimir_Putin_%282026_02_23%29_%28cropped%29.jpg",
+      "page": "https://en.wikipedia.org/wiki/Vladimir_Putin",
+      "type": "person"
+     },
+     "id": "2026-11-20|Putin rejects ceasefires as satellite data shows Kerch rail bridge damage"
+    }
+   ]
+  },
+  {
+   "id": "moyen_orient",
+   "titre": "Middle East",
+   "items": [
+    {
+     "suite": true,
+     "remplace": "2026-11-19|US weighs fresh strikes on Iran as Houthi hostilities persist",
+     "emoji": "🚀",
+     "titre": "Houthi missile strike damages skyscraper in central Riyadh",
+     "resume": "Saudi authorities reported that a Houthi missile attack struck a commercial skyscraper in Riyadh's financial district. The strike exacerbates regional energy security concerns as the International Energy Agency warned of historic threats to Gulf supply.",
+     "pourquoi": "",
+     "pays": [
+      "Saudi Arabia",
+      "Yemen",
+      "Iran"
+     ],
+     "region": "Middle East",
+     "rubrique": "moyen_orient",
+     "liens": [
+      {
+       "source": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-houthis-escalate-attacks-on-saudi-capital?traffic_source=rss",
+       "titre": "Iran war live: Houthis escalate attacks on Saudi capital"
+      },
+      {
+       "source": "Al-Monitor",
+       "url": "https://www.al-monitor.com/originals/2026/11/pif-aramco-strikes-hit-heart-saudi-arabias-economic-overhaul",
+       "titre": "PIF, Aramco strikes hit heart of Saudi Arabia’s economic overhaul"
+      },
+      {
+       "source": "CNA Monde",
+       "url": "https://www.channelnewsasia.com/world/saudi-arabia-skyscraper-damaged-yemen-houthi-attacks-6564561",
+       "titre": "Riyadh skyscraper damaged as Saudi Arabia reports new Houthi attacks"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-20|Houthi missile strike damages skyscraper in central Riyadh"
+    }
+   ]
+  },
+  {
+   "id": "europe",
+   "titre": "Europe",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "✈️",
+     "titre": "France and Sweden conduct inaugural advanced nuclear deterrence air drill",
+     "resume": "The French and Swedish air forces executed their first joint advanced nuclear deterrence air exercise. The bilateral drills operationalise Sweden's alignment with France's 'advanced deterrence' strategic doctrine announced earlier this year.",
+     "pourquoi": "",
+     "pays": [
+      "France",
+      "Sweden"
+     ],
+     "region": "Europe",
+     "rubrique": "europe",
+     "liens": [
+      {
+       "source": "Defense News",
+       "url": "https://www.defensenews.com/global/europe/2026/11/19/france-and-sweden-hold-first-joint-nuclear-deterrence-exercise/",
+       "titre": "France and Sweden hold first joint nuclear-deterrence exercise"
+      },
+      {
+       "source": "Opex360",
+       "url": "https://www.opex360.com/2026/11/19/la-france-et-la-suede-ont-mene-leur-premier-exercice-aerien-de-dissuasion-nucleaire-avancee/",
+       "titre": "La France et la Suède ont mené leur premier exercice aérien de dissuasion nucléaire avancée"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-20|France and Sweden conduct inaugural advanced nuclear deterrence air drill"
+    }
+   ]
+  },
+  {
+   "id": "espace",
+   "titre": "Space & Satellites",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🛰️",
+     "titre": "MBDA and Atmos Space Cargo partner to study orbital kinetic strikes",
+     "resume": "MBDA teamed up with German startup Atmos Space Cargo to examine the feasibility of deploying precision strike weapons from low Earth orbit using reusable atmospheric re-entry capsules. The initiative explores hypersonic orbital-to-ground engagement concepts.",
+     "pourquoi": "",
+     "pays": [
+      "France",
+      "Germany"
+     ],
+     "region": "Europe",
+     "rubrique": "espace",
+     "liens": [
+      {
+       "source": "Defense News",
+       "url": "https://www.defensenews.com/global/europe/2026/11/19/mbda-and-german-startup-atmos-team-up-to-study-space-based-strike-weapons/",
+       "titre": "MBDA and German startup Atmos team up to study space-based strike weapons"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-20|MBDA and Atmos Space Cargo partner to study orbital kinetic strikes"
+    }
+   ]
+  },
+  {
+   "id": "tech",
+   "titre": "Emerging Tech",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "⚡",
+     "titre": "Royal Navy to deploy DragonFire laser weapon operationally next year",
+     "resume": "The British Royal Navy confirmed plans to deploy the DragonFire high-energy directed-energy laser weapon aboard warships in 2027. The system offers low cost-per-shot defence against asymmetric drone and surface threats.",
+     "pourquoi": "",
+     "pays": [
+      "United Kingdom"
+     ],
+     "region": "Europe",
+     "rubrique": "tech",
+     "liens": [
+      {
+       "source": "조선일보",
+       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLWE0c2xDeVF3OF9pTTdxNWNTRDBLeENpMVA4VFZfajRsTGYtQlBSenRqaHlZM0NiZUt6ZGJ1LUx4aUw5SXBKaU5WTjQtVUJQTlhIc1ZlYU9CcGc1dk5GZEpGUlJienIxT0pVbUlRRno5RXdQRzdEaG9aNGg4M3VUeDBIN2haYm9D?oc=5",
+       "titre": "British Navy Deploys Affordable Laser Weapon Next Year"
+      }
+     ],
+     "visuel": {
+      "nom": "DragonFire (weapon)",
+      "description": "UK laser weapon technology demonstrator",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Dragonfire_laser_system_test_firing.webp",
+      "page": "https://en.wikipedia.org/wiki/DragonFire_(weapon)",
+      "type": "platform"
+     },
+     "id": "2026-11-20|Royal Navy to deploy DragonFire laser weapon operationally next year"
+    }
+   ]
+  },
+  {
+   "id": "economie",
+   "titre": "Economy & Sanctions",
+   "items": [
+    {
+     "suite": true,
+     "remplace": "2026-11-17|US restricts advanced AI chip exports to Southeast Asian nations",
+     "emoji": "📉",
+     "titre": "TSMC and Samsung freeze advanced AI chip shipments to China",
+     "resume": "TSMC and Samsung halted deliveries of selected advanced semiconductors to Chinese customers following tightened US export restrictions. The suspensions follow intense scrutiny over diverted AI chips linked to Nvidia and alleged Chinese front organisations.",
+     "pourquoi": "",
+     "pays": [
+      "Taiwan",
+      "South Korea",
+      "China",
+      "United States"
+     ],
+     "region": "Global",
+     "rubrique": "economie",
+     "liens": [
+      {
+       "source": "Financial Times",
+       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVmdYLWxyejBmNWE2ZmVSbk93M0w2ajJMbzZvWE54bG5QU2JqYzNqYUhobnJVX1h6bkcyT0JZX1VLMHNYZG4tM0Q4Vmd3dGJIRG9yS2dYcjIyLVpvV3RwUHFpRXU2cU51dXdWTTBRcy1wNHBJZEYtYURQcVhOTXlZRU5nLW8?oc=5",
+       "titre": "TSMC and Samsung suspend some chip shipments to Chinese customers"
+      },
+      {
+       "source": "The Indian Express",
+       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQV1RjSjRJSTN0YWdsOFpyYlA5c0Q4ajVya1FYMUJJTDZzMUNUMEdGaUZlXzF1Y3EyU2pINlBrd1lJazRLelJzcVdXa2xDWG5SRk85eklzeVVRNDBWSGMxcnlBaTNhVU9pQmlMNFlNSEJJUUtKSVRFSnlzVlEzRWFJWXBYNkxKMXVsVTdWdUwtUHQwakttVVQtd1FWQnRTeHpPdnN1REQ2TlRtbklnYVJrOEdKRVp3TXpHeU5NMWJpR0hTMnPSAcoBQVVfeXFMUGdDdWppYTlERk5EOElUaS1lVTlyLWV1MXFxSW9sX3A1RWhUYnpVTjRpbm9fc05JYWxSWmNmM0pPcVh6RlhnNG8xbXItTjEyY0xoRkVhbFE1bFpHUmI5UDlXNGt2WFYweEpJejFQNnNXOS1EU0RpZVUzc05ESHRpTTlPMGdPU2d2LXhUSjJad0lYRWtLYUZESW5CMHFKYkt5V2tjRG5xdGV4ZEFkQ1ZyNEQzYWxGTXRyN0UwaHVRc3ljbWFnNExhbFdIUQ?oc=5",
+       "titre": "Nvidia stops shipping AI chips to China as pressure mounts over US export controls"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-20|TSMC and Samsung freeze advanced AI chip shipments to China"
+    }
+   ]
+  }
+ ],
+ "a_surveiller": [
+  {
+   "quand": "November 29",
+   "quoi": "Spanish general election following major televised leadership debates",
+   "liens": [
+    {
+     "source": "CNA Monde",
+     "url": "https://www.channelnewsasia.com/world/spain-pedro-sanchez-election-debate-6567061",
+     "titre": "Spanish PM, right-wing rival spar in key election debate"
+    }
+   ]
+  },
+  {
+   "quand": "2027",
+   "quoi": "Republic of Singapore Air Force and Indonesian Air Force joint live-fire exercise at Siabu range",
+   "liens": [
+    {
+     "source": "ANTARA News",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZm9OQU9OWkEtRkVuenhfSllFdUloTjNuZnJia0V1QUhNQ1NDTzh5RFh0WEdXa2wyRENVS00yTnFNNTdmV1dyamdJVW00WmRNT1hfMGhabFpva3I3VjZkTVYteU5GMHJtcGZKUVJmYkhpOERyX05hQkdlWjZHX1lPSmxvTGhQVVR1c0VnSWtubklQMkF5ZDFIMGt0c2dKVGhuOEx4N2ZvcU5rd9IBqgFBVV95cUxOZm9OQU9OWkEtRkVuenhfSllFdUloTjNuZnJia0V1QUhNQ1NDTzh5RFh0WEdXa2wyRENVS00yTnFNNTdmV1dyamdJVW00WmRNT1hfMGhabFpva3I3VjZkTVYteU5GMHJtcGZKUVJmYkhpOERyX05hQkdlWjZHX1lPSmxvTGhQVVR1c0VnSWtubklQMkF5ZDFIMGt0c2dKVGhuOEx4N2ZvcU5rdw?oc=5",
+     "titre": "RI, Singapore air forces plan 2027 live-fire drills at Siabu Riau"
+    },
+    {
+     "source": "Antara News jatim",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdVlUSXkzQnhheDJXQU9oUUN0YzA4R1hiSnFYdE5sVmVscjdQUTl5eXZKWllZMktlazFXMGxobVlCNFBfdUtFM09aY2tKNDB0MUhqanBVMmFudmRSZnJaTkd1VEZCQ2tkMUxTU0hGWFlPdTJTZ2h6bHFfUjJOZTZOM1dhdDZxYW90Tko1TGVNS1F5WVhGdjFXSGpJeEViNVpkeFRzNE1wLW4zS20ySmfSAbMBQVVfeXFMTzNnQWQxSjdRdHAzdUdxM2xuZGo2RktUMkdSTmk1TDBNMk81bC1rMU4tcGl2ejRiNHdyc0puZDVNbGxicGFHSEtxWXFfOFFQZVN1MGl3aVpBM0Q3VnhpZkU4bHpIRFhlSU1rd0VjbU5UcEh6Ui1nTHhzd29GNl90S0hmQ2ZOd2xDT2dOQkNRZTdndTVkaV95OXJfajNyaktpOHl5OGtLM2NJSDVrUURMU2ZHMTg?oc=5",
+     "titre": "TNI AU dan RSAF kerja sama manfaatkan area latihan pesawat tempur"
+    }
+   ]
+  },
+  {
+   "quand": "2027",
+   "quoi": "Operationalisation of Japanese Self-Defense Forces missile test firings on Indian ranges",
+   "liens": [
+    {
+     "source": "日本経済新聞",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1CZDcxSDdBa2VXRUpFSE0yZTM3NlJUOFNEM3Ntc2p1SHdHVDBXQUZ0OXZIalp0c3J2T2o3Z2NZSmNwb25NbkNPZGpkY1BSU2ZKNDRMeVNHa1pFVUlSNklITWRDYlE2LVEwa1FRYQ?oc=5",
+     "titre": "自衛隊、インドでミサイル発射訓練可能に 日印が27年中へ調整"
+    }
+   ]
+  }
+ ],
+ "hebdo": null,
+ "stats": {
+  "articles": 453,
+  "sources": 52
+ }
+}
