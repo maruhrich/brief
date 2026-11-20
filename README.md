@@ -4,20 +4,22 @@ Web-app installée sur l'écran d'accueil de l'iPhone. Chaque matin, avant 7h45 
 
 1. **GitHub Actions** lance [brief.py](brief.py), qui lit une soixantaine de sources : flux RSS, plus des recherches Google News en anglais, français, japonais, coréen, chinois et indonésien, sur les dernières 24 h.
 2. **Gemini** (offre gratuite de Google) trie, traduit et résume **en anglais** :
-   - *Today's essentials*,
-   - environ 15 nouveaux sujets répartis dans 12 rubriques, ajoutés à la pile *To read*,
-   - *Coming up*,
-   - le lundi, le *Weekly summary*.
+   - *L'essentiel du jour*,
+   - environ 15 nouveaux sujets répartis dans 11 rubriques, ajoutés à la pile *À lire*,
+   - *À surveiller*,
+   - le lundi, la *Synthèse de la semaine*.
 
-   Gemini reçoit aussi les sujets des 3 jours précédents, pour ne pas les répéter et signaler les suites (🔄 Update).
+   Gemini reçoit aussi les sujets des 3 jours précédents, pour ne pas les répéter et signaler les suites (🔄 Suite).
+   Un second appel traduit ensuite le brief **en français** (environ 4 000 tokens). Les deux versions sont gardées dans les données.
 3. Le brief est publié sur **GitHub Pages**. À 7h45, [notify.py](notify.py) envoie la notification sur le téléphone.
 
-Dans l'app :
-- une pile *To read* : les sujets non lus restent 7 jours, un sujet n'en sort que par son bouton ✓ ;
+Dans l'app (en français par défaut) :
+- un petit bouton **F / E** en haut pour passer du français à l'anglais, sans recharger la page : on reste sur le même article ;
+- une pile *À lire* : les sujets non lus restent 7 jours, un sujet n'en sort que par son bouton ✓ ;
 - des filtres par rubrique et par pays ou région ;
 - une recherche sur 60 jours ;
 - des favoris (leurs photos sont copiées sur le téléphone) ;
-- une grande photo d'identification tirée de Wikipédia sur les sujets qui portent sur une plateforme (avion, missile, navire, SAM…) ou une personne clé, environ 1 sujet sur 3 ;
+- une petite photo d'identification (en haut à droite) tirée de Wikipédia sur les sujets qui portent sur une plateforme (avion, missile, navire, SAM…) ou une personne clé, environ 1 sujet sur 3 ;
 - un bouton **?** (Ask AI) pour poser une question à Gemini sur un sujet : il lit l'article source. La recherche web n'est pas incluse dans l'offre gratuite.
 
 Les recherches Google News ne gardent que les médias de la liste `google_news_medias` de [config.yaml](config.yaml).

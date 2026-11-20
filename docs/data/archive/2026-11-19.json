@@ -37,7 +37,16 @@
     }
    ],
    "visuel": null,
-   "id": "2026-11-19|Xi, Trump and Putin hold first-ever trilateral summit in Shenzhen"
+   "id": "2026-11-19|Xi, Trump and Putin hold first-ever trilateral summit in Shenzhen",
+   "fr": {
+    "titre": "Xi, Trump et Poutine tiennent un sommet trilatéral inédit à Shenzhen",
+    "resume": "Le président américain Donald Trump, le président chinois Xi Jinping et le président russe Vladimir Poutine se sont rencontrés lors d'entretiens trilatéraux sans précédent en marge du sommet de l'APEC à Shenzhen. Les discussions ont porté sur la maîtrise des armements nucléaires, le commerce et la sécurité régionale.",
+    "pays": [
+     "États-Unis",
+     "Chine",
+     "Russie"
+    ]
+   }
   },
   {
    "suite": true,
@@ -70,7 +79,15 @@
     }
    ],
    "visuel": null,
-   "id": "2026-11-19|Kerch Bridge struck again by Ukrainian drone attacks"
+   "id": "2026-11-19|Kerch Bridge struck again by Ukrainian drone attacks",
+   "fr": {
+    "titre": "Le pont de Kertch de nouveau visé par des attaques de drones ukrainiens",
+    "resume": "Selon les autorités russes, le pont de Kertch reliant la Russie à la Crimée a subi d'importants dégâts à la suite de nouvelles frappes de drones et de missiles ukrainiens. La circulation sur cet axe stratégique reste suspendue.",
+    "pays": [
+     "Ukraine",
+     "Russie"
+    ]
+   }
   },
   {
    "suite": false,
@@ -105,7 +122,17 @@
     }
    ],
    "visuel": null,
-   "id": "2026-11-19|US weighs fresh strikes on Iran as Houthi hostilities persist"
+   "id": "2026-11-19|US weighs fresh strikes on Iran as Houthi hostilities persist",
+   "fr": {
+    "titre": "Les États-Unis envisagent de nouvelles frappes contre l'Iran face aux attaques houthies persistantes",
+    "resume": "Washington envisagerait de nouvelles frappes militaires contre l'Iran dans un contexte d'escalade des tensions régionales. En parallèle, les forces de la coalition menée par l'Arabie saoudite ont intercepté des attaques de missiles et de drones houthis visant Riyad.",
+    "pays": [
+     "États-Unis",
+     "Iran",
+     "Arabie saoudite",
+     "Yémen"
+    ]
+   }
   }
  ],
  "rubriques": [
@@ -145,7 +172,16 @@
       }
      ],
      "visuel": null,
-     "id": "2026-11-19|Japan PM Takaichi and Putin hold first talks in seven years"
+     "id": "2026-11-19|Japan PM Takaichi and Putin hold first talks in seven years",
+     "fr": {
+      "titre": "Premier entretien en sept ans entre la Première ministre japonaise Takaichi et Poutine",
+      "resume": "La Première ministre japonaise Sanae Takaichi et le président russe Vladimir Poutine ont tenu une réunion bilatérale de trente minutes en marge du sommet de l'APEC en Chine. Il s'agit des premiers pourparlers au niveau des chefs d'État ou de gouvernement entre les deux pays en sept ans.",
+      "pays": [
+       "Japon",
+       "Russie",
+       "Chine"
+      ]
+     }
     },
     {
      "suite": false,
@@ -173,7 +209,15 @@
       }
      ],
      "visuel": null,
-     "id": "2026-11-19|South Korea's Lee expresses hope for peace talks with North Korea"
+     "id": "2026-11-19|South Korea's Lee expresses hope for peace talks with North Korea",
+     "fr": {
+      "titre": "Le président sud-coréen Lee espère des pourparlers de paix avec la Corée du Nord",
+      "resume": "Le président sud-coréen Lee Jae Myung a exprimé, lors d'échanges à Shenzhen, l'espoir d'un dialogue avec la Corée du Nord pour instaurer une paix durable. Dans le même temps, l'AIEA a relevé que Pyongyang poursuivait l'extension de son usine d'enrichissement d'uranium de Yongbyon.",
+      "pays": [
+       "Corée du Sud",
+       "Corée du Nord"
+      ]
+     }
     },
     {
      "suite": false,
@@ -196,7 +240,15 @@
       }
      ],
      "visuel": null,
-     "id": "2026-11-19|Indonesia signs major economic and strategic deals with China"
+     "id": "2026-11-19|Indonesia signs major economic and strategic deals with China",
+     "fr": {
+      "titre": "L'Indonésie signe d'importants accords économiques et stratégiques avec la Chine",
+      "resume": "Le président indonésien Prabowo Subianto a assisté à la signature de quatre partenariats stratégiques avec la Chine d'un montant de 71,8 milliards de dollars en marge du sommet de l'APEC. Jakarta évalue par ailleurs l'impact potentiel sur son marché du durcissement des restrictions américaines sur les puces d'IA.",
+      "pays": [
+       "Indonésie",
+       "Chine"
+      ]
+     }
     }
    ]
   },
@@ -244,7 +296,14 @@
       }
      ],
      "visuel": null,
-     "id": "2026-11-19|Anthropic raises over $80 billion in record-breaking stock market debut"
+     "id": "2026-11-19|Anthropic raises over $80 billion in record-breaking stock market debut",
+     "fr": {
+      "titre": "Anthropic lève plus de 80 milliards de dollars pour une entrée en bourse record",
+      "resume": "Le géant de l'IA Anthropic a fixé le prix d'introduction de son action à 83 dollars, levant plus de 81 milliards de dollars lors de son entrée en bourse. Ces débuts spectaculaires comptent parmi les plus importantes opérations d'introduction de l'histoire financière.",
+      "pays": [
+       "États-Unis"
+      ]
+     }
     }
    ]
   },
@@ -287,7 +346,14 @@
       }
      ],
      "visuel": null,
-     "id": "2026-11-19|Israeli military launches ground operation in central Gaza"
+     "id": "2026-11-19|Israeli military launches ground operation in central Gaza",
+     "fr": {
+      "titre": "L'armée israélienne lance une opération terrestre dans le centre de Gaza",
+      "resume": "L'armée israélienne a annoncé le déclenchement d'une nouvelle opération terrestre dans le centre de la bande de Gaza, au-delà de la « ligne jaune ». Des habitants palestiniens ont fait état de bombardements intenses et de déplacements de population face à la progression des blindés.",
+      "pays": [
+       "Israël"
+      ]
+     }
     }
    ]
   },
@@ -326,7 +392,15 @@
       }
      ],
      "visuel": null,
-     "id": "2026-11-19|European Commission proposes €45 billion loan package for Ukraine in 2027"
+     "id": "2026-11-19|European Commission proposes €45 billion loan package for Ukraine in 2027",
+     "fr": {
+      "titre": "La Commission européenne propose un programme de prêts de 45 milliards d'euros pour l'Ukraine en 2027",
+      "resume": "La Commission européenne a proposé un nouveau prêt de 45 milliards d'euros à l'Ukraine pour combler ses besoins de financement l'an prochain. Les dirigeants de l'UE doivent examiner ce projet lors d'un prochain sommet.",
+      "pays": [
+       "Union européenne",
+       "Ukraine"
+      ]
+     }
     }
    ]
   },
@@ -369,7 +443,14 @@
       }
      ],
      "visuel": null,
-     "id": "2026-11-19|Grand Theft Auto VI launches worldwide after 13-year wait"
+     "id": "2026-11-19|Grand Theft Auto VI launches worldwide after 13-year wait",
+     "fr": {
+      "titre": "Lancement mondial de Grand Theft Auto VI après treize ans d'attente",
+      "resume": "Rockstar Games a lancé Grand Theft Auto VI à l'échelle mondiale, sous les éloges quasi unanimes de la critique. Cette sortie pulvérise les records de précommandes après treize années d'absence pour la franchise.",
+      "pays": [
+       "États-Unis"
+      ]
+     }
     }
    ]
   },
@@ -398,7 +479,15 @@
       }
      ],
      "visuel": null,
-     "id": "2026-11-19|EU and Indonesia approve trade agreement to offset tariff pressures"
+     "id": "2026-11-19|EU and Indonesia approve trade agreement to offset tariff pressures",
+     "fr": {
+      "titre": "L'UE et l'Indonésie approuvent un accord commercial pour atténuer les tensions douanières",
+      "resume": "Les gouvernements européens ont approuvé un accord commercial global avec l'Indonésie afin de limiter les frictions commerciales. L'accord supprime les droits de douane à l'importation sur plus de 90 % des produits échangés.",
+      "pays": [
+       "Union européenne",
+       "Indonésie"
+      ]
+     }
     }
    ]
   }
@@ -436,5 +525,22 @@
  "stats": {
   "articles": 432,
   "sources": 52
+ },
+ "fr": {
+  "accroche": [
+   "Xi, Trump et Poutine tiennent des discussions trilatérales historiques à Shenzhen",
+   "Des frappes de drones ukrainiens coupent à nouveau le tablier routier du pont de Kertch",
+   "Les États-Unis envisagent de nouvelles frappes contre l'Iran sur fond d'escalade régionale"
+  ],
+  "a_surveiller": [
+   {
+    "quand": "la semaine prochaine",
+    "quoi": "Les dirigeants de l'UE examineront la proposition de prêt de 45 milliards d'euros pour l'Ukraine lors du prochain sommet du Conseil européen"
+   },
+   {
+    "quand": "janvier",
+    "quoi": "Hakeem Jeffries devrait accéder à la présidence de la Chambre des représentants des États-Unis lors de la rentrée parlementaire"
+   }
+  ]
  }
 }

@@ -105,6 +105,7 @@ button { font: inherit; }
   letter-spacing: .08em;
   text-transform: uppercase;
   color: var(--accent);
+  white-space: nowrap;
 }
 h1 {
   margin: 2px 0 0;
@@ -127,6 +128,21 @@ h1 {
 }
 .icon-btn.on { background: var(--accent); color: var(--on-accent); border-color: var(--accent); }
 .icon-btn.loading svg { animation: spin .9s linear infinite; }
+/* Bouton de langue F / E : petit et discret */
+.top-actions { align-items: center; }
+.lang-btn {
+  flex: none;
+  width: 28px;
+  height: 28px;
+  margin-right: 2px;
+  border-radius: 50%;
+  border: 1px solid var(--line);
+  background: none;
+  color: var(--muted);
+  font: 600 12px/1 var(--sans, system-ui, sans-serif);
+  cursor: pointer;
+  padding: 0;
+}
 @keyframes spin { to { transform: rotate(360deg); } }
 .badge {
   position: absolute;

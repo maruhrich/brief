@@ -43,47 +43,58 @@
  "rubriques": [
   {
    "id": "monde",
-   "titre": "World"
+   "titre": "World",
+   "titre_fr": "Monde"
   },
   {
    "id": "asie",
-   "titre": "APAC"
+   "titre": "APAC",
+   "titre_fr": "APAC"
   },
   {
    "id": "elections",
-   "titre": "Elections & Politics"
+   "titre": "Elections & Politics",
+   "titre_fr": "Élections & politique"
   },
   {
    "id": "defense_aerienne",
-   "titre": "Air & Missile Defence"
+   "titre": "Air & Missile Defence",
+   "titre_fr": "Défense aérienne & antimissile"
   },
   {
    "id": "industrie",
-   "titre": "Defence Industry & Contracts"
+   "titre": "Defence Industry & Contracts",
+   "titre_fr": "Industrie de défense & contrats"
   },
   {
    "id": "ukraine",
-   "titre": "Ukraine / Russia"
+   "titre": "Ukraine / Russia",
+   "titre_fr": "Ukraine / Russie"
   },
   {
    "id": "moyen_orient",
-   "titre": "Middle East"
+   "titre": "Middle East",
+   "titre_fr": "Moyen-Orient"
   },
   {
    "id": "europe",
-   "titre": "Europe"
+   "titre": "Europe",
+   "titre_fr": "Europe"
   },
   {
    "id": "espace",
-   "titre": "Space & Satellites"
+   "titre": "Space & Satellites",
+   "titre_fr": "Espace & satellites"
   },
   {
    "id": "tech",
-   "titre": "Emerging Tech"
+   "titre": "Emerging Tech",
+   "titre_fr": "Technologies émergentes"
   },
   {
    "id": "economie",
-   "titre": "Economy & Sanctions"
+   "titre": "Economy & Sanctions",
+   "titre_fr": "Économie & sanctions"
   }
  ]
 }

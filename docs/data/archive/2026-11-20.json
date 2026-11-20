@@ -47,7 +47,16 @@
     }
    ],
    "visuel": null,
-   "id": "2026-11-20|ICJ finds Myanmar guilty of genocide against Rohingya"
+   "id": "2026-11-20|ICJ finds Myanmar guilty of genocide against Rohingya",
+   "fr": {
+    "titre": "La CIJ juge le Myanmar coupable de génocide contre les Rohingyas",
+    "resume": "La Cour internationale de justice a conclu que le Myanmar a commis un génocide d'État contre la minorité rohingya lors de la répression militaire de 2017. Ce verdict historique constitue la première condamnation d'un État pour génocide par une juridiction internationale.",
+    "pays": [
+     "Myanmar",
+     "Gambie",
+     "Pays-Bas"
+    ]
+   }
   },
   {
    "suite": false,
@@ -86,7 +95,15 @@
     "page": "https://en.wikipedia.org/wiki/MIM-104_Patriot",
     "type": "platform"
    },
-   "id": "2026-11-20|US Army deploys first AI-integrated IBCS Patriot battery to South Korea"
+   "id": "2026-11-20|US Army deploys first AI-integrated IBCS Patriot battery to South Korea",
+   "fr": {
+    "titre": "L'US Army déploie en Corée du Sud sa première batterie Patriot intégrant l'IBCS et l'IA",
+    "resume": "Le commandement des forces américaines en Corée (USFK) a confirmé que la batterie Delta est devenue la première unité Patriot opérationnelle à obtenir la certification IBCS. Ce système de commandement dopé à l'IA intègre capteurs et intercepteurs pour accélérer l'engagement des cibles face aux menaces balistiques nord-coréennes.",
+    "pays": [
+     "Corée du Sud",
+     "États-Unis"
+    ]
+   }
   },
   {
    "suite": false,
@@ -126,7 +143,17 @@
     }
    ],
    "visuel": null,
-   "id": "2026-11-20|Western coalition discusses NATO-style security guarantees for Ukraine"
+   "id": "2026-11-20|Western coalition discusses NATO-style security guarantees for Ukraine",
+   "fr": {
+    "titre": "Une coalition occidentale discute de garanties de sécurité du type OTAN pour l'Ukraine",
+    "resume": "Réunis à Berlin, le président français Emmanuel Macron a exhorté les alliés de l'Ukraine à rouvrir les discussions sur l'adhésion de Kiev à l'OTAN. L'envoyé américain Jared Kushner a indiqué que Donald Trump était ouvert à l'octroi de garanties de défense mutuelle à l'Ukraine.",
+    "pays": [
+     "Ukraine",
+     "France",
+     "Allemagne",
+     "États-Unis"
+    ]
+   }
   },
   {
    "suite": false,
@@ -165,7 +192,15 @@
     "page": "https://en.wikipedia.org/wiki/Pete_Hegseth",
     "type": "person"
    },
-   "id": "2026-11-20|United States signs military cooperation agreement with Venezuela"
+   "id": "2026-11-20|United States signs military cooperation agreement with Venezuela",
+   "fr": {
+    "titre": "Les États-Unis signent un accord de coopération militaire avec le Venezuela",
+    "resume": "Le secrétaire américain à la Défense, Pete Hegseth, a annoncé un pacte de coopération bilatérale en matière de défense lors d'une visite à Caracas. Cet accord formalise les liens de sécurité après l'éviction de Nicolas Maduro par les forces spéciales américaines en janvier.",
+    "pays": [
+     "États-Unis",
+     "Venezuela"
+    ]
+   }
   }
  ],
  "rubriques": [
@@ -194,7 +229,15 @@
       }
      ],
      "visuel": null,
-     "id": "2026-11-20|Somalia expels UAE ambassador over alleged internal interference"
+     "id": "2026-11-20|Somalia expels UAE ambassador over alleged internal interference",
+     "fr": {
+      "titre": "La Somalie expulse l'ambassadeur des Émirats arabes unis pour ingérence présumée",
+      "resume": "Le gouvernement somalien a ordonné à l'ambassadeur des Émirats arabes unis de quitter le territoire sous 72 heures et a rappelé son propre envoyé à Abou Dhabi. Mogadiscio a accusé l'État du Golfe de violer la souveraineté nationale et de s'ingérer dans ses affaires intérieures.",
+      "pays": [
+       "Somalie",
+       "Émirats arabes unis"
+      ]
+     }
     }
    ]
   },
@@ -238,7 +281,15 @@
       }
      ],
      "visuel": null,
-     "id": "2026-11-20|RSAF and Indonesian Air Force plan 2027 live-fire drills at Siabu"
+     "id": "2026-11-20|RSAF and Indonesian Air Force plan 2027 live-fire drills at Siabu",
+     "fr": {
+      "titre": "La RSAF et l'armée de l'Air indonésienne prévoient des tirs réels conjoints à Siabu en 2027",
+      "resume": "La force aérienne de la république de Singapour et l'armée de l'Air indonésienne sont convenues d'organiser des exercices conjoints de tirs réels de chasseurs sur le champ de tir de Siabu, dans la province de Riau, en 2027. Cette initiative vise à renforcer la préparation opérationnelle des pilotes et l'interopérabilité tactique bilatérale.",
+      "pays": [
+       "Singapour",
+       "Indonésie"
+      ]
+     }
     },
     {
      "suite": false,
@@ -261,7 +312,15 @@
       }
      ],
      "visuel": null,
-     "id": "2026-11-20|Singapore and France hold 22nd Defence Policy Dialogue"
+     "id": "2026-11-20|Singapore and France hold 22nd Defence Policy Dialogue",
+     "fr": {
+      "titre": "Singapour et la France tiennent leur 22e dialogue sur la politique de défense",
+      "resume": "Singapour et la France ont réaffirmé la proximité de leurs relations de défense lors de leur 22e dialogue sur la politique de défense. Les responsables ont discuté de l'approfondissement de la coopération dans les architectures de sécurité multilatérales, les partenariats technologiques et les échanges opérationnels.",
+      "pays": [
+       "Singapour",
+       "France"
+      ]
+     }
     },
     {
      "suite": false,
@@ -289,7 +348,15 @@
       }
      ],
      "visuel": null,
-     "id": "2026-11-20|India agrees to allow Japanese SDF missile test drills"
+     "id": "2026-11-20|India agrees to allow Japanese SDF missile test drills",
+     "fr": {
+      "titre": "L'Inde accepte d'accueillir des essais de missiles des Forces d'autodéfense japonaises",
+      "resume": "L'Inde et le Japon sont convenus, lors de leur quatrième dialogue ministériel « 2+2 », d'autoriser les Forces d'autodéfense japonaises à effectuer des essais de missiles sur des champs de tir indiens d'ici 2027. Ce pacte renforce les liens bilatéraux en matière d'industrie de défense et d'opérations.",
+      "pays": [
+       "Inde",
+       "Japon"
+      ]
+     }
     },
     {
      "suite": true,
@@ -334,7 +401,16 @@
       "page": "https://en.wikipedia.org/wiki/Tupolev_Tu-95",
       "type": "platform"
      },
-     "id": "2026-11-20|Russian Tu-95 bombers re-enter Taiwan air defence identification zone"
+     "id": "2026-11-20|Russian Tu-95 bombers re-enter Taiwan air defence identification zone",
+     "fr": {
+      "titre": "Des bombardiers russes Tu-95 pénètrent à nouveau dans la zone d'identification de défense aérienne de Taïwan",
+      "resume": "La défense aérienne taïwanaise a suivi deux bombardiers stratégiques russes Tu-95 transitant vers le nord dans la ZIDA orientale de l'île le 19 novembre. Il s'agit du deuxième passage de ce type cette semaine, après de précédentes incursions dans l'espace aérien japonais.",
+      "pays": [
+       "Taïwan",
+       "Russie",
+       "Chine"
+      ]
+     }
     },
     {
      "suite": false,
@@ -362,7 +438,15 @@
       }
      ],
      "visuel": null,
-     "id": "2026-11-20|US considers $2 billion defence financing for the Philippines"
+     "id": "2026-11-20|US considers $2 billion defence financing for the Philippines",
+     "fr": {
+      "titre": "Les États-Unis envisagent un financement militaire de 2 milliards de dollars pour les Philippines",
+      "resume": "Washington étudie un financement de défense pouvant atteindre 2 milliards de dollars afin de renforcer la connaissance du domaine maritime et la dissuasion des Philippines en mer de Chine méridionale. Ce financement potentiel fait suite à des discussions de sécurité bilatérales à haut niveau.",
+      "pays": [
+       "Philippines",
+       "États-Unis"
+      ]
+     }
     }
    ]
   },
@@ -401,7 +485,14 @@
       "page": "https://en.wikipedia.org/wiki/Han_Duck-soo",
       "type": "person"
      },
-     "id": "2026-11-20|South Korea Supreme Court orders retrial of ex-PM Han Duck-soo"
+     "id": "2026-11-20|South Korea Supreme Court orders retrial of ex-PM Han Duck-soo",
+     "fr": {
+      "titre": "La Cour suprême de Corée du Sud ordonne le rejugement de l'ex-Premier ministre Han Duck-soo",
+      "resume": "La Cour suprême de Corée du Sud a annulé la peine de 15 ans de prison infligée à l'ancien Premier ministre Han Duck-soo pour son rôle dans la tentative d'instauration de la loi martiale en 2024. La Cour a renvoyé l'affaire, invoquant des preuves insuffisantes concernant l'accusation d'insurrection.",
+      "pays": [
+       "Corée du Sud"
+      ]
+     }
     }
    ]
   },
@@ -441,7 +532,16 @@
       }
      ],
      "visuel": null,
-     "id": "2026-11-20|Denmark ratifies US Greenland security pact including missile defence"
+     "id": "2026-11-20|Denmark ratifies US Greenland security pact including missile defence",
+     "fr": {
+      "titre": "Le Danemark ratifie l'accord de sécurité américano-groenlandais incluant la défense antimissile",
+      "resume": "Le Parlement danois a approuvé à l'unanimité un accord de sécurité avec les États-Unis concernant le Groenland. Cet accord facilite l'élargissement des arrangements de sécurité dans l'Arctique, notamment une intégration potentielle dans le réseau de défense antimissile projeté « Golden Dome ».",
+      "pays": [
+       "Danemark",
+       "États-Unis",
+       "Groenland"
+      ]
+     }
     },
     {
      "suite": false,
@@ -463,7 +563,14 @@
       }
      ],
      "visuel": null,
-     "id": "2026-11-20|Leidos secures contract for 14 US Marine Corps MRADR radars"
+     "id": "2026-11-20|Leidos secures contract for 14 US Marine Corps MRADR radars",
+     "fr": {
+      "titre": "Leidos décroche un contrat pour 14 radars MRADR destinés au US Marine Corps",
+      "resume": "Leidos a obtenu un contrat pour fabriquer 14 radars de défense aérienne à moyenne portée (MRADR) destinés au US Marine Corps. Ces systèmes radar à faible signature sont conçus pour améliorer la surveillance aérienne expéditionnaire et l'acquisition de cibles face aux missiles de croisière et aux drones.",
+      "pays": [
+       "États-Unis"
+      ]
+     }
     },
     {
      "suite": false,
@@ -487,7 +594,16 @@
       }
      ],
      "visuel": null,
-     "id": "2026-11-20|KNDS unveils AI-enabled Fennek Air mobile counter-drone vehicle"
+     "id": "2026-11-20|KNDS unveils AI-enabled Fennek Air mobile counter-drone vehicle",
+     "fr": {
+      "titre": "KNDS dévoile le véhicule mobile de lutte antidrone Fennek Air dopé à l'IA",
+      "resume": "KNDS a présenté un prototype du véhicule mobile de lutte antidrone Fennek Air lors du salon NEDS. La plateforme utilise l'intelligence artificielle pour automatiser la détection, le suivi et l'engagement des drones dans des environnements tactiques contestés.",
+      "pays": [
+       "Allemagne",
+       "Pays-Bas",
+       "France"
+      ]
+     }
     }
    ]
   },
@@ -527,7 +643,15 @@
       "page": "https://en.wikipedia.org/wiki/GIAT_LG1",
       "type": "platform"
      },
-     "id": "2026-11-20|Malaysia weighs RM2 billion procurement of KNDS France LG1 howitzers"
+     "id": "2026-11-20|Malaysia weighs RM2 billion procurement of KNDS France LG1 howitzers",
+     "fr": {
+      "titre": "La Malaisie envisage l'achat d'obusiers LG1 de KNDS France pour 2 milliards de ringgits",
+      "resume": "Kuala Lumpur envisage l'acquisition de 36 obusiers légers de 105 mm LG1 supplémentaires auprès de KNDS France, pour un montant évalué à 2 milliards de ringgits. Cet achat potentiel s'inscrit dans le prolongement des discussions sur la coopération en matière de défense menées lors de la récente visite d'État du président Macron.",
+      "pays": [
+       "Malaisie",
+       "France"
+      ]
+     }
     },
     {
      "suite": false,
@@ -551,7 +675,16 @@
       }
      ],
      "visuel": null,
-     "id": "2026-11-20|European Commission approves Thales and Kongsberg joint venture"
+     "id": "2026-11-20|European Commission approves Thales and Kongsberg joint venture",
+     "fr": {
+      "titre": "La Commission européenne approuve la coentreprise entre Thales et Kongsberg",
+      "resume": "La Commission européenne a autorisé la création d'une coentreprise en Norvège entre Thales et Kongsberg. L'entité autorisée se concentrera sur l'intégration de systèmes de défense navals et tactiques pour les forces armées européennes.",
+      "pays": [
+       "France",
+       "Norvège",
+       "Union européenne"
+      ]
+     }
     }
    ]
   },
@@ -601,7 +734,15 @@
       "page": "https://en.wikipedia.org/wiki/Vladimir_Putin",
       "type": "person"
      },
-     "id": "2026-11-20|Putin rejects ceasefires as satellite data shows Kerch rail bridge damage"
+     "id": "2026-11-20|Putin rejects ceasefires as satellite data shows Kerch rail bridge damage",
+     "fr": {
+      "titre": "Poutine rejette tout cessez-le-feu alors que les données satellitaires montrent des dommages sur le pont ferroviaire de Kertch",
+      "resume": "Vladimir Poutine a rejeté toute trêve maritime ou énergétique après de nouvelles frappes de missiles ukrainiennes ayant touché le pont de Kertch pour la troisième fois cette semaine. L'imagerie satellitaire a confirmé des impacts importants sur la travée ferroviaire hautement défendue.",
+      "pays": [
+       "Ukraine",
+       "Russie"
+      ]
+     }
     }
    ]
   },
@@ -641,7 +782,16 @@
       }
      ],
      "visuel": null,
-     "id": "2026-11-20|Houthi missile strike damages skyscraper in central Riyadh"
+     "id": "2026-11-20|Houthi missile strike damages skyscraper in central Riyadh",
+     "fr": {
+      "titre": "Une frappe de missile houthiste endommage un gratte-ciel dans le centre de Riyad",
+      "resume": "Les autorités saoudiennes ont rapporté qu'une attaque de missile houthiste a touché un gratte-ciel commercial dans le quartier financier de Riyad. Cette frappe aggrave les inquiétudes concernant la sécurité énergétique régionale, alors que l'Agence internationale de l'énergie avertit de menaces historiques sur l'approvisionnement du Golfe.",
+      "pays": [
+       "Arabie saoudite",
+       "Yémen",
+       "Iran"
+      ]
+     }
     }
    ]
   },
@@ -675,7 +825,15 @@
       }
      ],
      "visuel": null,
-     "id": "2026-11-20|France and Sweden conduct inaugural advanced nuclear deterrence air drill"
+     "id": "2026-11-20|France and Sweden conduct inaugural advanced nuclear deterrence air drill",
+     "fr": {
+      "titre": "La France et la Suède mènent leur premier exercice aérien de dissuasion nucléaire avancée",
+      "resume": "Les forces aériennes française et suédoise ont exécuté leur premier exercice aérien conjoint de dissuasion nucléaire avancée. Ces manœuvres bilatérales concrétisent l'alignement de la Suède sur la doctrine stratégique de « dissuasion avancée » de la France annoncée plus tôt cette année.",
+      "pays": [
+       "France",
+       "Suède"
+      ]
+     }
     }
    ]
   },
@@ -704,7 +862,15 @@
       }
      ],
      "visuel": null,
-     "id": "2026-11-20|MBDA and Atmos Space Cargo partner to study orbital kinetic strikes"
+     "id": "2026-11-20|MBDA and Atmos Space Cargo partner to study orbital kinetic strikes",
+     "fr": {
+      "titre": "MBDA et Atmos Space Cargo s'associent pour étudier les frappes cinétiques orbitales",
+      "resume": "MBDA s'est associée à la jeune pousse allemande Atmos Space Cargo pour étudier la faisabilité du déploiement d'armes de frappe de précision depuis l'orbite basse terrestre à l'aide de capsules de rentrée atmosphérique réutilisables. L'initiative explore des concepts d'engagement hypersonique depuis l'orbite vers le sol.",
+      "pays": [
+       "France",
+       "Allemagne"
+      ]
+     }
     }
    ]
   },
@@ -738,7 +904,14 @@
       "page": "https://en.wikipedia.org/wiki/DragonFire_(weapon)",
       "type": "platform"
      },
-     "id": "2026-11-20|Royal Navy to deploy DragonFire laser weapon operationally next year"
+     "id": "2026-11-20|Royal Navy to deploy DragonFire laser weapon operationally next year",
+     "fr": {
+      "titre": "La Royal Navy déploiera l'arme laser DragonFire en service opérationnel l'année prochaine",
+      "resume": "La Royal Navy britannique a confirmé son intention de déployer l'arme laser à énergie dirigée de haute puissance DragonFire à bord de navires de guerre en 2027. Le système offre une défense à faible coût par tir contre les menaces asymétriques de drones et de surface.",
+      "pays": [
+       "Royaume-Uni"
+      ]
+     }
     }
    ]
   },
@@ -774,7 +947,17 @@
       }
      ],
      "visuel": null,
-     "id": "2026-11-20|TSMC and Samsung freeze advanced AI chip shipments to China"
+     "id": "2026-11-20|TSMC and Samsung freeze advanced AI chip shipments to China",
+     "fr": {
+      "titre": "TSMC et Samsung gèlent leurs livraisons de puces d'IA avancées vers la Chine",
+      "resume": "TSMC et Samsung ont interrompu leurs livraisons de certains semi-conducteurs avancés à des clients chinois à la suite du durcissement des restrictions américaines à l'exportation. Ces suspensions font suite à un examen minutieux du détournement de puces d'IA liées à Nvidia et à de présumées sociétés écrans chinoises.",
+      "pays": [
+       "Taïwan",
+       "Corée du Sud",
+       "Chine",
+       "États-Unis"
+      ]
+     }
     }
    ]
   }
@@ -823,5 +1006,26 @@
  "stats": {
   "articles": 453,
   "sources": 52
+ },
+ "fr": {
+  "accroche": [
+   "La CIJ rend un arrêt historique pour génocide contre le Myanmar après la répression des Rohingyas en 2017",
+   "L'US Army déploie son premier système de défense aérienne Patriot IBCS intégrant l'IA en Corée du Sud",
+   "Les alliés occidentaux discutent à Berlin de garanties de sécurité pour l'Ukraine sur le modèle de l'OTAN"
+  ],
+  "a_surveiller": [
+   {
+    "quand": "29 novembre",
+    "quoi": "Élections générales espagnoles à la suite de grands débats télévisés entre dirigeants"
+   },
+   {
+    "quand": "2027",
+    "quoi": "Exercice conjoint de tirs réels de la force aérienne de Singapour et de l'armée de l'Air indonésienne sur le champ de tir de Siabu"
+   },
+   {
+    "quand": "2027",
+    "quoi": "Opérationnalisation des tirs d'essai de missiles des Forces d'autodéfense japonaises sur des champs de tir indiens"
+   }
+  ]
  }
 }

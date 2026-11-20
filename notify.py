@@ -17,10 +17,12 @@ import time
 from datetime import datetime
 from zoneinfo import ZoneInfo
 
-from brief import DATA, load_env, log
+from brief import DATA, JOURS, load_env, log
 
 TZ = ZoneInfo("Asia/Singapore")
 MAX_WAIT_MIN = 90
+MOIS = ["janvier", "février", "mars", "avril", "mai", "juin", "juillet", "août",
+        "septembre", "octobre", "novembre", "décembre"]
 
 
 def wait_until(hhmm: str) -> None:
@@ -33,18 +35,25 @@ def wait_until(hhmm: str) -> None:
         time.sleep(delay)
 
 
+def jour_fr(date_str: str) -> str:
+    """« 2026-11-20 » → « Vendredi 20 novembre »."""
+    d = datetime.strptime(date_str, "%Y-%m-%d")
+    return f"{JOURS[d.weekday()].capitalize()} {'1er' if d.day == 1 else d.day} {MOIS[d.month - 1]}"
+
+
 def message(brief: dict) -> dict:
-    jour = (brief.get("date_label") or brief["date_fr"]).rsplit(" ", 1)[0].rstrip(",")
-    titres = [f"{it.get('emoji', '')} {it['titre']}".strip() for it in brief.get("essentiel", [])[:3]]
+    """Notification en français (langue par défaut de l'app)."""
+    titre = lambda it: (it.get("fr") or {}).get("titre") or it["titre"]  # noqa: E731
+    titres = [f"{it.get('emoji', '')} {titre(it)}".strip() for it in brief.get("essentiel", [])[:3]]
     if not titres:
-        titres = [it["titre"] for r in brief.get("rubriques", []) for it in r["items"][:1]][:3]
+        titres = [titre(it) for r in brief.get("rubriques", []) for it in r["items"][:1]][:3]
     body = "\n".join(titres)
     nouveaux = sum(len(r["items"]) for r in brief.get("rubriques", []))
     if nouveaux:
-        body += f"\n📚 +{nouveaux} new stories in your reading list"
+        body += f"\n📚 +{nouveaux} nouveaux sujets dans ta pile"
     if brief.get("hebdo"):
-        body = "📊 Weekly summary included\n" + body
-    return {"title": f"Brief · {jour}", "body": body[:350], "url": "./"}
+        body = "📊 Synthèse de la semaine incluse\n" + body
+    return {"title": f"Brief · {jour_fr(brief['date'])}", "body": body[:350], "url": "./"}
 
 
 def main() -> int:

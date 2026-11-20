@@ -46,7 +46,15 @@
     }
    ],
    "visuel": null,
-   "id": "2026-11-18|Ukrainian strikes sever road span of Kerch Bridge"
+   "id": "2026-11-18|Ukrainian strikes sever road span of Kerch Bridge",
+   "fr": {
+    "titre": "Des frappes ukrainiennes coupent un tronçon routier du pont de Kertch",
+    "resume": "Des frappes ukrainiennes de missiles et de drones ont détruit une section routière clé du pont de Kertch reliant la Russie à la Crimée occupée. Ces dégâts perturbent lourdement la logistique militaire russe avant le sommet de Shenzhen.",
+    "pays": [
+     "Ukraine",
+     "Russie"
+    ]
+   }
   },
   {
    "suite": true,
@@ -92,7 +100,17 @@
     "page": "https://en.wikipedia.org/wiki/Tupolev_Tu-95",
     "type": "platform"
    },
-   "id": "2026-11-18|Russian strategic bombers land in Vietnam after traversing regional ADIZs"
+   "id": "2026-11-18|Russian strategic bombers land in Vietnam after traversing regional ADIZs",
+   "fr": {
+    "titre": "Des bombardiers stratégiques russes atterrissent au Vietnam après avoir traversé plusieurs ADIZ régionales",
+    "resume": "Deux bombardiers stratégiques russes Tu-95 se sont posés à Da Nang après avoir violé l'espace aérien japonais et traversé les zones d'identification de défense aérienne sud-coréenne et taïwanaise. Des avions de chasse ont décollé en alerte dans toute l'Asie du Nord-Est en réponse.",
+    "pays": [
+     "Russie",
+     "Japon",
+     "Corée du Sud",
+     "Taïwan"
+    ]
+   }
   },
   {
    "suite": false,
@@ -135,7 +153,14 @@
     "page": "https://en.wikipedia.org/wiki/Matan_Kahana",
     "type": "person"
    },
-   "id": "2026-11-18|Matan Kahana elected Speaker of Israel's Knesset"
+   "id": "2026-11-18|Matan Kahana elected Speaker of Israel's Knesset",
+   "fr": {
+    "titre": "Matan Kahana élu président de la Knesset israélienne",
+    "resume": "Le Parlement israélien a élu Matan Kahana, allié du dirigeant centriste Gadi Eisenkot, à sa présidence avec le soutien de partis arabes. Ce vote constitue un revers politique majeur pour le premier ministre Benyamin Nétanyahou.",
+    "pays": [
+     "Israël"
+    ]
+   }
   },
   {
    "suite": false,
@@ -172,7 +197,14 @@
     }
    ],
    "visuel": null,
-   "id": "2026-11-18|NATO unveils STARLIFT space initiative and OpenAI cybersecurity deal"
+   "id": "2026-11-18|NATO unveils STARLIFT space initiative and OpenAI cybersecurity deal",
+   "fr": {
+    "titre": "L'OTAN dévoile l'initiative spatiale STARLIFT et un accord cyber avec OpenAI",
+    "resume": "L'OTAN a lancé STARLIFT, une initiative multinationale exploitant des lanceurs commerciaux pour déployer rapidement des satellites et garantir un accès souverain à l'espace. L'Alliance s'est également associée à OpenAI afin d'intégrer l'intelligence artificielle avancée à ses cyberdéfenses.",
+    "pays": [
+     "Monde"
+    ]
+   }
   }
  ],
  "rubriques": [
@@ -217,7 +249,16 @@
       }
      ],
      "visuel": null,
-     "id": "2026-11-18|US loses measles eradication status after record outbreaks"
+     "id": "2026-11-18|US loses measles eradication status after record outbreaks",
+     "fr": {
+      "titre": "Les États-Unis perdent leur statut d'éradication de la rougeole après des épidémies records",
+      "resume": "L'Organisation panaméricaine de la santé a déclaré que la rougeole n'était plus éliminée aux États-Unis, après plus de 5 400 cas enregistrés cette année. Le Mexique et la Bolivie ont également perdu leur statut d'éradication.",
+      "pays": [
+       "États-Unis",
+       "Mexique",
+       "Bolivie"
+      ]
+     }
     }
    ]
   },
@@ -264,7 +305,17 @@
       "page": "https://en.wikipedia.org/wiki/Donald_Trump",
       "type": "person"
      },
-     "id": "2026-11-18|Trump holds Manila talks ahead of Shenzhen APEC summit"
+     "id": "2026-11-18|Trump holds Manila talks ahead of Shenzhen APEC summit",
+     "fr": {
+      "titre": "Donald Trump s'entretient à Manille avant le sommet de l'APEC à Shenzhen",
+      "resume": "Le président américain Donald Trump a rencontré le président philippin Ferdinand Marcos Jr à Manille avant de se rendre à Shenzhen pour le sommet de l'APEC. Donald Trump a réaffirmé son intention de mener des pourparlers bilatéraux avec le dirigeant nord-coréen Kim Jong-un.",
+      "pays": [
+       "États-Unis",
+       "Philippines",
+       "Chine",
+       "Corée du Nord"
+      ]
+     }
     },
     {
      "suite": true,
@@ -291,7 +342,14 @@
       }
      ],
      "visuel": null,
-     "id": "2026-11-18|Singapore outlines strategic priorities for 2027 ASEAN Chairmanship"
+     "id": "2026-11-18|Singapore outlines strategic priorities for 2027 ASEAN Chairmanship",
+     "fr": {
+      "titre": "Singapour présente ses priorités stratégiques pour sa présidence de l'ASEAN en 2027",
+      "resume": "Le premier ministre Lawrence Wong a officiellement reçu le marteau cérémoniel de l'ASEAN, s'engageant à privilégier l'intégration économique, l'interconnexion énergétique et le commerce numérique. Il a averti que les tensions géopolitiques externes mettraient à l'épreuve l'unité régionale.",
+      "pays": [
+       "Singapour"
+      ]
+     }
     },
     {
      "suite": true,
@@ -319,7 +377,15 @@
       }
      ],
      "visuel": null,
-     "id": "2026-11-18|Singapore seeks trusted technology framework following US export controls"
+     "id": "2026-11-18|Singapore seeks trusted technology framework following US export controls",
+     "fr": {
+      "titre": "Singapour cherche un cadre de technologies de confiance après les contrôles américains à l'exportation",
+      "resume": "Singapour et les États-Unis ont convenu de mettre en œuvre des arrangements garantissant aux entreprises locales légitimes un accès continu aux semi-conducteurs avancés. Cette initiative fait suite à l'extension des licences d'exportation américaines ciblant les chaînes d'approvisionnement de puces d'IA en Asie du Sud-Est.",
+      "pays": [
+       "Singapour",
+       "États-Unis"
+      ]
+     }
     }
    ]
   },
@@ -347,7 +413,14 @@
       }
      ],
      "visuel": null,
-     "id": "2026-11-18|Mongolian President announces resignation amidst corruption scandal"
+     "id": "2026-11-18|Mongolian President announces resignation amidst corruption scandal",
+     "fr": {
+      "titre": "Le président mongol annonce sa démission sur fond de scandale de corruption",
+      "resume": "Le président de la Mongolie a annoncé sa démission face à la pression populaire et aux accusations de malversations formulées par l'opposition. Le parti au pouvoir est visé par de multiples allégations de clientélisme émanant de parlementaires d'opposition.",
+      "pays": [
+       "Mongolie"
+      ]
+     }
     }
    ]
   },
@@ -387,7 +460,15 @@
       "page": "https://en.wikipedia.org/wiki/K239_Chunmoo",
       "type": "platform"
      },
-     "id": "2026-11-18|Hanwha test-fires Chunmoo rocket from palletized sea launcher in US"
+     "id": "2026-11-18|Hanwha test-fires Chunmoo rocket from palletized sea launcher in US",
+     "fr": {
+      "titre": "Hanwha teste un tir de roquette Chunmoo depuis un lanceur maritime conteneurisé aux États-Unis",
+      "resume": "L'entreprise sud-coréenne Hanwha a mené avec succès un tir d'essai du missile Chunmoo depuis un lanceur conteneurisé en mer, au large du Mississippi. Le système offre des capacités modulaires de frappe surface-surface pour les bâtiments de surface.",
+      "pays": [
+       "Corée du Sud",
+       "États-Unis"
+      ]
+     }
     },
     {
      "suite": false,
@@ -410,7 +491,15 @@
       }
      ],
      "visuel": null,
-     "id": "2026-11-18|Hanwha Systems secures first US deal for tactical AESA radar"
+     "id": "2026-11-18|Hanwha Systems secures first US deal for tactical AESA radar",
+     "fr": {
+      "titre": "Hanwha Systems remporte son premier contrat américain pour un radar tactique AESA",
+      "resume": "Hanwha Systems a décroché son premier contrat d'exportation aux États-Unis pour des radars AESA à courte portée. Ces radars compacts sont conçus pour l'autodéfense rapprochée et la lutte antidrone.",
+      "pays": [
+       "Corée du Sud",
+       "États-Unis"
+      ]
+     }
     },
     {
      "suite": false,
@@ -433,7 +522,15 @@
       }
      ],
      "visuel": null,
-     "id": "2026-11-18|Romania penalises Rheinmetall over air defence delivery delays"
+     "id": "2026-11-18|Romania penalises Rheinmetall over air defence delivery delays",
+     "fr": {
+      "titre": "La Roumanie pénalise Rheinmetall pour des retards de livraison en défense sol-air",
+      "resume": "Le ministre roumain de la Défense, Angel Tîlvăr, a confirmé l'application de pénalités contractuelles contre l'allemand Rheinmetall en raison de retards dans la livraison de systèmes de défense antiaérienne. Le contrat porte sur la modernisation de la défense sol-air multicouche de Bucarest.",
+      "pays": [
+       "Roumanie",
+       "Allemagne"
+      ]
+     }
     }
    ]
   },
@@ -473,7 +570,15 @@
       "page": "https://en.wikipedia.org/wiki/CAESAR_self-propelled_howitzer",
       "type": "platform"
      },
-     "id": "2026-11-18|Bulgaria authorises procurement negotiations for 57 French CAESAr howitzers"
+     "id": "2026-11-18|Bulgaria authorises procurement negotiations for 57 French CAESAr howitzers",
+     "fr": {
+      "titre": "La Bulgarie autorise des négociations pour l'achat de 57 canons français CAESAr",
+      "resume": "Le gouvernement bulgare a donné son feu vert pour ouvrir des négociations officielles en vue de l'acquisition de 57 systèmes d'artillerie automoteurs sur roues de 155 mm CAESAr auprès de la France. Cet achat s'appuiera sur les mécanismes européens d'acquisition conjointe.",
+      "pays": [
+       "Bulgarie",
+       "France"
+      ]
+     }
     },
     {
      "suite": true,
@@ -511,7 +616,15 @@
       }
      ],
      "visuel": null,
-     "id": "2026-11-18|France and Malaysia sign strategic defence and rare earths partnership"
+     "id": "2026-11-18|France and Malaysia sign strategic defence and rare earths partnership",
+     "fr": {
+      "titre": "La France et la Malaisie signent un partenariat stratégique dans la défense et les terres rares",
+      "resume": "Le président français Emmanuel Macron et le premier ministre malaisien Anwar Ibrahim ont formalisé un partenariat stratégique à Kuala Lumpur. L'accord porte sur le traitement des minéraux critiques et le renforcement de la coopération navale bilatérale.",
+      "pays": [
+       "France",
+       "Malaisie"
+      ]
+     }
     }
    ]
   },
@@ -541,7 +654,16 @@
       }
      ],
      "visuel": null,
-     "id": "2026-11-18|Zelensky highlights Russian dependence on North Korean missiles"
+     "id": "2026-11-18|Zelensky highlights Russian dependence on North Korean missiles",
+     "fr": {
+      "titre": "Zelensky souligne la dépendance de la Russie envers les missiles nord-coréens",
+      "resume": "Le président ukrainien Volodymyr Zelensky a déclaré que la Russie recevait chaque mois des dizaines de missiles balistiques nord-coréens pour frapper les infrastructures ukrainiennes. Il a réitéré ses appels aux alliés occidentaux pour la fourniture d'armes à longue portée afin de cibler les sites de lancement.",
+      "pays": [
+       "Ukraine",
+       "Russie",
+       "Corée du Nord"
+      ]
+     }
     }
    ]
   },
@@ -577,7 +699,17 @@
       }
      ],
      "visuel": null,
-     "id": "2026-11-18|Gulf air defences intercept drone attacks amidst US-Iran clashes"
+     "id": "2026-11-18|Gulf air defences intercept drone attacks amidst US-Iran clashes",
+     "fr": {
+      "titre": "Les défenses antiaériennes du Golfe interceptent des drones sur fond d'affrontements entre les États-Unis et l'Iran",
+      "resume": "Les défenses antiaériennes du Koweït et de Bahreïn ont repoussé des attaques de drones hostiles alors que les forces américaines et iraniennes échangeaient des tirs dans le Golfe. Bahreïn a accusé Téhéran d'attaques criminelles contre ses infrastructures militaires.",
+      "pays": [
+       "Koweït",
+       "Bahreïn",
+       "Iran",
+       "États-Unis"
+      ]
+     }
     }
    ]
   },
@@ -616,7 +748,15 @@
       }
      ],
      "visuel": null,
-     "id": "2026-11-18|Iceye submits €2bn takeover bid for Italian launcher maker Avio"
+     "id": "2026-11-18|Iceye submits €2bn takeover bid for Italian launcher maker Avio",
+     "fr": {
+      "titre": "Iceye lance une offre publique d'achat de 2 milliards d'euros sur le fabricant de lanceurs italien Avio",
+      "resume": "L'opérateur de satellites finlandais Iceye a déposé une offre tout en numéraire de 2 milliards d'euros pour racheter le fabricant de fusées italien Avio. Cette acquisition vise à créer un acteur européen intégré de l'observation spatiale et des services de lancement.",
+      "pays": [
+       "Finlande",
+       "Italie"
+      ]
+     }
     }
    ]
   },
@@ -649,7 +789,14 @@
       }
      ],
      "visuel": null,
-     "id": "2026-11-18|US Department of War selects seven firms for directed-energy C-UAS trials"
+     "id": "2026-11-18|US Department of War selects seven firms for directed-energy C-UAS trials",
+     "fr": {
+      "titre": "Le département de la Guerre des États-Unis sélectionne sept industriels pour des essais d'armes à énergie dirigée anti-drones",
+      "resume": "La Joint Interagency Task Force 401 a retenu sept industriels de défense pour participer à des évaluations d'armes à énergie dirigée anti-drones. Des essais de tir réel sur le polygone de Dugway testeront des lasers à haute énergie et des armes à micro-ondes face à des essaims de drones.",
+      "pays": [
+       "États-Unis"
+      ]
+     }
     }
    ]
   },
@@ -683,7 +830,15 @@
       }
      ],
      "visuel": null,
-     "id": "2026-11-18|Canada and China finalize reciprocal tariff relief ahead of APEC"
+     "id": "2026-11-18|Canada and China finalize reciprocal tariff relief ahead of APEC",
+     "fr": {
+      "titre": "Le Canada et la Chine finalisent des allègements tarifaires réciproques avant l'APEC",
+      "resume": "Le premier ministre canadien Mark Carney et le président chinois Xi Jinping ont finalisé des accords d'allègement douanier couvrant 280 millions de dollars d'exportations canadiennes. Ottawa a accepté de prolonger les exemptions tarifaires sur certains produits chinois en acier et en aluminium.",
+      "pays": [
+       "Canada",
+       "Chine"
+      ]
+     }
     }
    ]
   }
@@ -748,5 +903,30 @@
  "stats": {
   "articles": 435,
   "sources": 52
+ },
+ "fr": {
+  "accroche": [
+   "Des frappes ukrainiennes détruisent un tronçon routier du pont stratégique de Kertch",
+   "Des bombardiers stratégiques russes déclenchent des alertes aériennes dans toute l'Asie du Nord-Est",
+   "L'OTAN lance l'initiative spatiale STARLIFT et un partenariat cyber avec OpenAI"
+  ],
+  "a_surveiller": [
+   {
+    "quand": "19 novembre",
+    "quoi": "La Cour internationale de justice doit rendre sa décision dans l'affaire du génocide des Rohingya opposant la Gambie à la Birmanie"
+   },
+   {
+    "quand": "19 novembre",
+    "quoi": "La Malaisie effectuera un test national de diffusion cellulaire pour les alertes d'urgence en cas de catastrophe naturelle"
+   },
+   {
+    "quand": "1er décembre",
+    "quoi": "L'ancien PDG de Nvidia Jensen Huang doit témoigner devant le Congrès américain"
+   },
+   {
+    "quand": "Janvier 2027",
+    "quoi": "Singapour lancera les premiers travaux préparatoires et la concertation publique pour le projet « Long Island »"
+   }
+  ]
  }
 }

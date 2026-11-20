@@ -34,6 +34,7 @@ modeles:
 rubriques:
   - id: monde
     titre: World
+    titre_fr: Monde
     max: 2
     consigne: >
       Major international news not covered by another section: the Americas, Africa, global diplomacy, international organisations.
@@ -41,6 +42,7 @@ rubriques:
 
   - id: asie
     titre: APAC
+    titre_fr: APAC
     max: 6
     consigne: >
       Everything Asia-Pacific: security, geopolitics, politics and economy of China, Taiwan, the Koreas, Japan, Singapore (SAF, RSAF, MINDEF), South-East Asia and ASEAN (Indonesia, Malaysia, the Philippines, Vietnam, Thailand, Myanmar), India, Pakistan, Australia and the Pacific. Singapore news is a priority.
@@ -48,6 +50,7 @@ rubriques:
 
   - id: elections
     titre: Elections & Politics
+    titre_fr: Élections & politique
     max: 3
     consigne: >
       Elections, changes of government and major political crises worldwide (Asia first), with dates and results when known.
@@ -55,6 +58,7 @@ rubriques:
 
   - id: defense_aerienne
     titre: Air & Missile Defence
+    titre_fr: Défense aérienne & antimissile
     max: 4
     consigne: >
       Air and missile defence (IAMD, surface-to-air, GBAD), radars, C2, counter-drone (C-UAS), combat aviation, missile and drone strikes and their interception, worldwide.
@@ -62,6 +66,7 @@ rubriques:
 
   - id: industrie
     titre: Defence Industry & Contracts
+    titre_fr: Industrie de défense & contrats
     max: 3
     consigne: >
       Defence contracts and programmes, defence budgets, exports, defence company news (Airbus, Thales, MBDA, Lockheed Martin, RTX, Hanwha, Rafael, Saab, KAI…), Asia first.
@@ -69,6 +74,7 @@ rubriques:
 
   - id: ukraine
     titre: Ukraine / Russia
+    titre_fr: Ukraine / Russie
     max: 2
     consigne: >
       War in Ukraine and Russia: front line, missile and drone strikes, Ukrainian air defence, negotiations, related sanctions.
@@ -76,6 +82,7 @@ rubriques:
 
   - id: moyen_orient
     titre: Middle East
+    titre_fr: Moyen-Orient
     max: 2
     consigne: >
       Iran, Israel, Gaza, Lebanon, Syria, the Gulf, Yemen / Houthis, Red Sea.
@@ -83,6 +90,7 @@ rubriques:
 
   - id: europe
     titre: Europe
+    titre_fr: Europe
     max: 3
     consigne: >
       Europe: defence and security (NATO, European armed forces, budgets and programmes such as SAMP/T, ESSI, FCAS, GCAP, French defence policy) and major European political news.
@@ -90,6 +98,7 @@ rubriques:
 
   - id: espace
     titre: Space & Satellites
+    titre_fr: Espace & satellites
     max: 2
     consigne: >
       Military and dual-use space: Earth observation and communication satellites, early warning, launches, national space programmes, counter-space threats.
@@ -97,6 +106,7 @@ rubriques:
 
   - id: tech
     titre: Emerging Tech
+    titre_fr: Technologies émergentes
     max: 2
     consigne: >
       Disruptive military technologies: hypersonics, military AI, drone swarms, directed-energy weapons (lasers, microwaves), quantum, autonomy.
@@ -104,6 +114,7 @@ rubriques:
 
   - id: economie
     titre: Economy & Sanctions
+    titre_fr: Économie & sanctions
     max: 2
     consigne: >
       Export controls, sanctions, trade wars, strategic supply chains (semiconductors, rare earths, energy).

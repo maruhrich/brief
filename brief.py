@@ -500,6 +500,82 @@ def backfill_visuels(cfg: dict, api_key: str) -> None:
     write_outputs(latest, latest["date"], cfg)
 
 
+# ── Version française (l'app est en français par défaut, bouton F / E) ──────────
+
+FR_SYSTEM = """You translate a defence and geopolitics news brief from English into French (France) for a French
+defence-industry professional. Write natural, concise French in the style of Le Monde or Les Echos, not word for word.
+Keep exactly the same meaning: add nothing, drop nothing.
+- Keep proper names, system designations and acronyms (Patriot, SAMP/T, F-35, IRGC, PLA…), but use the usual French
+  form when there is one (NATO → OTAN, EU → UE, UN → ONU, US → États-Unis / américain).
+- Country, region and place names in French (South Korea → Corée du Sud, Middle East → Moyen-Orient).
+- Dates like "19 octobre", amounts like "3,8 milliards de dollars".
+- Headlines in French sentence case (capital only on the first word and on proper names).
+Return one entry per text, with the same "n"."""
+FR_SCHEMA = {"type": "array", "items": {"type": "object", "properties": {
+    "n": {"type": "integer"}, "fr": {"type": "string"}}, "required": ["n", "fr"]}}
+
+
+def translate_fr(cfg: dict, texts: list[str], api_key: str) -> dict[str, str]:
+    """Traduit une liste de textes en français ; renvoie {anglais: français}."""
+    uniq = list(dict.fromkeys(t.strip() for t in texts if t and t.strip()))
+    if not uniq:
+        return {}
+    user = json.dumps([{"n": n, "text": t} for n, t in enumerate(uniq, 1)], ensure_ascii=False)
+    raw, _ = call_gemini(cfg, FR_SYSTEM, user, FR_SCHEMA, api_key)
+    out = {}
+    for r in raw if isinstance(raw, list) else []:
+        try:
+            src = uniq[int(r.get("n")) - 1]
+        except (TypeError, ValueError, IndexError):
+            continue
+        if (r.get("fr") or "").strip():
+            out[src] = r["fr"].strip()
+    return out
+
+
+def add_fr(cfg: dict, brief: dict, api_key: str) -> int:
+    """Ajoute la version française (champ « fr ») au brief, à ses sujets et à la synthèse hebdo."""
+    items = brief.get("essentiel", []) + [i for r in brief.get("rubriques", []) for i in r["items"]]
+    hook = bullets(brief.get("accroche"))
+    watch = brief.get("a_surveiller") or []
+    hebdo = brief.get("hebdo")
+    texts = [x for it in items for x in (it["titre"], it.get("resume", ""), *it.get("pays", []))]
+    texts += hook + [x for w in watch for x in (w.get("quand", ""), w.get("quoi", ""))]
+    if hebdo:
+        texts += [hebdo.get("accroche", "")]
+        texts += [x for t in hebdo.get("tendances", []) for x in (t["titre"], t.get("resume", ""))]
+        texts += [x for a in hebdo.get("a_suivre", []) for x in (a.get("quand", ""), a["quoi"])]
+    m = translate_fr(cfg, texts, api_key)
+    if not m:
+        return 0
+    tr = lambda s: m.get((s or "").strip(), s)  # noqa: E731 — sans traduction, on garde l'anglais
+    for it in items:
+        it["fr"] = {"titre": tr(it["titre"]), "resume": tr(it.get("resume", "")),
+                    "pays": [tr(p) for p in it.get("pays", [])]}
+    brief["fr"] = {"accroche": [tr(a) for a in hook],
+                   "a_surveiller": [{"quand": tr(w.get("quand", "")), "quoi": tr(w.get("quoi", ""))} for w in watch]}
+    if hebdo:
+        hebdo["fr"] = {"accroche": tr(hebdo.get("accroche", "")),
+                       "tendances": [{"titre": tr(t["titre"]), "resume": tr(t.get("resume", ""))}
+                                     for t in hebdo.get("tendances", [])],
+                       "a_suivre": [{"quand": tr(a.get("quand", "")), "quoi": tr(a["quoi"])}
+                                    for a in hebdo.get("a_suivre", [])]}
+    return len(m)
+
+
+def backfill_fr(cfg: dict, api_key: str) -> None:
+    """Traduit les briefs déjà publiés de la pile (une seule fois)."""
+    files = sorted(ARCHIVE.glob("*.json"), reverse=True)[: cfg.get("pile_jours", 7)]
+    for f in files:
+        b = json.loads(f.read_text())
+        if b.get("mode") != "ia" or b.get("fr"):
+            continue
+        log(f"Traduction du {b['date']} : {add_fr(cfg, b, api_key)} textes.")
+        f.write_text(json.dumps(b, ensure_ascii=False, indent=1))
+    latest = json.loads(files[0].read_text())
+    write_outputs(latest, latest["date"], cfg)
+
+
 # ── Synthèse de la semaine ───────────────────────────────────
 
 def weekly_due(cfg: dict, now: datetime) -> bool:
@@ -657,12 +733,15 @@ def write_outputs(brief: dict, date_str: str, cfg: dict) -> None:
             hebdo.append(b["date"])
         # Index de recherche : une ligne compacte par sujet
         for it in b.get("essentiel", []) + [it for r in b.get("rubriques", []) for it in r["items"]]:
+            fr = it.get("fr") or {}
             rows.append({"d": b["date"], "r": it.get("rubrique", ""), "e": it.get("emoji", ""),
                          "t": it["titre"], "s": it.get("resume", ""), "w": it.get("pourquoi", ""),
+                         "tf": fr.get("titre", ""), "sf": fr.get("resume", ""),
                          "p": it.get("pays", []), "g": it.get("region", ""),
                          "l": [{"source": l["source"], "url": l["url"]} for l in it.get("liens", [])[:3]]})
     index = {"dates": dates, "hebdo": hebdo,
-             "rubriques": [{"id": r["id"], "titre": r["titre"]} for r in cfg["rubriques"]]}
+             "rubriques": [{"id": r["id"], "titre": r["titre"], "titre_fr": r.get("titre_fr", r["titre"])}
+                           for r in cfg["rubriques"]]}
     (DATA / "index.json").write_text(json.dumps(index, ensure_ascii=False, indent=1))
     (DATA / "search.json").write_text(json.dumps(rows, ensure_ascii=False, separators=(",", ":")))
     (DATA / "pile.json").write_text(json.dumps(pile, ensure_ascii=False, separators=(",", ":")))
@@ -684,6 +763,7 @@ def main() -> int:
     parser.add_argument("--sources", action="store_true")
     parser.add_argument("--hebdo", action="store_true")
     parser.add_argument("--photos", action="store_true", help="ajoute les photos aux sujets déjà publiés")
+    parser.add_argument("--fr", action="store_true", help="traduit en français les briefs déjà publiés")
     args = parser.parse_args()
 
     load_env()
@@ -694,6 +774,9 @@ def main() -> int:
 
     if args.photos:
         backfill_visuels(cfg, os.environ["GEMINI_API_KEY"])
+        return 0
+    if args.fr:
+        backfill_fr(cfg, os.environ["GEMINI_API_KEY"])
         return 0
 
     if args.skip_if_done and (ARCHIVE / f"{date_str}.json").exists():
@@ -746,6 +829,12 @@ def main() -> int:
         "hebdo": hebdo,
         "stats": {"articles": len(articles), "sources": ok_feeds},
     }
+
+    if brief["mode"] == "ia":
+        try:
+            log(f"Version française : {add_fr(cfg, brief, api_key)} textes traduits.")
+        except Exception as exc:  # sans traduction, l'app affiche l'anglais
+            log(f"⚠ Traduction : {exc}")
 
     if args.dry_run:
         print(json.dumps(brief, ensure_ascii=False, indent=1))
