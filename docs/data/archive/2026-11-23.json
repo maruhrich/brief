@@ -1,0 +1,1278 @@
+{
+ "date": "2026-11-23",
+ "date_label": "Monday, November 23, 2026",
+ "genere_le": "2026-11-23T11:15:38+08:00",
+ "mode": "ia",
+ "modele": "gemini-3.6-flash",
+ "accroche": [
+  "Ukraine expands naval drone strikes to Mediterranean and Baltic ports",
+  "Poland confirms three Russian cruise missiles breached its airspace",
+  "US Democrats clinch largest House majority in over three decades"
+ ],
+ "essentiel": [
+  {
+   "suite": true,
+   "remplace": "2026-11-22|Russian cargo ship ablaze in Baltic after drone strike",
+   "emoji": "🚢",
+   "titre": "Ukraine expands long-range drone strikes on Russian ships to Libya and Baltic",
+   "resume": "Ukrainian drone attacks struck a Russian vessel in Benghazi, Libya, and damaged another in the Baltic. The operations mark a significant geographic expansion of Kyiv's maritime strikes.",
+   "pourquoi": "",
+   "pays": [
+    "Ukraine",
+    "Russia",
+    "Libya",
+    "Finland"
+   ],
+   "region": "Russia-Ukraine",
+   "rubrique": "ukraine",
+   "liens": [
+    {
+     "source": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+     "titre": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say"
+    },
+    {
+     "source": "CNA Monde",
+     "url": "https://www.channelnewsasia.com/world/un-urges-probe-after-russian-ship-attacked-libya-6573101",
+     "titre": "UN urges probe after Russian ship attacked off Libya"
+    },
+    {
+     "source": "Le Monde International",
+     "url": "https://www.lemonde.fr/international/live/2026/11/22/en-direct-guerre-en-ukraine-deux-navires-dont-un-russe-cibles-par-des-attaques-de-drones-a-benghazi-en-libye-selon-les-autorites-locales_6814183_3210.html",
+     "titre": "EN DIRECT, guerre en Ukraine : deux navires, dont au moins un russe, ciblés par des attaques de drones à Benghazi en Libye, selon les autorités locales"
+    },
+    {
+     "source": "Japan Times",
+     "url": "https://www.japantimes.co.jp/news/2026/11/23/world/libya-drone-attack-russian-ship/",
+     "titre": "Libya’s eastern government suspects drone attack caused explosion on Russian ship"
+    }
+   ],
+   "visuel": null,
+   "id": "2026-11-23|Ukraine expands long-range drone strikes on Russian ships to Libya and Baltic",
+   "fr": {
+    "titre": "L'Ukraine étend ses frappes de drones à long rayon d'action visant des navires russes à la Libye et à la mer Baltique",
+    "resume": "Des attaques de drones ukrainiens ont frappé un navire russe à Benghazi, en Libye, et en ont endommagé un autre dans la mer Baltique. Ces opérations marquent une expansion géographique significative des frappes maritimes de Kiev.",
+    "pays": [
+     "Ukraine",
+     "Russie",
+     "Libye",
+     "Finlande"
+    ]
+   }
+  },
+  {
+   "suite": true,
+   "remplace": "2026-11-21|Russian missiles land in Poland during massive strikes on Ukraine",
+   "emoji": "🚀",
+   "titre": "Poland confirms three Russian missiles breached its airspace",
+   "resume": "Polish prosecutors confirmed three Russian cruise missiles breached national airspace during a barrage against Ukraine. NATO allies are holding talks to coordinate a collective response.",
+   "pourquoi": "",
+   "pays": [
+    "Poland",
+    "Russia",
+    "Ukraine"
+   ],
+   "region": "Europe",
+   "rubrique": "europe",
+   "liens": [
+    {
+     "source": "Chosunbiz",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUUNhVUxIZlJ3X3QtYmQ4QUZJbVZ3bkwxWGJWeWVHQ3hzVnlCTEdZZ0x0ODZ2MDVNZFgwRm8wMGxzZ2NPYktBZExydVdaN1Z0OE53VmM1MW5Uc2llMVJIXy1YNzZrYl93dEFzYkxnUDF1cFJhaVIwUXhnTzgxOGZCYXI0UmdIY0Fk0gGcAUFVX3lxTFB3dlg3bnJsTXQ5R254V1Q4dXhNTHF1aTdEN0Q1TktwM1lxOGwwZFRqLTZIUlJ2U0U5aUwwZmRHYUhUdzVwY3o2Ny1PdnJRcllCd2hiZHdhX3dMQkJ0bWVmVFlIbEdvdDNkcDFxVG9aWGNJZk15TjI2S0VLNFhuTzZFZzR6N2ItSkszWlRQb0tWZk1BelA0bERQMmg4Nw?oc=5",
+     "titre": "Poland confirms 3 Russian missiles breached airspace as NATO weighs response"
+    },
+    {
+     "source": "Le Figaro",
+     "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOaFF5SFNObmp3NnFLbGxMVlFuRVVlSG9fbGRhSDU5OWVyMFdSdGhBZzk1V2gzTEhpQ1NRVTRlQkwtYm9HZUNPOGRyY2dOQ3pWSWdnRjNGLUl1U0tMNnFHc2xSWFh2X0pKVGVMcWlBNWFSTXlmazdLcmtoN1JHX0lHWXdGYnROX1dibkRPOG9qNEYxNFFBdnZfQUlyck9BTGNHM0phOXpYbVY2U0Fvd1VmUTNHZTdNcXhqWUs4ZjNtVE5JUFkyVjN3eHhxbG1rUHRxSlJSNWY4Q0FIbGJwamE5aXZUTjBwNGp3LWY0LUJkam1PUGhQajhLdnFpdnU3ZTJvMEtidDZBM0hPbTNHbE1xNU1IMTRreGd4dXNVSHVLMUxMdw?oc=5",
+     "titre": "« Pourquoi les Russes nous tourmentent-ils ainsi ? » : la Pologne compte sur le soutien de l’Otan après une nouvelle incursion de missiles sur son territoire"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNM1VMUS1oUkxlYzRWaDg5WjNPbGJoV2t1LTlRNkVMWnF6a3Q3aUljXzlCal9hWmdhWnlkYzdKNjdFVGdwVk1WUFFucGdfbUlnY3RtUjBsdFBxVTdmTGNjcnJ1a0VDNnk5eFh5NDdWaGNWcjNWcFI2WkoxZnFUbkI5UHZ6YTdYZUVMa19Ldk5YTERtX3ZialpvbjI4eFVoQ0Eyd2l0NGxoVQ?oc=5",
+     "titre": "Three Russian missiles flew into Poland Friday, prosecutors say"
+    },
+    {
+     "source": "The Washington Post",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPS2NDX2gya2JxN0FLNlFBSjdJcXNqczVsWGJrNHdGVHoxNEF6a2hrSnlKc2hkVC0wSGROWkMzcXgyN0YtaHdMX0k0U043RE5BSkRXVGtlQ3h1Ym9iVk9uaVFnV0YyZEw0a3ZjRWxvUkZ6NHNGVWJSc1dDcEU5aUtrODZ5YTRQMVQ5UTA2WHd5U0ZGUkhybGllQXNseGR0ZHl4dC1JdGtPa2FGT3MzNzhXdkxrSU9XcENkLUE?oc=5",
+     "titre": "Poland says Russian missiles hit its territory; Trump calls it a mistake"
+    }
+   ],
+   "visuel": null,
+   "id": "2026-11-23|Poland confirms three Russian missiles breached its airspace",
+   "fr": {
+    "titre": "La Pologne confirme que trois missiles russes ont violé son espace aérien",
+    "resume": "Le parquet polonais a confirmé que trois missiles de croisière russes avaient violé l'espace aérien national lors d'une frappe massive contre l'Ukraine. Les alliés de l'OTAN mènent des discussions pour coordonner une réponse collective.",
+    "pays": [
+     "Pologne",
+     "Russie",
+     "Ukraine"
+    ]
+   }
+  },
+  {
+   "suite": false,
+   "remplace": null,
+   "emoji": "🤝",
+   "titre": "COP31 climate summit collapses without agreement in Turkey",
+   "resume": "UN climate talks in Antalya ended without a final political agreement following two days of overtime. Negotiations collapsed due to insurmountable differences regarding the phase-out of fossil fuels.",
+   "pourquoi": "",
+   "pays": [
+    "Turkey"
+   ],
+   "region": "Global",
+   "rubrique": "monde",
+   "liens": [
+    {
+     "source": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+     "titre": "COP31 fails to reach major climate deal as talks expose deep divisions"
+    },
+    {
+     "source": "Japan Times",
+     "url": "https://www.japantimes.co.jp/environment/2026/11/23/climate-change/climate-diplomacy-cop31-collapse/",
+     "titre": "Can climate diplomacy build on the collapse of COP31?"
+    },
+    {
+     "source": "Al-Monitor",
+     "url": "https://www.al-monitor.com/originals/2026/11/analysis-can-climate-diplomacy-build-collapse-cop31",
+     "titre": "Analysis-Can climate diplomacy build on the collapse of COP31?"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/inside-story/2026/11/22/why-has-the-cop31-climate-summit-failed-to-reach-agreement?traffic_source=rss",
+     "titre": "Why has the COP31 climate summit failed to reach agreement?"
+    }
+   ],
+   "visuel": null,
+   "id": "2026-11-23|COP31 climate summit collapses without agreement in Turkey",
+   "fr": {
+    "titre": "Le sommet sur le climat COP31 s'effondre sans accord en Turquie",
+    "resume": "Les négociations de l'ONU sur le climat à Antalya se sont achevées sans accord politique final après deux jours de prolongations. Les négociations ont échoué en raison de divergences insurmontables concernant la sortie progressive des énergies fossiles.",
+    "pays": [
+     "Turquie"
+    ]
+   }
+  },
+  {
+   "suite": false,
+   "remplace": null,
+   "emoji": "🗳️",
+   "titre": "US Democrats secure largest House majority since 1992",
+   "resume": "Democrats secured a record House victory after flipping a final contested seat in North Carolina. The result gives the party at least 258 seats, its largest majority since 1992.",
+   "pourquoi": "",
+   "pays": [
+    "United States"
+   ],
+   "region": "Americas",
+   "rubrique": "elections",
+   "liens": [
+    {
+     "source": "The Washington Post",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdHJEVkpMY1lCY0t4amFNXzZkM2VlbzA2YU05NjlNdFBILVdFSUJESmhKcnRlUFdXMUxLLWxGMFJJQ1RGamhzNjBkOFd4cTNuamQxLW5ZZ2JWb2hnS2Q2VmVEMWVoTUw0SEtxUG1GRGV5TUlWaXVOM01OenVtNVF3dFJiT2s4UWZlTHkzZlJzYjBPTXota1FZakkzQWxwNXFUNS13UXBBNmtUSHRidTdwbHJKbllRZUdiMXpSa0VscE95Q2k4VTNj?oc=5",
+     "titre": "Democrat Chuck Hubbard defeats GOP incumbent in North Carolina House race"
+    },
+    {
+     "source": "Axios",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQN2JfSEFmZ19TVlBxYlF0bUx5VUgwZG5UVkhfVDVvT0t3R191NkZfQzNPaTZIUWNhdGFEX1hTLVc1Qmp1SDZ4Q2JQNktYbmhfTXQwVUQyandvVGxBZVBFRkJ5dUxWWFM0angxNGtyOUdPUXd1VXFQUkgxallfdXItUmU3c2t6V244SUE1OUtGdXVabmd1V0xETEc5alpleHJPODd3?oc=5",
+     "titre": "Who won North Carolina's congressional races"
+    },
+    {
+     "source": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
+     "titre": "Democrats win largest House majority since 1992 after flipping North Carolina seat"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/22/democrats-win-largest-house-majority-since-1992-with-north-carolina-seat?traffic_source=rss",
+     "titre": "Democrats win largest House majority since 1992 with North Carolina seat"
+    }
+   ],
+   "visuel": null,
+   "id": "2026-11-23|US Democrats secure largest House majority since 1992",
+   "fr": {
+    "titre": "Les démocrates américains obtiennent leur plus forte majorité à la Chambre depuis 1992",
+    "resume": "Les démocrates ont remporté une victoire record à la Chambre des représentants après avoir fait basculer un dernier siège contesté en Caroline du Nord. Ce résultat donne au parti au moins 258 sièges, soit sa plus forte majorité depuis 1992.",
+    "pays": [
+     "États-Unis"
+    ]
+   }
+  },
+  {
+   "suite": true,
+   "remplace": "2026-11-22|Iranian strike hits Bahrain industrial site as Gulf tensions mount",
+   "emoji": "⚠️",
+   "titre": "Iran unveils dual-missile launcher as tankers burn in Strait of Hormuz",
+   "resume": "Iran unveiled a new dual-missile launcher system while claiming strikes on Gulf military targets. Meanwhile, several commercial tankers caught fire in the Strait of Hormuz following naval attacks.",
+   "pourquoi": "",
+   "pays": [
+    "Iran",
+    "Bahrain",
+    "United States"
+   ],
+   "region": "Middle East",
+   "rubrique": "moyen_orient",
+   "liens": [
+    {
+     "source": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/22/iran-war-live-tankers-set-ablaze-in-hormuz-as-irgc-warns-of-unrest-threat?traffic_source=rss",
+     "titre": "Iran war live: Tankers set ablaze in Hormuz as IRGC warns of unrest threat"
+    },
+    {
+     "source": "Inquirer.net",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNT3ZIQVRMdVVhdFFCSDZKVlZ4OGlBZkJ1NVdoNGxsRi1GZzAwY3FkS3RaYmdiMXpKTG9yQkpiNXY2MGIyaTl2dWtVenRaTkEtUXpoanVNbkJEQ1hpRktBLTczdmxUM0gzUVJFZ0o0bjAzYjdnVWRrN2tVV0Jtd3EwSjJzc2FIUHhnZ0pTaG52OTNUcVlSN2l5ejFwY0JRVlU1bEZJcUQzMFdsRnl1WFHSAbMBQVVfeXFMTXJoalZZNExLdnVzcHM5VzZwWS1DNUE1WGFBVXJ2LWl4eFFxWXpFb0t2dTk2SzQ3T3dveTY5ek1WT1dtcE1jQkotQ2dNYXdBQjFCTm9NbllEZ1ZnZ2QwRTNSTFl1RG5aaFN5aE5LY3dhQjJHa01vZ2tBMG4yY1RuUzBocVZOTlBWajVyVzd6ZW8ya1BWZ0pDNTMxTXNueUJoT0VJeFRjb1hpdkhoc1pLLVFNSjQ?oc=5",
+     "titre": "Iran unveils missile launcher as commanders tout capabilities in war"
+    },
+    {
+     "source": "Al-Monitor",
+     "url": "https://www.al-monitor.com/originals/2026/11/iran-strike-wounds-two-bahrain-saudi-condemns-criminal-attacks",
+     "titre": "Iran strike wounds two in Bahrain, Saudi condemns 'criminal' attacks"
+    },
+    {
+     "source": "The Straits Times",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVmVQRVdDMERxOTdoN0pTV2pFZDlWUXdJX2tTQnRqQ0Y3dEtITmhIdkozaHZJNjAtWk1YRlhhTVNwZ29ETUowWG91Z3NRUTR3QmZxUzJnMVZNbkZXY1FlQ3JPVElsb0pMN2hMT3dmOVRJeUdvVTFKNGhRRnk5QUFLbGJVbkhPUy16MHJ1M3dsTnBCaTZKcDh6NWtOQUlFZUFrY2VHV2ZvV1ZVdDFtNVREWklDTE96a3FMbjlsSTdnNXk?oc=5",
+     "titre": "Iran unveils missile launcher as commanders tout capabilities in war with US"
+    }
+   ],
+   "visuel": null,
+   "id": "2026-11-23|Iran unveils dual-missile launcher as tankers burn in Strait of Hormuz",
+   "fr": {
+    "titre": "L'Iran dévoile un lanceur double de missiles alors que des pétroliers brûlent dans le détroit d'Hormuz",
+    "resume": "L'Iran a dévoilé un nouveau système de lanceur double de missiles tout en revendiquant des frappes sur des objectifs militaires dans le Golfe. Dans le même temps, plusieurs pétroliers commerciaux ont pris feu dans le détroit d'Hormuz à la suite d'attaques navales.",
+    "pays": [
+     "Iran",
+     "Bahreïn",
+     "États-Unis"
+    ]
+   }
+  }
+ ],
+ "rubriques": [
+  {
+   "id": "monde",
+   "titre": "World",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "⚠️",
+     "titre": "US Army invokes emergency powers to detonate Iowa chemical explosives",
+     "resume": "The US Army invoked emergency powers to detonate four tonnes of lead azide in Iowa despite a court stay. Officials stated immediate destruction was necessary to prevent catastrophic explosion hazards.",
+     "pourquoi": "",
+     "pays": [
+      "United States"
+     ],
+     "region": "Americas",
+     "rubrique": "monde",
+     "liens": [
+      {
+       "source": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/23/extremely-concerning-inside-a-us-army-plan-to-detonate-iowa-lead-stores?traffic_source=rss",
+       "titre": "‘Extremely concerning’: Inside a US Army plan to detonate Iowa lead stores"
+      },
+      {
+       "source": "BBC World",
+       "url": "https://www.bbc.co.uk/news/articles/cvglrx764gdxo?at_medium=RSS&at_campaign=rss",
+       "titre": "US Army to detonate tonnes of unstable explosives in Iowa despite court order"
+      },
+      {
+       "source": "Reuters",
+       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWktPQlhDQmZja2RjS09vdFlCdkFtTjVHVE1xRHVMeDBVNkFiVWlrMVdlQXl2SjRsekFabUxiV05Ud0RlR1M3aVhDcVlNNURCYnVFZXBaT1RDTmNQb3ViblpuQVNGdUVwQmlad1dWc2pYaWtpeXZCQVBnalZaT1M5RTcwUzdXZndua3JNdGpHOERNczk0NExoLXRIMUttMlRXRVdTSjNmWFR6dUJVSVVlOEhVNXpHakZfVzNiY1QybVFmeXFCamYtMg?oc=5",
+       "titre": "Army invokes emergency powers to detonate lead in Iowa, bypass court order"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-23|US Army invokes emergency powers to detonate Iowa chemical explosives",
+     "fr": {
+      "titre": "L'US Army invoque des pouvoirs d'urgence pour faire exploser des explosifs chimiques dans l'Iowa",
+      "resume": "L'armée de Terre américaine a invoqué des pouvoirs d'urgence pour faire exploser quatre tonnes d'azoture de plomb dans l'Iowa malgré un sursis accordé par la justice. Les autorités ont déclaré qu'une destruction immédiate était nécessaire pour prévenir des risques d'explosion catastrophiques.",
+      "pays": [
+       "États-Unis"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "asie",
+   "titre": "APAC",
+   "items": [
+    {
+     "suite": true,
+     "remplace": "2026-11-21|Singapore and China negotiate upgraded FTA and JCBC agreements",
+     "emoji": "🇸🇬",
+     "titre": "Singapore and China open high-level bilateral talks in Singapore",
+     "resume": "Chinese Vice-Premier Ding Xuexiang met Singapore Prime Minister Lawrence Wong and Deputy Prime Minister Gan Kim Yong. The leaders are co-chairing high-level bilateral meetings to deepen bilateral economic cooperation.",
+     "pourquoi": "",
+     "pays": [
+      "Singapore",
+      "China"
+     ],
+     "region": "South-East Asia",
+     "rubrique": "asie",
+     "liens": [
+      {
+       "source": "CNA Singapour",
+       "url": "https://www.channelnewsasia.com/singapore/cna-now-live-blog-nov-23-6568956",
+       "titre": "CNA Now: Singapore, China to hold high-level bilateral talks, plus other news as it happens"
+      },
+      {
+       "source": "Straits Times Singapour",
+       "url": "https://www.straitstimes.com/singapore/st-live-news-as-it-happens10",
+       "titre": "ST Live: S’pore, China kick off top bilateral meeting, IU’s March 2027 concert at National Stadium"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-23|Singapore and China open high-level bilateral talks in Singapore",
+     "fr": {
+      "titre": "Singapour et la Chine ouvrent des pourparlers bilatéraux de haut niveau à Singapour",
+      "resume": "Le vice-Premier ministre chinois Ding Xuexiang a rencontré le Premier ministre de Singapour Lawrence Wong et le vice-Premier ministre Gan Kim Yong. Les dirigeants coprésident des réunions bilatérales de haut niveau destinées à approfondir la coopération économique bilatérale.",
+      "pays": [
+       "Singapour",
+       "Chine"
+      ]
+     }
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🇸🇬",
+     "titre": "Singapore Prime Minister Wong begins official visit to Australia",
+     "resume": "Prime Minister Lawrence Wong will undertake a three-day official visit to Australia from November 23. He will meet Australian counterpart Anthony Albanese under the countries' Comprehensive Strategic Partnership.",
+     "pourquoi": "",
+     "pays": [
+      "Singapore",
+      "Australia"
+     ],
+     "region": "South-East Asia",
+     "rubrique": "asie",
+     "liens": [
+      {
+       "source": "CNA Singapour",
+       "url": "https://www.channelnewsasia.com/singapore/pm-lawrence-wong-visit-australia-6568481",
+       "titre": "PM Wong to visit Australia from Nov 23 for annual leaders' meeting"
+      },
+      {
+       "source": "Straits Times Singapour",
+       "url": "https://www.straitstimes.com/singapore/pm-wong-to-visit-australia-for-leaders-meeting-arrive-on-inaugural-sia-flight-to-new-sydney-airport",
+       "titre": "PM Wong to visit Australia for leaders’ meeting, arrive on inaugural SIA flight to new Sydney airport"
+      }
+     ],
+     "visuel": {
+      "nom": "Lawrence Wong",
+      "description": "Prime Minister of Singapore since 2024",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Prime_Minister_of_Singapore_Lawrence_Wong_250530-D-PM193-4275_%282025%29.jpg/960px-Prime_Minister_of_Singapore_Lawrence_Wong_250530-D-PM193-4275_%282025%29.jpg",
+      "page": "https://en.wikipedia.org/wiki/Lawrence_Wong",
+      "type": "person"
+     },
+     "id": "2026-11-23|Singapore Prime Minister Wong begins official visit to Australia",
+     "fr": {
+      "titre": "Le Premier ministre singapourien Wong entame une visite officielle en Australie",
+      "resume": "Le Premier ministre Lawrence Wong effectuera une visite officielle de trois jours en Australie à partir du 23 novembre. Il rencontrera son homologue australien Anthony Albanese dans le cadre du partenariat stratégique global entre les deux pays.",
+      "pays": [
+       "Singapour",
+       "Australie"
+      ]
+     }
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "⚠️",
+     "titre": "Kim Jong Un defends North Korean arms buildup as self-defence",
+     "resume": "North Korean leader Kim Jong Un stated Pyongyang does not seek regional dominance, defending its weapons development as self-defence. The remarks follow stalled diplomatic attempts from Washington to resume bilateral talks.",
+     "pourquoi": "",
+     "pays": [
+      "North Korea"
+     ],
+     "region": "North-East Asia",
+     "rubrique": "asie",
+     "liens": [
+      {
+       "source": "Yonhap (Corée du Nord)",
+       "url": "https://en.yna.co.kr/view/AEN20261123001051315",
+       "titre": "(LEAD) N. Korea's Kim says Pyongyang seeks no regional dominance, defending arms buildup as self-defense"
+      },
+      {
+       "source": "Straits Times Asie",
+       "url": "https://www.straitstimes.com/asia/east-asia/north-koreas-kim-says-country-seeks-security-not-supremacy",
+       "titre": "North Korea’s Kim highlights ‘sovereignty’ in ties after Trump no-show"
+      },
+      {
+       "source": "Hindustan Times",
+       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNdXREcVVwS3BsSjlPQ0M3MWhXYktNYkZYc3FxeTRvTHZuQmFTWW0tUnd3OUhjNnRXQ1N0NEIxaUlBWWRLc2RkdTdnYXFjcDQwUzl1Mm11b3dSSFhKTE8zWDlmZE9ka2wwNVF3ZDZEYmQwNGFENjFMLVJlc0VoRS1fbWJVQ3NYUjZsdzMwNlY5UTNuVzNTQXh5Sm5UNW9SMVY4YjM2VmY2RDB0d2twTlA5QmlNTXpyenY2ZWMwcWNWV2lMM014S3hQWlFOVnBMaWVyRmt2S0JRZTB6VXpac1Z4VjdNcTBPenM0aWhfbnRsWWFWNW_SAfgBQVVfeXFMT1pIMy1STXZhR2tPamVaZnNkY0cyc1ktTlQ4N24wQ0tfRlJDbWZwUnFzWmFzSkZXZV9VTkZfLWVxZjNzSWstYVJWSzJ2dURPNDhPRVlrYlYtdGt3THBadkV0OUNuR2Nhd1FwNjhiMnRBWENlbk9ieHlzQ05ielMxR1V0d2RmeVkxbm11dXNsNU9RUmdJclpjMVdGQmJ0dWlxY1V3eXl6ZkVkdHlxUDMtUm1OUUwyS0xjRUNfX2xFaktGMTlrdVJmcG1yaGgzbU5MUXdLMW0tczFIaVZBSEdJU3BuQ08yZWxsVjU4VWFVWVpQSzdubkxQTXY?oc=5",
+       "titre": "Trump’s renewed outreach to Kim Jong Un stalls as North Korea hardens nuclear stance: Report | Hindustan Times"
+      }
+     ],
+     "visuel": {
+      "nom": "Kim Jong Un",
+      "description": "Leader of North Korea since 2011",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Kim_Jong-un_and_Vladimir_Putin_%282023-09-13%29_12_%28cropped_2%29.jpg/960px-Kim_Jong-un_and_Vladimir_Putin_%282023-09-13%29_12_%28cropped_2%29.jpg",
+      "page": "https://en.wikipedia.org/wiki/Kim_Jong_Un",
+      "type": "person"
+     },
+     "id": "2026-11-23|Kim Jong Un defends North Korean arms buildup as self-defence",
+     "fr": {
+      "titre": "Kim Jong-un défend le réarmement nord-coréen comme de la légitime défense",
+      "resume": "Le dirigeant nord-coréen Kim Jong-un a déclaré que Pyongyang ne cherchait pas la domination régionale, défendant le développement de ses armements comme relevant de la légitime défense. Ces déclarations font suite à l'enlisement des tentatives diplomatiques de Washington pour reprendre les discussions bilatérales.",
+      "pays": [
+       "Corée du Nord"
+      ]
+     }
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🗳️",
+     "titre": "South Korean Education Minister resigns following exam cheating scandal",
+     "resume": "South Korean Education Minister Choi Kyo-jin resigned following public backlash over national examination irregularities. The controversy erupted after a candidate used AI-assisted covert equipment during state examinations.",
+     "pourquoi": "",
+     "pays": [
+      "South Korea"
+     ],
+     "region": "North-East Asia",
+     "rubrique": "asie",
+     "liens": [
+      {
+       "source": "Straits Times Asie",
+       "url": "https://www.straitstimes.com/asia/south-koreas-education-minister-quits-over-exam-cheating-chaos",
+       "titre": "South Korea's education minister quits over exam cheating chaos"
+      },
+      {
+       "source": "RFI Asie-Pacifique",
+       "url": "https://www.rfi.fr/fr/asie-pacifique/20261122-cor%C3%A9e-du-sud-le-ministre-de-l-%C3%A9ducation-d%C3%A9missionne-sur-fond-de-scandale-de-triche-aux-examens",
+       "titre": "Corée du Sud: le ministre de l'Éducation démissionne sur fond de scandale de triche aux examens"
+      },
+      {
+       "source": "BBC Asia",
+       "url": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
+       "titre": "South Korea education minister resigns over exam cheating scandal"
+      },
+      {
+       "source": "Le Monde International",
+       "url": "https://www.lemonde.fr/international/article/2026/11/22/scandale-de-triche-a-l-ia-en-coree-du-sud-sous-pression-le-ministre-de-l-education-demissionne_6814190_3210.html",
+       "titre": "Scandale de triche à l’IA en Corée du Sud : sous pression, le ministre de l’éducation démissionne"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-23|South Korean Education Minister resigns following exam cheating scandal",
+     "fr": {
+      "titre": "Le ministre de l'Éducation sud-coréen démissionne après un scandale de tricherie aux examens",
+      "resume": "Le ministre de l'Éducation sud-coréen Choi Kyo-jin a démissionné à la suite d'un tollé public concernant des irrégularités lors d'examens nationaux. La controverse a éclaté après qu'un candidat a utilisé un équipement dissimulé assisté par IA durant des épreuves d'État.",
+      "pays": [
+       "Corée du Sud"
+      ]
+     }
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "⚠️",
+     "titre": "Thailand to block chemical exports for Myanmar rare earth mining",
+     "resume": "Thailand plans to halt chemical exports used in rare earth mining to Myanmar. The measure aims to curb severe cross-border environmental pollution affecting northern Thai waterways.",
+     "pourquoi": "",
+     "pays": [
+      "Thailand",
+      "Myanmar"
+     ],
+     "region": "South-East Asia",
+     "rubrique": "asie",
+     "liens": [
+      {
+       "source": "Straits Times Asie",
+       "url": "https://www.straitstimes.com/asia/thailand-plans-to-block-exports-of-chemicals-used-in-myanmar-rare-earth-mining",
+       "titre": "Thailand plans to block exports of chemicals used in Myanmar rare earth mining"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-23|Thailand to block chemical exports for Myanmar rare earth mining",
+     "fr": {
+      "titre": "La Thaïlande va bloquer les exportations de produits chimiques destinés à l'extraction de terres rares au Myanmar",
+      "resume": "La Thaïlande prévoit de suspendre les exportations vers le Myanmar de produits chimiques utilisés pour l'extraction de terres rares. Cette mesure vise à juguler une grave pollution environnementale transfrontalière touchant les cours d'eau du nord de la Thaïlande.",
+      "pays": [
+       "Thaïlande",
+       "Myanmar"
+      ]
+     }
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🚢",
+     "titre": "French Navy chairs 20th Pacific Sea Power Symposium in Tahiti",
+     "resume": "The French Navy is chairing the 20th Pacific Sea Power Symposium in Tahiti from November 23 to 26. Naval leaders from 30 Indo-Pacific nations are discussing maritime security and regional stability.",
+     "pourquoi": "",
+     "pays": [
+      "France"
+     ],
+     "region": "Oceania",
+     "rubrique": "asie",
+     "liens": [
+      {
+       "source": "RFI Asie-Pacifique",
+       "url": "https://www.rfi.fr/fr/asie-pacifique/20261122-symposium-des-marines-du-pacifique-la-france-cherche-%C3%A0-pratiquer-une-puissance-d-%C3%A9quilibre",
+       "titre": "Symposium des marines du Pacifique: «La France cherche à pratiquer une puissance d'équilibre»"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-23|French Navy chairs 20th Pacific Sea Power Symposium in Tahiti",
+     "fr": {
+      "titre": "La Marine nationale préside le 20e Pacific Sea Power Symposium à Tahiti",
+      "resume": "La Marine nationale préside le 20e Pacific Sea Power Symposium à Tahiti du 23 au 26 novembre. Des chefs d'état-major de la marine de 30 nations de l'Indo-Pacifique y discutent de la sécurité maritime et de la stabilité régionale.",
+      "pays": [
+       "France"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "elections",
+   "titre": "Elections & Politics",
+   "items": [
+    {
+     "suite": true,
+     "remplace": "2026-11-22|Eisenkot invites Netanyahu's Likud to coalition talks in Israel",
+     "emoji": "🗳️",
+     "titre": "Israeli coalition talks between Likud and Eisenkot collapse without deal",
+     "resume": "Negotiations between Benjamin Netanyahu's Likud party and Gadi Eisenkot's faction concluded without a coalition agreement. Eisenkot faces a December 6 deadline to form a viable governing majority.",
+     "pourquoi": "",
+     "pays": [
+      "Israel"
+     ],
+     "region": "Middle East",
+     "rubrique": "elections",
+     "liens": [
+      {
+       "source": "Japan Times",
+       "url": "https://www.japantimes.co.jp/news/2026/11/23/world/politics/netanyahu-eisenkot-talks-israel-government/",
+       "titre": "Netanyahu, Eisenkot parties end talks without deal on forming Israel government"
+      },
+      {
+       "source": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/22/netanyahus-likud-eisenkots-yashar-end-coalition-talks-without-deal?traffic_source=rss",
+       "titre": "Netanyahu’s Likud, Eisenkot’s Yashar end coalition talks without deal"
+      },
+      {
+       "source": "Le Monde International",
+       "url": "https://www.lemonde.fr/international/article/2026/11/22/israel-les-partis-de-gadi-eisenkot-et-de-benyamin-netanyahou-concluent-de-nouvelles-negociations-de-coalition-sans-accord_6814239_3210.html",
+       "titre": "Israël : les partis de Gadi Eisenkot et de Benyamin Nétanyahou concluent de nouvelles négociations de coalition sans accord"
+      },
+      {
+       "source": "Al-Monitor",
+       "url": "https://www.al-monitor.com/originals/2026/11/netanyahu-eisenkot-parties-end-talks-without-deal-forming-israel-govt",
+       "titre": "Netanyahu, Eisenkot parties end talks without deal on forming Israel govt"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-23|Israeli coalition talks between Likud and Eisenkot collapse without deal",
+     "fr": {
+      "titre": "Les pourparlers de coalition israéliens entre le Likoud et Eisenkot échouent sans accord",
+      "resume": "Les négociations entre le parti Likoud de Benyamin Netanyahou et la faction de Gadi Eisenkot se sont conclues sans accord de coalition. Gadi Eisenkot a jusqu'au 6 décembre pour former une majorité gouvernementale viable.",
+      "pays": [
+       "Israël"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "defense_aerienne",
+   "titre": "Air & Missile Defence",
+   "items": [
+    {
+     "suite": true,
+     "remplace": "2026-11-22|Russia launches 500-projectile barrage against Ukrainian energy and cities",
+     "emoji": "🛡️",
+     "titre": "Ukraine requests US Patriot missiles after deadly Russian strikes",
+     "resume": "President Volodymyr Zelenskyy urged the United States to deliver Patriot air defence systems following deadly Russian strikes near Kyiv. The overnight missile barrage killed at least 12 people in the region.",
+     "pourquoi": "",
+     "pays": [
+      "Ukraine",
+      "United States",
+      "Russia"
+     ],
+     "region": "Russia-Ukraine",
+     "rubrique": "defense_aerienne",
+     "liens": [
+      {
+       "source": "BBC World",
+       "url": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss",
+       "titre": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say"
+      },
+      {
+       "source": "CNA Monde",
+       "url": "https://www.channelnewsasia.com/world/ukraine-says-russian-strikes-kill-12-in-kyiv-region-6573721",
+       "titre": "Ukraine says Russian strikes kill 12 in Kyiv region"
+      },
+      {
+       "source": "Al Jazeera",
+       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWDROSjJ4ZmFrSWp4VDNoeS1aRVlHb25QQXJvV0JhQWtrNjdJekNQWHEyQ0VhZUIyNHBpd3l2eEJSYmc4Zk45V2lhcWxwMzJBT09XYk1hRzZwa0FkT2ltdUl2STFtb1lBVHRtVFpDTGtYc2FVZWJqQXYyYlFSVzBhNzhpbE83NlByTGJHQjloNEZvZ9IBlwFBVV95cUxORzQwam00SzMzbWFrZHNQMlAxQU1sTmJ3ZEFQRU51V1B4MGxUb1FFeUo3R05ya0hQMFRVRjRGOTlVZDliV25wbGdnZzI1YlI5N2lpTnltOE5ZYUItZDViTlJvNkRCaGR0M2NxQ19zeEJrSmhVTGVKVGpoRFBNTlFlMFpxUzNKblhkYjlBek91OUJxbmZNdkRr?oc=5",
+       "titre": "Zelenskyy urges US to release Patriot missiles as Russia kills 7 in Ukraine"
+      },
+      {
+       "source": "POLITICO.eu",
+       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaXBHVnhyRFktYm42cVByNFhhYkEwcW9kcXE0LXVaTXZlTDl5eEZ2Nl9zYVptSkJ6OVpWR1MxT2FTc0xBdFZOZlBMTmF1bVotamxybEtuYUJjeWYtM21sbDZrdzl2Zm5aUjlPZnJob3ZDTnlnOFFvdnBZQU03aVM5UGpQUnBfTEFnWXI0cEtmMzJwRi1hdlRnTUFFc0VQeGlCOEJTSA?oc=5",
+       "titre": "14 missing after Russian strike as Zelenskyy presses US over Patriot missiles"
+      }
+     ],
+     "visuel": {
+      "nom": "MIM-104 Patriot",
+      "description": "American surface-to-air missile system since 1981",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/U-s-service-members-stand-by-a-patriot-missile-battery-in-gaziantep-turkey.jpg/960px-U-s-service-members-stand-by-a-patriot-missile-battery-in-gaziantep-turkey.jpg",
+      "page": "https://en.wikipedia.org/wiki/MIM-104_Patriot",
+      "type": "platform"
+     },
+     "id": "2026-11-23|Ukraine requests US Patriot missiles after deadly Russian strikes",
+     "fr": {
+      "titre": "L'Ukraine réclame des missiles Patriot américains après des frappes russes meurtrières",
+      "resume": "Le président Volodymyr Zelensky a exhorté les États-Unis à livrer des systèmes de défense aérienne Patriot après des frappes russes meurtrières près de Kiev. La salve de missiles tirée pendant la nuit a fait au moins 12 morts dans la région.",
+      "pays": [
+       "Ukraine",
+       "États-Unis",
+       "Russie"
+      ]
+     }
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🛩️",
+     "titre": "French Air Force tests Rafale operations from highway stretches",
+     "resume": "The French Air and Space Force executed training drills operating Rafale fighter aircraft from public motorways. The exercise tested agile combat employment tactics to maintain air capabilities during high-intensity conflict.",
+     "pourquoi": "",
+     "pays": [
+      "France"
+     ],
+     "region": "Europe",
+     "rubrique": "defense_aerienne",
+     "liens": [
+      {
+       "source": "Opex360",
+       "url": "https://www.opex360.com/2026/11/22/larmee-de-lair-de-lespace-teste-a-la-capacite-du-rafale-a-etre-mis-en-oeuvre-depuis-une-autoroute/",
+       "titre": "L’armée de l’Air & de l’Espace teste la capacité du Rafale à être mis en œuvre depuis une autoroute"
+      }
+     ],
+     "visuel": {
+      "nom": "Dassault Rafale",
+      "description": "Multi-role combat aircraft family by Dassault",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Rafale_-_RIAT_2009_%283751416421%29.jpg/960px-Rafale_-_RIAT_2009_%283751416421%29.jpg",
+      "page": "https://en.wikipedia.org/wiki/Dassault_Rafale",
+      "type": "platform"
+     },
+     "id": "2026-11-23|French Air Force tests Rafale operations from highway stretches",
+     "fr": {
+      "titre": "L'armée de l'Air française teste le déploiement de Rafale depuis des tronçons d'autoroute",
+      "resume": "L'armée de l'Air et de l'Espace a mené des exercices d'entraînement pour faire opérer des chasseurs Rafale depuis des autoroutes publiques. Cet exercice a permis de tester des tactiques de déploiement agile pour maintenir les capacités aériennes lors d'un conflit de haute intensité.",
+      "pays": [
+       "France"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "industrie",
+   "titre": "Defence Industry & Contracts",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "📝",
+     "titre": "Poland confirms interest in US CH-47 Chinook heavy transport helicopters",
+     "resume": "Poland's Ministry of National Defence confirmed its interest in acquiring American CH-47 Chinook heavy transport helicopters. The acquisition aims to enhance the Polish land forces' tactical mobility and logistical airlift capabilities.",
+     "pourquoi": "",
+     "pays": [
+      "Poland",
+      "United States"
+     ],
+     "region": "Europe",
+     "rubrique": "industrie",
+     "liens": [
+      {
+       "source": "Opex360",
+       "url": "https://www.opex360.com/2026/11/22/la-pologne-confirme-son-interet-pour-lhelicoptere-de-transport-lourd-americain-ch-47-chinook/",
+       "titre": "La Pologne confirme son intérêt pour l’hélicoptère de transport lourd américain CH-47 Chinook"
+      }
+     ],
+     "visuel": {
+      "nom": "Boeing CH-47 Chinook",
+      "description": "American tandem-rotor helicopter introduced in 1962 during the Cold War",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/CH-47_assigned_to_3rd_General_Support_Aviation_Battalion%2C_82nd_Combat_Aviation_Brigade.jpg/960px-CH-47_assigned_to_3rd_General_Support_Aviation_Battalion%2C_82nd_Combat_Aviation_Brigade.jpg",
+      "page": "https://en.wikipedia.org/wiki/Boeing_CH-47_Chinook",
+      "type": "platform"
+     },
+     "id": "2026-11-23|Poland confirms interest in US CH-47 Chinook heavy transport helicopters",
+     "fr": {
+      "titre": "La Pologne confirme son intérêt pour les hélicoptères de transport lourd américains CH-47 Chinook",
+      "resume": "Le ministère de la Défense nationale polonais a confirmé son intérêt pour l'acquisition d'hélicoptères de transport lourd américains CH-47 Chinook. Cette acquisition vise à renforcer la mobilité tactique et les capacités d'aérotransport logistique des forces terrestres polonaises.",
+      "pays": [
+       "Pologne",
+       "États-Unis"
+      ]
+     }
+    },
+    {
+     "suite": true,
+     "remplace": "2026-11-22|Canada joins NATO Innovation Fund while bolstering EU defence links",
+     "emoji": "💰",
+     "titre": "Canada commits 64.59 million euros to NATO Innovation Fund",
+     "resume": "Canada officially committed 64.59 million euros to join the NATO Innovation Fund. The capital injection will support early-stage defence and dual-use technology firms across allied nations.",
+     "pourquoi": "",
+     "pays": [
+      "Canada"
+     ],
+     "region": "Europe",
+     "rubrique": "industrie",
+     "liens": [
+      {
+       "source": "Defence Industry Europe",
+       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbFltT0ZLVEJ1Mk1IWDZGUWJCdUp6ZUhhZFI5clhkNEQ2VUN6d2hXLW0tZUNHMmNVUGN1RUZBS1VoVUl2a3lEaURfbWF1SGdxckdPUk9PSzMxYVFmeHc5VGtKbnpnZVIxZ1poaWJ2Y0ZiVGdWYzNpa0h0eHZRX0RvTjl6WE9VZjYwN3JCdFV6Q29IczlCSkd0QVl4bDEzcjVWWTNVSklDdDF1Zm9VQVhIQUlnR1VVTFhmcGZ0TDN4MlVjT2drT3hyMGJoZjNQeDlwbmMwblp1YzNiYzg?oc=5",
+       "titre": "Canada joins NATO Innovation Fund with €64.59 million commitment to back defence and security technology companies"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-23|Canada commits 64.59 million euros to NATO Innovation Fund",
+     "fr": {
+      "titre": "Le Canada engage 64,59 millions d'euros dans le Fonds d'innovation de l'OTAN",
+      "resume": "Le Canada s'est officiellement engagé à verser 64,59 millions d'euros pour rejoindre le Fonds d'innovation de l'OTAN. Cet apport de capitaux soutiendra les jeunes entreprises de défense et de technologies à double usage dans les pays alliés.",
+      "pays": [
+       "Canada"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "ukraine",
+   "titre": "Ukraine / Russia",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🛩️",
+     "titre": "German Army tests kamikaze drones and AI targeting in Lithuania",
+     "resume": "The German Army began field testing kamikaze loitering munitions and AI-enabled targeting tools in Lithuania. The trials aim to evaluate operational integration on NATO's eastern flank.",
+     "pourquoi": "",
+     "pays": [
+      "Germany",
+      "Lithuania"
+     ],
+     "region": "Europe",
+     "rubrique": "ukraine",
+     "liens": [
+      {
+       "source": "Reuters",
+       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaEZNb1cwZkRsWmFUN0Nkc0dfTGt4SUVDaXNCSHphV2VrQTBXYnQzTWN2Z0tkOEdiUnRyRnJqX2NST1pmYXJrYVFUQ204QllMNFRtelc0cEtUZy1MWlFMeXRfemNPS0pGQU1veHZyMU1XTWdJNE5pcWstLXUtZ0d4QXRMVzAzZFJKNzlteEZlWUVRbHpIeTJyanFWSlJVMlY4R0NOODNIN1RSLWJDdnQyM25KcDNNbDRvMHZkT1Nfenl6SUl2YUoxalBLT1RqQQ?oc=5",
+       "titre": "German army starts testing kamikaze drones and AI targeting tool in Lithuania"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-23|German Army tests kamikaze drones and AI targeting in Lithuania",
+     "fr": {
+      "titre": "L'armée allemande teste des drones kamikazes et le ciblage par IA en Lituanie",
+      "resume": "L'armée de Terre allemande a commencé des essais sur le terrain de munitions rôdeuses kamikazes et d'outils de ciblage dopés à l'IA en Lituanie. Ces essais visent à évaluer leur intégration opérationnelle sur le flanc est de l'OTAN.",
+      "pays": [
+       "Allemagne",
+       "Lituanie"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "moyen_orient",
+   "titre": "Middle East",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "⚠️",
+     "titre": "Israeli intelligence cautions against unilateral strike on Iran",
+     "resume": "Israeli military intelligence warned Prime Minister Benjamin Netanyahu that a unilateral strike on Iran could trigger a multi-front war. Officials stressed that uncoordinated action poses severe risks to regional security.",
+     "pourquoi": "",
+     "pays": [
+      "Israel",
+      "Iran"
+     ],
+     "region": "Middle East",
+     "rubrique": "moyen_orient",
+     "liens": [
+      {
+       "source": "The Times of Israel",
+       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWm9JUTF6SkM5cW1FT1BkWXBRZVVsbWVyb01xSFZLRWVKUFZpbmptLU1GSUlBVzFwUDd1VWVGM1ltU0d0dVpTMURPdjNPMHlEdHYyRHhtTGlyQ1BfMW1KdVJKYkpKTldBbFUzNUVyN0M5NWR5bElMcDZCZWpQWmxUSjVOTzlJUDBOQXI5MThLZ3FpUkd5OEN6T2ZkMTlFc2RPdzB6M3o2d044UVpEYUV0U9IBtgFBVV95cUxPODVDM2RTZktJbmNoeWhWalE0R01TNlJDcDFLT3VKVkloZ19GMzRwZXYyVm5CQ2h4S0ZON09vRjdTU193M1Z0Q2xJVFpVdndKbUJRT3lHeC04TEE5RWRsMy1FVVNuWDIyLWJzVEJNN3A3N2d2M0Z2TVVLUlRYM3A0NTAyRE5Zck9PYVpDVlZiNGpaTE8zSjlmOElTQTdDdEg4VVhfR2dEdXo2NXJqUEtRRTRjeHlxdw?oc=5",
+       "titre": "IDF said to warn Netanyahu an Israeli attack on Iran could spark multifront war"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-23|Israeli intelligence cautions against unilateral strike on Iran",
+     "fr": {
+      "titre": "Le renseignement israélien met en garde contre une frappe unilatérale visant l'Iran",
+      "resume": "Le renseignement militaire israélien a averti le Premier ministre Benyamin Netanyahou qu'une frappe unilatérale contre l'Iran pourrait déclencher une guerre sur plusieurs fronts. Les responsables ont souligné qu'une action non coordonnée posait de graves risques pour la sécurité régionale.",
+      "pays": [
+       "Israël",
+       "Iran"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "europe",
+   "titre": "Europe",
+   "items": [
+    {
+     "suite": true,
+     "remplace": "2026-11-21|UK and EU sign post-Brexit cooperation agreements",
+     "emoji": "🤝",
+     "titre": "UK Prime Minister presents landmark post-Brexit EU deal to Parliament",
+     "resume": "Prime Minister Andy Burnham will address Parliament to urge support for the newly concluded EU-UK cooperation framework. Burnham described the deal as a vital step towards long-term economic stability and security.",
+     "pourquoi": "",
+     "pays": [
+      "United Kingdom",
+      "European Union"
+     ],
+     "region": "Europe",
+     "rubrique": "europe",
+     "liens": [
+      {
+       "source": "BBC World",
+       "url": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss",
+       "titre": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-23|UK Prime Minister presents landmark post-Brexit EU deal to Parliament",
+     "fr": {
+      "titre": "Le Premier ministre britannique présente au Parlement un accord historique post-Brexit avec l'UE",
+      "resume": "Le Premier ministre Andy Burnham s'adressera au Parlement pour réclamer le soutien au cadre de coopération UE-Royaume-Uni nouvellement conclu. Andy Burnham a décrit cet accord comme une étape essentielle vers la stabilité économique et la sécurité à long terme.",
+      "pays": [
+       "Royaume-Uni",
+       "Union européenne"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "espace",
+   "titre": "Space & Satellites",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🛰️",
+     "titre": "US Space Force accelerates satellite network deployment schedule",
+     "resume": "The US Space Force is accelerating satellite network deployments to bolster missile warning and tracking capabilities. The service aims to field low-Earth orbit constellations faster to counter emerging hypersonic threats.",
+     "pourquoi": "",
+     "pays": [
+      "United States"
+     ],
+     "region": "Americas",
+     "rubrique": "espace",
+     "liens": [
+      {
+       "source": "SpaceNews",
+       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBRWVVQWnRkQjVTWHFCNVRMdzdubTRqMnZxYVZLOWt1TDhYRDgxMWNrbzJBMUc5b2pKT0l3akp4N21DUGtxQks4NWU1QlJtaEU1cWdKRDgxM0Uzd0pMUWxqMzNzc0RCUmNnbm13aEdtcW03elRtRFBr?oc=5",
+       "titre": "Space Force speeds satellite network launches"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-23|US Space Force accelerates satellite network deployment schedule",
+     "fr": {
+      "titre": "La US Space Force accélère le calendrier de déploiement de son réseau de satellites",
+      "resume": "La US Space Force accélère le déploiement de son réseau de satellites afin de renforcer ses capacités d'alerte précoce et de suivi des missiles. La branche armée vise à déployer plus rapidement des constellations en orbite basse pour contrer les menaces hypersoniques émergentes.",
+      "pays": [
+       "États-Unis"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "tech",
+   "titre": "Emerging Tech",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "💻",
+     "titre": "Australian intelligence chief warns of AI and data centre security risks",
+     "resume": "Australia's intelligence chief warned that data centres and AI technology heighten vulnerability to foreign interference. He cautioned that critical digital infrastructure requires stringent safeguards against hostile state actors.",
+     "pourquoi": "",
+     "pays": [
+      "Australia"
+     ],
+     "region": "Oceania",
+     "rubrique": "tech",
+     "liens": [
+      {
+       "source": "Straits Times Asie",
+       "url": "https://www.straitstimes.com/asia/australianz/australia-spy-chief-warns-of-data-centre-ai-risks-age-reports",
+       "titre": "Australia spy chief warns of data centre, AI risks, Age reports"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-23|Australian intelligence chief warns of AI and data centre security risks",
+     "fr": {
+      "titre": "Le chef du renseignement australien met en garde contre les risques sécuritaires liés à l'IA et aux centres de données",
+      "resume": "Le chef des services de renseignement australiens a averti que les centres de données et l'intelligence artificielle accroissaient la vulnérabilité aux ingérences étrangères. Il a souligné que les infrastructures numériques critiques nécessitaient des mesures de protection strictes contre les acteurs étatiques hostiles.",
+      "pays": [
+       "Australie"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "economie",
+   "titre": "Economy & Sanctions",
+   "items": [
+    {
+     "suite": true,
+     "remplace": "2026-11-21|Tech industry warns of semiconductor supply disruption from US controls",
+     "emoji": "🛡️",
+     "titre": "US probes alleged semiconductor espionage linked to Nvidia",
+     "resume": "US authorities opened an investigation into suspected espionage targeting advanced semiconductor technology linked to former Nvidia executives. The probe comes amid tightening restrictions on high-performance AI hardware exports to China.",
+     "pourquoi": "",
+     "pays": [
+      "United States",
+      "China"
+     ],
+     "region": "Americas",
+     "rubrique": "economie",
+     "liens": [
+      {
+       "source": "Straits Times Asie",
+       "url": "https://www.straitstimes.com/asia/east-asia/chinas-spies-set-sights-on-ai-chips-years-before-nvidia-scandal",
+       "titre": "China’s spies set sights on AI chips years before Nvidia scandal"
+      },
+      {
+       "source": "Japan Times",
+       "url": "https://www.japantimes.co.jp/business/2026/11/23/tech/us-spy-ex-nvidia-ceo/",
+       "titre": "U.S. probing alleged spy tied to ex-Nvidia CEO"
+      },
+      {
+       "source": "Chosunbiz",
+       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOENBS1poRWRwUnlTSUlrQ2liczZSaXAzaU9vUVFQSE9PUnN5RzY3Um96TVF5X1pkQmhvb00zTWZuMUxMUFN5eEl3V2lZcHVGdTRsRS0zdHhuZWE2SURIOFJSY2lrYUstTTZPc053UjAtZmQ0ZEtNQTc2Y0FWeXQ5empsRC1FZkFZb2NSRmJzZWFOSng5YUQ1am5NVTXSAZwBQVVfeXFMUDhDQUtaaEVkcFJ5U0lJa0NpYnM2UmlwM2lPb1FRUEhPT1JzeUc2N1Jvek1ReV9aZEJob29NM01mbjFMTFBTeXhJd1dpWXB1RnU0bEUtM3R4bmVhNklESDhSUmNpa2FLLU02T3NOd1IwLWZkNGRLTUE3NmNBVnl0OXpqbEQtRWZBWW9jUkZic2VhTkp4OWFENWpuTVU1?oc=5",
+       "titre": "US-China chip dispute raises fears of renewed trade tensions"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-23|US probes alleged semiconductor espionage linked to Nvidia",
+     "fr": {
+      "titre": "Les États-Unis enquêtent sur des soupçons d'espionnage de semi-conducteurs liés à Nvidia",
+      "resume": "Les autorités américaines ont ouvert une enquête sur des soupçons d'espionnage visant des technologies de semi-conducteurs avancées et impliquant d'anciens cadres de Nvidia. Cette enquête intervient dans un contexte de durcissement des restrictions sur les exportations de matériel d'IA haute performance vers la Chine.",
+      "pays": [
+       "États-Unis",
+       "Chine"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "a_surveiller": [
+  {
+   "quand": "November 23",
+   "quoi": "Start of Singapore PM Lawrence Wong's 3-day official visit to Australia",
+   "liens": [
+    {
+     "source": "CNA Singapour",
+     "url": "https://www.channelnewsasia.com/singapore/pm-lawrence-wong-visit-australia-6568481",
+     "titre": "PM Wong to visit Australia from Nov 23 for annual leaders' meeting"
+    },
+    {
+     "source": "Straits Times Singapour",
+     "url": "https://www.straitstimes.com/singapore/pm-wong-to-visit-australia-for-leaders-meeting-arrive-on-inaugural-sia-flight-to-new-sydney-airport",
+     "titre": "PM Wong to visit Australia for leaders’ meeting, arrive on inaugural SIA flight to new Sydney airport"
+    }
+   ]
+  },
+  {
+   "quand": "November 23–26",
+   "quoi": "20th Pacific Sea Power Symposium held in Tahiti, French Polynesia",
+   "liens": [
+    {
+     "source": "RFI Asie-Pacifique",
+     "url": "https://www.rfi.fr/fr/asie-pacifique/20261122-symposium-des-marines-du-pacifique-la-france-cherche-%C3%A0-pratiquer-une-puissance-d-%C3%A9quilibre",
+     "titre": "Symposium des marines du Pacifique: «La France cherche à pratiquer une puissance d'équilibre»"
+    }
+   ]
+  },
+  {
+   "quand": "December 1",
+   "quoi": "Jensen Huang set to face questions before US House intelligence and China Select committees",
+   "liens": [
+    {
+     "source": "Japan Times",
+     "url": "https://www.japantimes.co.jp/business/2026/11/23/tech/us-spy-ex-nvidia-ceo/",
+     "titre": "U.S. probing alleged spy tied to ex-Nvidia CEO"
+    }
+   ]
+  },
+  {
+   "quand": "December 6",
+   "quoi": "Deadline for Gadi Eisenkot to form an Israeli coalition government",
+   "liens": [
+    {
+     "source": "Le Monde International",
+     "url": "https://www.lemonde.fr/international/article/2026/11/22/israel-les-partis-de-gadi-eisenkot-et-de-benyamin-netanyahou-concluent-de-nouvelles-negociations-de-coalition-sans-accord_6814239_3210.html",
+     "titre": "Israël : les partis de Gadi Eisenkot et de Benyamin Nétanyahou concluent de nouvelles négociations de coalition sans accord"
+    }
+   ]
+  }
+ ],
+ "hebdo": {
+  "periode": "2026-11-16 → 2026-11-22",
+  "accroche": "The week saw major diplomatic engagements at the APEC summit in Shenzhen amidst escalating aerial warfare in Eastern Europe and the Middle East. Meanwhile, Washington tightened AI chip export controls across South-East Asia while air defence operators accelerated the deployment of counter-drone and AI-driven command technologies.",
+  "tendances": [
+   {
+    "emoji": "🌏",
+    "titre": "Fortification of Indo-Pacific maritime and missile deterrence architectures",
+    "resume": "Indo-Pacific partners are strengthening security pacts and missile capabilities to reinforce regional deterrence. Australia and the Philippines expanded their defence treaty, whilst Washington evaluates two billion dollars in funding for Manila's maritime security. Concurrently, Japan arranged to conduct missile tests in India, and the Philippines prioritised coastal strike capabilities.",
+    "liens": [
+     {
+      "source": "Rappler",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdnF1QnZoZDVybjBfR3k1djVyUWl0V1FjVTBDMWJDNkNRTGtXMEU4Slh1VEU1UE45Qlk0QXo0ek53S0FQc0pSa3p5VTA2WlcwNlRGazlmZE9IVVllQXFWSjJ6YVlsOUJheTdleEo5NXZGbDJaUFpLZVREZUZiUjZMSjNCQ1dscWR5eng3MVFBcllCdDNrb3gwdWRiM0l3WVkydlE?oc=5",
+      "titre": "Philippines, Australia ink updated defense cooperation deal"
+     },
+     {
+      "source": "Japan Times",
+      "url": "https://www.japantimes.co.jp/news/2026/11/15/japan/okinawa-gets-us-f-15ex-fighters/",
+      "titre": "New U.S. F-15EX fighters arrive at Okinawa Kadena Base"
+     },
+     {
+      "source": "Japan Times",
+      "url": "https://www.japantimes.co.jp/news/2026/11/20/japan/politics/japan-india-missile-tests-range-defense/",
+      "titre": "India to let Japan use firing ranges for missile tests"
+     },
+     {
+      "source": "Philstar.com",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZFRCbHhTOU81N0RNejc3SUdpby12Vl93bWJaQzNzdHBiOUQ2UVBnX2VuaFUxWHU2cElnUklmcC1sUDdBNFJVVVBtSkdpQkVzM1U2R3ZaZ2lGNWN2M1lDTFhCV2JneUR4NlEtakk5aWJuc0YzY0xoU3hOSEdxWVc2QXVaZExvMnJ4RS1xemZKSFV0OWJzTVY3R0pZaWZCbHB6U0tsdmwwUHhDc2R5WnZsdnR6V2Z2dXh6LUZ0N2FPbUdabDh4dWV6ZkhadU0?oc=5",
+      "titre": "US eyes $2 billion financing for Philippines defense, West Philippine Sea deterrence"
+     }
+    ]
+   },
+   {
+    "emoji": "🛡️",
+    "titre": "Rapid integration of AI and directed energy in air defence",
+    "resume": "Air defence systems are evolving to counter swarms and complex missile vectors through AI and directed energy. Aselsan demonstrated a counter-drone system disabling 51 targets simultaneously, while the US deployed its first AI-integrated IBCS Patriot battery to South Korea. Additionally, several nations launched trials for laser counter-drone platforms and mobile short-range air defence radars.",
+    "liens": [
+     {
+      "source": "Defence Industry Europe",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTTl1NktQcGlNTG1tbno2dXVfNFgyY2JtWHV5VjNvQVNuRG9NRWljSUFVVjlzVEpZRnhvZjhPZWJHYnRCd1pTekJPa3UtdjRwZDlyZDV5RjhmbkVoQWZ0dzNSTGRXUzhrNWYwZzRRY2k2Z1loYjhLckN4ZGRLMHVkV1QxVkQxT2kwMEotR29kU2otUUx3VWtWWm9hMWRtTmFEam9MUXNuUy13MENXQTQxNjVOYnZQTDljNktlWnA0MGJLdnRkTk5wdGE0ekJ0d1hWblMyUk9MMkhENTI2TWh2bEJlbml2UQ?oc=5",
+      "titre": "Aselsan says its EJDERHA counter-drone system used electromagnetic waves to neutralise a swarm of 51 drones within seconds"
+     },
+     {
+      "source": "Aviation Week",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOemk0aDM4dEw2OVRYMjA1dEhLTnBQOGxNdFFFbnRZcHMzWVBranBQaG0xdnplUXE5MzIwSjJjTUdrdGJiMDQyWHBLN0hqbHlSOU8yeHM5RGhGS0MwNW1ZUFFGLTluY2lpZmttU2dCOEZMM196cmNReDRWMnczUjIxSTJyUmxfUEJ1Q1NzUlRlNV9aei1vMHhxX1o4SWpyQjFFcFoyM0tZdXpwR05yc0g2OA?oc=5",
+      "titre": "Pentagon Selects Seven Companies For Directed Energy Shoot-Off"
+     },
+     {
+      "source": "Janes Defence Intelligence",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYTllVmFxdHR5TThRN0lKaDUtS1NaaE5Ma1I1cDBjeDl2aVRTNElLMUUxUWQ3a1Z0YUtScXVQbFVaSTMtTDBsaUwxMXFVLVl5WDhJTTE1RmtIeGQtcktFMzYtUjgxdC1kWkdZOHFqNFByRWVmSF92VUNXbmlRaElKbmZCRFhOVVlIY3h1Ukc2U3FDdENFaFhHbVFDZ3oyci1OM0YwSm9MNEFQMUJDR2RxVWFuMA?oc=5",
+      "titre": "US DoD to host directed energy shoot off"
+     },
+     {
+      "source": "Defence Industry Europe",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUS0tc1hZV3BWMzM2VXRhbWhqdW9vS0xXejZwQ3VXMVcwYXlYZlR1a1VvV1dlZ3FvbkdLRU0xTlB6R3dxZHIweG1ORW9ic2R5dFAtc3hJczRyOFRvTWVoVklRbEhlT2ZxZTZ1OVN1SjJVckkxa1ZTMFNrTlRIWktXU0x1LXVCcUl6aG5IT3JUYy16aVU3WFRtWVM1QW9hdUtlTXpTX2w0MTdhNmdxbW9naWxVSHhHa1Q3Z3JlbERR?oc=5",
+      "titre": "U.S. Army says Delta Battery is first operational Patriot unit to complete IBCS certification"
+     }
+    ]
+   },
+   {
+    "emoji": "💻",
+    "titre": "US semiconductor controls disrupt South-East Asian tech supply chains",
+    "resume": "Washington introduced strict export licence requirements for advanced AI semiconductors bound for South-East Asian nations to curb illicit technology leakage to China. The restrictions triggered regional compliance probes in Malaysia and Singapore while pushing regional governments to negotiate trusted technology frameworks. In response to US scrutiny, TSMC and Samsung halted deliveries of advanced AI chips to Chinese clients.",
+    "liens": [
+     {
+      "source": "Straits Times Asie",
+      "url": "https://www.straitstimes.com/asia/se-asia/malaysia-probing-alleged-nvidia-ai-chip-diversion-since-april-2025-home-minister",
+      "titre": "Malaysia probing alleged Nvidia AI chip diversion since April 2025: Home Minister"
+     },
+     {
+      "source": "Japan Times",
+      "url": "https://www.japantimes.co.jp/business/2026/11/16/tech/nvidia-ceo-search-bessent/",
+      "titre": "Nvidia feels the heat on CEO search as Bessent calls for shakeup"
+     },
+     {
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/11/17/us-moves-to-block-chinas-remote-access-to-ai-chips-amid-nvidia-scandal?traffic_source=rss",
+      "titre": "US moves to block China’s remote access to AI chips amid Nvidia scandal"
+     },
+     {
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPa0pxOWhsOERwTHZyU2JuUjFrSENFSkNUWnlLdFBvaEdkb2NKQkxVUmNOZXVHSS1qdkJobDF6ZzB4MzdESk5BZHhaY3ZlV0JVZWRfR1FrSUc2WGdWbTVJaTN2a1hjWnRXY25yZ2R2SFRBSEYyaklDUml5ekFrWnhIbEhCd3ZxVjh2am1oMXFkZG5QaFNOa1VUUWVtcEJZWjNLVllyUG53bmZXaldEaXRKT29CeXc0aWNPLWZxVQ?oc=5",
+      "titre": "Singapore, US agree to keep discussing Megaspeed as scrutiny of Nvidia scandal widens"
+     }
+    ]
+   },
+   {
+    "emoji": "🚀",
+    "titre": "Sustained missile and drone combat presses Middle Eastern air defences",
+    "resume": "Iranian-backed Houthis launched multi-vector ballistic attacks against Riyadh, whilst Iranian drones targeted US air defence radars and industrial sites in Bahrain. US intelligence assessed Iran's active missile arsenal at up to 2,500 weapons, contradicting earlier claims of decimation. To protect coalition personnel, the US military initiated urgent construction of reinforced concrete bunkers across Gulf bases.",
+    "liens": [
+     {
+      "source": "Japan Times",
+      "url": "https://www.japantimes.co.jp/news/2026/11/16/world/houthis-aden-govt-defences/",
+      "titre": "Houthis advance on Aden as Saudi-backed government bolsters defenses"
+     },
+     {
+      "source": "The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPS0RnUlBTa1J0QTBzR0RHcldQd0twTEtaUWwzV2xlSzJOSURDRW9hcHVqaUNtUVp3YU9uMGZ1N2djRU1xeGdsTzlBLU9Jdm1iSTQ5RDlzc1VPb293V2xkNk1Ddms0VHZvMVJ3VklsXy1KUGtkTW03RnY1VUZ5VU1jaTFTNDlUYU9UVEw4MVlEVkdPNnNWX3hQejRueUotWmxEal9lTnJhaloyNTBCTFE?oc=5",
+      "titre": "Iran launches drone attacks against US military base in Bahrain"
+     },
+     {
+      "source": "동아일보",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1KS2dPY0VOcTdmWmtMb1Vpc1R4WjlySWRtbDV3LTdWTm03OE54V1NvLWtwcXREc0tUWkJCR2hSWXpydXBUVVlCV3k2alhwc1cxVGxFN21pOGJYT1h3VFdSWnVoa1Z2cWhsZkZHdml4T2dCYWPSAWZBVV95cUxQeUZ2NHNtdEtkUUJIVnRkZWJCWnF1LVR3UEZENkt2d3BLMHRGTTJtVmFDUzRRckVja0FmNkdjbU9rXzBSY1oxOFlwM0dzUERoZVBneUlWYXp2cXFmTlh1UDIyV2RCV1E?oc=5",
+      "titre": "“이란, 미사일 최대 2500개 가지고 있어”…미 정보기관 평가"
+     },
+     {
+      "source": "The War Zone",
+      "url": "https://www.twz.com/news-features/u-s-army-now-wants-concrete-bunkers-for-troops-in-israel-saudi-arabia-and-lebanon",
+      "titre": "U.S. Army Now Wants Concrete Bunkers For Troops In Israel, Saudi Arabia And Lebanon"
+     }
+    ]
+   },
+   {
+    "emoji": "⚠️",
+    "titre": "Ukraine war escalates with direct security spillovers into NATO domain",
+    "resume": "Ukrainian strikes repeatedly damaged Russia's strategic Kerch Bridge, prompting Moscow to launch a massive 500-projectile barrage against Ukrainian urban targets. The conflict increasingly breached regional borders, marked by Russian missiles striking Polish territory, a Russian vessel catching fire in the Baltic Sea, and state-backed sabotage attempts in Estonia and Denmark.",
+    "liens": [
+     {
+      "source": "Le Monde International",
+      "url": "https://www.lemonde.fr/international/live/2026/11/16/en-direct-guerre-en-ukraine-volodymyr-zelensky-annonce-la-preparation-d-une-reunion-de-la-coalition-des-volontaires-qui-pourrait-s-averer-historique_6810982_3210.html",
+      "titre": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky annonce la préparation d’une réunion de la coalition des volontaires, « qui pourrait s’avérer historique »"
+     },
+     {
+      "source": "The War Zone",
+      "url": "https://www.twz.com/news-features/kerch-bridge-struck-for-the-second-time-in-less-than-24-hours-russia",
+      "titre": "Kerch Bridge Struck For The Second Time In Less Than 24 Hours: Russia"
+     },
+     {
+      "source": "Breaking Defense",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPR1JzU1JvTzlvVE9BTVowVnduaEVsYVZUN3ZUczgta05FQTZtVlZabk9aYmlQTVYybWZybzB6S3ktM3FqcW5zTWR5cFZhbWJZMmoya2VHSjM5Z0k5WFVydkR1V0k5QWRXdE9UR242blRJcWRBT0phR1FyR0NJanFvYV9XSjFBMmMwTklRMWY4dVFwNGhFWUNlZHZJbkg5dzdFTWNIMWRoa3JtYlRZSWduelZ4RlhpSEQzbTJNTExZYVJ4amF1dzhyYWg1dmlQaXBzdjNOR3lyQlhPRXhWNEpta0RHNlVaU0R1NnFZ?oc=5",
+      "titre": "Estonian drone company targeted in alleged Russian sabotage attempt"
+     },
+     {
+      "source": "Japan Times",
+      "url": "https://www.japantimes.co.jp/news/2026/11/20/world/putin-ukraine-crimea-bridge/",
+      "titre": "Putin says no sea or energy truce after Ukraine hits Crimea Bridge again"
+     }
+    ]
+   },
+   {
+    "emoji": "🤖",
+    "titre": "Divergent global stances on military AI and autonomous weapons governance",
+    "resume": "United Nations talks in Geneva failed to establish binding prohibitions on lethal autonomous weapons following opposition from major military powers. However, bilateral discussions at the Shenzhen summit yielded a rare consensus between Washington and Beijing ensuring human control over military AI decisions. Meanwhile, NATO expanded its own technology integration through space initiatives and cyber security deals.",
+    "liens": [
+     {
+      "source": "Al-Monitor",
+      "url": "https://www.al-monitor.com/originals/2026/11/us-and-russia-oppose-talks-limiting-autonomous-weapons",
+      "titre": "US and Russia to oppose talks on limiting autonomous weapons"
+     },
+     {
+      "source": "Defense One",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcFlEUk04WDBqYmt6QXZMSlhmYmhzZmFCLTVBM05IdU50T0pCWC1tc0JVSTlPUUtEdnc2VS15VkdaX2pGREYtZjZIeHBvSUUxYXlfYzlKZWxNSGg4X2UxNGgzeVVsODdyYnBzcU5XWVU3Ukk3U1pkTUtxaThiS2NxMHUwM2wxYXkxTldJZDVOMkFMdGNvbDg2czFSUFE5cllyS2taekhmUW5TdDY4NUE?oc=5",
+      "titre": "OpenAI gives NATO access to most advanced cybersecurity AI"
+     },
+     {
+      "source": "mnews.sbs.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10NHJKR1JXeVBQRlR3aTN4SWw3MVhyR1d1UXdSSmpsc1N3MVN4X3l5aEhrY1pob3E1OEhETzRGQ2xlaWFTZF9Jcmk0TXNfejVYd0Y5enp5X3ZQbHFGSzNBVmtneHJSVDhSSDRDTXB3?oc=5",
+      "titre": "Bessent: US, China Agree to Human Oversight in Military AI Decisions"
+     },
+     {
+      "source": "NPR",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1yS2ZzRlFmaTlWY082V1hMc0VGNHVBWkUzWW53eVhnaEp6SnVic0RPdloxY1EtN2xnY0xXVzlQbkZVWjdONmlHaFh1MVRjTWNGbFhJU3ZiRGEwMlVwQmpfbTRVNXhoT214THotUTNyWlFPRFFTTmZz?oc=5",
+      "titre": "Killer robots: U.N. talks fall short of hopes for legally binding rules"
+     }
+    ]
+   }
+  ],
+  "a_suivre": [
+   {
+    "quand": "Late November 2026",
+    "quoi": "Publication of Japan's revised basic guidelines on military artificial intelligence deployment by the Ministry of Defence."
+   },
+   {
+    "quand": "Next week",
+    "quoi": "Official visit of Nepal Prime Minister Balendra Shah to New Delhi for bilateral energy and trade talks with Narendra Modi."
+   },
+   {
+    "quand": "1 December 2026",
+    "quoi": "Complete closure of all Estonian border crossings with Russia taking effect following domestic sabotage attempts."
+   }
+  ],
+  "fr": {
+   "accroche": "La semaine a été marquée par d'importantes rencontres diplomatiques lors du sommet de l'APEC à Shenzhen, sur fond d'escalade de la guerre aérienne en Europe de l'Est et au Moyen-Orient. Dans le même temps, Washington a renforcé ses contrôles à l'exportation de puces d'IA en Asie du Sud-Est, tandis que les opérateurs de défense aérienne ont accéléré le déploiement de technologies anti-drones et de commandement pilotées par l'IA.",
+   "tendances": [
+    {
+     "titre": "Renforcement des architectures de dissuasion maritime et balistique dans l'Indo-Pacifique",
+     "resume": "Les partenaires de la région Indo-Pacifique renforcent leurs pactes de sécurité et leurs capacités balistiques pour consolider la dissuasion régionale. L'Australie et les Philippines ont élargi leur traité de défense, tandis que Washington évalue un financement de deux milliards de dollars pour la sécurité maritime de Manille. En parallèle, le Japon a pris des dispositions pour effectuer des essais de missiles en Inde, et les Philippines ont donné la priorité aux capacités de frappe côtière."
+    },
+    {
+     "titre": "Intégration rapide de l'IA et de l'énergie dirigée dans la défense aérienne",
+     "resume": "Les systèmes de défense aérienne évoluent pour contrer les essaims et les vecteurs de missiles complexes grâce à l'IA et à l'énergie dirigée. Aselsan a fait la démonstration d'un système anti-drones neutralisant 51 cibles simultanément, tandis que les États-Unis ont déployé leur première batterie Patriot IBCS intégrée à l'IA en Corée du Sud. De plus, plusieurs nations ont lancé des essais de plateformes anti-drones laser et de radars mobiles de défense aérienne à courte portée."
+    },
+    {
+     "titre": "Les contrôles américains sur les semi-conducteurs perturbent les chaînes d'approvisionnement technologiques en Asie du Sud-Est",
+     "resume": "Washington a instauré de strictes exigences de licences d'exportation pour les semi-conducteurs d'IA avancés destinés aux pays d'Asie du Sud-Est afin de juguler les fuites technologiques illicites vers la Chine. Ces restrictions ont déclenché des enquêtes de conformité en Malaisie et à Singapour, tout en incitant les gouvernements régionaux à négocier des cadres technologiques de confiance. En réponse aux contrôles américains, TSMC et Samsung ont suspendu les livraisons de puces d'IA avancées à leurs clients chinois."
+    },
+    {
+     "titre": "Les combats continus de missiles et de drones mettent sous pression les défenses aériennes du Moyen-Orient",
+     "resume": "Les houthistes soutenus par l'Iran ont lancé des attaques balistiques multivectorielles contre Riyad, tandis que des drones iraniens ont ciblé des radars de défense aérienne américains et des sites industriels au Bahreïn. Le renseignement américain estime l'arsenal de missiles actifs de l'Iran jusqu'à 2 500 armes, contredisant les affirmations précédentes sur son anéantissement. Pour protéger le personnel de la coalition, l'armée américaine a engagé la construction d'urgence de bunkers en béton armé sur ses bases du Golfe."
+    },
+    {
+     "titre": "La guerre en Ukraine s'intensifie avec des retombées sécuritaires directes sur le territoire de l'OTAN",
+     "resume": "Des frappes ukrainiennes ont endommagé à plusieurs reprises le pont stratégique de Kertch, incitant Moscou à lancer une salve massive de 500 projectiles contre des cibles urbaines ukrainiennes. Le conflit a de plus en plus franchi les frontières régionales, marqué par des missiles russes frappant le territoire polonais, un navire russe prenant feu en mer Baltique et des tentatives de sabotage commanditées par un État en Estonie et au Danemark."
+    },
+    {
+     "titre": "Divergences mondiales sur la gouvernance de l'IA militaire et des armes autonomes",
+     "resume": "Les discussions des Nations unies à Genève n'ont pas réussi à établir d'interdictions contraignantes sur les armes létales autonomes en raison de l'opposition des grandes puissances militaires. Toutefois, des discussions bilatérales lors du sommet de Shenzhen ont abouti à un consensus rare entre Washington et Pékin visant à garantir le contrôle humain sur les décisions de l'IA militaire. Dans le même temps, l'OTAN a élargi sa propre intégration technologique par le biais d'initiatives spatiales et d'accords de cybersécurité."
+    }
+   ],
+   "a_suivre": [
+    {
+     "quand": "Fin novembre 2026",
+     "quoi": "Publication par le ministère de la Défense japonais des directives fondamentales révisées sur le déploiement de l'intelligence artificielle militaire."
+    },
+    {
+     "quand": "La semaine prochaine",
+     "quoi": "Visite officielle du Premier ministre népalais Balendra Shah à Nouvelle-Delhi pour des pourparlers bilatéraux sur l'énergie et le commerce avec Narendra Modi."
+    },
+    {
+     "quand": "1er décembre 2026",
+     "quoi": "Fermeture complète de tous les postes-frontières estoniens avec la Russie prenant effet après des tentatives de sabotage internes."
+    }
+   ]
+  }
+ },
+ "stats": {
+  "articles": 251,
+  "sources": 51
+ },
+ "fr": {
+  "accroche": [
+   "L'Ukraine étend ses frappes de drones navals aux ports de la Méditerranée et de la Baltique",
+   "La Pologne confirme que trois missiles de croisière russes ont violé son espace aérien",
+   "Les démocrates américains décrochent leur plus large majorité à la Chambre depuis plus de trois décennies"
+  ],
+  "a_surveiller": [
+   {
+    "quand": "23 novembre",
+    "quoi": "Début de la visite officielle de 3 jours du Premier ministre singapourien Lawrence Wong en Australie"
+   },
+   {
+    "quand": "23–26 novembre",
+    "quoi": "Tenue du 20e Pacific Sea Power Symposium à Tahiti, en Polynésie française"
+   },
+   {
+    "quand": "1er décembre",
+    "quoi": "Jensen Huang doit répondre aux questions des commissions du renseignement et sur la Chine de la Chambre des représentants américaine"
+   },
+   {
+    "quand": "6 décembre",
+    "quoi": "Date-limite pour Gadi Eisenkot pour former un gouvernement de coalition israélien"
+   }
+  ]
+ }
+}
