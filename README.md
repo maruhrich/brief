@@ -5,7 +5,7 @@ Web-app installée sur l'écran d'accueil de l'iPhone. Chaque matin, avant 7h45 
 1. **GitHub Actions** lance [brief.py](brief.py), qui lit une soixantaine de sources : flux RSS, plus des recherches Google News en anglais, français, japonais, coréen, chinois et indonésien, sur les dernières 24 h.
 2. **Gemini** (offre gratuite de Google) trie, traduit et résume **en anglais** :
    - *L'essentiel du jour*,
-   - environ 15 nouveaux sujets répartis dans 11 rubriques, ajoutés à la pile *À lire*,
+   - environ 17 nouveaux sujets répartis dans 11 rubriques (dont *Actualité Airbus* en tête), ajoutés à la pile *À lire*,
    - *À surveiller*,
    - le lundi, la *Synthèse de la semaine*.
 

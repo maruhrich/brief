@@ -23,7 +23,7 @@ jobs:
     runs-on: ubuntu-latest
     environment:
       name: github-pages
-      url: ${{ steps.deploy.outputs.page_url }}
+      url: ${{ steps.deploy.outputs.page_url || steps.deploy2.outputs.page_url }}
     steps:
       - uses: actions/checkout@v7
 
@@ -54,20 +54,43 @@ jobs:
           git pull --rebase
           git push
 
+      # Rattrapage : si le brief existe mais que la publication a échoué, on republie et on notifie
+      - name: Vérifier que le site affiche le dernier brief
+        id: check
+        if: github.event_name == 'schedule' && steps.brief.outputs.generated != 'true'
+        run: |
+          local=$(python -c 'import json; print(json.load(open("docs/data/latest.json"))["date"])')
+          live=$(curl -fsSL "https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/data/latest.json?t=$(date +%s)" \
+            | python -c 'import json,sys; print(json.load(sys.stdin)["date"])' || echo "?")
+          echo "Brief du dépôt : $local — brief en ligne : $live"
+          if [ "$live" != "$local" ]; then
+            echo "Le site n'affiche pas le dernier brief : on le republie."
+            echo "stale=true" >> "$GITHUB_OUTPUT"
+          fi
+
       - uses: actions/configure-pages@v6
-        if: steps.brief.outputs.generated == 'true' || github.event_name == 'push'
+        if: steps.brief.outputs.generated == 'true' || steps.check.outputs.stale == 'true' || github.event_name == 'push'
 
       - uses: actions/upload-pages-artifact@v5
-        if: steps.brief.outputs.generated == 'true' || github.event_name == 'push'
+        if: steps.brief.outputs.generated == 'true' || steps.check.outputs.stale == 'true' || github.event_name == 'push'
         with:
           path: docs
 
       - id: deploy
         uses: actions/deploy-pages@v5
-        if: steps.brief.outputs.generated == 'true' || github.event_name == 'push'
+        if: steps.brief.outputs.generated == 'true' || steps.check.outputs.stale == 'true' || github.event_name == 'push'
+        continue-on-error: true   # GitHub ne trouve parfois pas l'archive qu'il vient de recevoir : 2e essai ci-dessous
+
+      - name: Patienter avant le 2e essai de publication
+        if: steps.deploy.outcome == 'failure'
+        run: sleep 30
+
+      - id: deploy2
+        uses: actions/deploy-pages@v5
+        if: steps.deploy.outcome == 'failure'
 
       - name: Notification sur le téléphone (7h45)
-        if: steps.brief.outputs.generated == 'true'
+        if: (steps.brief.outputs.generated == 'true' || steps.check.outputs.stale == 'true') && (steps.deploy.outcome == 'success' || steps.deploy2.outcome == 'success')
         env:
           PUSH_SUBSCRIPTION: ${{ secrets.PUSH_SUBSCRIPTION }}
           VAPID_PRIVATE_KEY: ${{ secrets.VAPID_PRIVATE_KEY }}

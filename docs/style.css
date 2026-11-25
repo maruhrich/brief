@@ -13,6 +13,7 @@
   --star-fill: transparent;
   --toast-action: #ff80ab;
   --radius: 16px;
+  --c-airbus: #00205b;
   --c-defense_aerienne: #d2452f;
   --c-asie: #0f8a7e;
   --c-singapour: #7b3fb5;
@@ -45,6 +46,7 @@
     --warn-bg: #2e2410;
     --warn-text: #f3cf86;
     --toast-action: #c2185b;
+    --c-airbus: #a9c1ff;
     --c-defense_aerienne: #ff7a63;
     --c-asie: #3cc7b8;
     --c-singapour: #c39bff;

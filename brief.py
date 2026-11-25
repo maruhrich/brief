@@ -21,6 +21,7 @@ import calendar
 import html
 import json
 import os
+import random
 import re
 import sys
 import time
@@ -119,6 +120,9 @@ def list_feeds(cfg: dict) -> list[dict]:
 def fetch_feed(feed: dict, since: datetime) -> tuple[dict, list[dict], str | None]:
     try:
         resp = requests.get(feed["url"], headers={"User-Agent": UA}, timeout=25)
+        if resp.status_code in (429, 503):  # trop de requêtes à la fois : on patiente puis on réessaie une fois
+            time.sleep(8 + random.random() * 8)
+            resp = requests.get(feed["url"], headers={"User-Agent": UA}, timeout=25)
         resp.raise_for_status()
         parsed = feedparser.parse(resp.content)
     except Exception as exc:  # une source en panne ne doit pas bloquer le brief
@@ -204,50 +208,63 @@ def parse_json(text: str) -> dict:
         return json.loads(text[start: end + 1])
 
 
+GEMINI_PAUSE = 180  # secondes avant le 2e tour quand Gemini est surchargé
+
+
 def call_gemini(cfg: dict, system: str, user: str, schema: dict, api_key: str) -> tuple[dict, str]:
     errors = []
-    for model in cfg["modeles"]:
-        use_schema, retried = True, False
-        while True:
-            gen = {"responseMimeType": "application/json"}
-            if use_schema:
-                gen["responseSchema"] = schema
-            body = {
-                "systemInstruction": {"parts": [{"text": system}]},
-                "contents": [{"role": "user", "parts": [{"text": user}]}],
-                "generationConfig": gen,
-            }
-            try:
-                resp = requests.post(GEMINI_URL.format(model=model), json=body, timeout=300,
-                                     headers={"x-goog-api-key": api_key})
-            except requests.RequestException as exc:
-                errors.append(f"{model}: {exc}")
-                if retried:
-                    break
-                retried = True
-                time.sleep(10)
-                continue
-            if resp.status_code == 200:
+    for tour in range(2):
+        overloaded = False
+        if tour:  # tous les modèles étaient surchargés (HTTP 503…) : on retente une fois plus tard
+            log(f"  Gemini surchargé : nouvel essai dans {GEMINI_PAUSE // 60} min…")
+            time.sleep(GEMINI_PAUSE)
+        for model in cfg["modeles"]:
+            use_schema, retried = True, False
+            while True:
+                gen = {"responseMimeType": "application/json"}
+                if use_schema:
+                    gen["responseSchema"] = schema
+                body = {
+                    "systemInstruction": {"parts": [{"text": system}]},
+                    "contents": [{"role": "user", "parts": [{"text": user}]}],
+                    "generationConfig": gen,
+                }
                 try:
-                    parts = resp.json()["candidates"][0]["content"]["parts"]
-                    text = "".join(p.get("text", "") for p in parts if not p.get("thought"))
-                    return parse_json(text), model
-                except (KeyError, IndexError, ValueError) as exc:
-                    errors.append(f"{model}: réponse illisible ({exc})")
-                    log(f"  Gemini {errors[-1]}")
-                    break
-            errors.append(f"{model}: HTTP {resp.status_code} {resp.text[:200]}")
-            log(f"  Gemini {errors[-1]}")
-            if resp.status_code in (401, 403):
-                raise RuntimeError("Clé Gemini refusée : " + errors[-1])
-            if resp.status_code == 400 and use_schema:
-                use_schema = False  # schéma refusé → on réessaie en JSON libre
-                continue
-            if resp.status_code in (429, 500, 502, 503, 504) and not retried:
-                retried = True  # quota minute ou surcharge : on patiente une fois
-                time.sleep(20)
-                continue
-            break  # sinon (404, quota du jour épuisé…) → modèle suivant
+                    resp = requests.post(GEMINI_URL.format(model=model), json=body, timeout=300,
+                                         headers={"x-goog-api-key": api_key})
+                except requests.RequestException as exc:
+                    errors.append(f"{model}: {exc}")
+                    overloaded = True
+                    if retried:
+                        break
+                    retried = True
+                    time.sleep(10)
+                    continue
+                if resp.status_code == 200:
+                    try:
+                        parts = resp.json()["candidates"][0]["content"]["parts"]
+                        text = "".join(p.get("text", "") for p in parts if not p.get("thought"))
+                        return parse_json(text), model
+                    except (KeyError, IndexError, ValueError) as exc:
+                        errors.append(f"{model}: réponse illisible ({exc})")
+                        log(f"  Gemini {errors[-1]}")
+                        break
+                errors.append(f"{model}: HTTP {resp.status_code} {resp.text[:200]}")
+                log(f"  Gemini {errors[-1]}")
+                if resp.status_code in (401, 403):
+                    raise RuntimeError("Clé Gemini refusée : " + errors[-1])
+                if resp.status_code == 400 and use_schema:
+                    use_schema = False  # schéma refusé → on réessaie en JSON libre
+                    continue
+                if resp.status_code in (429, 500, 502, 503, 504):
+                    overloaded = True
+                    if not retried:
+                        retried = True  # quota minute ou surcharge : on patiente une fois
+                        time.sleep(20)
+                        continue
+                break  # sinon (404, quota du jour épuisé…) → modèle suivant
+        if not overloaded:
+            break
     raise RuntimeError("Gemini indisponible : " + " | ".join(errors[-3:]))
 
 
@@ -667,7 +684,7 @@ Rules:
 # ── Version brute (sans IA) ──────────────────────────────────
 
 # Anciennes rubriques fusionnées : leurs sujets restent visibles dans la pile
-RUBRIQUE_ALIASES = {"singapour": "asie", "cyber": "tech"}
+RUBRIQUE_ALIASES = {"singapour": "asie", "cyber": "tech", "espace": "tech"}
 
 
 def default_rubrique(cfg: dict) -> str:
@@ -779,9 +796,14 @@ def main() -> int:
         backfill_fr(cfg, os.environ["GEMINI_API_KEY"])
         return 0
 
-    if args.skip_if_done and (ARCHIVE / f"{date_str}.json").exists():
-        log(f"Le brief du {date_str} existe déjà, rien à faire.")
-        return 0
+    already = ARCHIVE / f"{date_str}.json"
+    retry_raw = False
+    if args.skip_if_done and already.exists():
+        if json.loads(already.read_text()).get("mode") == "ia":
+            log(f"Le brief du {date_str} existe déjà, rien à faire.")
+            return 0
+        retry_raw = True
+        log(f"Le brief du {date_str} est en version brute (IA indisponible) : nouvel essai avec l'IA.")
 
     log(f"Collecte des sources ({date_label(now)})…")
     articles, ok_feeds = collect(cfg, verbose=args.sources)
@@ -838,6 +860,9 @@ def main() -> int:
 
     if args.dry_run:
         print(json.dumps(brief, ensure_ascii=False, indent=1))
+        return 0
+    if retry_raw and brief["mode"] != "ia":
+        log("L'IA est encore indisponible : on garde le brief brut déjà publié.")
         return 0
 
     write_outputs(brief, date_str, cfg)

@@ -17,7 +17,7 @@ max_articles_ia: 650    # plafond total envoyé à l'IA
 # Médias ignorés (souvent remontés par Google News, peu fiables ou hors sujet)
 sources_exclues: [Facebook, YouTube, Instagram, TikTok, X, World Socialist Web Site, Vietnam.vn, Sputnik, RT]
 synthese_hebdo: lundi   # jour de la synthèse de la semaine (ou « non »)
-sujets_par_jour: 15     # nouveaux sujets ajoutés chaque jour à la pile « À lire » (hors essentiel)
+sujets_par_jour: 17     # nouveaux sujets ajoutés chaque jour à la pile « À lire » (hors essentiel)
 pile_jours: 7           # un sujet non lu reste dans la pile pendant X jours
 memoire_jours: 3        # l'IA évite de répéter les sujets des X derniers jours
 
@@ -32,6 +32,14 @@ modeles:
 # consigne  : ce que l'IA doit y mettre
 # mots_cles : utilisés seulement si l'IA est indisponible (classement simple)
 rubriques:
+  - id: airbus
+    titre: Airbus News
+    titre_fr: Actualité Airbus
+    max: 3
+    consigne: >
+      All Airbus news: Airbus Defence and Space (military aircraft such as A400M, A330 MRTT and Eurofighter, space systems, satellites, connectivity and cyber), commercial aircraft (orders, deliveries, production, programmes), Airbus Helicopters, company results, strategy, partnerships and senior appointments. Airbus Defence and Space and Asia-Pacific / Singapore news first. Any story where Airbus is the main subject goes here rather than in another section.
+    mots_cles: [airbus]
+
   - id: monde
     titre: World
     titre_fr: Monde
@@ -69,8 +77,8 @@ rubriques:
     titre_fr: Industrie de défense & contrats
     max: 3
     consigne: >
-      Defence contracts and programmes, defence budgets, exports, defence company news (Airbus, Thales, MBDA, Lockheed Martin, RTX, Hanwha, Rafael, Saab, KAI…), Asia first.
-    mots_cles: [contract, contrat, procurement, acquisition, tender, budget, airbus, thales, mbda, lockheed, raytheon, rtx, hanwha, rafael, boeing, saab, defence industry, industrie]
+      Defence contracts and programmes, defence budgets, exports, defence company news (Thales, MBDA, Lockheed Martin, RTX, Hanwha, Rafael, Saab, KAI…), Asia first. Airbus news goes in the Airbus section.
+    mots_cles: [contract, contrat, procurement, acquisition, tender, budget, thales, mbda, lockheed, raytheon, rtx, hanwha, rafael, boeing, saab, defence industry, industrie]
 
   - id: ukraine
     titre: Ukraine / Russia
@@ -95,14 +103,6 @@ rubriques:
     consigne: >
       Europe: defence and security (NATO, European armed forces, budgets and programmes such as SAMP/T, ESSI, FCAS, GCAP, French defence policy) and major European political news.
     mots_cles: [nato, otan, european defence, defense européenne, bundeswehr, ministère des armées, essi]
-
-  - id: espace
-    titre: Space & Satellites
-    titre_fr: Espace & satellites
-    max: 2
-    consigne: >
-      Military and dual-use space: Earth observation and communication satellites, early warning, launches, national space programmes, counter-space threats.
-    mots_cles: [satellite, space force, launch, orbit, spatial, espace, rocket, fusée]
 
   - id: tech
     titre: Emerging Tech
@@ -132,7 +132,6 @@ sources:
   - { nom: War on the Rocks,      url: "https://warontherocks.com/feed/", rubrique: monde }
   - { nom: Opex360,               url: "https://www.opex360.com/feed/", rubrique: europe }
   - { nom: FOB,                   url: "https://www.forcesoperations.com/feed/", rubrique: industrie }
-  - { nom: SpaceNews,             url: "https://spacenews.com/feed/", rubrique: espace }
   # Asie-Pacifique
   - { nom: The Diplomat,          url: "https://thediplomat.com/feed/", rubrique: asie }
   - { nom: CNA Asie,              url: "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=6511", rubrique: asie }
@@ -237,6 +236,9 @@ google_news_medias:
   - spacenews.com
   - aviationweek.com
   - flightglobal.com
+  - ainonline.com
+  - aerotime.aero
+  - airbus.com
   - shephardmedia.com
   - asianmilitaryreview.com
   - asiapacificdefencereporter.com
@@ -328,9 +330,11 @@ recherches:
   - { q: 'RSAF OR MINDEF OR "Singapore Armed Forces"', langue: en, rubrique: asie }
   - { q: 'ASEAN OR (Philippines OR Indonesia OR Malaysia OR Vietnam) military', langue: en, rubrique: asie }
   - { q: 'defence contract (Indonesia OR Philippines OR Malaysia OR Thailand OR Vietnam OR India OR Japan OR "South Korea" OR Australia OR Singapore)', langue: en, rubrique: industrie }
-  - { q: '"Airbus Defence and Space"', langue: en, rubrique: industrie }
+  - { q: '"Airbus Defence and Space" OR "Airbus Helicopters"', langue: en, rubrique: airbus }
+  - { q: 'Airbus', langue: en, rubrique: airbus }
+  - { q: 'Airbus (Singapore OR Asia OR "Asia-Pacific" OR India OR Japan OR Korea OR Indonesia OR Malaysia OR Philippines OR Australia)', langue: en, rubrique: airbus }
+  - { q: 'Airbus', langue: fr, rubrique: airbus }
   - { q: 'site:breakingdefense.com', langue: en, rubrique: industrie }
-  - { q: '"military satellite" OR "Space Force" OR "early warning satellite" OR "anti-satellite"', langue: en, rubrique: espace }
   - { q: 'hypersonic OR "directed energy" OR "laser weapon" OR "drone swarm" OR "military AI"', langue: en, rubrique: tech }
   - { q: 'NATO OR "European defence" OR "EU defence" OR "European Sky Shield"', langue: en, rubrique: europe }
   - { q: 'Ukraine "air defense" OR Russia missile strike', langue: en, rubrique: ukraine }
