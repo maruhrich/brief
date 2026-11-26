@@ -1,0 +1,1033 @@
+{
+ "date": "2026-11-26",
+ "date_label": "Thursday, November 26, 2026",
+ "genere_le": "2026-11-26T12:32:00+08:00",
+ "mode": "ia",
+ "modele": "gemini-3.6-flash",
+ "accroche": [
+  "US proposes sweeping tariffs targeting major global trading partners",
+  "Kim Jong-un orders expanded tactical nuclear weapons deployment",
+  "Italian Navy intercepts ballistic target using Aster 30 missile"
+ ],
+ "essentiel": [
+  {
+   "suite": false,
+   "remplace": null,
+   "emoji": "💰",
+   "titre": "US proposes extensive tariffs on 14 major trading partners",
+   "resume": "US President Donald Trump proposed tariffs of up to 20 per cent on 14 trading partners, including China, Japan and Singapore. Affected Asian nations expressed deep disappointment while seeking diplomatic negotiations.",
+   "pourquoi": "",
+   "pays": [
+    "United States",
+    "China",
+    "Singapore",
+    "Japan"
+   ],
+   "region": "Global",
+   "rubrique": "economie",
+   "liens": [
+    {
+     "source": "BBC Asia",
+     "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+     "titre": "US announces new tariffs on host of countries including China"
+    },
+    {
+     "source": "CNA Singapour",
+     "url": "https://www.channelnewsasia.com/commentary/trump-new-us-tariffs-excess-industrial-capacity-impact-singapore-trading-partners-6584001",
+     "titre": "Commentary: New US tariff threat seeks to ramp up pressure on trading partners – will it work?"
+    },
+    {
+     "source": "CNA Asie",
+     "url": "https://www.channelnewsasia.com/asia/asian-governments-push-back-seek-deals-after-trumps-new-tariff-salvo-6583496",
+     "titre": "Asian governments push back, seek deals after Trump’s new tariff salvo"
+    },
+    {
+     "source": "Japan Times",
+     "url": "https://www.japantimes.co.jp/business/2026/11/26/us-china-eu-tariffs-overcapacity/",
+     "titre": "U.S. targets China, EU, Japan and others with new tariffs citing overcapacity"
+    }
+   ],
+   "visuel": {
+    "nom": "Donald Trump",
+    "description": "President of the United States (2017–2021; since 2025)",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/960px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg",
+    "page": "https://en.wikipedia.org/wiki/Donald_Trump",
+    "type": "person"
+   },
+   "id": "2026-11-26|US proposes extensive tariffs on 14 major trading partners",
+   "fr": {
+    "titre": "Washington envisage de lourds droits de douane visant 14 partenaires commerciaux majeurs",
+    "resume": "Le président américain Donald Trump a proposé des droits de douane pouvant atteindre 20 % contre 14 partenaires commerciaux, dont la Chine, le Japon et Singapour. Les pays asiatiques concernés ont fait part de leur profonde déception tout en privilégiant la concertation diplomatique.",
+    "pays": [
+     "États-Unis",
+     "Chine",
+     "Singapour",
+     "Japon"
+    ]
+   }
+  },
+  {
+   "suite": false,
+   "remplace": null,
+   "emoji": "🛡️",
+   "titre": "Italian Navy PPA intercepts ballistic target with Aster 30",
+   "resume": "The Italian Navy frigate Giovanni delle Bande Nere successfully intercepted a high-speed ballistic target using an Aster 30 missile. The test demonstrates enhanced European naval ballistic missile defence capabilities.",
+   "pourquoi": "",
+   "pays": [
+    "Italy"
+   ],
+   "region": "Europe",
+   "rubrique": "defense_aerienne",
+   "liens": [
+    {
+     "source": "Naval News",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdUlpSkl4UWJjV1FCUHJhcUNpVTd4MVl5dFNWcUV4UExwRTNwWDNyR1RPQVhXcXZ0VDIwM0Z0RE52Q3pMWUxmTGsxOGxvVks5bVdLdEJTQm94eUp5VldIM19VODRIS2RTY1F0T1pRaUIzTFpBU0NUMG14M3otejU5ODkycw?oc=5",
+     "titre": "Italian Navy BMD: PPA Bande Nere Intercepts Ballistic Target"
+    }
+   ],
+   "visuel": {
+    "nom": "Aster (missile family)",
+    "description": "Franco-Italian surface-to-air missile family",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/MBDA_Aster_p1220947.jpg/960px-MBDA_Aster_p1220947.jpg",
+    "page": "https://en.wikipedia.org/wiki/Aster_(missile_family)",
+    "type": "platform"
+   },
+   "id": "2026-11-26|Italian Navy PPA intercepts ballistic target with Aster 30",
+   "fr": {
+    "titre": "Un PPA de la marine italienne intercepte une cible balistique avec un Aster 30",
+    "resume": "La frégate Giovanni delle Bande Nere de la marine italienne a intercepté avec succès une cible balistique à grande vitesse au moyen d'un missile Aster 30. Cet essai démontre le renforcement des capacités navales européennes de défense antimissile balistique.",
+    "pays": [
+     "Italie"
+    ]
+   }
+  },
+  {
+   "suite": true,
+   "remplace": "2026-11-23|Kim Jong Un defends North Korean arms buildup as self-defence",
+   "emoji": "🚀",
+   "titre": "Kim Jong-un calls for wider tactical nuke deployment",
+   "resume": "North Korean leader Kim Jong-un inspected nuclear material sites and called for the expanded deployment of tactical nuclear weapons. He warned that denying Pyongyang's nuclear status constitutes an open declaration of war.",
+   "pourquoi": "",
+   "pays": [
+    "North Korea"
+   ],
+   "region": "North-East Asia",
+   "rubrique": "asie",
+   "liens": [
+    {
+     "source": "Yonhap (Corée du Nord)",
+     "url": "https://en.yna.co.kr/view/AEN20261126000553315",
+     "titre": "(3rd LD) N. Korea's Kim inspects nuclear material sites, calls for broader use of tactical nukes"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/26/kim-jong-un-says-north-korea-should-widen-deployment-of-tactical-nukes?traffic_source=rss",
+     "titre": "Kim Jong Un says North Korea should widen deployment of tactical nukes"
+    },
+    {
+     "source": "Straits Times Asie",
+     "url": "https://www.straitstimes.com/asia/east-asia/north-koreas-kim-calls-for-wider-deployment-of-tactical-nuclear-weapons",
+     "titre": "North Korea’s Kim urges wider tactical nuclear weapons deployment on facility tour: KCNA"
+    }
+   ],
+   "visuel": {
+    "nom": "Kim Jong Un",
+    "description": "Leader of North Korea since 2011",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Kim_Jong-un_and_Vladimir_Putin_%282023-09-13%29_12_%28cropped_2%29.jpg/960px-Kim_Jong-un_and_Vladimir_Putin_%282023-09-13%29_12_%28cropped_2%29.jpg",
+    "page": "https://en.wikipedia.org/wiki/Kim_Jong_Un",
+    "type": "person"
+   },
+   "id": "2026-11-26|Kim Jong-un calls for wider tactical nuke deployment",
+   "fr": {
+    "titre": "Kim Jong-un appelle à un déploiement accru d'armes nucléaires tactiques",
+    "resume": "Le dirigeant nord-coréen Kim Jong-un a inspecté des installations de matières fissiles et appelé à élargir le déploiement des armes nucléaires tactiques. Il a averti que contester le statut de puissance nucléaire de Pyongyang constituerait une déclaration de guerre ouverte.",
+    "pays": [
+     "Corée du Nord"
+    ]
+   }
+  },
+  {
+   "suite": false,
+   "remplace": null,
+   "emoji": "🤝",
+   "titre": "Trump and NATO chief Rutte urge Russia against widening war",
+   "resume": "US President Donald Trump and NATO Secretary-General Mark Rutte issued a joint statement urging Russia not to widen its war in Ukraine. The leaders also discussed escalating regional tensions in the Middle East.",
+   "pourquoi": "",
+   "pays": [
+    "United States",
+    "Russia",
+    "Ukraine"
+   ],
+   "region": "Global",
+   "rubrique": "monde",
+   "liens": [
+    {
+     "source": "Straits Times Asie",
+     "url": "https://www.straitstimes.com/asia/trump-and-nato-chief-urge-russia-to-avoid-actions-that-widen-ukraine-war",
+     "titre": "Trump and NATO chief urge Russia to avoid actions that widen Ukraine war"
+    },
+    {
+     "source": "Le Figaro",
+     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNSTE3bG55ZkdTWl9uUXNrUWM1NmM2ZFI2cjZQWTVIcFBOVWVnQ0FQdnVIV3JZVWx4a0t5M2dMdDR3RUxzNkpIVER0Z2xGRGt4UlB5TnhITlppRmdMdXE4eV9pV1liYWJVRlVUSndHaDZzTHZKbE5TbnNrWWR6ZlBhQlQtUVhLd040VzFGTWhydTJpSms0a19UcEc5WVhwNXRyOWQ1bGtTa2ctS09TQ3dlVm1Rb042aGU2Vl9jbzMtWDdSOFh4Z0lMQ0dfN0RtdlljSl9Nc0JYX0pmXzVmMl9famE4SWtvOVhkcFhlRzU3Qjl2aHNa?oc=5",
+     "titre": "Guerre en Ukraine : Trump et le secrétaire général de l'Otan exhortent la Russie à ne pas «étendre la guerre» avec Kiev"
+    },
+    {
+     "source": "The Straits Times",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONWJJZzVJd0VlT2twMXpHbks5ZzQwdmxSdUNUdlQzTC14VmVKTy1XZ0NyV1NUalpFUEx5TGFZeW50clh1bUVjTVdRMm5TR3ZwRkRwZUVZSzNDcWpITTlNSGp3VDIybG8yX3ppaUdUYTVNZXpscU1SYnV0SmZIeXVnV0tabktZZUlpQ24yczh2ck9sOXNWSFJMNTIzYw?oc=5",
+     "titre": "Trump to hold talks with NATO chief in Florida, amid push to end Ukraine war"
+    }
+   ],
+   "visuel": null,
+   "id": "2026-11-26|Trump and NATO chief Rutte urge Russia against widening war",
+   "fr": {
+    "titre": "Donald Trump et Mark Rutte (OTAN) exhortent Moscou à ne pas élargir le conflit",
+    "resume": "Le président américain Donald Trump et le secrétaire général de l'OTAN Mark Rutte ont publié une déclaration commune appelant la Russie à ne pas étendre sa guerre en Ukraine. Les deux dirigeants ont également évoqué l'escalade des tensions au Moyen-Orient.",
+    "pays": [
+     "États-Unis",
+     "Russie",
+     "Ukraine"
+    ]
+   }
+  }
+ ],
+ "rubriques": [
+  {
+   "id": "airbus",
+   "titre": "Airbus News",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🛰️",
+     "titre": "Airbus to sell US space business to Cerberus Capital",
+     "resume": "Airbus has agreed to sell its United States space defence business to private equity firm Cerberus Capital Management. The divestment allows Airbus to restructure its space division and focus on core European activities.",
+     "pourquoi": "",
+     "pays": [
+      "France",
+      "United States"
+     ],
+     "region": "Americas",
+     "rubrique": "airbus",
+     "liens": [
+      {
+       "source": "Axios",
+       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE05UFQ3MWRBNUktVHBacmptZzFRUDV2WHFSYzF6MEt1MTAtS0N3QXNXYndHU0ZCbm5BaThBaGp6QzZqY0pPTmNZRGE3bDZkakt3VUxtWEN6WkU0REtMQmI0M3Q4Zw?oc=5",
+       "titre": "Airbus selling U.S. space biz to Cerberus"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-26|Airbus to sell US space business to Cerberus Capital",
+     "fr": {
+      "titre": "Airbus va céder ses activités spatiales américaines à Cerberus Capital",
+      "resume": "Airbus a conclu un accord pour céder ses activités spatiales de défense aux États-Unis à la société d'investissement Cerberus Capital Management. Cette cession permet au groupe de restructurer sa division spatiale et de se recentrer sur ses activités européennes clés.",
+      "pays": [
+       "France",
+       "États-Unis"
+      ]
+     }
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🛩️",
+     "titre": "Malaysia Airlines chooses Boeing 787-10s over Airbus A350s",
+     "resume": "Malaysia Aviation Group has ordered 10 Boeing 787-10 Dreamliners to replace its fleet of Airbus A350 aircraft. The long-haul fleet renewal programme aims to modernise operations over coming decades.",
+     "pourquoi": "",
+     "pays": [
+      "Malaysia",
+      "United States",
+      "France"
+     ],
+     "region": "South-East Asia",
+     "rubrique": "airbus",
+     "liens": [
+      {
+       "source": "NST Online",
+       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONnhGQmVoZFROb2RZRXV1QTNSQV9kSDhhOHVtRHliektkV2w1Q19MSUxCOGY1ajdfRFRlVkg0VE9ZUXpHYmQyZlIta2hhUGVpSWFTeS1RZldDMjR3Z0FKSUUzWGVKQnVNYklKWWVkNmRHaVd4OWtEWHBLVXlFQll2Yzk4MnozM1JPaGw1MkF5TzVXNlNmUGMzNTlsTVFheUlMVWJoeGdUeGppTU5PT3lmMzlnT1B0aFlIRmfSAb8BQVVfeXFMTVJld1FIQXRDRWdPRTRmZHQ2RDhSQzBsY1ZPRko0MEVOdHJMNDRtX0h1X3h1bVJodnBrd3FqcmpRR3c1eTRtbjBVVVhmYWYyYmM4Z25qY2thc0lMMkxXS2NyN2M3MW5KMDVRVnVCR1lJLUNzUUp2OFNabERpQVUtbTlEVVd0UnJVMlhNM2dPVHdIdGFDTlU4bW1LQ2hjR04za0p0b1NkdC1XX1RjMVlQdWpMV0FncmZYeXJjVTlTUGM?oc=5",
+       "titre": "MAG orders 10 Boeing B787-10 Dreamliners to replace Airbus A350 fleet [WATCH]"
+      },
+      {
+       "source": "The Straits Times",
+       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNS0UwYmNaS2VhZlVmOGd6Q2poSUhXVEVqenNvVW9SSER6NmY5YnBlNXJiMWlLU1VGY3FQcmhXbW1uN2w4dW9ZY19fQ2puLThjY3k5YXZ5a0pxbjFJRFlHRE9NR3Z0UmIwRVFoOVpoaXRjbEZJenh6UDR0b1NFS2REWm1aZXU3ZEJRenBheFo0bHVyU1RiaUhlekZHXzJXOGVtVFdza0tnTlBfYmE5cFoySXBObnpTX2dF?oc=5",
+       "titre": "Malaysia Airlines’ parent orders 10 Boeing 787s to replace older Airbus jets"
+      },
+      {
+       "source": "CNA Asie",
+       "url": "https://www.channelnewsasia.com/asia/malaysia-airlines-boeing-787-upgrade-fleet-6580706",
+       "titre": "Malaysia Airlines to buy 10 Boeing 787's to upgrade fleet"
+      },
+      {
+       "source": "Bloomberg",
+       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPV1BRSG12NTV5cnc1LVBpb05pQ0JiNDB1QTR2d1V1bmJYTUpSWmJQbC1IallFek5qTGVqUC1VVkRtZUYwU0tlMGg0bkpUb2JOVDhTSlhvOFE2a0F2VEN0XzNmSWVuMDgydlh2LXJuTzZDRHNCcllodzV4b09LSGxBR3M3QlloS2hqVV9Gb2FZRmk5c2Nqc19mTmdPX0dFa0c0Mms2T283Z2RkQXFZQ0IySjlHSjlPZw?oc=5",
+       "titre": "Malaysia Airlines Picks Boeing 787s for Widebody Expansion"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-26|Malaysia Airlines chooses Boeing 787-10s over Airbus A350s",
+     "fr": {
+      "titre": "Malaysia Airlines préfère le Boeing 787-10 à l'Airbus A350",
+      "resume": "Malaysia Aviation Group a commandé 10 Boeing 787-10 Dreamliner pour remplacer sa flotte d'Airbus A350. Ce programme de renouvellement de la flotte long-courrier vise à moderniser ses opérations pour les prochaines décennies.",
+      "pays": [
+       "Malaisie",
+       "États-Unis",
+       "France"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "monde",
+   "titre": "World",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "⚠️",
+     "titre": "Myanmar rejects ICJ genocide ruling on Rohingya population",
+     "resume": "Myanmar junta leader Min Aung Hlaing stated the regime will not comply with ICJ requirements regarding the Rohingya genocide. Displaced Rohingya refugees in neighbouring countries warned of prolonged exile despite the landmark ruling.",
+     "pourquoi": "",
+     "pays": [
+      "Myanmar"
+     ],
+     "region": "South-East Asia",
+     "rubrique": "monde",
+     "liens": [
+      {
+       "source": "France 24 Asie",
+       "url": "https://www.france24.com/fr/asie-pacifique/20261126-genocide-rohingya-birmanie-ne-se-conformera-pas-exigences-cij-inappropriees",
+       "titre": "Génocide des Rohingya : la Birmanie refusera les exigences de la CIJ qu'elle juge \"inappropriées\""
+      },
+      {
+       "source": "Lowy Interpreter",
+       "url": "https://www.lowyinstitute.org/the-interpreter/icj-genocide-ruling-what-now-for-over-1-million-rohingya-survivors-in-exile",
+       "titre": "ICJ genocide ruling: what now for over 1 million Rohingya survivors in exile?"
+      },
+      {
+       "source": "Straits Times Asie",
+       "url": "https://www.straitstimes.com/asia/se-asia/rohingya-refugees-in-malaysia-seek-more-time-after-landmark-genocide-ruling-against-myanmar",
+       "titre": "Rohingya refugees in Malaysia seek more time after landmark genocide ruling against Myanmar"
+      }
+     ],
+     "visuel": {
+      "nom": "Min Aung Hlaing",
+      "description": "Leader of Myanmar since 2021",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/President_Min_Aung_Hlaing_2026_%28cropped%29.jpg/960px-President_Min_Aung_Hlaing_2026_%28cropped%29.jpg",
+      "page": "https://en.wikipedia.org/wiki/Min_Aung_Hlaing",
+      "type": "person"
+     },
+     "id": "2026-11-26|Myanmar rejects ICJ genocide ruling on Rohingya population",
+     "fr": {
+      "titre": "La Birmanie rejette l'arrêt de la CIJ sur le génocide des Rohingyas",
+      "resume": "Le chef de la junte birmane, Min Aung Hlaing, a affirmé que le régime ne se conformerait pas aux exigences de la CIJ concernant le génocide des Rohingyas. Les réfugiés déplacés dans les pays voisins redoutent un exil prolongé en dépit de cette décision historique.",
+      "pays": [
+       "Birmanie"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "asie",
+   "titre": "APAC",
+   "items": [
+    {
+     "suite": true,
+     "remplace": "2026-11-25|Singapore and Japan reaffirm bilateral defence relationship",
+     "emoji": "🇸🇬",
+     "titre": "Singapore and Japan expand bilateral naval cooperation",
+     "resume": "Singapore and Japan agreed to conduct regular naval drills and deepen maritime security cooperation following their first joint exercise. Discussions also covered regional security ahead of Singapore’s ASEAN chairmanship in 2027.",
+     "pourquoi": "",
+     "pays": [
+      "Singapore",
+      "Japan"
+     ],
+     "region": "South-East Asia",
+     "rubrique": "asie",
+     "liens": [
+      {
+       "source": "The Star",
+       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOY3Z6SmoybDd4dVpOckhfSVh2WThaek5JMkRoREJQSGhjNUF3aDVFWWRReDFmaEpjMWkyUGdsaVRhMTRGeXc0UlRfTko3ZlBfb3VlekZ4WVhNbEVDNnVNTC1hZDZhOVYxeS1BVUFGRl9YMlhSTWtJNzRsQzdfTy1iNW9KbW1VMllaT0NnWHQxUnZGcW15RXBpemJBanhab1ByTGNSalNWSGRxLTh6b1Z0aDRWdDdxMnNYTVZfMy1jMlptVHFvRHptX3o2bUlWWWl4eFZ2d05RMzA1YncwR2c?oc=5",
+       "titre": "Singapore, Japan to strengthen ADMM-Plus cooperation to address security challenges"
+      },
+      {
+       "source": "CNA Asie",
+       "url": "https://www.channelnewsasia.com/singapore/japan-defence-exercise-singapan-navy-chan-chun-sing-6580986",
+       "titre": "Singapore, Japan step up naval cooperation after first joint exercise, plan regular drills"
+      },
+      {
+       "source": "防衛省",
+       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE16SUZEdGdjNFpsS3VhZzloZ2tlSWpSMUlCSG9IdjZjcUx0MDFXUGpOczB5U3c4SFNNNGlJbjRKdEpXZjlxUGxDbl9ZaTNJOWhMRjRtUncweWFpb21TMFBRZVc2ZlVBXzhydXZDaV9MRmEwQkdrTjRHUkZvOA?oc=5",
+       "titre": "【お知らせ】日シンガポール防衛相会談 共同プレスステートメント"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-26|Singapore and Japan expand bilateral naval cooperation",
+     "fr": {
+      "titre": "Singapour et le Japon renforcent leur coopération navale bilatérale",
+      "resume": "Singapour et le Japon sont convenus de mener des exercices navals réguliers et d'approfondir leur coopération en matière de sécurité maritime après leur premier entraînement conjoint. Les échanges ont aussi porté sur la sécurité régionale avant la présidence singapourienne de l'ASEAN en 2027.",
+      "pays": [
+       "Singapour",
+       "Japon"
+      ]
+     }
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🚀",
+     "titre": "Japan to test long-range missiles on Indian ranges",
+     "resume": "Japanese defence officials visited India to assess firing ranges for testing long-range anti-ship missiles and attack drones. Tokyo is accelerating the acquisition of long-range strike capabilities for island defence.",
+     "pourquoi": "",
+     "pays": [
+      "Japan",
+      "India"
+     ],
+     "region": "North-East Asia",
+     "rubrique": "asie",
+     "liens": [
+      {
+       "source": "뉴시스",
+       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CSE01NUstQmFfbzZ3UU8zQVYySWYyRFBpaDlYLVRzNjJJZGJjdWwwSFR5RWhwUU5Yakx0VnkzTDlFMWRBalhXb3VxS2xpc3loUkpXMUc5VnI0RUo3dXJkcNIBeEFVX3lxTFBJSTBIbzcyNGRJNWVHVThUUExzS3hrSUR5dVh6dTRtQXVQamI1eDAzQ0lOSnpET0p6clFPa3p4M2U2OVhMYXBHUmptekNsSm9UdVdyUWhTNW9NdU5HejVDcVdZSkVKWVJ5TVN3WGR6SlpRVDhwb2pjSg?oc=5",
+       "titre": "일본, 원거리 타격 능력 강화 속도…장사정 미사일 전력 확대"
+      },
+      {
+       "source": "뉴스1",
+       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1WV1BLRU1qMm9BbkpBT2hrUW92eEJnd1gwRTFwajEyVzQxeDMwYkJzRXBjSXA0OExTMFVpeDRUcEhLVzktMWM3WVY3QW5IRVVYZVFhVUF1Y2lvdVU1WVE?oc=5",
+       "titre": "\"日, '적 기지 공격' 위한 새 함대함 미사일 도입 추진\""
+      },
+      {
+       "source": "Defense News",
+       "url": "https://www.defensenews.com/global/asia-pacific/2026/11/25/japan-to-use-indian-ranges-for-long-range-missile-training-under-new-pact/",
+       "titre": "Japan to use Indian ranges for long-range missile training under new pact"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-26|Japan to test long-range missiles on Indian ranges",
+     "fr": {
+      "titre": "Le Japon va tester des missiles à longue portée sur des champs de tir indiens",
+      "resume": "Des responsables de la défense japonaise se sont rendus en Inde pour évaluer des polygones d'essai destinés aux tirs de missiles antinavires à longue portée et de drones d'attaque. Tokyo accélère l'acquisition de capacités de frappe dans la profondeur pour la défense de ses îles.",
+      "pays": [
+       "Japon",
+       "Inde"
+      ]
+     }
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🚢",
+     "titre": "Indonesian Navy receives 58-knot missile-capable USV",
+     "resume": "North Sea Boats delivered the Patkamla Geledek, a 58-knot missile-capable uncrewed surface vessel, to the Indonesian Navy. The platform is designed to bolster coastal defence capabilities across the archipelago.",
+     "pourquoi": "",
+     "pays": [
+      "Indonesia"
+     ],
+     "region": "South-East Asia",
+     "rubrique": "asie",
+     "liens": [
+      {
+       "source": "Naval News",
+       "url": "https://www.navalnews.com/naval-news/2026/11/indonesian-navy-ksr-x33-missile-usv/",
+       "titre": "Indonesian Navy Takes Delivery of 58-Knot Missile-Capable USV"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-26|Indonesian Navy receives 58-knot missile-capable USV",
+     "fr": {
+      "titre": "La marine indonésienne reçoit un drone de surface lance-missiles filant à 58 nœuds",
+      "resume": "North Sea Boats a livré à la marine indonésienne le Patkamla Geledek, un drone de surface (USV) armé de missiles et atteignant 58 nœuds. Cette plateforme est conçue pour renforcer la défense côtière de l'archipel.",
+      "pays": [
+       "Indonésie"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "elections",
+   "titre": "Elections & Politics",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🗳️",
+     "titre": "Spanish PM Sanchez rejects defeat ahead of general election",
+     "resume": "Spanish Prime Minister Pedro Sánchez remains confident ahead of the November 29 general election despite polls favoring the conservative People's Party. Mainstream parties face potential coalition demands from hard-right factions.",
+     "pourquoi": "",
+     "pays": [
+      "Spain"
+     ],
+     "region": "Europe",
+     "rubrique": "elections",
+     "liens": [
+      {
+       "source": "Le Monde International",
+       "url": "https://www.lemonde.fr/podcasts/article/2026/11/26/elections-en-espagne-le-coup-de-poker-de-pedro-sanchez_6815462_5463015.html",
+       "titre": "Elections en Espagne : le coup de poker de Pedro Sanchez"
+      },
+      {
+       "source": "BBC World",
+       "url": "https://www.bbc.co.uk/news/articles/c6wy4ejnyvdyo?at_medium=RSS&at_campaign=rss",
+       "titre": "Spanish elections: What you need to know and what's at stake"
+      }
+     ],
+     "visuel": {
+      "nom": "Pedro Sánchez",
+      "description": "Prime Minister of Spain since 2018",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Pedro_S%C3%A1nchez_2026_Portrait_%283x4_cropped%29.jpg",
+      "page": "https://en.wikipedia.org/wiki/Pedro_S%C3%A1nchez",
+      "type": "person"
+     },
+     "id": "2026-11-26|Spanish PM Sanchez rejects defeat ahead of general election",
+     "fr": {
+      "titre": "Législatives en Espagne : Pedro Sánchez refuse de s'avouer vaincu",
+      "resume": "Le président du gouvernement espagnol, Pedro Sánchez, reste confiant avant les élections générales du 29 novembre, bien que les sondages favorisent le Parti populaire (conservateur). Les partis traditionnels font face aux exigences potentielles d'alliances avec la droite dure.",
+      "pays": [
+       "Espagne"
+      ]
+     }
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🗳️",
+     "titre": "Coalition targets assets ahead of Victoria state election",
+     "resume": "Opposition parties in Victoria have pledged to privatise state assets and sell renewable projects to fund campaign promises. Voters prepare to head to the polls amidst debate over data centre expansion and living costs.",
+     "pourquoi": "",
+     "pays": [
+      "Australia"
+     ],
+     "region": "Oceania",
+     "rubrique": "elections",
+     "liens": [
+      {
+       "source": "The Guardian",
+       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQ0lmYkRnVjdpVDFCb29DeFZKdlEyWTRocDRxc1hzbXo5SDFhTGpnWVZKMEtEU2hzMGMzWDNvTHFBQXg4T05iVW5lOTRoN3dmb2gxYVpTTktNS3VtUWpxcHQ3SHphZUlkbHI0RENxQ2ZRUXN4eWVHREd6OTNMVUxuSjBINEYyMGJYUUo4aW9yR0hudm9tUjg5Vjhhc29YMFFvMUZlMG9FWFl4YWF0emlKRGhNeFJSXzdxdWVvU1JBQnNnVHQzb3gxUkdlZDFad2M?oc=5",
+       "titre": "Coalition would privatise Melbourne’s sewage treatment while selling state-owned land and renewables to fund Victorian election promises"
+      },
+      {
+       "source": "ABC News & Headlines",
+       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQWl5bUwwc1hLVm9OVEltNU03Ql8ydTFWUlhTMVBsMm42Y2dJaXI4cHFJUHdDUERUSVFaeGlRQUU2VWszWXpfdXJwY2d4UGhQbEt2T2FYS1pTbjRaQ0taRlZOVUVWbXRTRkpGak04V1Z2Smg0enoydlNMNHRhNUtDUHN0LWwzRHBoZzVPTVdzODNfZEx6NFlBS2RrNA?oc=5",
+       "titre": "How data centre anger is boiling over at Victoria's ballot box"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-26|Coalition targets assets ahead of Victoria state election",
+     "fr": {
+      "titre": "L'opposition cible les actifs publics avant les élections dans l'État de Victoria",
+      "resume": "Dans l'État de Victoria, la coalition d'opposition s'est engagée à privatiser des actifs publics et à vendre des projets renouvelables pour financer sa campagne. Les électeurs se préparent à voter sur fond de débats sur le coût de la vie et l'expansion des centres de données.",
+      "pays": [
+       "Australie"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "defense_aerienne",
+   "titre": "Air & Missile Defence",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🛡️",
+     "titre": "Royal Air Force installs netting to counter drone threats",
+     "resume": "The British Royal Air Force has begun installing protective netting and moving aircraft into hardened hangars at night. The measures follow growing concerns among NATO allies over drone threats to parked military assets.",
+     "pourquoi": "",
+     "pays": [
+      "United Kingdom"
+     ],
+     "region": "Europe",
+     "rubrique": "defense_aerienne",
+     "liens": [
+      {
+       "source": "The War Zone",
+       "url": "https://www.twz.com/news-features/drone-threats-prompt-raf-to-install-netting-at-bases-to-protect-aircraft-reports",
+       "titre": "Drone Threats Prompt RAF To Install Netting At Bases To Protect Aircraft: Reports"
+      },
+      {
+       "source": "Al-Monitor",
+       "url": "https://www.al-monitor.com/originals/2026/11/uk-moving-military-aircraft-hangars-night-over-possible-drone-threats-media",
+       "titre": "UK is moving military aircraft to hangars at night over possible drone threats, media reports say"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-26|Royal Air Force installs netting to counter drone threats",
+     "fr": {
+      "titre": "La Royal Air Force installe des filets pour contrer la menace des drones",
+      "resume": "La Royal Air Force a commencé à installer des filets de protection et à abriter ses appareils dans des hangars renforcés la nuit. Ces mesures répondent aux craintes croissantes des alliés de l'OTAN face aux menaces que font peser les drones sur les aéronefs au stationnement.",
+      "pays": [
+       "Royaume-Uni"
+      ]
+     }
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🛡️",
+     "titre": "US Army outlines integrated air defence architecture for Guam",
+     "resume": "A Congressional Research Service report detailed US Army plans to establish a layered air defence architecture for Guam. The system incorporates integrated battle command systems, radars, and interceptors against ballistic and cruise missiles.",
+     "pourquoi": "",
+     "pays": [
+      "United States"
+     ],
+     "region": "Oceania",
+     "rubrique": "defense_aerienne",
+     "liens": [
+      {
+       "source": "Asian Military Review",
+       "url": "https://www.asianmilitaryreview.com/2026/11/us-army-details-its-plans-for-guam-air-defences-foc/",
+       "titre": "US Army details its plans for Guam air defences"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-26|US Army outlines integrated air defence architecture for Guam",
+     "fr": {
+      "titre": "L'US Army détaille son architecture de défense aérienne intégrée pour Guam",
+      "resume": "Un rapport du Congressional Research Service détaille le projet de l'US Army visant à établir une défense antiaérienne multicouche à Guam. Le dispositif intègre des systèmes de conduite du tir interconnectés, des radars et des intercepteurs contre les missiles balistiques et de croisière.",
+      "pays": [
+       "États-Unis"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "industrie",
+   "titre": "Defence Industry & Contracts",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "📝",
+     "titre": "Pentagon awards $2.82bn Boeing contract for final KC-46A lot",
+     "resume": "The US Air Force awarded Boeing a $2.82 billion contract for 15 additional KC-46A Pegasus tankers, completing the original 2011 deal. The order includes aircraft destined for the US, Israel, and Japan.",
+     "pourquoi": "",
+     "pays": [
+      "United States",
+      "Israel",
+      "Japan"
+     ],
+     "region": "Americas",
+     "rubrique": "industrie",
+     "liens": [
+      {
+       "source": "Asia Pacific Defence Reporter",
+       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOekIxM2YzX2dZNERSUjNzZmVHUlpOVnoyZkNFbEx2b0twN0xkVlgxTjVMWjJwSExUa1hyTVp0NUs4VW03TDY5MTN3T0E0TDlabGNOYXY2QWQ0cFBBcjcyRGNWOFJHYUlwSGE4cl9nN1JHX09yYXotU1A1ellEbWw1Z19MX3hJa0lmM0FTX2lxN2R1Q1VMUGI3Z0w1Mmc2bFZJY0I1UnJEQXB1UW1PM01yaUtzaw?oc=5",
+       "titre": "Boeing to build 15 additional KC-46A tankers for US, Israel and Japan"
+      },
+      {
+       "source": "The War Zone",
+       "url": "https://www.twz.com/air/final-kc-46-tankers-under-original-contract-with-boeing-ordered-by-usaf",
+       "titre": "Final KC-46 Tankers Under Original Contract With Boeing Ordered By USAF"
+      },
+      {
+       "source": "Defense News",
+       "url": "https://www.defensenews.com/industry/techwatch/2026/11/25/us-air-force-buys-final-kc-46-lot-under-boeings-original-tanker-deal/",
+       "titre": "US Air Force buys final KC-46 lot under Boeing’s original tanker deal"
+      }
+     ],
+     "visuel": {
+      "nom": "Boeing KC-46 Pegasus",
+      "description": "American military aerial refueling and transport aircraft",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/KC-46_Pegasus_prepares_to_refuel_C-17_%28cropped%29.jpg/960px-KC-46_Pegasus_prepares_to_refuel_C-17_%28cropped%29.jpg",
+      "page": "https://en.wikipedia.org/wiki/Boeing_KC-46_Pegasus",
+      "type": "platform"
+     },
+     "id": "2026-11-26|Pentagon awards $2.82bn Boeing contract for final KC-46A lot",
+     "fr": {
+      "titre": "Le Pentagone attribue à Boeing un contrat de 2,82 milliards de dollars pour le dernier lot de KC-46A",
+      "resume": "L'US Air Force a notifié à Boeing un contrat de 2,82 milliards de dollars pour 15 ravitailleurs KC-46A Pegasus supplémentaires, clôturant ainsi l'accord initial de 2011. La commande comprend des appareils destinés aux États-Unis, à Israël et au Japon.",
+      "pays": [
+       "États-Unis",
+       "Israël",
+       "Japon"
+      ]
+     }
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "📝",
+     "titre": "UK awards HII £142m contract for Royal Navy REMUS 620 UUVs",
+     "resume": "The UK Ministry of Defence awarded HII a £142 million contract to deliver REMUS 620 uncrewed underwater vehicles and launch systems. The autonomous platforms will support the Royal Navy's mine countermeasures programme.",
+     "pourquoi": "",
+     "pays": [
+      "United Kingdom",
+      "United States"
+     ],
+     "region": "Europe",
+     "rubrique": "industrie",
+     "liens": [
+      {
+       "source": "Naval News",
+       "url": "https://www.navalnews.com/naval-news/2026/11/uk-awards-hii-142-million-contract-for-royal-navy-remus-620-uuvs/",
+       "titre": "UK Awards HII £142 Million Contract for Royal Navy REMUS 620 UUVs"
+      }
+     ],
+     "visuel": {
+      "nom": "REMUS (vehicle)",
+      "description": "Autonomous underwater vehicle series",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/REMUS_100_Merivoimien_vuosip%C3%A4iv%C3%A4_2014_01.JPG/960px-REMUS_100_Merivoimien_vuosip%C3%A4iv%C3%A4_2014_01.JPG",
+      "page": "https://en.wikipedia.org/wiki/REMUS_(vehicle)",
+      "type": "platform"
+     },
+     "id": "2026-11-26|UK awards HII £142m contract for Royal Navy REMUS 620 UUVs",
+     "fr": {
+      "titre": "Londres attribue à HII un contrat de 142 millions de livres pour des UUV REMUS 620 destinés à la Royal Navy",
+      "resume": "Le ministère britannique de la Défense a attribué à HII un contrat de 142 millions de livres sterling pour la livraison de drones sous-marins REMUS 620 et de leurs systèmes de lancement. Ces engins autonomes appuieront le programme de guerre des mines de la Royal Navy.",
+      "pays": [
+       "Royaume-Uni",
+       "États-Unis"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "ukraine",
+   "titre": "Ukraine / Russia",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🛩️",
+     "titre": "Ukrainian strike damages five Russian military jets at Savasleyka",
+     "resume": "Ukraine's General Staff reported a strike on the Savasleyka airbase in Nizhny Novgorod, damaging five Russian military aircraft. The base hosts aircraft used to launch hypersonic missiles and glide bombs.",
+     "pourquoi": "",
+     "pays": [
+      "Ukraine",
+      "Russia"
+     ],
+     "region": "Russia-Ukraine",
+     "rubrique": "ukraine",
+     "liens": [
+      {
+       "source": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/26/ukraine-attacks-russian-military-base-says-five-planes-struck?traffic_source=rss",
+       "titre": "Ukraine attacks Russian military base, says five planes struck"
+      },
+      {
+       "source": "BBC World",
+       "url": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&at_campaign=rss",
+       "titre": "Five Russian military jets hit in airfield strike, says Ukraine"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-26|Ukrainian strike damages five Russian military jets at Savasleyka",
+     "fr": {
+      "titre": "Une frappe ukrainienne endommage cinq avions militaires russes à Savasleïka",
+      "resume": "L'état-major ukrainien a rapporté une frappe contre la base aérienne de Savasleïka, dans la région de Nijni Novgorod, endommageant cinq appareils russes. Cette base accueille les avions vecteurs de missiles hypersoniques et de bombes planantes.",
+      "pays": [
+       "Ukraine",
+       "Russie"
+      ]
+     }
+    },
+    {
+     "suite": true,
+     "remplace": "2026-11-23|Poland confirms three Russian missiles breached its airspace",
+     "emoji": "🛡️",
+     "titre": "Poland urges NATO to intercept Russian missiles over western Ukraine",
+     "resume": "Warsaw has requested NATO permission to establish a no-fly zone near its border and shoot down Russian missiles over western Ukraine. The proposal follows renewed Russian ballistic missile strikes against Ukrainian infrastructure.",
+     "pourquoi": "",
+     "pays": [
+      "Poland",
+      "Ukraine",
+      "Russia"
+     ],
+     "region": "Russia-Ukraine",
+     "rubrique": "ukraine",
+     "liens": [
+      {
+       "source": "DW.com",
+       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ0FpbXNSZ2VFQm9ib081YVJhVjA4VmRESFlpOURxRlFRTHZ1QUUzWWJmcmUtYkFkZDhubEJBdnpXa0JmeUxlV3pJYmVEM1c0aFpSV0lXeVRKaWxRYjBHOE9zSHh1MTR5cUxzQWdWRWxMVG9EalROLVhqa2x6Mnc5TEQzdGNUOGdULXRKV0ZXRWt5aGhOcVFF?oc=5",
+       "titre": "Ukraine: Poland to create no-fly zone near Ukraine border"
+      },
+      {
+       "source": "Le Monde International",
+       "url": "https://www.lemonde.fr/international/live/2026/11/25/en-direct-guerre-en-ukraine-kiev-sous-le-feu-de-missiles-balistiques_6814183_3210.html",
+       "titre": "EN DIRECT, guerre en Ukraine : Kiev sous le feu de missiles balistiques"
+      },
+      {
+       "source": "Bloomberg",
+       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcHAyQjdxSFM5NzJ2MjljeVFRZlZMZUdFNVR0Sy0taTE5N0V2aXJ2ODRuckdvSENDeVN0ZWRhX3FMMTd4Sm82ZDRCelhQMWl2dU9ZS0FSUXJraWpKbUJ5bXRzUl8xdWlNRmtGYzA4eHVUM3VRUnd4aTNmeUNJTU83Q2laYzlEdEJFcXMtVkc4OWg3b1F3MWZ4V0tZMy1zcjhyeXFnQnpnZlh1N0dCUy16eg?oc=5",
+       "titre": "Poland Asks NATO to Shoot Down Russian Missiles Over Ukraine"
+      },
+      {
+       "source": "ABC News",
+       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQY3pQVzJKTEFaQjhuVWRmWmtlVzk3YXpMLU5leXBLVnlYQmUxUGZBVkh2cjU5TkVoMENudVg2VnhpS0hJVm0tZ1lrTVp6Y1ZfNFhYUmtlRVpPVUtpanB6azJFT3RHQzM1ajFySHZublBBRjZ1VDUwQy1TQWpMVW5OWGMzZmU0bi1KS3dVVUg1eUNaZkNIX2RKVzcwdDNyX29Nci1VMzBVWdIBrAFBVV95cUxPaU1zREtSaS1RVkozVDB1b3FvZXQzNlpCeFFwN0FteUgtOVpMVTZWRlo5X3FtV0twa25DYk85QmpsYW5GelJ3a1pzU2N1YjVfWnpDSVdMSzZVanVhMGRWYU5YTEo3NG5lLVRxNm8zbHh2MzBfREF1bkMtUlQ1LXlxTlVKa3c5SDAxVUFZaW52SXAyZEdYNTREOVZLNEFvYXlJMlQwSHRBOWx4aTht?oc=5",
+       "titre": "27 dead, more than 100 injured in Kyiv as Ukraine hit with 'massive' Russian strike"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-26|Poland urges NATO to intercept Russian missiles over western Ukraine",
+     "fr": {
+      "titre": "La Pologne demande à l'OTAN d'intercepter les missiles russes au-dessus de l'ouest de l'Ukraine",
+      "resume": "Varsovie a demandé l'accord de l'OTAN pour établir une zone d'exclusion aérienne près de sa frontière et abattre les missiles russes au-dessus de l'ouest de l'Ukraine. Cette proposition fait suite à de nouvelles frappes balistiques russes contre les infrastructures ukrainiennes.",
+      "pays": [
+       "Pologne",
+       "Ukraine",
+       "Russie"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "moyen_orient",
+   "titre": "Middle East",
+   "items": [
+    {
+     "suite": true,
+     "remplace": "2026-11-25|Houthis attack Riyadh financial tower and threaten Saudi ports",
+     "emoji": "🚀",
+     "titre": "Saudi air defences intercept Houthi missiles over Riyadh",
+     "resume": "Saudi armed forces intercepted ballistic missiles and drones over Riyadh following Houthi strikes targeting Saudi Red Sea ports and an oil refinery. In response, coalition air strikes targeted Houthi positions near Sanaa.",
+     "pourquoi": "",
+     "pays": [
+      "Saudi Arabia",
+      "Yemen"
+     ],
+     "region": "Middle East",
+     "rubrique": "moyen_orient",
+     "liens": [
+      {
+       "source": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/liveblog/2026/11/26/iran-war-live-explosion-rocks-sanaa-missiles-intercepted-over-riyadh?traffic_source=rss",
+       "titre": "Iran war live: Explosion rocks Sanaa; missiles intercepted over Riyadh"
+      },
+      {
+       "source": "Al-Monitor",
+       "url": "https://www.al-monitor.com/originals/2026/11/saudis-down-missiles-targeting-capital-after-yemen-port-strikes",
+       "titre": "Saudis down missiles targeting capital after Yemen port strikes"
+      },
+      {
+       "source": "Le Monde International",
+       "url": "https://www.lemonde.fr/international/article/2026/11/25/au-yemen-des-positions-des-houthistes-a-nouveau-bombardees-des-ports-saoudiens-pris-pour-cible-en-represailles_6815174_3210.html",
+       "titre": "Au Yémen, des positions des houthistes à nouveau bombardées ; des ports saoudiens pris pour cible en représailles"
+      },
+      {
+       "source": "Reuters",
+       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOakM0aVEtei1RVzZkTUVZYlFabWlDYWpzTktyaGU2WHZqaGRkU0hJOHdsNDFUdU5GYzNOYzdZYnkwWnFYZ2daNlNvYkJ3ZWNjeDNTRm5HOUFtNW5nRjNYSVpaaGF0SF9xbjN6S1FpbVJ6MmFBYkdUeF9CMTZKRUdJT2RITmVSelAzWUJtTEIxQTN5Ry1YZEczX29iOHVuc0Q1bllidlBoN0VDNWVzYzZqU2RaNm5JRUctRDdsdGt2ZkEydWRVMV9wQUdHYw?oc=5",
+       "titre": "Yemen's Houthis claim attack on Saudi Arabia's largest refinery"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-26|Saudi air defences intercept Houthi missiles over Riyadh",
+     "fr": {
+      "titre": "La défense antiaérienne saoudienne intercepte des missiles houthistes au-dessus de Riyad",
+      "resume": "Les forces armées saoudiennes ont intercepté des missiles balistiques et des drones au-dessus de Riyad après des attaques houthistes ciblant des ports de la mer Rouge et une raffinerie. En représailles, la coalition a mené des frappes aériennes contre des positions houthistes près de Sanaa.",
+      "pays": [
+       "Arabie saoudite",
+       "Yémen"
+      ]
+     }
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "⚖️",
+     "titre": "Israeli judges advise prosecutors to drop key Netanyahu graft charge",
+     "resume": "Israeli district court judges recommended dropping the primary bribery charge against Prime Minister Benjamin Netanyahu due to inconsistent witness testimony. Netanyahu immediately demanded an end to his long-running corruption trial.",
+     "pourquoi": "",
+     "pays": [
+      "Israel"
+     ],
+     "region": "Middle East",
+     "rubrique": "moyen_orient",
+     "liens": [
+      {
+       "source": "Al Jazeera",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/judges-recommend-prosecutors-end-corruption-case-against-netanyahu?traffic_source=rss",
+       "titre": "Judges recommend prosecutors end corruption case against Netanyahu"
+      },
+      {
+       "source": "Al-Monitor",
+       "url": "https://www.al-monitor.com/originals/2026/11/israeli-judges-recommend-prosecutors-drop-one-bribery-case-against-netanyahu",
+       "titre": "Israeli judges recommend prosecutors drop one bribery case against Netanyahu"
+      },
+      {
+       "source": "BBC World",
+       "url": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o?at_medium=RSS&at_campaign=rss",
+       "titre": "Israeli judges recommend dropping most serious charges against Netanyahu"
+      },
+      {
+       "source": "Le Monde International",
+       "url": "https://www.lemonde.fr/international/article/2026/11/25/en-israel-des-juges-recommandent-l-abandon-des-poursuites-contre-benyamin-netanyahou_6815153_3210.html",
+       "titre": "En Israël, des juges recommandent l’abandon des poursuites contre Benyamin Nétanyahou"
+      }
+     ],
+     "visuel": {
+      "nom": "Benjamin Netanyahu",
+      "description": "Prime Minister of Israel (1996–1999; 2009–2021; 2022–present)",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Benjamin_Netanyahu%2C_February_2023_%28cropped%29%28b%29.jpg/960px-Benjamin_Netanyahu%2C_February_2023_%28cropped%29%28b%29.jpg",
+      "page": "https://en.wikipedia.org/wiki/Benjamin_Netanyahu",
+      "type": "person"
+     },
+     "id": "2026-11-26|Israeli judges advise prosecutors to drop key Netanyahu graft charge",
+     "fr": {
+      "titre": "Des juges israéliens conseillent au parquet d'abandonner le principal chef de corruption contre Netanyahou",
+      "resume": "Des magistrats d'un tribunal de district israélien ont recommandé l'abandon du principal chef d'accusation pour corruption contre le premier ministre Benyamin Netanyahou, en raison de dépositions contradictoires. M. Netanyahou a aussitôt réclamé la clôture de son procès.",
+      "pays": [
+       "Israël"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "europe",
+   "titre": "Europe",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "💰",
+     "titre": "Italy meets NATO target with 2.8% GDP defence expenditure",
+     "resume": "Italian defence officials confirmed the nation achieved defence and security spending equal to 2.8 per cent of GDP in 2026. The figure aligns Rome with elevated NATO expenditure targets.",
+     "pourquoi": "",
+     "pays": [
+      "Italy"
+     ],
+     "region": "Europe",
+     "rubrique": "europe",
+     "liens": [
+      {
+       "source": "Defense News",
+       "url": "https://www.defensenews.com/global/europe/2026/11/25/buried-in-italys-budget-officials-see-rome-meeting-nato-spending-target/",
+       "titre": "Buried in Italy’s budget, officials see Rome meeting NATO spending target"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-26|Italy meets NATO target with 2.8% GDP defence expenditure",
+     "fr": {
+      "titre": "L'Italie atteint l'objectif de l'OTAN avec des dépenses de défense à 2,8 % du PIB",
+      "resume": "Le ministère italien de la Défense a confirmé que le pays consacrerait 2,8 % de son PIB à la défense et à la sécurité en 2026. Ce niveau aligne Rome sur les objectifs rehaussés de dépenses de l'OTAN.",
+      "pays": [
+       "Italie"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "tech",
+   "titre": "Emerging Tech",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🚀",
+     "titre": "US Army fully fields first Dark Eagle hypersonic battery",
+     "resume": "The US Army has declared its first operational battery of Dark Eagle long-range hypersonic missiles fully fielded. Meanwhile, lawmakers are debating funding levels for air-launched hypersonic anti-ship variants.",
+     "pourquoi": "",
+     "pays": [
+      "United States"
+     ],
+     "region": "Americas",
+     "rubrique": "tech",
+     "liens": [
+      {
+       "source": "The War Zone",
+       "url": "https://www.twz.com/air/ship-killing-arrw-hypersonic-missile-variant-struggling-to-get-full-support-from-lawmakers",
+       "titre": "Ship-Killing ARRW Hypersonic Missile Variant Struggling To Get Full Support From Lawmakers"
+      },
+      {
+       "source": "Breaking Defense",
+       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSDlkTk5DZDJkTFY5UFpxSWlwSFc5NHFsYnM4dTFlbGNBdTNkTTkteU94ME9zNE5yNEpVbUFtQ24tX2lqMm5LR1N0SU5VTnJka3VmenFJRFEzQTM2Q1VpakN6R3ZIY2MzWllWQU82WEp5UnRubFpOb0VkdU5WY0l5VV96eUFXNDZlRHpxeVc0UVBXcXJ1UWwtSWV1clRLZGM?oc=5",
+       "titre": "First Dark Eagle hypersonic battery ‘fully fielded,’ Lozano says"
+      }
+     ],
+     "visuel": {
+      "nom": "Long-Range Hypersonic Weapon",
+      "description": "U.S. Army prototype missile",
+      "image": "https://thumb.wikimedia.org/wikipedia/en/thumb/c/c4/LRHWfirstThunderBoltStrike.jpg/960px-LRHWfirstThunderBoltStrike.jpg",
+      "page": "https://en.wikipedia.org/wiki/Long-Range_Hypersonic_Weapon",
+      "type": "platform"
+     },
+     "id": "2026-11-26|US Army fully fields first Dark Eagle hypersonic battery",
+     "fr": {
+      "titre": "L'US Army déploie sa première batterie hypersonique Dark Eagle",
+      "resume": "L'US Army a déclaré pleinement opérationnelle sa première batterie de missiles hypersoniques à longue portée Dark Eagle. Dans le même temps, le Congrès débat du financement des versions antinavires aéroportées.",
+      "pays": [
+       "États-Unis"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "economie",
+   "titre": "Economy & Sanctions",
+   "items": []
+  }
+ ],
+ "a_surveiller": [
+  {
+   "quand": "November 29",
+   "quoi": "Spanish general elections",
+   "liens": [
+    {
+     "source": "Le Monde International",
+     "url": "https://www.lemonde.fr/podcasts/article/2026/11/26/elections-en-espagne-le-coup-de-poker-de-pedro-sanchez_6815462_5463015.html",
+     "titre": "Elections en Espagne : le coup de poker de Pedro Sanchez"
+    },
+    {
+     "source": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/c6wy4ejnyvdyo?at_medium=RSS&at_campaign=rss",
+     "titre": "Spanish elections: What you need to know and what's at stake"
+    }
+   ]
+  },
+  {
+   "quand": "December 8",
+   "quoi": "Proposed bilateral meeting between US Defense Secretary Hegseth and Japanese defence minister",
+   "liens": [
+    {
+     "source": "Japan Times",
+     "url": "https://www.japantimes.co.jp/news/2026/11/26/japan/hegseth-possible-japan-visit/",
+     "titre": "Hegseth may visit Japan on Dec. 8 for defense minister meeting"
+    }
+   ]
+  },
+  {
+   "quand": "December",
+   "quoi": "Deployment of Japanese long-range missile launchers to Hokkaido",
+   "liens": [
+    {
+     "source": "テレ朝NEWS",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ycXFfOWh0d2d2TkVseUptSHg0WDlMcFB5ME1tZVMxTVlVVExXUk1hV0ZNWW8wNkszb1FaWF9jV3RUOHZYZzFicmJHN3dYbzdzM1EtcjZmYkgxLWYtam1ZdEhRcklPUkNoblpRN0hIQnJabWs?oc=5",
+     "titre": "陸上自衛隊の長射程ミサイル発射装置 12月にも北海道に搬入"
+    }
+   ]
+  }
+ ],
+ "hebdo": null,
+ "stats": {
+  "articles": 400,
+  "sources": 51
+ },
+ "fr": {
+  "accroche": [
+   "Les États-Unis envisagent d'importants droits de douane visant leurs principaux partenaires commerciaux",
+   "Kim Jong-un ordonne d'accélérer le déploiement des armes nucléaires tactiques",
+   "La marine italienne intercepte une cible balistique avec un missile Aster 30"
+  ],
+  "a_surveiller": [
+   {
+    "quand": "29 novembre",
+    "quoi": "Élections générales espagnoles"
+   },
+   {
+    "quand": "8 décembre",
+    "quoi": "Projet d'entretien bilatéral entre le secrétaire américain à la Défense Pete Hegseth et son homologue japonais"
+   },
+   {
+    "quand": "Décembre",
+    "quoi": "Déploiement de lanceurs de missiles japonais à longue portée à Hokkaido"
+   }
+  ]
+ }
+}

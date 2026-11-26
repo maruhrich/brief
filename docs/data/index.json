@@ -1,5 +1,6 @@
 {
  "dates": [
+  "2026-11-26",
   "2026-11-25",
   "2026-11-24",
   "2026-11-23",
@@ -48,6 +49,11 @@
  ],
  "rubriques": [
   {
+   "id": "airbus",
+   "titre": "Airbus News",
+   "titre_fr": "Actualité Airbus"
+  },
+  {
    "id": "monde",
    "titre": "World",
    "titre_fr": "Monde"
@@ -86,11 +92,6 @@
    "id": "europe",
    "titre": "Europe",
    "titre_fr": "Europe"
-  },
-  {
-   "id": "espace",
-   "titre": "Space & Satellites",
-   "titre_fr": "Espace & satellites"
   },
   {
    "id": "tech",
