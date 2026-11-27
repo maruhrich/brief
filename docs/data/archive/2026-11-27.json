@@ -1,0 +1,1172 @@
+{
+ "date": "2026-11-27",
+ "date_label": "Friday, November 27, 2026",
+ "genere_le": "2026-11-27T12:36:32+08:00",
+ "mode": "ia",
+ "modele": "gemini-flash-latest",
+ "accroche": [
+  "Two Rheinmetall technicians killed in drone strike on Kuwaiti radar post",
+  "Ukraine claims first laser weapon interception of Russian jet drone",
+  "North Korea pauses Russian arms supplies and tests missile engine"
+ ],
+ "essentiel": [
+  {
+   "suite": false,
+   "remplace": null,
+   "emoji": "⚠️",
+   "titre": "Two Italian Rheinmetall contractors killed in Kuwait drone strike",
+   "resume": "A drone attack struck an air defence detection facility in Kuwait, killing two Italian Rheinmetall technicians. Iran denied responsibility for the incident, which Italian authorities described as an attack on an allied radar post.",
+   "pourquoi": "",
+   "pays": [
+    "Kuwait",
+    "Italy",
+    "Iran"
+   ],
+   "region": "Middle East",
+   "rubrique": "moyen_orient",
+   "liens": [
+    {
+     "source": "CNBC",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWXdZWk9aY1VrSmlEbExnWV93RnFxTDFwV3RLdjhtYW1SaXU0aXJCbGJBRUVOS0FramRyaVdva0VwUWRLQlBZdHcwYktUWVlwaEp4MTNEeUN3Y2Q1bi1RUG5TRTZoWlY0S2lFUVpqSVF3NzJQZ2hiUGFjU19LTW93cERfYzNNY3VKalHSAY8BQVVfeXFMTXlQSEhkZ20xOFJXTzlvczJPelo5S294dENlYTBpMzAxVHVxeHhFNUk3eHZVYVQzY0t6cWZ5T1hEYUdjbkc1SmROUVVTVWc4Mjdza3FYNXplRTE0Qk5NY1NyTTNwdEN6Z2JyWEJhOVRVd3RVOVRoTVlubGNUYTBsWS1zTkZ3czV6WThYWkk4RVU?oc=5",
+     "titre": "Two Italians killed in Kuwait drone attack; Trump says Iran war ends ‘whenever I want it’"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTTJLR040dFNoUlFYaVk0RF9CMUp2d1drUlVYVkNXWGQ4MldxM0VFTE52MDMzTHNXVmpFVEZjeGUteHlCY00zWjFNcFVVX1ZWOWhLSE9GeF9tRGE2bWVVd1l4eHVtY3hUc0dnN19rbVZfN0k4cUtZcTRwQlgzbXF5NUZmM242RmU2UGVXR2tGRHM1RUNOMF9qdVZDTjBFZFZDOWp1blozM3lhU1VXcVhR0gG0AUFVX3lxTFBoVDAzRnVkN1JNUEliazROM0hQamFsWVF0a3lxZXBISlcwOFhoWndKNnlDU1JVMzZWVXM1aVVLRm1aQXNNOU45bnZIVHlqcUg2R2hCbHY4bEtHaEFqS2dmY0RmUlpRMG9MRTZoZTYxMDRLLXhaLWtla2dzNWY1b0xzMU15R0dlVkdJTW9EeFNHYkdRN0RwT2llT2ZWUVlKQ3IwS1ZrRWRHSXdwMUdGZGVkcjF0WA?oc=5",
+     "titre": "Two Italians killed by ‘drone strike debris’ in Kuwait"
+    },
+    {
+     "source": "South China Morning Post",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZHR3RGdyQmRzMENja2d2cHBDT0tPVW1US2FraDFrclFfQWM5OE5TdlQzMXA1djVVYzAzSVJjbnN2SExHX2NCX3JUR1NKSTlVMlNta0xEeUJIZ05Qb3BTS01pc3RCcTdjMlNpYkZ5MGI0LUtXb1g5SlQ3ZkJkOGoxRENKQXFITHRhY2VZZ1F6V0NOTDNralNhX0dtSnhzQlZINmlKYmxWNS0taGJ4QWdfM25LWDBpRGVL0gG4AUFVX3lxTE5TQmxVb2tlUUptUmhGekNmRnJOdmM1d3hsZmpzWEkxQU5iRlFQVU5ib0I3dUxpbDg5VnYxbUExb1BTT21qR2dlZDRXU3BwWXhvb1gwOGNNSHRSa2w1dy0yNzlqNjJhcUdPT3lHbjFodXBjM0FTQl9FOGpYM2dWOU9MUlVFblRjaVJsVXI1eHZ6d1hrMVhmbGcxOHRfczF0UklSd3JMT0dBdmZCUVhzTUx6RndvYVF6MDc?oc=5",
+     "titre": "Iran denies role in drone attack that killed Italians in Kuwait"
+    },
+    {
+     "source": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
+     "titre": "Two Italians killed in strike in Kuwait, as Iran denies responsibility"
+    }
+   ],
+   "visuel": null,
+   "id": "2026-11-27|Two Italian Rheinmetall contractors killed in Kuwait drone strike",
+   "fr": {
+    "titre": "Deux sous-traitants italiens de Rheinmetall tués au Koweït dans une frappe de drone",
+    "resume": "Une attaque de drone a frappé une installation de détection antiaérienne au Koweït, tuant deux techniciens italiens de Rheinmetall. L'Iran a rejeté toute responsabilité dans cet incident, qualifié par les autorités italiennes d'attaque contre un poste radar allié.",
+    "pays": [
+     "Koweït",
+     "Italie",
+     "Iran"
+    ]
+   }
+  },
+  {
+   "suite": false,
+   "remplace": null,
+   "emoji": "🛡️",
+   "titre": "Ukraine reports first interception of jet drone with laser weapon",
+   "resume": "Ukrainian forces announced the successful shoot-down of a Russian jet-powered strike drone using the domestic Blysk laser system. The interception marks Ukraine's first operational combat kill achieved using directed-energy air defence technology.",
+   "pourquoi": "",
+   "pays": [
+    "Ukraine",
+    "Russia"
+   ],
+   "region": "Russia-Ukraine",
+   "rubrique": "defense_aerienne",
+   "liens": [
+    {
+     "source": "ABC News & Headlines",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPT3lOUjAwUlMtXzJlVzRQS29GdUhEM3doY0REZTQwRUY2b3FwbVJ0aElSbzhTeVJjRlRzRWdRemhYNWNVZlM0VC1KcXJXM1dERHRQTFFURGZGSmEyWUwwRkhYMTlTaXp1MldrS0ZEWkJ2cnpidXRrSEdYUkdRUHhjeVVXV0lyRk1lQ3BrYmdwbEJKNUl1SG9nbXluS0s5YThPVTdv?oc=5",
+     "titre": "AUDIO: Ukraine says laser weapon has downed a Russian drone"
+    },
+    {
+     "source": "Le Grand Continent",
+     "url": "https://legrandcontinent.eu/fr/2026/11/26/lukraine-a-detruit-pour-la-premiere-fois-un-drone-a-reaction-avec-une-arme-laser/",
+     "titre": "L’Ukraine a détruit pour la première fois un drone à réaction avec une arme laser"
+    },
+    {
+     "source": "CBS News",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWGVSaWFRWm5vY1pIZ2R5RFVxSjRwVjBNN3dWcTh0Z3VFR0o0Xzc0TWhMTHJQX0RHWG54RWI2dWhxenZmbGo1RFJsZ2Q3TC1aSmwyTzBRZWc3S3lDT2tNVGlQVWQzbmVyYTJ6U1pUcm9jcG5rQngtb3Q4R2JoXzBxSW1XWkZYZVV6SWt6YTNQbHBDejBFSzJ0Zy1OX0RVTVJY?oc=5",
+     "titre": "Ukraine says it has intercepted a Russian jet-powered drone with a laser for the first time"
+    }
+   ],
+   "visuel": null,
+   "id": "2026-11-27|Ukraine reports first interception of jet drone with laser weapon",
+   "fr": {
+    "titre": "L'Ukraine revendique sa première interception d'un drone à réaction par arme laser",
+    "resume": "Les forces ukrainiennes ont annoncé avoir abattu avec succès un drone d'attaque russe à réaction à l'aide du système laser national Blysk. Cette interception constitue le premier succès opérationnel en combat de l'Ukraine obtenu grâce à une technologie antiaérienne à énergie dirigée.",
+    "pays": [
+     "Ukraine",
+     "Russie"
+    ]
+   }
+  },
+  {
+   "suite": false,
+   "remplace": null,
+   "emoji": "🚀",
+   "titre": "North Korea pauses Russia munitions supplies and tests missile engine",
+   "resume": "Ukrainian intelligence reported that Pyongyang temporarily halted missile and artillery deliveries to Moscow over diplomatic disputes. Simultaneously, North Korea conducted a solid-fuel ballistic missile engine test at its western test site.",
+   "pourquoi": "",
+   "pays": [
+    "North Korea",
+    "Russia",
+    "Ukraine",
+    "United States"
+   ],
+   "region": "North-East Asia",
+   "rubrique": "asie",
+   "liens": [
+    {
+     "source": "Japan Times",
+     "url": "https://www.japantimes.co.jp/news/2026/11/27/asia-pacific/ukraine-north-korea-missiles/",
+     "titre": "Ukraine says North Korea temporarily halted missile shipments to ally Russia"
+    },
+    {
+     "source": "뉴시스",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzX1RfcnpEeGhoaGRvVkZ2aWpidmxBWUlBcmZOR0VkblpCaWc3SGFpNFFrY0pPV2I0MEhQTWR3bkJlNHpmZUxYN25zZTMzeTlvUmlreHN1SDViaWZGa3d2YdIBeEFVX3lxTE1oMjhYOE5JbkJpdl9jQlZ2Yk1HcGZRNGNwbUlGbDlWOWw0a0o0WkNaRThkQmF2UVItQ05QdmY3eHVMUWp4VjRmZlJBRGhiZHdXbnVoR2x2M3p5RnpkX1g1S0ZCcHVBMjhncXFsMG1kVFRialU5TFJaOA?oc=5",
+     "titre": "북한 트럼프에 맞춰 탄도미사일 엔진 시험 정황-NK 뉴스"
+    },
+    {
+     "source": "SBS 뉴스",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5nV2IxV19iVk5GS2JtMVlzVlFjMEFXM3BYTll3QXRnU09RUXBIZ1JaeXI1eWpaVkJvdUFTYzhiM0VFTTktaGJ6UmFjWGYwS3NYcGNfZUVlRGQ5OHA3ZjNWUzZVS2xJUdIBZkFVX3lxTE5nV2IxV19iVk5GS2JtMVlzVlFjMEFXM3BYTll3QXRnU09RUXBIZ1JaeXI1eWpaVkJvdUFTYzhiM0VFTTktaGJ6UmFjWGYwS3NYcGNfZUVlRGQ5OHA3ZjNWUzZVS2xJUQ?oc=5",
+     "titre": "Ukraine: North Korea Temporarily Suspends Military Support to Russia"
+    },
+    {
+     "source": "Chosunbiz",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSEY3aHhxYnhzM2l1QlppX3VMM0NtWTNmbFd6MnFVcHB5VjZfT1FVb2NzUnNFUWxmNFM0YWxkZDEzbmlKc1ZhLUpLNXExY1ZzaWJGOHdoU3R1UkdDanhJWkFDSnBGVWs3SlByOEg2UDRvZ1RGVDQyOVo3al9LdW1DNjhDal90VnJM0gGcAUFVX3lxTE91UmN1aklIMDN6SWRTbFZzRG1oZlVEV0ZaYjdzUlVnUW44SzZJdE9ITk9JZ2tZYTdCbVl1VFhDN3JCNkE0X2V1UTRRaktaNnRvYWpQVG1CbmJ3ckJZeDllLThPVXRUVUR2amdDWnhSRDJRR3RKamRJM2FTem5Sb1hDQ3F0MmJQMEp2WlV2OXdwd3puaFFXdlRsMWpidg?oc=5",
+     "titre": "Ukraine intelligence says North Korea suspends military aid to Russia"
+    }
+   ],
+   "visuel": null,
+   "id": "2026-11-27|North Korea pauses Russia munitions supplies and tests missile engine",
+   "fr": {
+    "titre": "La Corée du Nord suspend ses livraisons de munitions à la Russie et teste un moteur de missile",
+    "resume": "Selon le renseignement ukrainien, Pyongyang a temporairement suspendu ses livraisons de missiles et d'obus à Moscou en raison de différends diplomatiques. En parallèle, la Corée du Nord a testé un moteur de missile balistique à propergol solide sur son site d'essais occidental.",
+    "pays": [
+     "Corée du Nord",
+     "Russie",
+     "Ukraine",
+     "États-Unis"
+    ]
+   }
+  },
+  {
+   "suite": false,
+   "remplace": null,
+   "emoji": "🗳️",
+   "titre": "New Zealand election ends in hung parliament",
+   "resume": "Final official election tallies confirmed Prime Minister Christopher Luxon's centre-right coalition fell one seat short of a parliamentary majority. Luxon must now negotiate with the centrist Opportunity Party to secure a governing mandate.",
+   "pourquoi": "",
+   "pays": [
+    "New Zealand"
+   ],
+   "region": "Oceania",
+   "rubrique": "elections",
+   "liens": [
+    {
+     "source": "Straits Times Asie",
+     "url": "https://www.straitstimes.com/asia/christopher-luxon-favoured-for-second-term-as-new-zealand-prime-minister",
+     "titre": "Christopher Luxon favoured for second term as New Zealand Prime Minister"
+    },
+    {
+     "source": "BBC Asia",
+     "url": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
+     "titre": "New Zealand's ruling coalition falls short of parliamentary majority by one seat"
+    },
+    {
+     "source": "CNA Monde",
+     "url": "https://www.channelnewsasia.com/world/new-zealand-ruling-coalition-majority-elections-6586571",
+     "titre": "New Zealand’s ruling coalition falls just short of majority in final election count"
+    },
+    {
+     "source": "Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOU3lxZGdfOVhqQ05VUHJFOHgtSVlUU0xGTEZVVHY5SFhNenJUajJLVnExZ1hBbmp1RDE4Tm9tZnZYRWVyQTRhUUZRUjZSc1ZwZG55RW1NZHY5RDZGYUU5SGpaalhlU3VuZDVOelFqeWVrTi1YaVEwVlB1OU1qNXRhd0hScXRwZ0N6SDdyQkk5ckhOZFlNMkkxeTYydWhLSXFsd3h0bE1uQWVFS3h0NEhfbkZObw?oc=5",
+     "titre": "New Zealand’s Official Election Results Reveal Hung Parliament"
+    }
+   ],
+   "visuel": {
+    "nom": "Christopher Luxon",
+    "description": "Prime Minister of New Zealand since 2023",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/LUXON%2C_Christopher_-_Botany_%28cropped%29.png",
+    "page": "https://en.wikipedia.org/wiki/Christopher_Luxon",
+    "type": "person"
+   },
+   "id": "2026-11-27|New Zealand election ends in hung parliament",
+   "fr": {
+    "titre": "Parlement sans majorité à l'issue des élections en Nouvelle-Zélande",
+    "resume": "Les résultats officiels définitifs ont confirmé qu'il manquait un siège à la coalition de centre-droit du Premier ministre Christopher Luxon pour atteindre la majorité parlementaire. Luxon doit désormais négocier avec le parti centriste Opportunity Party afin de s'assurer une majorité de gouvernement.",
+    "pays": [
+     "Nouvelle-Zélande"
+    ]
+   }
+  },
+  {
+   "suite": false,
+   "remplace": null,
+   "emoji": "💻",
+   "titre": "US widens AI chip restrictions across South-East Asia",
+   "resume": "Washington has intensified export controls targeting Chinese offshore computing, prompting Nvidia to halt select GPU shipments to South-East Asian data hubs. Singaporean officials stated they are monitoring the potential trade fallout closely.",
+   "pourquoi": "",
+   "pays": [
+    "United States",
+    "China",
+    "Singapore"
+   ],
+   "region": "South-East Asia",
+   "rubrique": "economie",
+   "liens": [
+    {
+     "source": "Straits Times Singapour",
+     "url": "https://www.straitstimes.com/singapore/asean-must-counter-economic-nationalism-with-deeper-integration-wider-partnerships-dpm-gan",
+     "titre": "ASEAN must counter economic nationalism with deeper integration, wider partnerships: DPM Gan"
+    },
+    {
+     "source": "CNA Singapour",
+     "url": "https://www.channelnewsasia.com/singapore/cna-now-nov-27-live-blog-6584836",
+     "titre": "CNA Now: Nvidia chip shipment halt to Singapore unconfirmed, says DPM Gan, plus other news as it happens"
+    },
+    {
+     "source": "조선일보",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRGZaRWtZS1pmeFNoTm5hU18zeUxGaldlMjJGbDE3QTNYZ294anU5VWtmamtWVHB6VE1jTlRiV3hzNGZYa01VZXA0aGV1djJ0c1ZLLXNNTnNJQkF3SWVZbVh0S3lZV3NYTEpueWhNWHJrdnBXRDg3d0N6cnNSOFFkUF9aQzlBQi1l?oc=5",
+     "titre": "NVIDIA GPUs Flood Chinese Black Market Amid U.S. Export Controls"
+    },
+    {
+     "source": "CNBC",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ydHdQWUpYRU16SjgyRXBibzZ6UFN4RThEMUV3VkRJV0NCNmk1Nm1wTFlvTnpsLS1VVHdmczlIQjZRN0RKZnlBdm5oSmFUY0lCaWV5dTY2bDBiRHcyV0lfMjk3ZS1TQW1oM3F0TTJFRdIBdEFVX3lxTE1hb0dnX1V6U3RzcVduQUhNcHBONFFMMVVaaThOcEc5dy1EOVMwUXBVM1lSMWljNm12aTJXT0FvMWdkaUdyTEZyZGY0dHJ0R3kxQllKQ2RaMl9MYmxIY2pHcTh6TWVDRkhCSkVqUVUtbVFOam81?oc=5",
+     "titre": "Nvidia chip buyers told to rule out Chinese renters to purchase GPUs, sources say"
+    }
+   ],
+   "visuel": null,
+   "id": "2026-11-27|US widens AI chip restrictions across South-East Asia",
+   "fr": {
+    "titre": "Washington durcit ses restrictions sur les puces d'IA en Asie du Sud-Est",
+    "resume": "Washington a intensifié ses contrôles à l'exportation ciblant les capacités informatiques chinoises délocalisées, poussant Nvidia à suspendre certaines livraisons de GPU vers des centres de données d'Asie du Sud-Est. Les autorités singapouriennes ont indiqué suivre de près les retombées commerciales potentielles.",
+    "pays": [
+     "États-Unis",
+     "Chine",
+     "Singapour"
+    ]
+   }
+  }
+ ],
+ "rubriques": [
+  {
+   "id": "airbus",
+   "titre": "Airbus News",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🛩️",
+     "titre": "Ukraine requests up to twenty Eurofighter jets from Italy",
+     "resume": "President Volodymyr Zelenskyy requested between 10 and 20 retired Tranche 1 Eurofighter F-2000 aircraft from Rome during Ramstein group discussions. The transfer would require approval from the Eurofighter consortium partners including Airbus.",
+     "pourquoi": "",
+     "pays": [
+      "Ukraine",
+      "Italy",
+      "Germany",
+      "United Kingdom"
+     ],
+     "region": "Europe",
+     "rubrique": "airbus",
+     "liens": [
+      {
+       "source": "Opex360",
+       "url": "https://www.opex360.com/2026/11/26/lukraine-souhaiterait-obtenir-entre-dix-et-vingt-anciens-eurofighter-f-2000-aupres-de-litalie/",
+       "titre": "L’Ukraine souhaiterait obtenir entre dix et vingt anciens Eurofighter F-2000 auprès de l’Italie"
+      }
+     ],
+     "visuel": {
+      "nom": "Eurofighter Typhoon",
+      "description": "1994 multi-role combat aircraft family by Eurofighter",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/RAF_Eurofighter_EF-2000_Typhoon_F2_Lofting-1.jpg/960px-RAF_Eurofighter_EF-2000_Typhoon_F2_Lofting-1.jpg",
+      "page": "https://en.wikipedia.org/wiki/Eurofighter_Typhoon",
+      "type": "platform"
+     },
+     "id": "2026-11-27|Ukraine requests up to twenty Eurofighter jets from Italy",
+     "fr": {
+      "titre": "L'Ukraine demande jusqu'à vingt chasseurs Eurofighter à l'Italie",
+      "resume": "Le président Volodymyr Zelensky a sollicité auprès de Rome entre 10 et 20 avions de combat Eurofighter F-2000 de la Tranche 1 retirés du service, lors des discussions du groupe de Ramstein. Cette cession nécessiterait le feu vert des membres du consortium Eurofighter, dont Airbus.",
+      "pays": [
+       "Ukraine",
+       "Italie",
+       "Allemagne",
+       "Royaume-Uni"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "monde",
+   "titre": "World",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🛢️",
+     "titre": "Trump stresses energy dominance in call to Gulf-based troops",
+     "resume": "US President Donald Trump told American military personnel deployed in the Gulf that the US controls nearly half of global oil reserves. Trump downplayed Russian and Chinese backing for Iran amid ongoing regional military tensions.",
+     "pourquoi": "",
+     "pays": [
+      "United States",
+      "Iran",
+      "Saudi Arabia"
+     ],
+     "region": "Americas",
+     "rubrique": "monde",
+     "liens": [
+      {
+       "source": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/27/trump-downplays-russia-china-support-for-iran-during-talks-with-us-troops?traffic_source=rss",
+       "titre": "Trump downplays Russia, China support for Iran during talks with US troops"
+      }
+     ],
+     "visuel": {
+      "nom": "Donald Trump",
+      "description": "President of the United States (2017–2021; since 2025)",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/960px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg",
+      "page": "https://en.wikipedia.org/wiki/Donald_Trump",
+      "type": "person"
+     },
+     "id": "2026-11-27|Trump stresses energy dominance in call to Gulf-based troops",
+     "fr": {
+      "titre": "Trump vante la domination énergétique américaine devant les troupes déployées dans le Golfe",
+      "resume": "Le président américain Donald Trump a affirmé aux militaires américains déployés dans le Golfe que les États-Unis contrôlent près de la moitié des réserves mondiales de pétrole. Trump a relativisé le soutien de la Russie et de la Chine à l'Iran dans un climat de vives tensions militaires régionales.",
+      "pays": [
+       "États-Unis",
+       "Iran",
+       "Arabie saoudite"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "asie",
+   "titre": "APAC",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🇸🇬",
+     "titre": "Singapore and Indonesia complete Exercise Safkar Indopura",
+     "resume": "The Singapore Army and Indonesian Army concluded the 38th edition of Exercise Safkar Indopura. The bilateral tactical exercise enhanced combined planning, field operations and conventional interoperability between both armed forces.",
+     "pourquoi": "",
+     "pays": [
+      "Singapore",
+      "Indonesia"
+     ],
+     "region": "South-East Asia",
+     "rubrique": "asie",
+     "liens": [
+      {
+       "source": "MINDEF Singapore",
+       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1XTEpXQ05qYU12VmR1YXdwNmxqc1Z5eGpUY3ZQVnFTRFFELUFBTzFta3lQNm1QbEUtYkpNMktCY21ub2wzR0hQTFczamJRWFNwZVEzTUtiLXNWODJMWE0zY184QXdRaVZ6WFh3Zl8xT0dicndPWTBKZw?oc=5",
+       "titre": "Singapore and Indonesia Strengthen Bilateral Defence Ties through 38th Edition of Exercise Safkar Indopura"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-27|Singapore and Indonesia complete Exercise Safkar Indopura",
+     "fr": {
+      "titre": "Singapour et l'Indonésie achèvent l'exercice Safkar Indopura",
+      "resume": "L'armée singapourienne et l'armée indonésienne ont conclu la 38e édition de l'exercice Safkar Indopura. Ces manœuvres tactiques bilatérales ont renforcé la planification conjointe, les opérations sur le terrain et l'interopérabilité conventionnelle entre les deux forces armées.",
+      "pays": [
+       "Singapour",
+       "Indonésie"
+      ]
+     }
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "⚠️",
+     "titre": "Malaysian air force officers charged in military aircraft drug trafficking",
+     "resume": "Three Royal Malaysian Air Force officers were among six individuals charged with trafficking three tonnes of methamphetamine. Home Minister Saifuddin Nasution confirmed the syndicate exploited military aircraft and the Subang airbase for transit.",
+     "pourquoi": "",
+     "pays": [
+      "Malaysia"
+     ],
+     "region": "South-East Asia",
+     "rubrique": "asie",
+     "liens": [
+      {
+       "source": "Straits Times Asie",
+       "url": "https://www.straitstimes.com/asia/se-asia/3-malaysian-air-force-officers-among-6-charged-in-meth-trafficking-case",
+       "titre": "3 Malaysian air force officers among 6 charged in meth trafficking case"
+      },
+      {
+       "source": "Reuters",
+       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUVN6Wm9jSWVPRlVIQTF5YzVHekN3UmhpbmxORG5iZkpmOHd1V05kdmFWZERJOGJQb0FTRXFVUm5Sb1NiUHJ5MUo4djB5bk5DV2EwQ0EzX2dLeU1DcVhuVGh2WDdNeGdwYnByRFp1b1p3clc2bjBNbFByNWFEMWRaRlBwQURfX3dITGNKM2htMzl2VjBxb1h0c2RXamg0Znk3clRrcGFNbDJLSU95emhsc0dOWDVQVFd6dW9sSlpRLUdKekhrTFdz?oc=5",
+       "titre": "Malaysian air force facilities used to transport illicit drugs, minister says"
+      },
+      {
+       "source": "CNA Asie",
+       "url": "https://www.channelnewsasia.com/asia/malaysia-drug-syndicate-air-force-meth-military-aircraft-6584271",
+       "titre": "Drug syndicate used military aircraft to transport 3 tonnes of meth: Malaysian Home Minister"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-27|Malaysian air force officers charged in military aircraft drug trafficking",
+     "fr": {
+      "titre": "Trafic de drogue par avions militaires : des officiers de l'armée de l'air malaisienne inculpés",
+      "resume": "Trois officiers de la Royal Malaysian Air Force figurent parmi six individus inculpés pour le trafic de trois tonnes de méthamphétamine. Le ministre de l'Intérieur, Saifuddin Nasution, a confirmé que le réseau exploitait des appareils militaires et la base aérienne de Subang comme points de transit.",
+      "pays": [
+       "Malaisie"
+      ]
+     }
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🛡️",
+     "titre": "Indonesia rules out joining proposed Mecca Pact military alliance",
+     "resume": "The Indonesian government affirmed it will not participate in the proposed Islamic defence pact discussed in Saudi Arabia. Officials stated joining an exclusive military alliance would violate Indonesia's non-aligned, independent foreign policy doctrine.",
+     "pourquoi": "",
+     "pays": [
+      "Indonesia",
+      "Saudi Arabia"
+     ],
+     "region": "South-East Asia",
+     "rubrique": "asie",
+     "liens": [
+      {
+       "source": "ANTARA News",
+       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaEFCdGQ1VFBBRzRsOWJvY2lzbWhEbS1zdmlRZjF3NFZVZXVzSmtvTVZrWFZNUEs2QW5xTkhKb0lYX2Q1aDNFaVUzRVZKZS1sS1MxSDZfTUVMYlRLWHVBWHAydXlDUllRRzFuLWxZVlk5YUszckRfM2ZfdEswR1BKR203LXZ5M3U1R1I5enR3cFBTN2Z0b0RTWjhBdnJBMUpyVzlCZkNwYTTSAa4BQVVfeXFMTnk0M1ZoN3h6bll0RzVqN21sSHNWM09yZW5CU1lkbnN6S1VtRTNGb2t2YlFjUGIwYWtkSXVsYjZpRmtyUFZhM21Nc3IyUDU1WmVHWnZibVFCNDd0cGFTbEZEbmVxSzl1T2RtaVdNT3l5bUZGeVdNQURkbnUtYzVPUWVGcEp3YWtVbWluLVZvcFF5ekxTSkR5eVczSnVoekhrWGRBMVowMWpDY0tYVEZR?oc=5",
+       "titre": "Indonesia rules out joining Mecca pact under free and active policy"
+      },
+      {
+       "source": "Tempo.co English",
+       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPR3pxc1YtVWJIRDRJaWhYT1JuX3RWTWNSdHFUWXI3c1NZZ083ZUszOC1VUUJVc1BFUHQzRU04aTBBMWRqZDFSZjFPUjNjbHFTZklPeWtaR29KUDJIVzVIZ2M5MUhkRXVZLVJvcGdIRVE2MWVlNW0ySHNjNGc3NmJtRjRnVzMxVWh6UnM2cnAzZzBBbXhISGtpcA?oc=5",
+       "titre": "Indonesia Rules Out Joining Mecca Defence Alliance: Here's Why"
+      },
+      {
+       "source": "Kompas.com",
+       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTEg2aGRwRUdiTE5nMy1LSEk1YTNHU0dQMFFyYy10ckFOTVU2NkVxbmxyX3MxVDl5T2RNM1dnekhvTmVlTWlMMl8yc2szMVpMUnVRLVFHai0xT01BMXg5b3B6TVpPT0FMYUVnRlZHeHlWdmxjV0NTZkYyTkJ0VzdmZ0d6V3NZajh4N1RLLWpwb25ncWVQM0JEMnRlYjlRdTR0OHhyVWQ3SzNrU2pnWUtLTw?oc=5",
+       "titre": "Indonesia Asserts It Will Not Join 'Mecca Pact' Defense Agreement"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-27|Indonesia rules out joining proposed Mecca Pact military alliance",
+     "fr": {
+      "titre": "L'Indonésie exclut de rejoindre le projet d'alliance militaire du pacte de La Mecque",
+      "resume": "Le gouvernement indonésien a réaffirmé qu'il ne rejoindrait pas le projet de pacte de défense islamique évoqué en Arabie saoudite. Selon des responsables, intégrer une alliance militaire exclusive contreviendrait à la doctrine diplomatique indépendante et non alignée de l'Indonésie.",
+      "pays": [
+       "Indonésie",
+       "Arabie saoudite"
+      ]
+     }
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🚀",
+     "titre": "Philippines deploys BrahMos supersonic missiles in combat exercise",
+     "resume": "The Philippine Marine Corps deployed newly acquired Indian-made BrahMos supersonic anti-ship cruise missiles during live drills facing the South China Sea. The deployment demonstrates Manila's expanding coastal defence and anti-access capabilities near Taiwan.",
+     "pourquoi": "",
+     "pays": [
+      "Philippines",
+      "India",
+      "China"
+     ],
+     "region": "South-East Asia",
+     "rubrique": "asie",
+     "liens": [
+      {
+       "source": "ThePrint",
+       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZlFMMm1pX0d1amxrMTgzNkRMM0RJam1tR0hfWnA4ZElvb3BOeTZJSUFrYWV4Z0EtcWl6c2NKa2k0bFBpTWFUUTduRXVLR25WaHNaNG01Qk5TdGNKNkZpRTEzcGE4QmhiQ2dEeHVrTlBMTWNTWnFWbTNEblNrWVZtRUtoLXFEbGhjUTJWZ3gxWTF4ZVoxcTZmYnlZeC1CNHp5cDAtZlpqVnBScEpfc3RoVzBUajhrN1dyTVV0WThFOXA1R0ZoX0JV0gHMAUFVX3lxTFB5UnV1Qmc2TS1XMnh1QlRDdHB3Sjlwd18zS3VSZmtOdDJZQjlvSG41NUpIVXdjenhJbEI3c3E2dkx4VlVGLU9QNVBFejU4VDhvbnpIek5VYUpwbkJIV190SndkdzlxeTROdG9FS01wS1JuZXZiMUJraVFwdFNMdGJhZDNyQjRZSTBwQjRKMXlMTUxxckVJN0ZUTHA1WF9pVjhTdUR4WnZ4azE0YkhIbVc2ekJMUzlDU3ZZTzZUR1dGUmNBN01ZN2JZQzhYaw?oc=5",
+       "titre": "Philippines deploys India’s BrahMos missiles in military exercise amid China-Taiwan tensions"
+      }
+     ],
+     "visuel": {
+      "nom": "BrahMos",
+      "description": "Cruise missile",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/The_Brahmos_Missile_system_passes_through_the_Rajpath_during_the_full_dress_rehearsal_for_the_Republic_Day_Parade_in_New_Delhi_on_January_23%2C2006.jpg/960px-The_Brahmos_Missile_system_passes_through_the_Rajpath_during_the_full_dress_rehearsal_for_the_Republic_Day_Parade_in_New_Delhi_on_January_23%2C2006.jpg",
+      "page": "https://en.wikipedia.org/wiki/BrahMos",
+      "type": "platform"
+     },
+     "id": "2026-11-27|Philippines deploys BrahMos supersonic missiles in combat exercise",
+     "fr": {
+      "titre": "Les Philippines déploient des missiles supersoniques BrahMos en exercice opérationnel",
+      "resume": "Le corps des Marines philippins a déployé ses missiles de croisière antinavires supersoniques BrahMos récemment acquis auprès de l'Inde, lors de tirs réels face à la mer de Chine méridionale. Ce déploiement illustre la montée en puissance des capacités de défense côtière et de déni d'accès de Manille près de Taïwan.",
+      "pays": [
+       "Philippines",
+       "Inde",
+       "Chine"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "elections",
+   "titre": "Elections & Politics",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🗳️",
+     "titre": "Taiwan tightens cyber security ahead of local elections",
+     "resume": "Premier Cho Jung-tai ordered heightened vigilance against foreign cyberattacks ahead of Taiwan's island-wide municipal elections on Saturday. The polls are viewed as a key test for cross-strait policy and political momentum.",
+     "pourquoi": "",
+     "pays": [
+      "Taiwan",
+      "China"
+     ],
+     "region": "North-East Asia",
+     "rubrique": "elections",
+     "liens": [
+      {
+       "source": "South China Morning Post",
+       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeTNBSTk2MG9mYlNMRGxheENRU3NHSHRSUHhRZ0hvMTVlTkJlZHI0YmpIM2FURl93LXlPZjFQMXdkU0JQaUhGVlFoYVk4QVJCUDJndmlFajFKeGRKQkdFRk42b2I2TjlnRGl1c3VqeWplVm9lN1U3ZFJqSkU5ZHBlTktVVzZmT0x6U0tyQXFydHZZdktEV0ZtcE9ycVlHMVYzMnppSzZYTXdIQjl4eW5GWlNCTVB3OGNMTWc3LW1yczV5X1BrNDRUYjdKRjI0ZXpQSHfSAdIBQVVfeXFMTzFudXpRdF81Ti15VTJacnhlSER6cW5vVEFpSVFELTV6UTZSZTVXdjdIVFRKNjNoVUhNWmJ5VmJpajQyQ3lMcHphNFpWNkp0QkRhUjdkaUJ5ak5QWWlVdnpwSmM3NHBjdUFyT1hlckMyTmZPcC1CdF9EYnlua3hwUU93Z3ctUDlVV0tvTlVxaWlFNFZZNk9JSmZpa1d4NDVWMm9rQUdLTm40ZVg3eDF5ekp3SkZqT3lTU3dMS0xvZ3lDaXVFcDNrdkU2dDI5UVlwVlBB?oc=5",
+       "titre": "What will Taiwan local elections reveal about 2028 race and cross-strait shifts?"
+      },
+      {
+       "source": "The Guardian",
+       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdmpMbTBibDY1WlNqR0Y0Y0hwVWczVDdHWVl4YU9WTTBUMDRTNHVXLUdHTWJLcEdveW8yNm5nZmMwSVhjMkdaX2V5U1NVc3NjMXduRzA3V0txbjlmWjFhcktSTG9KUldVb0tuX0IxdWlpQVhra01LQWIzSGVqS3B1S1VvSEIwa2gyM1pQYjF4VElDMjNLa21SOFpFbkFxRTV2cWV3T3VR?oc=5",
+       "titre": "Threat from China looms large over Taiwan’s local elections"
+      },
+      {
+       "source": "Bloomberg.com",
+       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYm9mWWl1RHREblBCWEhGcC1PWkJoRl9XUWMzZTNuMWFVMVJ1WW5UUnBINll6M19wYV9xUmRFRW9LWjl3WERpa20tc1Q3VUpMZUpCS1Fkdjlsb3ZJcHBHaHpJTm9aTFpzbjZfVWQwSUtTaG8zSkJNaFRlVlRhMUxOcW1rSG9xcXpNcExZQmViT0lPb290?oc=5",
+       "titre": "Watch Taiwan Gears Up for Local Elections"
+      },
+      {
+       "source": "Nikkei Asia",
+       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNa05RQkF6YTZYMkRvb1FLLWFBLXU4ZnBxckl3NHlkTWFlNXVCUEszekUxYnZMREVTUEsyTlVKZjVJQ0VnUTBlNVVrSDJ5UXRfUWZmNERZT0VfU3hEd2QwSFhyRm5Id0F2WUNBNGhucm5uaU1OSk5ZdHdPOXlNUkVqaWVleWhNRDNyTG5rbTVSZE1qNnlCdXlkcHlMT0o2dE1SUFE3OVBMcE40NDNGUkNIelp0YzM?oc=5",
+       "titre": "Taiwan weathers wave of cyberattacks ahead of Saturday's elections"
+      }
+     ],
+     "visuel": {
+      "nom": "Cho Jung-tai",
+      "description": "Premier of Taiwan since 2024",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/%E5%8D%93%E6%A6%AE%E6%B3%B0%E9%99%A2%E9%95%B7_2.jpg/960px-%E5%8D%93%E6%A6%AE%E6%B3%B0%E9%99%A2%E9%95%B7_2.jpg",
+      "page": "https://en.wikipedia.org/wiki/Cho_Jung-tai",
+      "type": "person"
+     },
+     "id": "2026-11-27|Taiwan tightens cyber security ahead of local elections",
+     "fr": {
+      "titre": "Taïwan renforce sa cybersécurité à l'approche des élections locales",
+      "resume": "Le Premier ministre Cho Jung-tai a ordonné une vigilance accrue face aux cyberattaques étrangères avant les élections municipales de samedi à l'échelle de toute l'île. Ce scrutin est considéré comme un test majeur pour la politique interdétroit et la dynamique politique locale.",
+      "pays": [
+       "Taïwan",
+       "Chine"
+      ]
+     }
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🗳️",
+     "titre": "Serbia sets early presidential election for December 27",
+     "resume": "Serbian authorities officially scheduled early presidential elections for December 27. The vote aims to solidify the ruling coalition's political consolidation amid mounting regional diplomatic friction in the Western Balkans.",
+     "pourquoi": "",
+     "pays": [
+      "Serbia"
+     ],
+     "region": "Europe",
+     "rubrique": "elections",
+     "liens": [
+      {
+       "source": "The Straits Times",
+       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQak9nU3UxVm13Nl9KejdWRVJYRTJwb05DdS1NSDBPTWFJUEptTWkxVXIyODMwZW9BeGxuYWNBN1FfV1JHbmJIZThueHRSUDlnNVp1a3Y0cE1aOHdXVFpNRmhTXzZZS2hNOTdZaXhiamVNMlpDeFhUX2phN0dUX1ZoaVQ0TE9pOXN5eGpKdVc2czV0dE5GUlkwRWRybFFkcjVHbWJB?oc=5",
+       "titre": "Serbia presidential election set for December 27"
+      },
+      {
+       "source": "Bloomberg.com",
+       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTk5hZTVaaUNISTF0QUtueWxWTy1takZ2SU0yY1JRSHdDVldNajFPSWI1Zk4wdlpNOXpWc3IxdGN5WWpLZWNVNnF5Z2RETDhFWFg2NVBqQWhuRjlzZXFFQmpIRE9BeFNnaW42Q0J2V09EYWItX2wxaHRVWnNYVUhDa2dpUGdheU5ORnlJOVA0LUlLWklka2RPb1lwY3dxeGNlQjhHd0FwWXhEcWJRLW9oZXZJUQ?oc=5",
+       "titre": "Cementing Power Shift, Serbia to Elect President on December 27"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-27|Serbia sets early presidential election for December 27",
+     "fr": {
+      "titre": "La Serbie fixe une élection présidentielle anticipée au 27 décembre",
+      "resume": "Les autorités serbes ont officiellement fixé une élection présidentielle anticipée au 27 décembre. Ce scrutin vise à renforcer l'assise politique de la coalition au pouvoir dans un contexte de frictions diplomatiques croissantes dans les Balkans occidentaux.",
+      "pays": [
+       "Serbie"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "defense_aerienne",
+   "titre": "Air & Missile Defence",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🛡️",
+     "titre": "French forces receive first sovereign GOBI Zephyr drone interceptors",
+     "resume": "The French Armed Forces took delivery of their first GOBI Zephyr counter-UAS interceptor drones just two months after ordering them. The procurement reflects rapid-acquisition initiatives to supply forward units with agile sovereign counter-drone capabilities.",
+     "pourquoi": "",
+     "pays": [
+      "France"
+     ],
+     "region": "Europe",
+     "rubrique": "defense_aerienne",
+     "liens": [
+      {
+       "source": "Opex360",
+       "url": "https://www.opex360.com/2026/11/26/les-forces-francaises-ont-recu-leurs-premiers-drones-intercepteurs-gobi-zephyr/",
+       "titre": "Les forces françaises ont reçu leurs premiers drones intercepteurs GOBI Zephyr, commandés il y a deux mois"
+      },
+      {
+       "source": "Ministère des Armées",
+       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaVpseVNpSlhvYkpKclBPdlVhdEIwMUtVVFVydURDa21PalZvUGxwanRNNXpLMENFdEtBc3VKRi1pSk1CaEdfLWZfazVEV0tlLU5UWEtHdTBlSkFMR09KX0hTZ3kyZDRQNFdYSGpfQXd3VjVTN0txSlZCNDk3MmNuZWdmNjNGMVRjWW4zM3drYkd1dW4wc1l5RzZra2FxNDZJUmpDWmZyTU1icDhsQThVNHpTckVEUGtEOFE?oc=5",
+       "titre": "Livraison des premiers drones intercepteurs de drones souverains aux forces armées"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-27|French forces receive first sovereign GOBI Zephyr drone interceptors",
+     "fr": {
+      "titre": "Les armées françaises reçoivent leurs premiers drones intercepteurs souverains GOBI Zephyr",
+      "resume": "Les forces armées françaises ont réceptionné leurs premiers drones intercepteurs de lutte antidrone GOBI Zephyr, deux mois seulement après leur commande. Cette acquisition illustre les initiatives de marchés rapides visant à doter les unités de contact de capacités souveraines et agiles de lutte antidrone.",
+      "pays": [
+       "France"
+      ]
+     }
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🛡️",
+     "titre": "US and Israel evaluate twenty counter-drone systems in Black Sands trials",
+     "resume": "The US Department of Defense and Israeli Ministry of Defense concluded their second joint Black Sands live-fire exercise. Trials evaluated roughly 20 kinetic and electronic counter-UAS systems against swarming and low-signature drone threats.",
+     "pourquoi": "",
+     "pays": [
+      "United States",
+      "Israel"
+     ],
+     "region": "Middle East",
+     "rubrique": "defense_aerienne",
+     "liens": [
+      {
+       "source": "Defence Industry Europe",
+       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNThYMGsybzVwcldvRVFoYzFUWmdjN3VYS1UxT1N6NE1XR1hXdnhsck9GWkdYRF9qeFIxdFRrUjFhRkVvNi1hQXVuRmtCQ3lfc3FndlhhMUp3LUtYdjhZTmdPY2NiTWhES0J1Y2pYeENfcHY3RVRiYTBRRnVnNXRwYjM1Sm1BSmZWNnpaQmI5dFB3NmZGTjBTVEhoLVdCbVZvYXEtdFJUWlRTOTJKZnJ0Qg?oc=5",
+       "titre": "U.S. and Israel evaluate about 20 counter-drone systems in joint Black Sands trials"
+      },
+      {
+       "source": "Janes Defence Intelligence",
+       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOS0p1Vkt4bnI0dEhveHR3ckMzTjRYNDlDbzRoMEM1UUJJTElOMUl4VTJvaEFtY2x4V05JZy1UMEY0RnQ5MC1ZVWxxTE5HQ0tHaXNObU5qbk5IbDAwV2x4NEdzMUV6NExWZzBsMjE1X3VQNU14dkN1WnZkZTdFZ2p6WUtNQXE5YjNGV2g3M1JhNkJYY3c5RjQybTh5TF9ZRU5mQzNnMlFCNmdEZzNla0k3MGZuQ1B5b1JZVGpoT2tGZWFEQQ?oc=5",
+       "titre": "Israel, US carry out second Black Sands C-UAS trials"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-27|US and Israel evaluate twenty counter-drone systems in Black Sands trials",
+     "fr": {
+      "titre": "Les États-Unis et Israël évaluent une vingtaine de systèmes antidrones lors des essais Black Sands",
+      "resume": "Le département américain de la Défense et le ministère israélien de la Défense ont achevé leur deuxième campagne conjointe de tirs réels Black Sands. Ces essais ont permis d'évaluer une vingtaine de systèmes de lutte antidrone cinétiques et électroniques face à des attaques en essaim et des cibles à faible signature.",
+      "pays": [
+       "États-Unis",
+       "Israël"
+      ]
+     }
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "⚠️",
+     "titre": "Russian aerospace procurement chief arrested in corruption inquiry",
+     "resume": "Major General Vladimir Popov, deputy commander of the Russian Aerospace Forces overseeing armament procurement, was arrested on bribery charges. The detention follows a series of high-level defence ministry anti-corruption probes in Moscow.",
+     "pourquoi": "",
+     "pays": [
+      "Russia"
+     ],
+     "region": "Europe",
+     "rubrique": "defense_aerienne",
+     "liens": [
+      {
+       "source": "Reuters",
+       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQzFOeDFjM0VPTXBIZkxlelN0ZFAtQ25fOUZkTVVheGM0cURoX1RqVXUzTGttUDlLTmhuczVlelh1eGJUYkVWQllDQ1ZzTlB3OUdQMjloczZsRGR4WGwzbF9XWURoSk9Tb2FybGNlbExBc243elBHTGxtNnpacDR3Y1pSaDctcFZqdUs5UkJiZ1R1Q09lTWxkUmN2TnNSZUdaQlpPNUl1N0tZVDJGd0xOT0lTU0tGUzA?oc=5",
+       "titre": "Russia arrests deputy aerospace commander in reported corruption case"
+      },
+      {
+       "source": "AeroTime",
+       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQUtGX20xbW54UEdmaWZXbEF1cG9wT3dyTzV2WDJlR1ZCVXl4MHNqbnRVZnJBZTA5WndzMmJhT2s3MmwzbDR3SG5rdEx1b0ZwcXl3WGREZEduWTBzX1d5eTBkRHZIZllTV0Q2bkRaSUhHSGNNRTVsUGJZV0RvelJjN3ZTanRRLXA2VGxUOElFTzZTd9IBlwFBVV95cUxNc3ZKX1FDV3NybUtRQWpCUU9zdGRaeU9NUXNnVk1ITUlJaE5SaEZfWjBtbEFnbnQ4RXI4RWJ3OWlUY3FWT09seWdoaW5GQ3NIMzZSM1B4U3JKMFJXUTFVSU9pakluVFZXaDNCbGtCLUVpeFFSN3BVQnFTWFhkOVFBMHhtRFh2anpKczNQOFNjeWRHZWd5ZEEw?oc=5",
+       "titre": "Russian Aerospace Forces weapons chief arrested pending bribery investigation"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-27|Russian aerospace procurement chief arrested in corruption inquiry",
+     "fr": {
+      "titre": "Arrestation du chef des achats de l'armée de l'air russe dans une enquête pour corruption",
+      "resume": "Le général de division Vladimir Popov, commandant adjoint des forces aérospatiales russes en charge des acquisitions d'armement, a été arrêté pour corruption passive. Cette interpellation s'inscrit dans une série d'enquêtes anticorruption visant de hauts responsables du ministère de la Défense à Moscou.",
+      "pays": [
+       "Russie"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "industrie",
+   "titre": "Defence Industry & Contracts",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🚢",
+     "titre": "UK awards Babcock £8.7bn Gateway submarine support contract",
+     "resume": "The British Ministry of Defence signed an £8.7 billion Gateway agreement with Babcock International to sustain the Royal Navy submarine fleet. The contract guarantees engineering and refit support for Astute and Vanguard nuclear-powered submarines.",
+     "pourquoi": "",
+     "pays": [
+      "United Kingdom"
+     ],
+     "region": "Europe",
+     "rubrique": "industrie",
+     "liens": [
+      {
+       "source": "Opex360",
+       "url": "https://www.opex360.com/2026/11/26/londres-investit-10-milliards-deuros-pour-ameliorer-la-disponibilite-de-ses-sous-marins-nucleaires/",
+       "titre": "Londres investit environ 10 milliards d’euros pour améliorer la disponibilité de ses sous-marins nucléaires"
+      },
+      {
+       "source": "Naval News",
+       "url": "https://www.navalnews.com/naval-news/2026/11/uk-mod-awards-babcock-record-8-7b-gateway-submarine-support-deal/",
+       "titre": "UK MOD Awards Babcock Record £8.7B ‘Gateway’ Submarine Support Deal"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-27|UK awards Babcock £8.7bn Gateway submarine support contract",
+     "fr": {
+      "titre": "Londres confie à Babcock un contrat de 8,7 milliards de livres pour le soutien de ses sous-marins",
+      "resume": "Le ministère britannique de la Défense a conclu l'accord-cadre Gateway de 8,7 milliards de livres avec Babcock International pour assurer le maintien en condition opérationnelle de la flotte de sous-marins de la Royal Navy. Le contrat garantit les prestations d'ingénierie et de refonte des SNA de classe Astute et des SNLE de classe Vanguard.",
+      "pays": [
+       "Royaume-Uni"
+      ]
+     }
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "📝",
+     "titre": "Five European nations order 430 CV90 combat vehicles",
+     "resume": "Finland and four European partners finalised a joint procurement deal for 430 BAE Systems Hägglunds CV90 combat vehicles. Helsinki committed €2.8 billion for 160 CV90 MKIV Nordic Edition vehicles to replace legacy Soviet-era armour.",
+     "pourquoi": "",
+     "pays": [
+      "Finland",
+      "Sweden",
+      "United Kingdom"
+     ],
+     "region": "Europe",
+     "rubrique": "industrie",
+     "liens": [
+      {
+       "source": "Opex360",
+       "url": "https://www.opex360.com/2026/11/26/la-finlande-commande-160-vehicules-de-combat-dinfanterie-cv90-mkiv-nordic-edition-pour-28-milliards-deuros/",
+       "titre": "La Finlande commande 160 véhicules de combat d’infanterie CV90 MKIV Nordic Edition pour 2,8 milliards d’euros"
+      },
+      {
+       "source": "The Straits Times",
+       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMnRNbjdyVjVyY1dCS0xoMWQtQzZ4aXQ5MDBINllleVNHUWQyQ0tRUExDNHA3YlVVY2pLRVlPZGZrTUc5WDFqMk1qWEZoa0k3VjlJbnR0clRMSDJ3YmhBdi0wYU1sR1ZWampaUmgtb1U3OGJ5dDhlaTc3ZGRCZ1djUzBiY0w1a2lyRjdyMndxbHVkdTdNQVdkdFRCNGxwYnpYcjYtNEh3?oc=5",
+       "titre": "Five nations to buy 430 combat vehicles in NATO’s biggest deal"
+      },
+      {
+       "source": "Reuters",
+       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaGpJU3pEOWNtcUU3UUN5V0p6NGZwV3BwVkV5Y3BjbVNWSjZoWnpvZ3o0clNwMDljX1UxdEx6YjV0VU5IOUc5anZwb3Z1dGkxdzBkU1R2WER0SlM5RjlkVUtBM0VBbGNpaTk5a1hoQlRScmpnSzlUMU1janRwc0NIN29VbF83dGxBS21YVTNHUm9YV01XSlpBcEhqdDBfYjVHaGpYMVdoZzZJdFpIR3djcU9RNWhtemhxbG5HZkcyaWZxd0JuQ2VPNg?oc=5",
+       "titre": "Five European nations buy combat vehicles from BAE Systems, Finland says"
+      }
+     ],
+     "visuel": {
+      "nom": "Combat Vehicle 90",
+      "description": "Swedish Infantry fighting vehicle",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Stridsfordon_90_Revinge_2012-2.jpg/960px-Stridsfordon_90_Revinge_2012-2.jpg",
+      "page": "https://en.wikipedia.org/wiki/Combat_Vehicle_90",
+      "type": "platform"
+     },
+     "id": "2026-11-27|Five European nations order 430 CV90 combat vehicles",
+     "fr": {
+      "titre": "Cinq nations européennes commandent 430 véhicules de combat CV90",
+      "resume": "La Finlande et quatre partenaires européens ont finalisé un contrat d'acquisition conjointe portant sur 430 blindés de combat CV90 de BAE Systems Hägglunds. Helsinki a engagé 2,8 milliards d'euros pour 160 CV90 MKIV Nordic Edition destinés à remplacer ses blindés hérités de l'ère soviétique.",
+      "pays": [
+       "Finlande",
+       "Suède",
+       "Royaume-Uni"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "ukraine",
+   "titre": "Ukraine / Russia",
+   "items": [
+    {
+     "suite": true,
+     "remplace": "2026-11-26|Trump and NATO chief Rutte urge Russia against widening war",
+     "emoji": "⚠️",
+     "titre": "Zelenskyy warns of mass Russian strike as Trump urges restraint",
+     "resume": "President Volodymyr Zelenskyy warned that Moscow is preparing a massive missile barrage against critical energy infrastructure in coming days. Meanwhile, US President Donald Trump stated he urged Vladimir Putin directly to halt European military aggression.",
+     "pourquoi": "",
+     "pays": [
+      "Ukraine",
+      "Russia",
+      "United States"
+     ],
+     "region": "Russia-Ukraine",
+     "rubrique": "ukraine",
+     "liens": [
+      {
+       "source": "CNA Monde",
+       "url": "https://www.channelnewsasia.com/world/russia-ukraine-zelenskyy-mass-strike-warning-6585961",
+       "titre": "Zelenskyy says Russia preparing new mass strike in coming days"
+      },
+      {
+       "source": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/27/zelenskyy-warns-of-major-russian-attack-as-trump-urges-putin-to-pull-back?traffic_source=rss",
+       "titre": "Zelenskyy warns of major Russian attack as Trump urges Putin to ‘pull back’"
+      },
+      {
+       "source": "Japan Times",
+       "url": "https://www.japantimes.co.jp/news/2026/11/27/world/trump-putin-military-aggression/",
+       "titre": "Trump urges Putin to end ‘military aggression’ in Europe"
+      },
+      {
+       "source": "BBC World",
+       "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+       "titre": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC"
+      }
+     ],
+     "visuel": {
+      "nom": "Volodymyr Zelenskyy",
+      "description": "President of Ukraine since 2019",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Volodymyr_Zelensky_2022_official_portrait_%28cropped%29.jpg/960px-Volodymyr_Zelensky_2022_official_portrait_%28cropped%29.jpg",
+      "page": "https://en.wikipedia.org/wiki/Volodymyr_Zelenskyy",
+      "type": "person"
+     },
+     "id": "2026-11-27|Zelenskyy warns of mass Russian strike as Trump urges restraint",
+     "fr": {
+      "titre": "Zelensky met en garde contre une frappe russe massive, Trump appelle à la retenue",
+      "resume": "Le président Volodymyr Zelensky a averti que Moscou préparait un tir de barrage massif de missiles contre les infrastructures énergétiques critiques dans les prochains jours. De son côté, le président américain Donald Trump a déclaré avoir directement exhorté Vladimir Poutine à cesser l'agression militaire en Europe.",
+      "pays": [
+       "Ukraine",
+       "Russie",
+       "États-Unis"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "moyen_orient",
+   "titre": "Middle East",
+   "items": [
+    {
+     "suite": true,
+     "remplace": "2026-11-26|Saudi air defences intercept Houthi missiles over Riyadh",
+     "emoji": "🚀",
+     "titre": "Houthi drone strike ignites blaze at Saudi Aramco Jazan refinery",
+     "resume": "Yemen's Houthi forces launched a drone strike on Saudi Arabia's Jazan oil refinery, killing one foreign worker and disrupting operations. The Saudi-led coalition confirmed damage to infrastructure and warned of a decisive military response.",
+     "pourquoi": "",
+     "pays": [
+      "Saudi Arabia",
+      "Yemen"
+     ],
+     "region": "Middle East",
+     "rubrique": "moyen_orient",
+     "liens": [
+      {
+       "source": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/26/attack-on-saudi-aramcos-jazan-refinery-kills-worker-disrupts-operations?traffic_source=rss",
+       "titre": "Attack on Saudi’s Jazan refinery kills one person, disrupts operations"
+      },
+      {
+       "source": "CNA Monde",
+       "url": "https://www.channelnewsasia.com/world/saudi-led-coalition-says-houthis-attacked-aramcos-jazan-refinery-6585881",
+       "titre": "Saudi-led coalition says Houthis attacked Aramco's Jazan refinery"
+      },
+      {
+       "source": "Al-Monitor",
+       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeUV2T0h5YVVBcmpWN2tTc3VNV29CWHdoX0VpTUZidUlKMjZNR09WRWFOVEFSd0Iwdkl0dEpmaTdXQTJrZFF5WWY5cXdWR2VWdV9jSTBZSXFDMlh4MkRvdnJMaDZ0MGpxbUI0UGgybzg4UDJLa3RpeEEySG5aUGZOSUstVWZPZnZSWmZ1M056b04tR1BaalpieVh6dm04X29HNFVqQXpB?oc=5",
+       "titre": "Yemen's Houthis claim attack on Saudi Arabia's largest refinery"
+      },
+      {
+       "source": "The Defense Post",
+       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBabmdNUEJTOGpxRFVIbUVsWlFwX2ZRT25qVnNPNnFCZDdheFJuN0xFOGg4LUZKSFIydEhSd2gzRDNzUWYwZzlmT2lDUDd1R05uNlVRMjM0dFp4aDhUcHJtQUxuNWlEWmNCOEpoSXF1UTE2YnQ3R2dTTXlR0gF_QVVfeXFMTXMwWHpXQjNNU3pFSThfbFZTRndNOHdSdnJfS05ZQ3BBVENSLUg1RThxT3Q4enB2WFJYdXBfYklGU0p6R2hSNEQ2OWpDQ2pueFZWTWlNazRyTjl0QlRjUjFvWEs3aW5aYy01SXJuaVR6TlNqQk84b3BFVldleUkxOA?oc=5",
+       "titre": "Houthis Claim Attack on Saudi Ras Tanura Refinery"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-27|Houthi drone strike ignites blaze at Saudi Aramco Jazan refinery",
+     "fr": {
+      "titre": "Frappe de drone houthie : incendie à la raffinerie Saudi Aramco de Jazan",
+      "resume": "Les forces houthies du Yémen ont mené une attaque de drone contre la raffinerie saoudienne de Jazan, tuant un travailleur étranger et perturbant les opérations du site. La coalition sous commandement saoudien a confirmé des dégâts matériels et brandi la menace d'une riposte militaire décisive.",
+      "pays": [
+       "Arabie saoudite",
+       "Yémen"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "europe",
+   "titre": "Europe",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🤝",
+     "titre": "France and Germany push for year-end EU budget pact",
+     "resume": "President Emmanuel Macron confirmed France and Germany are seeking an EU budget agreement before year-end to lock in long-term funding for Ukraine. The timetable aims to secure commitments before domestic political shifts impact negotiations.",
+     "pourquoi": "",
+     "pays": [
+      "France",
+      "Germany",
+      "Ukraine"
+     ],
+     "region": "Europe",
+     "rubrique": "europe",
+     "liens": [
+      {
+       "source": "Le Monde International",
+       "url": "https://www.lemonde.fr/international/article/2026/11/27/les-discussions-sur-le-budget-de-l-union-europeenne-menacees-par-les-echeances-electorales-francaises_6815793_3210.html",
+       "titre": "Les discussions sur le budget de l’Union européenne menacées par les échéances électorales françaises"
+      },
+      {
+       "source": "Financial Times",
+       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUFRMNmY0UE16RFBTVzNNb0s4Y2N0RE9Db1RtQmpJV3ZzV1ExbUZXd2VScVU2NW1DTXB5X1VoTXVhTkxvZmkwOS1ndDEydFZyOHduSTh3X29nZXNQc3hJSXUzUGtLTFl6ZTFJNUMxcnc5VHdXdlJfaFRSTE9YQTFpRGZVRnk?oc=5",
+       "titre": "Franco-German clash over ‘Made in Europe’ in EU defence budget"
+      },
+      {
+       "source": "Reuters",
+       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONUFuMXFIM2VqWWZ2S2RBUFkzM1VzQjE0WkxhTDlreXM3OU45NDdRejhWUkRUQVVvQ2x2ZG1PT2JiNjNtYlRiYWFqSF9wWnQzR25hTFRjcjI5YkU0QmxLeEwwNlJkak5JaWo5QjVqTnZPQmt1bGdzZl9nZ0k2ZjRxSDMyUmY2eTQ4TEM2NnJaZDNPZUR4RUZKb2FqRkZ3eklRaXNicEFLc2VRSHZRenpZWEpPRlp4SWxBdi1Nbw?oc=5",
+       "titre": "France and Germany want deal by year-end to 'Le Pen-proof' next EU budget and Ukraine funding"
+      }
+     ],
+     "visuel": {
+      "nom": "Emmanuel Macron",
+      "description": "President of France since 2017",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Emmanuel_Macron_2025_%28cropped%29.jpg/960px-Emmanuel_Macron_2025_%28cropped%29.jpg",
+      "page": "https://en.wikipedia.org/wiki/Emmanuel_Macron",
+      "type": "person"
+     },
+     "id": "2026-11-27|France and Germany push for year-end EU budget pact",
+     "fr": {
+      "titre": "Paris et Berlin font pression pour un accord budgétaire européen d'ici la fin de l'année",
+      "resume": "Le président Emmanuel Macron a confirmé que la France et l'Allemagne visaient un compromis sur le budget de l'UE avant la fin de l'année, afin de sanctuariser l'aide financière à long terme destinée à l'Ukraine. Ce calendrier vise à acter les engagements avant que d'éventuelles recompositions politiques nationales ne pèsent sur les pourparlers.",
+      "pays": [
+       "France",
+       "Allemagne",
+       "Ukraine"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "tech",
+   "titre": "Emerging Tech",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🤖",
+     "titre": "Japan Defence Ministry adopts new military AI strategy for C2",
+     "resume": "Japan's Ministry of Defence released a five-point policy framework governing AI deployment across command and control and autonomous platforms. The guidelines stress accelerated operational decision-making while ensuring ultimate accountability and lethal authority remain strictly with human commanders.",
+     "pourquoi": "",
+     "pays": [
+      "Japan"
+     ],
+     "region": "North-East Asia",
+     "rubrique": "tech",
+     "liens": [
+      {
+       "source": "Straits Times Asie",
+       "url": "https://www.straitstimes.com/asia/east-asia/japan-defence-ministrys-new-ai-vision-vows-more-use-stresses-human-role",
+       "titre": "Japan Defence Ministry’s new AI vision vows more use, stresses human role"
+      },
+      {
+       "source": "読売新聞",
+       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBvNmFFNDF1LVhkNl9ic1JJamoyZWZzV2dfMVpGQmt1dHJpUXRPaG9fQnJkZGpEYUlOdzdhbTljRWpMMWxjdVhFNFVDZnRqVFhQUFpMRk9YblJpNlRPU0wxYzhsaFQ3dw?oc=5",
+       "titre": "防衛省・自衛隊がＡＩ活用、意思決定の迅速化や無人化に…「判断と責任は人間」など５原則を基本指針に"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-27|Japan Defence Ministry adopts new military AI strategy for C2",
+     "fr": {
+      "titre": "Le ministère japonais de la Défense adopte une nouvelle doctrine d'IA militaire pour le C2",
+      "resume": "Le ministère japonais de la Défense a dévoilé un cadre stratégique en cinq axes pour régir le déploiement de l'IA dans les systèmes de commandement et de contrôle ainsi que sur les plateformes autonomes. Ces lignes directrices privilégient une accélération de la prise de décision opérationnelle, tout en garantissant que la responsabilité finale et l'autorité sur l'usage de la force létale demeurent strictement aux mains de commandants humains.",
+      "pays": [
+       "Japon"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "economie",
+   "titre": "Economy & Sanctions",
+   "items": [
+    {
+     "suite": true,
+     "remplace": "2026-11-26|US proposes extensive tariffs on 14 major trading partners",
+     "emoji": "📉",
+     "titre": "ASEAN urges deeper integration to counter US tariff proposals",
+     "resume": "Singapore Deputy Prime Minister Gan Kim Yong called on ASEAN to counter rising protectionism through deeper economic integration following US tariff proposals. Asian manufacturing hubs voiced concern over supply chain disruptions and potential retaliatory measures.",
+     "pourquoi": "",
+     "pays": [
+      "Singapore",
+      "United States",
+      "China",
+      "India"
+     ],
+     "region": "South-East Asia",
+     "rubrique": "economie",
+     "liens": [
+      {
+       "source": "CNA Singapour",
+       "url": "https://www.channelnewsasia.com/singapore/economic-nationalism-asean-partnership-dpm-gan-6585321",
+       "titre": "ASEAN must counter rising economic nationalism with deeper integration, wider partnerships: DPM Gan"
+      },
+      {
+       "source": "Straits Times Singapour",
+       "url": "https://www.straitstimes.com/singapore/asean-must-counter-economic-nationalism-with-deeper-integration-wider-partnerships-dpm-gan",
+       "titre": "ASEAN must counter economic nationalism with deeper integration, wider partnerships: DPM Gan"
+      },
+      {
+       "source": "Reuters",
+       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNazJTSjI3dk40ZnhoM2ZJR2N2eXp0NUFoaWUxNUI4NW9wV19YWEtpd24tS0t5YnFHV2YzSkRmSXdiTnR6cjRuMTROY1d1VlQ2NUR3UjNNMUJkeU5XQVBOeUQ1VnVTQmtQU3BVOUNndHdyeUhvWDcxdmRHMGtheVJCREs4UzdCWS1VVDQwcmdQYWtILXltMHRhN1UxeTVtdGhuMFhpemlOdDRkLTB5?oc=5",
+       "titre": "How Trump's proposed tariffs for India compare with rival nations"
+      },
+      {
+       "source": "CNA Asie",
+       "url": "https://www.channelnewsasia.com/asia/usa-donald-trump-tariffs-asian-trade-partners-analysis-6584851",
+       "titre": "Trump's latest tariffs aimed at pressuring Asian trade partners into deals: Analysts"
+      }
+     ],
+     "visuel": {
+      "nom": "Gan Kim Yong",
+      "description": "Singaporean politician (born 1959)",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Gan_Kim_Yong_2025_%28cropped%29.jpg/960px-Gan_Kim_Yong_2025_%28cropped%29.jpg",
+      "page": "https://en.wikipedia.org/wiki/Gan_Kim_Yong",
+      "type": "person"
+     },
+     "id": "2026-11-27|ASEAN urges deeper integration to counter US tariff proposals",
+     "fr": {
+      "titre": "L'ASEAN prône une intégration accrue face aux projets de hausses douanières américaines",
+      "resume": "Le vice-Premier ministre singapourien Gan Kim Yong a appelé l'ASEAN à contrer la montée du protectionnisme par une intégration économique renforcée, en réaction aux menaces de droits de douane brandies par les États-Unis. Les pôles manufacturiers asiatiques s'inquiètent des perturbations sur les chaînes d'approvisionnement et de potentielles représailles commerciales.",
+      "pays": [
+       "Singapour",
+       "États-Unis",
+       "Chine",
+       "Inde"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "a_surveiller": [
+  {
+   "quand": "November 28",
+   "quoi": "Taiwan holds nationwide municipal elections amid heightened cyber defence vigilance",
+   "liens": [
+    {
+     "source": "Nikkei Asia",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNa05RQkF6YTZYMkRvb1FLLWFBLXU4ZnBxckl3NHlkTWFlNXVCUEszekUxYnZMREVTUEsyTlVKZjVJQ0VnUTBlNVVrSDJ5UXRfUWZmNERZT0VfU3hEd2QwSFhyRm5Id0F2WUNBNGhucm5uaU1OSk5ZdHdPOXlNUkVqaWVleWhNRDNyTG5rbTVSZE1qNnlCdXlkcHlMT0o2dE1SUFE3OVBMcE40NDNGUkNIelp0YzM?oc=5",
+     "titre": "Taiwan weathers wave of cyberattacks ahead of Saturday's elections"
+    },
+    {
+     "source": "Focus Taiwan",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5nYmZINFlLUmtOR1N5aVBtT0lGbWNfY1k2ZEx0bmFnTXI5Ylc2QjI3ZWFpbWNDWngtTEtuY0NkQ0xiUXFhX2VmYlpGSXdBcGpGeDBSSEhtTQ?oc=5",
+     "titre": "2026 ELECTIONS Candidates, party leaders step up campaigning ahead of Saturday's elections"
+    }
+   ]
+  },
+  {
+   "quand": "November 28",
+   "quoi": "Candidate nominations open for the 13th Sarawak state election in Malaysia ahead of December 12 polling",
+   "liens": [
+    {
+     "source": "Straits Times Asie",
+     "url": "https://www.straitstimes.com/asia/se-asia/sarawak-polls-parties-campaign-workers-urged-to-observe-strict-electrical-safety-measures",
+     "titre": "Sarawak polls: Parties, campaign workers urged to observe strict electrical safety measures"
+    }
+   ]
+  },
+  {
+   "quand": "November 29",
+   "quoi": "Spain holds general elections with high voter focus on the national housing crisis",
+   "liens": [
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONjZzMy1MR1FIaWhtS2xqeWlHSmVfN3piVTAtczU5djZMOFludlVUa3M3SC1yeDBqWGlOd0NFMmdUUWRGX3ZMVDQ4aDF2TTN1U2lXOEdfb1pNWmt0TXQ2OHhHUEMwcFhBdk5TMFZKejdhRktPM2ZXUEp6Ym1IOVA1M1RvNnpZNFkwQ05TLWRGb25uTmtqYlM1YlliWFhUcGs?oc=5",
+     "titre": "Spain general election 2026: polls, Sanchez vs Feijoo and what happens next"
+    },
+    {
+     "source": "Le Monde International",
+     "url": "https://www.lemonde.fr/international/visuel/2026/11/26/legislatives-en-espagne-les-cartes-et-graphiques-pour-comprendre-comment-la-crise-du-logement-est-devenue-un-enjeu-de-la-campagne_6815566_3210.html",
+     "titre": "Législatives en Espagne : les cartes et graphiques pour comprendre comment la crise du logement est devenue un enjeu de la campagne"
+    }
+   ]
+  },
+  {
+   "quand": "November 30",
+   "quoi": "Former Philippine President Rodrigo Duterte goes on trial at the ICC in The Hague",
+   "liens": [
+    {
+     "source": "CNA Asie",
+     "url": "https://www.channelnewsasia.com/asia/philippines-photographers-reflect-duterte-drug-war-6586721",
+     "titre": "'Proof it happened': Photographers reflect on Duterte's drug war"
+    },
+    {
+     "source": "Straits Times Asie",
+     "url": "https://www.straitstimes.com/asia/families-of-slain-filipinos-seek-justice-as-dutertes-icc-trial-set-to-start",
+     "titre": "Families of slain Filipinos seek justice as Duterte's ICC trial set to start"
+    }
+   ]
+  },
+  {
+   "quand": "December 27",
+   "quoi": "Serbia conducts early presidential election to consolidate ruling authority",
+   "liens": [
+    {
+     "source": "The Straits Times",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQak9nU3UxVm13Nl9KejdWRVJYRTJwb05DdS1NSDBPTWFJUEptTWkxVXIyODMwZW9BeGxuYWNBN1FfV1JHbmJIZThueHRSUDlnNVp1a3Y0cE1aOHdXVFpNRmhTXzZZS2hNOTdZaXhiamVNMlpDeFhUX2phN0dUX1ZoaVQ0TE9pOXN5eGpKdVc2czV0dE5GUlkwRWRybFFkcjVHbWJB?oc=5",
+     "titre": "Serbia presidential election set for December 27"
+    },
+    {
+     "source": "Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTk5hZTVaaUNISTF0QUtueWxWTy1takZ2SU0yY1JRSHdDVldNajFPSWI1Zk4wdlpNOXpWc3IxdGN5WWpLZWNVNnF5Z2RETDhFWFg2NVBqQWhuRjlzZXFFQmpIRE9BeFNnaW42Q0J2V09EYWItX2wxaHRVWnNYVUhDa2dpUGdheU5ORnlJOVA0LUlLWklka2RPb1lwY3dxeGNlQjhHd0FwWXhEcWJRLW9oZXZJUQ?oc=5",
+     "titre": "Cementing Power Shift, Serbia to Elect President on December 27"
+    }
+   ]
+  }
+ ],
+ "hebdo": null,
+ "stats": {
+  "articles": 403,
+  "sources": 53
+ },
+ "fr": {
+  "accroche": [
+   "Deux techniciens de Rheinmetall tués dans une frappe de drone contre un poste radar au Koweït",
+   "L'Ukraine revendique l'interception inédite au laser d'un drone à réaction russe",
+   "La Corée du Nord suspend ses livraisons d'armes à la Russie et teste un moteur de missile"
+  ],
+  "a_surveiller": [
+   {
+    "quand": "28 novembre",
+    "quoi": "Taïwan organise des élections municipales sous haute vigilance cybernétique"
+   },
+   {
+    "quand": "28 novembre",
+    "quoi": "Ouverture des candidatures pour la 13e élection de l'État du Sarawak en Malaisie, avant le scrutin du 12 décembre"
+   },
+   {
+    "quand": "29 novembre",
+    "quoi": "Élections générales en Espagne sur fond de crise aiguë du logement"
+   },
+   {
+    "quand": "30 novembre",
+    "quoi": "Ouverture du procès de l'ancien président philippin Rodrigo Duterte devant la CPI à La Haye"
+   },
+   {
+    "quand": "27 décembre",
+    "quoi": "Élection présidentielle anticipée en Serbie pour asseoir le pouvoir de la coalition dirigeante"
+   }
+  ]
+ }
+}
