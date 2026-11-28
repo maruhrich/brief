@@ -1,0 +1,1072 @@
+{
+ "date": "2026-11-28",
+ "date_label": "Saturday, November 28, 2026",
+ "genere_le": "2026-11-28T12:19:43+08:00",
+ "mode": "ia",
+ "modele": "gemini-3.6-flash",
+ "accroche": [
+  "Taiwan votes in local elections amid heightened Chinese military activity",
+  "US Air Force air defence cloud platform breached by hackers",
+  "US military disables cargo vessel attempting to breach Iran blockade"
+ ],
+ "essentiel": [
+  {
+   "suite": true,
+   "remplace": "2026-11-27|Taiwan tightens cyber security ahead of local elections",
+   "emoji": "🗳️",
+   "titre": "Taiwan holds local elections under Chinese military pressure",
+   "resume": "Taiwan is holding island-wide local elections on November 28, with the Taipei mayoral race in focus. Beijing deployed warplanes around the island during polling.",
+   "pourquoi": "",
+   "pays": [
+    "Taiwan",
+    "China"
+   ],
+   "region": "North-East Asia",
+   "rubrique": "elections",
+   "liens": [
+    {
+     "source": "AP News",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSEJHN0tUWVBOd3BrNkpaTm1EaHlTeXp1aDZBZnJ1aUdEbkNVUUJJTXdJbFNXVHhLUWJwNUpRV3lUdEZTUl9Kbi1LWkhlWjBmRUdVRlNQQTVOb3JhWW5sb0pVUklXNXlndFJ2VXRNZnF1WENxMXJjTGN3RHJ4d0FreGRZdzN0ZWQ4WVE?oc=5",
+     "titre": "Taiwan holds elections to choose mayors and other local leaders as China looks on"
+    },
+    {
+     "source": "DW.com",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSEFOc2RyaDRYNHJLb2hCUGhpMlFKNWNCQXdsVWJrRV9QTlhrZE9oQld2b1dheFJXUXB1NTV3WERWZ1M2U0FKczlkUGhONW1oS3VlZlI2c2ZMdm5KdGFWMWx3MHdEV1pmN2JlVXFSNHdveEMxeDJWREJTNGVRcGZ1dlRnVG0yU1I5dkk0bW9CQdIBjwFBVV95cUxQaXBQb00xRHBXM3VpeWJGSUI3SHZmckxxY1JNa2YySUFxZThxTW16cnhlT2VCY2VfTm5icWJSN0FoR29lU2MyT19qNjMyZGR0S1hpUVdsOXBxUlZVT3hJU01wTjRib1B4cGc3ZWZMc2FjU21qTEdIbDlva0VxdUR6cFo4MjdCQjdHUEVjTFJzZw?oc=5",
+     "titre": "Taiwan goes to polls in closely watched local elections"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/28/taiwan-votes-in-local-elections-to-choose-mayors-other-leaders?traffic_source=rss",
+     "titre": "Taiwan votes in local elections to choose mayors, other leaders"
+    },
+    {
+     "source": "Straits Times Asie",
+     "url": "https://www.straitstimes.com/asia/east-asia/taiwan-goes-to-polls-warns-of-beijing-interference",
+     "titre": "Taiwan goes to polls, warns of Beijing interference"
+    }
+   ],
+   "visuel": null,
+   "id": "2026-11-28|Taiwan holds local elections under Chinese military pressure",
+   "fr": {
+    "titre": "Taïwan organise des élections locales sous la pression militaire chinoise",
+    "resume": "Taïwan organise des élections locales sur l'ensemble de l'île le 28 novembre, avec une attention particulière portée à la municipalité de Taipei. Pékin a déployé des avions de combat autour de l'île pendant le scrutin.",
+    "pays": [
+     "Taïwan",
+     "Chine"
+    ]
+   }
+  },
+  {
+   "suite": false,
+   "remplace": null,
+   "emoji": "⚠️",
+   "titre": "Hackers breach US Air Force air defence cloud system",
+   "resume": "Cyber attackers breached the US Air Force's flagship Cloud One computing platform. The system manages North American air defence radars and missile deployment data.",
+   "pourquoi": "",
+   "pays": [
+    "United States"
+   ],
+   "region": "Americas",
+   "rubrique": "defense_aerienne",
+   "liens": [
+    {
+     "source": "TBS NEWS DIG",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE91SXNub0ExRXRVRGVhcGZhTHNMbkZNYTUxTWcyNzVGOUV4S3hBbkdjQTA1TVE1SGF4eHQyZk5BLXlUVDhBWTFtRDBKWEtYWk5reVByYlBJSQ?oc=5",
+     "titre": "米空軍のクラウド基幹システムにハッカー侵入 北米全域の防空レーダーやミサイル配備状況など管理 サイバー軍が被害調査 政府システムに攻撃相次ぐ"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQnhWb2oyc2Qta3k0bUhwbGZTcWZMREZ0VU41eVNZWDJZTDlBcmMxZzFrLXlmVGJpUHBRbVdBRlNoQU9lWUlIcVpMcXQwWWpyYVJ2eDJQa1ZvNFU5MUFHLWdpQW1BVloyUW5lTUlVSlFpLXJwVHNLMl9fQnBFTTNnemY4Q0JiUkN3SXFndG1pX1l1TmdySFJDOHJlWC1fMnE3cjlaVFB5M1hWbU0?oc=5",
+     "titre": "EXCLUSIVE: Hackers breach US Air Force flagship Cloud One computing platform"
+    },
+    {
+     "source": "AeroTime",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1NeVFSTnRySFVRQTFCRlpuS2FZSFFkRkF6aUdxY3hxVnA5REZqOXltZHROTnJZamVzOFRtNWcyZVhieXowWkpvYzg3em9rMFdmWUQ5d19Jd3Jna2FfS282N3dXX2NHQTlLcGNQRFNnWVZ1aU9WcndkSNIBfkFVX3lxTE43ekVJbmlDOGtYamtSakUtb0NpNzlxcGk5TGxqNE5vN1VsWlBfNzdhRTRYU2E0S2djbUt6ZGdKbGpFX0VBSlotcVI1aVJlcHo0UU1SMkU4V0VjTnVWTUY2Si12RkxCUWl3cHItMVpOeHBrM2ZjM0plZHhPWVBDUQ?oc=5",
+     "titre": "Hackers breach US Air Force cloud platform used for air defense"
+    },
+    {
+     "source": "Defense News",
+     "url": "https://www.defensenews.com/pentagon/2026/11/27/hackers-breach-us-air-force-flagship-cloud-one-computing-platform/",
+     "titre": "Hackers breach US Air Force flagship Cloud One computing platform"
+    }
+   ],
+   "visuel": null,
+   "id": "2026-11-28|Hackers breach US Air Force air defence cloud system",
+   "fr": {
+    "titre": "Des pirates informatiques s'introduisent dans le système cloud de défense aérienne de l'US Air Force",
+    "resume": "Des cyberattaquants ont piraté Cloud One, la plateforme informatique phare de l'US Air Force. Ce système gère les radars de défense aérienne nord-américains ainsi que les données de déploiement des missiles.",
+    "pays": [
+     "États-Unis"
+    ]
+   }
+  },
+  {
+   "suite": false,
+   "remplace": null,
+   "emoji": "🚢",
+   "titre": "US military disables ship breaching Iran blockade",
+   "resume": "US forces fired precision munitions to disable the propulsion of cargo ship Pacific Archer. The vessel had departed an Iranian port and ignored warnings to halt.",
+   "pourquoi": "",
+   "pays": [
+    "United States",
+    "Iran",
+    "Palau"
+   ],
+   "region": "Middle East",
+   "rubrique": "moyen_orient",
+   "liens": [
+    {
+     "source": "Japan Times",
+     "url": "https://www.japantimes.co.jp/news/2026/11/28/world/us-military-fires-ship-iran-blockade/",
+     "titre": "U.S. military fires on ship violating Iran blockade"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/us-disables-ship-attempting-to-breach-iran-blockade?traffic_source=rss",
+     "titre": "US disables ship attempting to breach Iran blockade"
+    },
+    {
+     "source": "Al-Monitor",
+     "url": "https://www.al-monitor.com/originals/2026/11/us-disables-ship-trying-leave-iran-tehran-vows-confront-blockade",
+     "titre": "US disables ship trying to leave Iran, as Tehran vows to confront blockade"
+    },
+    {
+     "source": "The Korea Times",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNLWZmd0g1NWhRNWU2YzNyZGljY0I0bkxiTm55WjZ3V3JRX1haQUhGcl9MZk9OcHNBWE5iWW9kMlBRM2Nvb25oREtIZVZIT3FtZFY4dkNid2dtLVV0eDNmSlhmZ3I1U0ROMVhBSkpzcTlDaGQzd2N5a0tmY3VGZHlHeXZlQVhnQ256NnAwVThpMm1aeExOd1RNRXJfMHlGSHhDNGdGY2RNNGZ4Tk5SUG1oSkpnaHRLRkRlc3ptNNIBwgFBVV95cUxPdzh6YnlybnByZU5XblBGWXh4a0VDLWZ2RnMxWEZKbEhDdU52MFNGNGdKTlhyc0hhZDZvQS1TSFVDWEt0aVFuMXk2VEdxSHdRbHFvNkRoWXdzYkdnRG9iVXFMT2R2M0d2VllXV2ZnVTRydzhEM1NtYS1UZzZ1Y3otQW5BaURXUm4yZGItb0F3UXI5N1V3OUpOemFPc3UwTkZnY3RLX01UWG51OHVHNVlTMEJVOHAxcjdOTnM3MGg2d25CUQ?oc=5",
+     "titre": "US military says it disabled another ship attempting to breach Iran blockade"
+    }
+   ],
+   "visuel": null,
+   "id": "2026-11-28|US military disables ship breaching Iran blockade",
+   "fr": {
+    "titre": "L'armée américaine neutralise un navire violant le blocus contre l'Iran",
+    "resume": "Les forces américaines ont tiré des munitions de précision pour neutraliser la propulsion du cargo Pacific Archer. Le navire avait quitté un port iranien et ignoré les sommations d'arrêter sa course.",
+    "pays": [
+     "États-Unis",
+     "Iran",
+     "Palaos"
+    ]
+   }
+  },
+  {
+   "suite": false,
+   "remplace": null,
+   "emoji": "🛡️",
+   "titre": "Taiwan Air Force completes integration of Huan Zhan C2 network",
+   "resume": "The Republic of China Air Force completed full combat readiness for its Huan Zhan C2 system. The platform integrates army, navy and air force sensors into a unified air defence network.",
+   "pourquoi": "",
+   "pays": [
+    "Taiwan"
+   ],
+   "region": "North-East Asia",
+   "rubrique": "defense_aerienne",
+   "liens": [
+    {
+     "source": "UDN",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5HTEg4d2Z5cHpPcUZNX3VCck1KeThzVzN2S1NVMUdBX2J6bkFVa2wwUmJ6VU5DUHd3NExfRFV1WHBtYm5QaS16V2ZOeExIUzlZYmxLQXpOWdIBV0FVX3lxTE5HTEg4d2Z5cHpPcUZNX3VCck1KeThzVzN2S1NVMUdBX2J6bkFVa2wwUmJ6VU5DUHd3NExfRFV1WHBtYm5QaS16V2ZOeExIUzlZYmxLQXpOWQ?oc=5",
+     "titre": "串聯陸海空三軍整合防空網 空軍「寰展系統」完成全系統戰備"
+    }
+   ],
+   "visuel": null,
+   "id": "2026-11-28|Taiwan Air Force completes integration of Huan Zhan C2 network",
+   "fr": {
+    "titre": "L'armée de l'air taïwanaise achève l'intégration du réseau C2 Huan Zhan",
+    "resume": "L'armée de l'air de la république de Chine a atteint la capacité opérationnelle complète pour son système C2 Huan Zhan. La plateforme intègre les capteurs de l'armée de terre, de la marine et de l'armée de l'air au sein d'un réseau de défense aérienne unifié.",
+    "pays": [
+     "Taïwan"
+    ]
+   }
+  },
+  {
+   "suite": false,
+   "remplace": null,
+   "emoji": "📝",
+   "titre": "Thales acquires French laser technology company Lumibird",
+   "resume": "French defence group Thales confirmed the acquisition of laser technology specialist Lumibird. The deal follows Thales' recent takeover of naval drone manufacturer Exail.",
+   "pourquoi": "",
+   "pays": [
+    "France"
+   ],
+   "region": "Europe",
+   "rubrique": "industrie",
+   "liens": [
+    {
+     "source": "Le Monde International",
+     "url": "https://www.lemonde.fr/economie/article/2026/11/27/thales-confirme-son-statut-de-nouvel-ogre-de-l-industrie-francaise-de-defense-en-rachetant-lumibird_6815892_3234.html",
+     "titre": "Thales confirme son statut de nouvel ogre de l’industrie française de défense en rachetant Lumibird"
+    }
+   ],
+   "visuel": null,
+   "id": "2026-11-28|Thales acquires French laser technology company Lumibird",
+   "fr": {
+    "titre": "Thales acquiert la société française de technologie laser Lumibird",
+    "resume": "Le groupe de défense français Thales a confirmé l'acquisition de Lumibird, spécialiste des technologies laser. Cette opération fait suite au rachat récent du fabricant de drones navals Exail par Thales.",
+    "pays": [
+     "France"
+    ]
+   }
+  }
+ ],
+ "rubriques": [
+  {
+   "id": "airbus",
+   "titre": "Airbus News",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🛡️",
+     "titre": "Denmark selects Airbus SAMOC system for air defence C2",
+     "resume": "Denmark chose Airbus's Surface-to-Air Missile Operations Centre system for its ground-based air defence C2 network. The selection supports Copenhagen's €7.8 billion air defence modernisation.",
+     "pourquoi": "",
+     "pays": [
+      "Denmark",
+      "France",
+      "Germany"
+     ],
+     "region": "Europe",
+     "rubrique": "airbus",
+     "liens": [
+      {
+       "source": "Opex360",
+       "url": "https://www.opex360.com/2026/11/27/le-danemark-retient-le-systeme-de-commandement-et-de-controle-samoc-dairbus-pour-coordonner-sa-defense-aerienne/",
+       "titre": "Le Danemark retient le système de commandement et de contrôle SAMOC d’Airbus pour coordonner sa défense aérienne"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-28|Denmark selects Airbus SAMOC system for air defence C2",
+     "fr": {
+      "titre": "Le Danemark choisit le système SAMOC d'Airbus pour le C2 de sa défense aérienne",
+      "resume": "Le Danemark a retenu le système Surface-to-Air Missile Operations Centre (SAMOC) d'Airbus pour son réseau C2 de défense antiaérienne basée au sol. Ce choix s'inscrit dans le cadre de la modernisation de la défense aérienne de Copenhague, d'un montant de 7,8 milliards d'euros.",
+      "pays": [
+       "Danemark",
+       "France",
+       "Allemagne"
+      ]
+     }
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🛩️",
+     "titre": "EASA issues emergency directive for Airbus H160 cockpit windows",
+     "resume": "The European Union Aviation Safety Agency issued an emergency airworthiness directive for Airbus H160 helicopters. The directive mandates immediate inspections of cockpit windows following safety findings.",
+     "pourquoi": "",
+     "pays": [
+      "France"
+     ],
+     "region": "Europe",
+     "rubrique": "airbus",
+     "liens": [
+      {
+       "source": "AeroTime",
+       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVHRvR0Y4U19YeUVvS2M0cVh5OVA1ZzBRY1Axb1RqT1dScGZzUG5heGhhUjg1NmZMeDB3V21OVGlsdlRRMm1sQkNhVzQ3QzgwVG9zYzhCT3VvS3hVR2g3WWFRZzY0QlhPLUZWZnBjSUs0RmFJNTdFRUFLMi1DY1MxRnhsQkphVFFIbW840gGQAUFVX3lxTE9pclpmREVJMnE0bnRKSk1ha2tzVXF4cEh1T1lGeFc0Z0xicVlaVGNOV3BtSWJta0hpS0xEbkdGY2lHUFF1dHRhT21jX0JCX0ZEcU9jSEVHekdXVVluNFJoR2hKYy1WN2ZWTUotdnhlV2N1LVRWMlNzTGw2a2NqQV9qZ19QY1VkN3VNR1RkeHhHZA?oc=5",
+       "titre": "EASA orders emergency checks of Airbus H160 cockpit windows"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-28|EASA issues emergency directive for Airbus H160 cockpit windows",
+     "fr": {
+      "titre": "L'AESA émet une directive d'urgence concernant les fenêtres du cockpit de l'Airbus H160",
+      "resume": "L'Agence européenne de la sécurité aérienne a émis une directive de navigabilité d'urgence pour les hélicoptères Airbus H160. La directive impose des inspections immédiates des fenêtres du cockpit à la suite de constatations relatives à la sécurité.",
+      "pays": [
+       "France"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "monde",
+   "titre": "World",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🤝",
+     "titre": "Venezuela repeals opposition political ban ahead of Machado's return",
+     "resume": "Venezuela announced plans to repeal legislation banning opposition figures from holding public office. The move follows the return of opposition leader Maria Corina Machado to the country.",
+     "pourquoi": "",
+     "pays": [
+      "Venezuela"
+     ],
+     "region": "Americas",
+     "rubrique": "monde",
+     "liens": [
+      {
+       "source": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/27/venezuela-to-repeal-law-that-bans-opposition-figures-from-office?traffic_source=rss",
+       "titre": "Venezuela to repeal law that bans opposition figures from office"
+      }
+     ],
+     "visuel": {
+      "nom": "María Corina Machado",
+      "description": "Venezuelan politician and activist (born 1967)",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Nobel_Peace_Prize_2025_-_Mar%C3%ADa_Corina_Machado_press_conference_%283x4_cropped%29.jpg/960px-Nobel_Peace_Prize_2025_-_Mar%C3%ADa_Corina_Machado_press_conference_%283x4_cropped%29.jpg",
+      "page": "https://en.wikipedia.org/wiki/Mar%C3%ADa_Corina_Machado",
+      "type": "person"
+     },
+     "id": "2026-11-28|Venezuela repeals opposition political ban ahead of Machado's return",
+     "fr": {
+      "titre": "Le Venezuela abroge l'inéligibilité des opposants avant le retour de Maria Corina Machado",
+      "resume": "Le Venezuela a annoncé son intention d'abroger la législation interdisant aux figures de l'opposition d'exercer des fonctions publiques. Cette décision fait suite au retour dans le pays de la cheffe de l'opposition Maria Corina Machado.",
+      "pays": [
+       "Venezuela"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "asie",
+   "titre": "APAC",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🇸🇬",
+     "titre": "Singapore outlines 2027 ASEAN chairmanship priorities",
+     "resume": "Singapore Foreign Minister Vivian Balakrishnan stated that Singapore's 2027 ASEAN chairmanship will focus on deeper economic integration and regional stability. He stressed maintaining an inclusive zone without becoming a proxy arena.",
+     "pourquoi": "",
+     "pays": [
+      "Singapore"
+     ],
+     "region": "South-East Asia",
+     "rubrique": "asie",
+     "liens": [
+      {
+       "source": "Straits Times Singapour",
+       "url": "https://www.straitstimes.com/singapore/greater-economic-integration-peace-will-be-success-markers-for-spore-as-asean-chair-vivian",
+       "titre": "Greater economic integration, peace will be success markers for S’pore as ASEAN chair: Vivian"
+      },
+      {
+       "source": "CNA Singapour",
+       "url": "https://www.channelnewsasia.com/singapore/vivian-balakrishnan-singapore-asean-success-6587056",
+       "titre": "ASEAN unity, deeper integration key measures of successful 2027 chairmanship: Vivian Balakrishnan"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-28|Singapore outlines 2027 ASEAN chairmanship priorities",
+     "fr": {
+      "titre": "Singapour détaille ses priorités pour la présidence de l'ASEAN en 2027",
+      "resume": "Le ministre des Affaires étrangères de Singapour, Vivian Balakrishnan, a déclaré que la présidence singapourienne de l'ASEAN en 2027 se concentrera sur le renforcement de l'intégration économique et de la stabilité régionale. Il a souligné la nécessité de maintenir une zone inclusive sans devenir un terrain d'affrontement par procuration.",
+      "pays": [
+       "Singapour"
+      ]
+     }
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🛩️",
+     "titre": "Philippines pursues six CH-47F Chinook helicopters via US military aid",
+     "resume": "The Philippine Air Force is seeking six Boeing CH-47F Chinook heavy-lift helicopters funded through US military assistance. The aircraft will support tactical transport and disaster relief operations.",
+     "pourquoi": "",
+     "pays": [
+      "Philippines",
+      "United States"
+     ],
+     "region": "South-East Asia",
+     "rubrique": "asie",
+     "liens": [
+      {
+       "source": "Aviation Week",
+       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdEpScDB5cVk0dzJIbGxRY01PaFY2Ql8yZGI1TVU1MHBYamdJWXB2UG1Nbi1MZVNyNzZLZHhRM2MxbXpKY1dLVjZaYWgzOEtVX3I0Wnd6OW9xS2pOR3FYOF9zUWFRSy1iVlJGSG1YaUZpY2JlQVBPa2ltaHUzNFhUZzlOalpwX0l2bGpmVE9lY0tiT2htYl9rN1RyUHM4SWNLVmpQYWZkN1pKUQ?oc=5",
+       "titre": "Philippines Seeks Six CH-47F Chinooks With U.S. Military Aid"
+      },
+      {
+       "source": "Asian Military Review",
+       "url": "https://www.asianmilitaryreview.com/2026/11/philippines-lines-up-for-chinook-helicopters-foc/",
+       "titre": "Philippines lines up for Chinook helicopters"
+      }
+     ],
+     "visuel": {
+      "nom": "Boeing CH-47 Chinook",
+      "description": "American tandem-rotor helicopter introduced in 1962 during the Cold War",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/CH-47_assigned_to_3rd_General_Support_Aviation_Battalion%2C_82nd_Combat_Aviation_Brigade.jpg/960px-CH-47_assigned_to_3rd_General_Support_Aviation_Battalion%2C_82nd_Combat_Aviation_Brigade.jpg",
+      "page": "https://en.wikipedia.org/wiki/Boeing_CH-47_Chinook",
+      "type": "platform"
+     },
+     "id": "2026-11-28|Philippines pursues six CH-47F Chinook helicopters via US military aid",
+     "fr": {
+      "titre": "Les Philippines cherchent à acquérir six hélicoptères CH-47F Chinook via l'aide militaire américaine",
+      "resume": "L'armée de l'air philippine cherche à obtenir six hélicoptères de transport lourd Boeing CH-47F Chinook financés par l'assistance militaire américaine. Ces appareils soutiendront les opérations de transport tactique et de secours en cas de catastrophe.",
+      "pays": [
+       "Philippines",
+       "États-Unis"
+      ]
+     }
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "⚠️",
+     "titre": "Iran warns South Korea over expanded Gulf naval presence",
+     "resume": "Tehran cautioned Seoul that expanding South Korean naval deployments near the Strait of Hormuz could heighten regional tensions. South Korea is evaluating broadening its maritime security mission in the Gulf.",
+     "pourquoi": "",
+     "pays": [
+      "Iran",
+      "South Korea"
+     ],
+     "region": "Middle East",
+     "rubrique": "asie",
+     "liens": [
+      {
+       "source": "Al-Monitor",
+       "url": "https://www.al-monitor.com/originals/2026/11/how-foreign-navies-could-reshape-irans-grip-hormuz-after-war",
+       "titre": "How foreign navies could reshape Iran’s grip on Hormuz after the war"
+      },
+      {
+       "source": "CNA Asie",
+       "url": "https://www.channelnewsasia.com/world/iran-warns-gulf-military-presence-south-korea-6586851",
+       "titre": "Iran warns on Gulf military presence as South Korea readies expanded naval role"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-28|Iran warns South Korea over expanded Gulf naval presence",
+     "fr": {
+      "titre": "L'Iran met en garde la Corée du Sud contre l'extension de sa présence navale dans le Golfe",
+      "resume": "Téhéran a averti Séoul que l'extension des déploiements navals sud-coréens près du détroit d'Ormuz pourrait accroître les tensions régionales. La Corée du Sud évalue l'élargissement de sa mission de sécurité maritime dans le Golfe.",
+      "pays": [
+       "Iran",
+       "Corée du Sud"
+      ]
+     }
+    },
+    {
+     "suite": true,
+     "remplace": "2026-11-25|Beijing investigates Shanghai Party Secretary Chen Jining",
+     "emoji": "🤝",
+     "titre": "Downfall of Shanghai chief reshapes Chinese political succession dynamics",
+     "resume": "An anti-corruption probe into Shanghai Party Chief Chen Jining has opened a key regional leadership post ahead of major party reshuffles. Chen was previously viewed as a potential successor to Xi Jinping.",
+     "pourquoi": "",
+     "pays": [
+      "China"
+     ],
+     "region": "North-East Asia",
+     "rubrique": "asie",
+     "liens": [
+      {
+       "source": "The Diplomat",
+       "url": "https://thediplomat.com/2026/11/chen-jining-the-tragedy-of-the-potential-successor-in-chinese-politics/",
+       "titre": "Chen Jining: The Tragedy of the ‘Potential Successor’ in Chinese Politics"
+      },
+      {
+       "source": "Straits Times Asie",
+       "url": "https://www.straitstimes.com/asia/downfall-of-shanghai-party-chief-opens-route-to-pinnacle-of-politics",
+       "titre": "Downfall of Shanghai Party chief opens route to pinnacle of politics"
+      },
+      {
+       "source": "RFI Asie-Pacifique",
+       "url": "https://www.rfi.fr/fr/podcasts/appels-sur-l-actualit%C3%A9/20261127-chine-xi-jinping-%C3%A9carte-t-il-ses-successeurs-potentiels",
+       "titre": "Chine: Xi Jinping écarte-t-il ses successeurs potentiels?"
+      }
+     ],
+     "visuel": {
+      "nom": "Chen Jining",
+      "description": "Chinese academic and politician",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Chen_Jining_2019.png",
+      "page": "https://en.wikipedia.org/wiki/Chen_Jining",
+      "type": "person"
+     },
+     "id": "2026-11-28|Downfall of Shanghai chief reshapes Chinese political succession dynamics",
+     "fr": {
+      "titre": "La chute du chef du parti à Shanghai remanie la dynamique de succession politique chinoise",
+      "resume": "Une enquête pour corruption ciblant le chef du Parti communiste à Shanghai, Chen Jining, a libéré un poste clé de direction régionale avant des remaniements majeurs au sein du Parti. Chen était jusqu'alors considéré comme un successeur potentiel de Xi Jinping.",
+      "pays": [
+       "Chine"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "elections",
+   "titre": "Elections & Politics",
+   "items": [
+    {
+     "suite": true,
+     "remplace": "2026-11-27|New Zealand election ends in hung parliament",
+     "emoji": "🗳️",
+     "titre": "New Zealand faces complex negotiations following hung parliament",
+     "resume": "Final election tallies confirmed Prime Minister Christopher Luxon's governing coalition fell one seat short of a parliamentary majority. Parties are beginning negotiations to form a workable government.",
+     "pourquoi": "",
+     "pays": [
+      "New Zealand"
+     ],
+     "region": "Oceania",
+     "rubrique": "elections",
+     "liens": [
+      {
+       "source": "RFI Asie-Pacifique",
+       "url": "https://www.rfi.fr/fr/asie-pacifique/20261127-%C3%A9lections-en-nouvelle-z%C3%A9lande-la-coalition-au-pouvoir-perd-de-peu-la-majorit%C3%A9-au-parlement",
+       "titre": "Élections en Nouvelle-Zélande: la coalition au pouvoir perd de peu la majorité au Parlement"
+      },
+      {
+       "source": "Al Jazeera",
+       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTHM3a3ZBTDUya0UzeVNCSmJoN1RKYjhPQ3dhejlYa2dKU3ZJSlZMbi1sdGx0OU5NUUJXSzFaY0JwWlZlY3lMcXNTWFZOWm5xa1VYVHZpRjFkc1AtT0pwZDBVZ0lFRE04NEVfYzJwX2JEMHR3YlBFZ3Q2UlR6YXZ1TnF0enJyLXRwYnZzZmtPUVpmaXNiWHpBQTRtaTdWTXZJRFZRZV9sc0ZiMzJwNUE1TWJBT2hyY18t0gG-AUFVX3lxTFBQTUU4UGlXcU93RlZqbnZxWDlPNlpxR1l3X05rUVd1U1lTaGJHOWRSbENIbkRaY2tJS0NxTlp3bXBfemZDWFpiM2tQQldvNGN2Y2lzSGJCbW9ncDRfaU8wbDRQVUpodUhRZlJoblhmUkdPdzNLMHQzTnoyUGhnRnlhX2M4bGtfa3hPODgwZ2pyN0w3ZGJfc2loVmR5STVWSlNiSl9JOGVjMkpMOEszODBhMEFwYWRvNzk4TFBaSmc?oc=5",
+       "titre": "New Zealand election results set up tricky talks for conservative incumbent"
+      },
+      {
+       "source": "Reuters",
+       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUWJBaUxjVk96cHhaMmw1MGNNZlR3OWNObmJCdVd3b2haTmlNY0F1ejBsaERXQnVXSGdVbTNSbTlvRG0yZnk5SF9hNUEwQl9ULXJ5U1kxSE9PUEQxZTZvYUJKajNacndrcnkzSEdaSW5OTWJaV1BWQjNVT2d5MF80NDZYeVZVQkc0NE1VUVZ6OVAzNzFtaG9sRzF1alUxTjMxYmhQVHB0UmRaeXZ3T3FuNS1KMVN0UGRWZFJLeA?oc=5",
+       "titre": "Explainer: Parties to negotiate after no one wins majority in New Zealand election"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-28|New Zealand faces complex negotiations following hung parliament",
+     "fr": {
+      "titre": "La Nouvelle-Zélande confrontée à des négociations complexes après un Parlement sans majorité",
+      "resume": "Les résultats définitifs du scrutin ont confirmé qu'il manque un siège à la coalition gouvernementale du Premier ministre Christopher Luxon pour obtenir la majorité absolue au Parlement. Les partis entament des négociations pour former un gouvernement viable.",
+      "pays": [
+       "Nouvelle-Zélande"
+      ]
+     }
+    },
+    {
+     "suite": true,
+     "remplace": "2026-11-26|Coalition targets assets ahead of Victoria state election",
+     "emoji": "🗳️",
+     "titre": "Polls open for Victoria state election in Australia",
+     "resume": "Polls opened across Victoria for state elections, with opposition parties proposing asset sales and infrastructure pledges. Opinion polls indicate a tight contest for the state government.",
+     "pourquoi": "",
+     "pays": [
+      "Australia"
+     ],
+     "region": "Oceania",
+     "rubrique": "elections",
+     "liens": [
+      {
+       "source": "The Guardian",
+       "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNemJrS0JLYW85VHMwMlhGcjBNd0NZcXRsdGlUUFRjT05CQ1hxTUVRaEMyLTBrQV9xVEp5Y3pZc3o1eUh5bkd1MTZubUxaVWtsSzQ1eE8zRThOYVJYUV95Vy1PdXRGcjc3b09BaFJyeEprWGptdm9Wd29DaHkyMkdBRHR3WklMUEN3VWJPaGtuWHQ5U3BvR2QwWHhPOE5NNG9wTllkR3RmdWhrQWRSeWpwdEpwb3dyX3hpZ3VqWmotMWdfNkJKOVd3SnByTnVBa0RKT2lDNDN4aGxMMXIyU1RteTNab2g3d091aHhwak4wVHlXMDVLOVRlVmgtZjBEMFBNN1FXZ0tNOA?oc=5",
+       "titre": "Confused about who to vote for in the Victoria election? A guide to each party’s key policy promises"
+      },
+      {
+       "source": "The Star",
+       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNY3pQbkprN2w5cTF1QzdIR2xMdEdQNlBRd005V0E5Y1R1NXdfd3ptMFdKM1pWUjFud2l1dXY2Z2tzU2twVHQ3NTF6VGVvYXVjWXM0blNicE1NMWRXQWFHckZmOGZOdjNab1dMRllMdndYVVQxa21BU1A2MEFQWW1qeUZKckdTUmxvWXpXQmR0bXhoSUViNEd3Ri15bFNkRXl2Uy1DZ1A5QU80LTFlamhSdkxuVnQ0OWpyTVhv?oc=5",
+       "titre": "Polls open in Australia's Victoria for state elections"
+      },
+      {
+       "source": "Reuters",
+       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNHQxbDdtbl85elpYcUp3MERqcUQ2am1id0JiaDByWVpPajQwVDhRNkR2NGh6eTR6cDFwQnJoMWdua1p2NnhNbkVHb2RFYm5pcWlob3VMUFBtQkdIVGd2WVBUZVEwOG5oVXNhRzZudkpzUXVHdG9aVWNrMlpseUI5M0Nvemd4QjFhUWZxOWplOXpIWVFVN1ZmakV0Z0N3MnNpR2pkVFJ1YnJoZGxBTFI1dGc4LTVpcS1wX1ZHMUFn?oc=5",
+       "titre": "Conservatives would win election in Australia's second state, says poll"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-28|Polls open for Victoria state election in Australia",
+     "fr": {
+      "titre": "Ouverture des bureaux de vote pour l'élection de l'État de Victoria en Australie",
+      "resume": "Les bureaux de vote ont ouvert dans tout l'État de Victoria pour les élections locales, les partis d'opposition proposant des cessions d'actifs et des promesses d'infrastructures. Les sondages d'opinion indiquent une lutte serrée pour la direction de l'État.",
+      "pays": [
+       "Australie"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "defense_aerienne",
+   "titre": "Air & Missile Defence",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🛡️",
+     "titre": "French Defence Ministry adds counter-drone pillar to DGA Drone Pact",
+     "resume": "France expanded its public-private Drone Pact initiative by integrating a dedicated counter-UAS procurement pillar. The measure aims to rapidly equip French forces with sovereign drone interception capabilities.",
+     "pourquoi": "",
+     "pays": [
+      "France"
+     ],
+     "region": "Europe",
+     "rubrique": "defense_aerienne",
+     "liens": [
+      {
+       "source": "Opex360",
+       "url": "https://www.opex360.com/2026/11/27/le-ministere-des-armees-integre-un-volet-lutte-antidrone-au-pacte-drones-aeriens-de-defense-de-la-dga/",
+       "titre": "Le ministère des armées intègre un volet «lutte antidrone» au pacte «drones aériens de défense» de la DGA"
+      },
+      {
+       "source": "Unmanned airspace",
+       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMkVSUDVIa0VWLUJraG8xT0NudzE5ajlVM01lVExPeUIxSTQ1OF9CdzhXSWNuUkhmem9BTTUtTFRxWUd4akhiOGYwOHJOVEFHbExrbWtLd0cxclc2Vl9sWklFcnRic1pKRERaNF9hZks5UlpFMmtCTUgzX29LZFRIVERXUS1iSTNOSXVOcm5yb1dqbWVKM0JfMjUtREg0QzZ1V2JScXhEUVJ3eUNGbF9GYkFQMVlsSm9UQWZBSEwxcnV4QlJBWXd3SS1RbGtndHVIRGNZVWlVajNsREwz?oc=5",
+       "titre": "France launches C-UAS component for its public-private Drone Pact initiative"
+      },
+      {
+       "source": "Defense News",
+       "url": "https://www.defensenews.com/global/europe/2026/11/27/france-kicks-off-defense-industry-pact-to-build-up-counter-drone-efforts/",
+       "titre": "France kicks off defense-industry pact to build up counter-drone efforts"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-28|French Defence Ministry adds counter-drone pillar to DGA Drone Pact",
+     "fr": {
+      "titre": "Le ministère des Armées ajoute un volet lutte anti-drones au Pacte Drones de la DGA",
+      "resume": "La France a élargi son initiative public-privé « Pacte Drones » en y intégrant un volet d'acquisition dédié à la lutte anti-drones. Cette mesure vise à équiper rapidement les forces françaises de capacités souveraines d'interception de drones.",
+      "pays": [
+       "France"
+      ]
+     }
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🛡️",
+     "titre": "France proposes SAMP/T air defence system to Switzerland",
+     "resume": "France pitched the Franco-Italian SAMP/T surface-to-air missile system to Swiss defence officials. Switzerland is evaluating long-range air defence options to modernise its ground-based air defence.",
+     "pourquoi": "",
+     "pays": [
+      "France",
+      "Switzerland"
+     ],
+     "region": "Europe",
+     "rubrique": "defense_aerienne",
+     "liens": [
+      {
+       "source": "Reuters",
+       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNU3hRbUVrRGZKNmtBN3F4c1RFWjR2X2lHcDRNYjBFeUprRTZkdGV6d2YyY3RWR2JhY3lZSTFPOFVHNlhkbldVcUVxb2RuT0RsTWZFbjhORnVfRjc5WXVEM1BXS1piVG1SWVpZckNFNE83d19hYjQ4eDh1ZVV1bGVUb1MyaDhBdWtQdjFaQmFfYmtOYXc3aTF6bjVwTFI2aDdQMkdjcGlzZzR1M0o1XzBVazl0U0N2UUNJVEZ3YlBlYTNZb3Yz?oc=5",
+       "titre": "French minister pitches Franco-Italian air defence system to Swiss"
+      }
+     ],
+     "visuel": {
+      "nom": "SAMP/T",
+      "description": "Franco-Italian surface-to-air missile system",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Italian_Army_-_4th_Anti-aircraft_Artillery_Regiment_%22Peschiera%22_SAMPT_missile_launch.jpg",
+      "page": "https://en.wikipedia.org/wiki/SAMP%2FT",
+      "type": "platform"
+     },
+     "id": "2026-11-28|France proposes SAMP/T air defence system to Switzerland",
+     "fr": {
+      "titre": "La France propose le système de défense aérienne SAMP/T à la Suisse",
+      "resume": "La France a proposé le système de missiles sol-air franco-italien SAMP/T aux responsables de la défense suisses. La Suisse évalue actuellement des options de défense aérienne à longue portée afin de moderniser sa défense antiaérienne basée au sol.",
+      "pays": [
+       "France",
+       "Suisse"
+      ]
+     }
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🛡️",
+     "titre": "Embraer SABER M200 air defence radar completes operational trials",
+     "resume": "Embraer completed field trials for its SABER M200 multi-mission air defence radar. The mobile radar will enter service with the Brazilian Army to provide medium-altitude surveillance.",
+     "pourquoi": "",
+     "pays": [
+      "Brazil"
+     ],
+     "region": "Americas",
+     "rubrique": "defense_aerienne",
+     "liens": [
+      {
+       "source": "Defence Industry Europe",
+       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQ3E0MWlkSEhmNXhjVjhpRm9aZXVVaHg2emd2ZDMxMFh3cmplbXJ0aFlfZVVSQXdjMFdiY3RwVGpSblVoQVBFYmNLS251UG9ZbVBfN09jdzZXeXBOTWdaay0ya25ycXZvcXBMUmJmU0FwSVU4YUoxV1B2SnpPcmx2eDMxal8xTC1yU1laUl9ybU85NmRzOFE1b2pOM3IzckphNTRpVS1KNVZPRzV1X05TNWtvaXpENTBYVk00?oc=5",
+       "titre": "Embraer says SABER M200 air defence radar completed trials ahead of Brazilian Army service"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-28|Embraer SABER M200 air defence radar completes operational trials",
+     "fr": {
+      "titre": "Le radar de défense aérienne SABER M200 d'Embraer termine ses essais opérationnels",
+      "resume": "Embraer a terminé les essais sur le terrain de son radar multimission de défense aérienne SABER M200. Ce radar mobile entrera en service au sein de l'armée de terre brésilienne pour assurer la surveillance à moyenne altitude.",
+      "pays": [
+       "Brésil"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "industrie",
+   "titre": "Defence Industry & Contracts",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🚢",
+     "titre": "Fincantieri and Leonardo sign contract for third Italian Navy LSS",
+     "resume": "Fincantieri and Leonardo signed a contract amendment with OCCAR to construct a third Logistic Support Ship for the Italian Navy. The vessel expands naval logistics and fleet sustainment capabilities.",
+     "pourquoi": "",
+     "pays": [
+      "Italy"
+     ],
+     "region": "Europe",
+     "rubrique": "industrie",
+     "liens": [
+      {
+       "source": "Naval News",
+       "url": "https://www.navalnews.com/naval-news/2026/11/fincantieri-signs-contract-to-construct-the-3rd-lss-for-the-italian-navy/",
+       "titre": "Fincantieri signs contract to construct the 3rd LSS for the Italian Navy"
+      }
+     ],
+     "visuel": {
+      "nom": "Vulcano-class logistic support ship",
+      "description": "Italian class of replenishment tankers",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/USS_Gerald_R._Ford_%28CVN-78%29_steams_alongside_Italian_logistic_support_ship_Vulcano_%28A_5335%29_on_19_June_2023_in_the_Adriatic_Sea_-_2_-_cropped.jpg/960px-USS_Gerald_R._Ford_%28CVN-78%29_steams_alongside_Italian_logistic_support_ship_Vulcano_%28A_5335%29_on_19_June_2023_in_the_Adriatic_Sea_-_2_-_cropped.jpg",
+      "page": "https://en.wikipedia.org/wiki/Vulcano-class_logistic_support_ship",
+      "type": "platform"
+     },
+     "id": "2026-11-28|Fincantieri and Leonardo sign contract for third Italian Navy LSS",
+     "fr": {
+      "titre": "Fincantieri et Leonardo signent un contrat pour un troisième LSS de la marine italienne",
+      "resume": "Fincantieri et Leonardo ont signé un avenant au contrat avec l'OCCAr pour la construction d'un troisième bâtiment de soutien logistique (LSS) destiné à la marine italienne. Le navire renforcera les capacités de logistique navale et de soutien de la flotte.",
+      "pays": [
+       "Italie"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "ukraine",
+   "titre": "Ukraine / Russia",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🤝",
+     "titre": "Ukraine submits Black Sea ceasefire proposal to Moscow",
+     "resume": "Kyiv submitted a formal Black Sea ceasefire proposal to Russia aimed at securing commercial shipping lanes. Ukrainian officials are awaiting an official response from Moscow.",
+     "pourquoi": "",
+     "pays": [
+      "Ukraine",
+      "Russia"
+     ],
+     "region": "Russia-Ukraine",
+     "rubrique": "ukraine",
+     "liens": [
+      {
+       "source": "France 24",
+       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQXNRZXdNdVkybkZ1TXRQSlFzaXNXT2xNM252Xzg4TWpfUmVYUi1DVjhuREFHT1ZKbVdWNjc1U2pTUWJtZmRFeWtKa2Y1cFBXR1VZRGg4dHZ2NkxPSE80YTl1VG1rdnkyYW1OUFFDRUhzUGJnQzcxOEkxSlUxU0hXb19ZTjQxYmV6eUFCWUZZc24xMkJubE9BNFAxZlVuTXZTRG5OUGdlQTVmWVEyOEE?oc=5",
+       "titre": "Ukraine submits Black Sea ceasefire offer, awaits Russian response"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-28|Ukraine submits Black Sea ceasefire proposal to Moscow",
+     "fr": {
+      "titre": "L'Ukraine soumet à Moscou une proposition de cessez-le-feu en mer Noire",
+      "resume": "Kiev a soumis à la Russie une proposition formelle de cessez-le-feu en mer Noire visant à sécuriser les voies de navigation commerciale. Les responsables ukrainiens attendent une réponse officielle de Moscou.",
+      "pays": [
+       "Ukraine",
+       "Russie"
+      ]
+     }
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "⚠️",
+     "titre": "Ukrainian strikes hit synthetic rubber plant and Rostov refinery in Russia",
+     "resume": "Ukrainian forces conducted drone strikes targeting the Yefremov synthetic rubber plant in Tula region. Additional strikes hit fuel storage tanks at the Novoshakhtinsk oil refinery in Rostov.",
+     "pourquoi": "",
+     "pays": [
+      "Ukraine",
+      "Russia"
+     ],
+     "region": "Russia-Ukraine",
+     "rubrique": "ukraine",
+     "liens": [
+      {
+       "source": "Le Monde International",
+       "url": "https://www.lemonde.fr/international/live/2026/11/27/en-direct-guerre-en-ukraine-l-armee-ukrainienne-revendique-le-bombardement-d-une-usine-strategique-et-la-destruction-de-reservoirs-dans-une-raffinerie-en-russie_6814183_3210.html",
+       "titre": "EN DIRECT, guerre en Ukraine : l’armée ukrainienne revendique le bombardement d’une « usine stratégique » et la destruction de réservoirs dans une raffinerie en Russie"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-28|Ukrainian strikes hit synthetic rubber plant and Rostov refinery in Russia",
+     "fr": {
+      "titre": "Des frappes ukrainiennes touchent une usine de caoutchouc synthétique et la raffinerie de Rostov en Russie",
+      "resume": "Les forces ukrainiennes ont mené des attaques par drones ciblant l'usine de caoutchouc synthétique d'Efremov, dans la région de Toula. D'autres frappes ont touché des réservoirs de stockage de carburant à la raffinerie de pétrole de Novochakhtinsk, dans la région de Rostov.",
+      "pays": [
+       "Ukraine",
+       "Russie"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "moyen_orient",
+   "titre": "Middle East",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "⚠️",
+     "titre": "MSF clinic in Gaza struck by Israeli air strike killing two staff",
+     "resume": "An Israeli strike hit a Doctors Without Borders clinic in Gaza, killing two watchmen. MSF condemned the direct attack while Israeli forces claimed the guards were militants.",
+     "pourquoi": "",
+     "pays": [
+      "Israel",
+      "Palestine"
+     ],
+     "region": "Middle East",
+     "rubrique": "moyen_orient",
+     "liens": [
+      {
+       "source": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/28/israeli-strike-on-doctors-without-borders-clinic-in-gaza-kills-two-staff?traffic_source=rss",
+       "titre": "Israeli strike on Doctors Without Borders clinic in Gaza kills two staff"
+      },
+      {
+       "source": "Le Monde International",
+       "url": "https://www.lemonde.fr/international/article/2026/11/28/gaza-l-armee-israelienne-tue-deux-employes-de-medecins-sans-frontieres-qu-elle-qualifie-de-terroristes_6816022_3210.html",
+       "titre": "Gaza : l’armée israélienne tue deux employés de Médecins sans frontières, qu’elle qualifie de « terroristes »"
+      },
+      {
+       "source": "Al-Monitor",
+       "url": "https://www.al-monitor.com/originals/2026/11/israeli-strike-kills-two-doctors-without-borders-staff-gaza",
+       "titre": "Israeli strike kills two Doctors Without Borders staff in Gaza"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-28|MSF clinic in Gaza struck by Israeli air strike killing two staff",
+     "fr": {
+      "titre": "Une clinique de MSF à Gaza touchée par une frappe aérienne israélienne, deux employés tués",
+      "resume": "Une frappe israélienne a touché une clinique de Médecins sans frontières (MSF) à Gaza, tuant deux gardiens. MSF a condamné cette attaque directe, tandis que les forces israéliennes ont affirmé que les gardiens étaient des militants.",
+      "pays": [
+       "Israël",
+       "Palestine"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "europe",
+   "titre": "Europe",
+   "items": [
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "🛩️",
+     "titre": "NATO scrambles fighters as drone enters Latvian airspace from Russia",
+     "resume": "NATO air command scrambled fighter aircraft after an uncrewed aerial vehicle briefly violated Latvian airspace near the Russian border. Latvian authorities and NATO are investigating the origin.",
+     "pourquoi": "",
+     "pays": [
+      "Latvia",
+      "Russia"
+     ],
+     "region": "Europe",
+     "rubrique": "europe",
+     "liens": [
+      {
+       "source": "Malay Mail",
+       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZDg4MV9YdmUwOFBTVTl4Sl9kNC1uY3ZjYmkzYS1SWGVTT01DTXUyU1l0eTJiVUo0bHhtSTVBamFZWGZwY2tsV1hkLUhncm5fVllJeTBRMzBORUJXU2pyZUVRckZuRzg2QWVJc1B5S1VKSEJwbGx6TERJQUZVOTlWWHRCTnlSaTJtelZ1U0F2aXFFdUtCMHlBMlBOZWVNT0ZwYjNBMmhkdl9OdDlyRThIc0xwZVpvNjhFZnRadUx0U3ZhOHMyempUZFNB0gHPAUFVX3lxTE51VTJnT2VlUFZvdDdxb0hBUjVDdXYwbEtZbDd2alU4cExmY2llZWJUV21peHViaE5Mb203Y0RRZVUwX3M4NGNzTlFFTmJ5cjkzNWxKdGZzNzAxeDh2Q01qbENjbDZNallBNWlzaEY3dWFVb3FoTlk3VHp1YVpLNVlyNWR0VXhqZW8yQ09NdDJVOUliYVUzSjVCU3dXR1BqOEZTNnM0ZGJuVS0xZ2J2azAwU3dfdGZNZUJpT0F3WVk2emdQRmw1eTRCTGM1VXlHYw?oc=5",
+       "titre": "Nato scrambles fighter jets after drone enters Latvian airspace near Russia"
+      },
+      {
+       "source": "Euronews.com",
+       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPakhIM2UtNEVGc1Z1dEFJNFBvVmZIYXQ5Y0Q3VVJudEZKQVN6ODhjQTVFYlVGVXhGWXFYdUVUS2xKZ1lOeE9fUDBMV19CNlAyenVvZmtPS0VDa0NfNHBVZldNb1YyalBFc0daTkNPbEZBR25pTUg0WjROZVlFTTZ6T19McW1ZRDlIU1ZMdDM5cjdiRkVSMmY0d3lRc0VaUEts?oc=5",
+       "titre": "NATO jets scrambled after drone briefly enters Latvian airspace"
+      },
+      {
+       "source": "Le Figaro",
+       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTGZPUWlsdTJDN0Fzd2ZpaGswRkRjdFQ4REtsWjdpWjVzemhNNzdsal81M3VDVnV1V0JYMDJwd0ZDQ3FZSm4xUDh3NDRZbkJmWmtXblJWWS1XZmZYWnZjMHZqTEVQV2pqN1hLbWhYbFlDbmJVUWhrMU9NM2g3QnF6QXV3NTJHeFVjVzhUNjg3bkdiWElocXlKU0J6bkNvRDJyQmp1eFRjYnBuYnNULXBnZEg5Tl8?oc=5",
+       "titre": "Lettonie : l’Otan mobilise ses chasseurs après l’incursion d’un drone"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-28|NATO scrambles fighters as drone enters Latvian airspace from Russia",
+     "fr": {
+      "titre": "L'OTAN fait décoller des chasseurs en urgence après l'entrée d'un drone dans l'espace aérien letton depuis la Russie",
+      "resume": "Le commandement aérien de l'OTAN a fait décoller des avions de chasse en urgence après qu'un véhicule aérien non habité a brièvement violé l'espace aérien letton près de la frontière russe. Les autorités lettonnes et l'OTAN enquêtent sur son origine.",
+      "pays": [
+       "Lettonie",
+       "Russie"
+      ]
+     }
+    },
+    {
+     "suite": false,
+     "remplace": null,
+     "emoji": "💰",
+     "titre": "Poland signs $300 million deal with Palantir for military AI integration",
+     "resume": "Poland's Ministry of National Defence signed a $300 million contract with US software firm Palantir. The deal will integrate artificial intelligence tools into Polish armed forces command structures.",
+     "pourquoi": "",
+     "pays": [
+      "Poland",
+      "United States"
+     ],
+     "region": "Europe",
+     "rubrique": "europe",
+     "liens": [
+      {
+       "source": "Le Monde International",
+       "url": "https://www.lemonde.fr/international/article/2026/11/27/en-pologne-l-armee-choisit-l-ia-de-palantir-pour-l-aide-a-la-decision_6815890_3210.html",
+       "titre": "Pologne : l’armée annonce qu’elle utilisera l’IA de l’entreprise américaine Palantir"
+      },
+      {
+       "source": "POLITICO.eu",
+       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMEhiX0RwcFF0TWFLSDNoRXUyUDJyZUxrNTl2UG5xU1JZWEg3alAtZUU3RkpSeHhValN0bjZLc2t3TnBDYmFyanVhRHlTSkVxYkNXM2h1azB2Wk8xei11SVBzSkF3MU42QXlSSElybG9tLTNzSHpJZlBLaWQwOUFpdnd5MFhkYlhVcl9qcnJ1cEUxTG85Q0p4dGdlTXdnTVpHNVJDZklTUQ?oc=5",
+       "titre": "We’d be ‘stupid’ not to: Poland defends $300M military AI deal with Palantir"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-28|Poland signs $300 million deal with Palantir for military AI integration",
+     "fr": {
+      "titre": "La Pologne signe un contrat de 300 millions de dollars avec Palantir pour l'intégration de l'IA militaire",
+      "resume": "Le ministère de la Défense nationale polonais a signé un contrat de 300 millions de dollars avec l'éditeur de logiciels américain Palantir. Cet accord permettra d'intégrer des outils d'intelligence artificielle dans les structures de commandement des forces armées polonaises.",
+      "pays": [
+       "Pologne",
+       "États-Unis"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "tech",
+   "titre": "Emerging Tech",
+   "items": [
+    {
+     "suite": true,
+     "remplace": "2026-11-26|US Army fully fields first Dark Eagle hypersonic battery",
+     "emoji": "🚀",
+     "titre": "US Army Dark Eagle Hypersonic Battery declared ready for combat",
+     "resume": "The US Army announced its first operational Dark Eagle hypersonic missile battery is ready for combat deployment. The system provides long-range precision hypersonic strike capabilities.",
+     "pourquoi": "",
+     "pays": [
+      "United States"
+     ],
+     "region": "Americas",
+     "rubrique": "tech",
+     "liens": [
+      {
+       "source": "동아일보",
+       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAycE9OZW5CTmoyTjNPUnBWdUJZSEFtdHB0Y1lGM01VekpZd01leTZqVC1RV3R4YU5IZ1dIcHgzNWFFRkJsZmxPSWFSOFZMSnVmcHYzV0toTGtFN2Ewbjl2blBUTXpsQQ?oc=5",
+       "titre": "U.S. Army deploys first operational Dark Eagle battery"
+      },
+      {
+       "source": "Defence Industry Europe",
+       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaUJDa2NLcW9HXzJOdFJmM3FXMlpUak9sN054UFQxNFl2c3hzYW9uUU1ub19OaWpIWGlPYUVqaFppdE51T2x6SnlLZVZoOFp5SW9adTZxOU5zYmxRblRLUGk5MG1leVZYb3hzWnBTbkFzVnZmMlhsTEN1aGhqdnZwRjNWamwtYjZvOVBUcTZ0RGtVV1VZRjQzQXdjWTlaeFhMT1lyVTZFdTQzZw?oc=5",
+       "titre": "U.S. Army says first Dark Eagle hypersonic missile battery is ready for combat"
+      }
+     ],
+     "visuel": {
+      "nom": "Long-Range Hypersonic Weapon",
+      "description": "U.S. Army prototype missile",
+      "image": "https://thumb.wikimedia.org/wikipedia/en/thumb/c/c4/LRHWfirstThunderBoltStrike.jpg/960px-LRHWfirstThunderBoltStrike.jpg",
+      "page": "https://en.wikipedia.org/wiki/Long-Range_Hypersonic_Weapon",
+      "type": "platform"
+     },
+     "id": "2026-11-28|US Army Dark Eagle Hypersonic Battery declared ready for combat",
+     "fr": {
+      "titre": "La première batterie hypersonique Dark Eagle de l'US Army déclarée prête au combat",
+      "resume": "L'US Army a annoncé que sa première batterie opérationnelle de missiles hypersoniques Dark Eagle est prête à être déployée au combat. Le système offre des capacités de frappe hypersonique de précision à longue portée.",
+      "pays": [
+       "États-Unis"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "economie",
+   "titre": "Economy & Sanctions",
+   "items": [
+    {
+     "suite": true,
+     "remplace": "2026-11-27|US widens AI chip restrictions across South-East Asia",
+     "emoji": "💰",
+     "titre": "US chip export restrictions prompt Chinese AI firms to adopt domestic silicon",
+     "resume": "Tighter US export controls on advanced AI chips are pushing Chinese technology firms to accelerate adoption of domestic hardware. Huawei is expanding supply of its alternative AI processor series.",
+     "pourquoi": "",
+     "pays": [
+      "United States",
+      "China"
+     ],
+     "region": "Global",
+     "rubrique": "economie",
+     "liens": [
+      {
+       "source": "Straits Times Asie",
+       "url": "https://www.straitstimes.com/asia/east-asia/huawei-is-becoming-more-indispensable-for-chinas-ai",
+       "titre": "Huawei is becoming more indispensable for China’s AI"
+      },
+      {
+       "source": "조선일보",
+       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTGw2ZEdLeHQzUzZiUnlXc1FWX19yS1ktNVR6bWRtcE1HUW5YVGdBNUh1RmpzNzd0T2RsakVBMXNUNlBoOE1pOFY3SW5vWFNsZ1pITUFtZ05ucldNRFY5TlJrTmxrQTFZVnh4c0VibnBVMVZOVTdMa1FYWmY5QWVqT3NBREYtTzlr?oc=5",
+       "titre": "Huawei Advances AI Semiconductor Trio Amid U.S. Sanctions"
+      },
+      {
+       "source": "Chosunbiz",
+       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1VSWg0SFc3UFJILXY0ZDN4UkRyZDFGcHBnbVctWGtHT1diQVBlZW5zamJlQkRtY3V0REtJSkE4Ym5rTUpxTG13QkJIR0lsNjlLYzVkaTZaQUZhUno3WjVNNkVONG9oTTJWeXp6U0syRmw2SWs3QU1LQUNB0gGOAUFVX3lxTE5IaENxZ1ZKaHZGNGlyckFYdGMtbHE1UlRVdnpUNHMzWXZQcmVOaTRmNWdaSTdUbmZHTWV6QnJ3ZndfVlMzZ2o3ZUVaR2RGenE1ejlXeWFqRzA2aWJLODZrLUVfVU56MU1KMGFiSHRKMTdhS3YycGd3a2VIU2JubVBjbHoxMnU1Z0p6S2FWZnc?oc=5",
+       "titre": "Huawei builds AI chip business as US sanctions spur self-reliance"
+      }
+     ],
+     "visuel": null,
+     "id": "2026-11-28|US chip export restrictions prompt Chinese AI firms to adopt domestic silicon",
+     "fr": {
+      "titre": "Les restrictions américaines sur l'exportation de puces incitent les entreprises chinoises d'IA à adopter des puces nationales",
+      "resume": "Le durcissement des contrôles à l'exportation américains sur les puces d'IA avancées pousse les entreprises technologiques chinoises à accélérer l'adoption de composants nationaux. Huawei augmente l'offre de sa gamme alternative de processeurs d'IA.",
+      "pays": [
+       "États-Unis",
+       "Chine"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "a_surveiller": [
+  {
+   "quand": "November 30",
+   "quoi": "Trial of former Philippine President Rodrigo Duterte begins at the International Criminal Court in The Hague",
+   "liens": [
+    {
+     "source": "Straits Times Asie",
+     "url": "https://www.straitstimes.com/asia/explainer-rodrigo-dutertes-icc-trial-what-to-know",
+     "titre": "Explainer-Rodrigo Duterte's ICC trial: What to know"
+    }
+   ]
+  },
+  {
+   "quand": "November 30",
+   "quoi": "Indian Parliament convenes special session to vote on expanding lower house seats by 50%",
+   "liens": [
+    {
+     "source": "Straits Times Asie",
+     "url": "https://www.straitstimes.com/asia/south-asia/modis-government-to-revive-plan-to-expand-indias-parliament",
+     "titre": "Modi’s government to revive plan to expand India’s Parliament"
+    }
+   ]
+  },
+  {
+   "quand": "December 16",
+   "quoi": "Malaysia and Singapore begin dry run for integrated immigration system at Woodlands RTS station",
+   "liens": [
+    {
+     "source": "Straits Times Asie",
+     "url": "https://www.straitstimes.com/asia/se-asia/dry-run-for-malaysias-integrated-immigration-system-to-begin-next-month",
+     "titre": "Dry run for Malaysia’s integrated immigration system to begin next month"
+    }
+   ]
+  }
+ ],
+ "hebdo": null,
+ "stats": {
+  "articles": 370,
+  "sources": 53
+ },
+ "fr": {
+  "accroche": [
+   "Taïwan vote lors d'élections locales sur fond de renforcement de l'activité militaire chinoise",
+   "La plateforme cloud de défense aérienne de l'US Air Force piratée",
+   "L'armée américaine neutralise un cargo tentant de violer le blocus contre l'Iran"
+  ],
+  "a_surveiller": [
+   {
+    "quand": "30 novembre",
+    "quoi": "Ouverture à La Haye du procès de l'ancien président philippin Rodrigo Duterte devant la Cour pénale internationale"
+   },
+   {
+    "quand": "30 novembre",
+    "quoi": "Le Parlement indien se réunit en session extraordinaire pour voter sur l'augmentation de 50 % des sièges à la chambre basse"
+   },
+   {
+    "quand": "16 décembre",
+    "quoi": "La Malaisie et Singapour lancent un essai à blanc du système d'immigration intégré à la station RTS de Woodlands"
+   }
+  ]
+ }
+}
